@@ -1,6 +1,6 @@
-import { Apple, Play } from "lucide-react";
 import appMockup1 from "@/assets/app-mockup-1.png";
 import appMockup2 from "@/assets/app-mockup-2.png";
+import WaitlistForm from "./WaitlistForm";
 
 const HeroSection = () => {
   return (
@@ -14,7 +14,7 @@ const HeroSection = () => {
           <div className="max-w-xl animate-fade-up">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-6">
               <span className="w-2 h-2 rounded-full bg-primary animate-pulse-slow" />
-              <span className="text-sm font-medium text-primary">Now Available on iOS & Android</span>
+              <span className="text-sm font-medium text-primary">Coming Soon</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
@@ -26,28 +26,12 @@ const HeroSection = () => {
               Get expert-level workout plans, personalized guidance, and 24/7 support from your AI trainer — all for a fraction of the cost of a human trainer.
             </p>
 
-            {/* App Store Buttons */}
-            <div id="download" className="flex flex-col sm:flex-row gap-4">
-              <a
-                href="#"
-                className="inline-flex items-center gap-3 px-6 py-4 rounded-xl bg-foreground text-background hover:bg-foreground/90 transition-all hover:scale-105 group"
-              >
-                <Apple className="w-7 h-7" />
-                <div className="text-left">
-                  <span className="text-xs opacity-70 block">Download on the</span>
-                  <span className="font-semibold">App Store</span>
-                </div>
-              </a>
-              <a
-                href="#"
-                className="inline-flex items-center gap-3 px-6 py-4 rounded-xl bg-secondary border border-border hover:bg-secondary/80 transition-all hover:scale-105 group"
-              >
-                <Play className="w-7 h-7 fill-current" />
-                <div className="text-left">
-                  <span className="text-xs opacity-70 block">Get it on</span>
-                  <span className="font-semibold">Google Play</span>
-                </div>
-              </a>
+            {/* Waitlist Form */}
+            <div id="waitlist">
+              <WaitlistForm />
+              <p className="text-sm text-muted-foreground mt-3">
+                Be the first to know when we launch. No spam, ever.
+              </p>
             </div>
           </div>
 
