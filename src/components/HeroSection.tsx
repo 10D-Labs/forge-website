@@ -1,10 +1,8 @@
 import appMockup1 from "@/assets/app-mockup-1.png";
 import appMockup2 from "@/assets/app-mockup-2.png";
 import WaitlistForm from "./WaitlistForm";
-
 const HeroSection = () => {
-  return (
-    <section className="relative min-h-screen flex items-center pt-20 overflow-hidden bg-hero-gradient">
+  return <section className="relative min-h-screen flex items-center pt-20 overflow-hidden bg-hero-gradient">
       {/* Background glow effect */}
       <div className="absolute inset-0 bg-blue-glow opacity-50" />
       
@@ -29,9 +27,7 @@ const HeroSection = () => {
             {/* Waitlist Form */}
             <div id="waitlist">
               <WaitlistForm />
-              <p className="text-sm text-muted-foreground mt-3">
-                Be the first to know when we launch. No spam, ever.
-              </p>
+              <p className="text-sm text-muted-foreground mt-3">Be the first to know when we launch.</p>
             </div>
           </div>
 
@@ -40,27 +36,17 @@ const HeroSection = () => {
             <div className="relative">
               {/* Primary phone */}
               <div className="relative z-20 animate-float">
-                <img
-                  src={appMockup1}
-                  alt="Forge App - Workout Tracking"
-                  className="w-64 md:w-72 lg:w-80 rounded-3xl shadow-2xl glow-blue"
-                />
+                <img src={appMockup1} alt="Forge App - Workout Tracking" className="w-64 md:w-72 lg:w-80 rounded-3xl shadow-2xl glow-blue" />
               </div>
               
               {/* Secondary phone */}
               <div className="absolute -right-12 md:-right-20 top-16 md:top-24 z-10 animate-float-delayed">
-                <img
-                  src={appMockup2}
-                  alt="Forge App - AI Chat"
-                  className="w-52 md:w-60 lg:w-64 rounded-3xl shadow-xl opacity-80"
-                />
+                <img src={appMockup2} alt="Forge App - AI Chat" className="w-52 md:w-60 lg:w-64 rounded-3xl shadow-xl opacity-80" />
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default HeroSection;
