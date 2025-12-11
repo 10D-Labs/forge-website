@@ -1,15 +1,30 @@
+import { useEffect, useState } from "react";
 import appMockup1 from "@/assets/app-mockup-1.png";
 import appMockup2 from "@/assets/app-mockup-2.png";
 import WaitlistForm from "./WaitlistForm";
+
 const HeroSection = () => {
-  return <section className="relative min-h-screen flex items-center pt-20 overflow-hidden bg-hero-gradient">
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    // Trigger animation after mount
+    const timer = setTimeout(() => setIsVisible(true), 100);
+    return () => clearTimeout(timer);
+  }, []);
+
+  return (
+    <section className="relative min-h-screen flex items-center pt-20 overflow-hidden bg-hero-gradient">
       {/* Background glow effect */}
       <div className="absolute inset-0 bg-blue-glow opacity-50" />
-      
+
       <div className="container relative z-10 py-16 md:py-24">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
           {/* Text Content */}
-          <div className="max-w-xl animate-fade-up">
+          <div
+            className={`max-w-xl transition-all duration-700 ease-out ${
+              isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
+            }`}
+          >
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-6">
               <span className="w-2 h-2 rounded-full bg-primary animate-pulse-slow" />
               <span className="text-sm font-medium text-primary">Coming Soon</span>
@@ -35,18 +50,28 @@ const HeroSection = () => {
           <div className="relative flex justify-center lg:justify-end">
             <div className="relative">
               {/* Primary phone */}
-              <div className="relative z-20 animate-float">
+              <div
+                className={`relative z-20 animate-float transition-all duration-700 ease-out delay-300 ${
+                  isVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-12"
+                }`}
+              >
                 <img src={appMockup1} alt="Forge App - Workout Tracking" className="w-64 md:w-72 lg:w-80 rounded-3xl shadow-2xl glow-blue" />
               </div>
-              
+
               {/* Secondary phone */}
-              <div className="absolute -right-12 md:-right-20 top-16 md:top-24 z-10 animate-float-delayed">
-                <img src={appMockup2} alt="Forge App - AI Chat" className="w-52 md:w-60 lg:w-64 rounded-3xl shadow-xl opacity-80" />
+              <div
+                className={`absolute -right-12 md:-right-20 top-16 md:top-24 z-10 animate-float-delayed transition-all duration-700 ease-out delay-500 ${
+                  isVisible ? "opacity-80 translate-x-0" : "opacity-0 translate-x-12"
+                }`}
+              >
+                <img src={appMockup2} alt="Forge App - AI Chat" className="w-52 md:w-60 lg:w-64 rounded-3xl shadow-xl" />
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>;
+    </section>
+  );
 };
+
 export default HeroSection;
