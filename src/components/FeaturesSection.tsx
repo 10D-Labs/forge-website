@@ -26,7 +26,7 @@ const features = [
   {
     icon: Library,
     title: "Huge Exercise Library",
-    description: "Access hundreds of exercises with detailed instructions and video demonstrations.",
+    description: "Access hundreds of exercises with detailed instructions and demonstrations.",
   },
   {
     icon: Dumbbell,
