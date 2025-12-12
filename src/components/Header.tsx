@@ -55,33 +55,35 @@ const Header = () => {
       </div>
 
       {/* Mobile Navigation */}
-      {isMenuOpen && (
-        <div className="sm:hidden bg-background border-t border-border/50">
-          <nav className="container py-4 flex flex-col gap-4">
-            {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                to={link.href}
-                onClick={closeMenu}
-                className={`text-sm font-medium transition-colors hover:text-primary ${
-                  location.pathname === link.href
-                    ? "text-primary"
-                    : "text-muted-foreground"
-                }`}
-              >
-                {link.label}
-              </Link>
-            ))}
-            <a
-              href="#waitlist"
+      <div 
+        className={`sm:hidden bg-background border-t border-border/50 overflow-hidden transition-all duration-300 ease-out ${
+          isMenuOpen ? "max-h-60 opacity-100" : "max-h-0 opacity-0"
+        }`}
+      >
+        <nav className="container py-4 flex flex-col gap-4">
+          {navLinks.map((link) => (
+            <Link
+              key={link.href}
+              to={link.href}
               onClick={closeMenu}
-              className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all w-full"
+              className={`text-sm font-medium transition-colors hover:text-primary ${
+                location.pathname === link.href
+                  ? "text-primary"
+                  : "text-muted-foreground"
+              }`}
             >
-              Join Waitlist
-            </a>
-          </nav>
-        </div>
-      )}
+              {link.label}
+            </Link>
+          ))}
+          <a
+            href="#waitlist"
+            onClick={closeMenu}
+            className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all w-full"
+          >
+            Join Waitlist
+          </a>
+        </nav>
+      </div>
     </header>
   );
 };
