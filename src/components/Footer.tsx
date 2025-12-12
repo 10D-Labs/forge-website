@@ -44,7 +44,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <a href="#features" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                <a href="/#features" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                   Features
                 </a>
               </li>
