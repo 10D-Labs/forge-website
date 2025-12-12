@@ -12,7 +12,7 @@ const features = [
   {
     icon: ClipboardList,
     title: "Custom Workout Plans",
-    description: "AI-designed programs tailored to your goals, fitness level, and schedule.",
+    description: "Personalized workouts",
   },
   {
     icon: MessageCircle,
