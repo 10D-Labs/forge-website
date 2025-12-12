@@ -13,7 +13,7 @@ const ProblemSection = () => {
     ref: solutionRef,
     isVisible: solutionVisible
   } = useScrollAnimation(0.1);
-  const problems = ["Personal trainers cost $50-150+ per session", "Limited availability and scheduling conflicts", "Inconsistent quality and workout plans", "No 24/7 support when you have questions"];
+  const problems = ["Personal trainers cost hundreds of dollars per month", "Limited availability and scheduling conflicts", "Inconsistent quality and workout plans", "No 24/7 support when you have questions"];
   const solutions = ["Unlimited AI training for one low monthly price", "Available 24/7, whenever you want to train", "Consistently optimized, science-backed workouts", "Instant answers to any fitness question"];
   return <section className="py-20 md:py-28 bg-background">
       <div className="container">
