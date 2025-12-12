@@ -48,11 +48,6 @@ const Footer = () => {
                   Features
                 </a>
               </li>
-              <li>
-                <a href="#download" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Download
-                </a>
-              </li>
             </ul>
           </div>
 
