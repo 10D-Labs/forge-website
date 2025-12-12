@@ -1,18 +1,11 @@
-import { 
-  Dumbbell, 
-  MessageCircle, 
-  BarChart3, 
-  Users, 
-  ClipboardList, 
-  Library 
-} from "lucide-react";
+import { Dumbbell, MessageCircle, BarChart3, Users, ClipboardList, Library } from "lucide-react";
 import FeatureCard from "./FeatureCard";
 
 const features = [
   {
     icon: ClipboardList,
     title: "Custom Workout Plans",
-    description: "Personalized workouts",
+    description: "Personalized workouts tailored to your goals, fitness level, and schedule",
   },
   {
     icon: MessageCircle,
@@ -32,7 +25,7 @@ const features = [
   {
     icon: Dumbbell,
     title: "Smart Workout Log",
-    description: "Track every set, rep, and weight. Your AI learns and adapts as you progress.",
+    description: "Track every set, rep, and weight. Your trainer adapts future workouts based on your progress.",
   },
   {
     icon: BarChart3,
@@ -52,7 +45,8 @@ const FeaturesSection = () => {
             <span className="text-gradient"> Train Smarter</span>
           </h2>
           <p className="text-muted-foreground text-lg">
-            Forge combines cutting-edge AI with proven training principles to give you a personal trainer that's always available.
+            Forge combines cutting-edge AI with proven training principles to give you a personal trainer that's always
+            available.
           </p>
         </div>
 
