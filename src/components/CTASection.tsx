@@ -21,7 +21,8 @@ const CTASection = () => {
             <span className="text-gradient block">Fitness Journey?</span>
           </h2>
           <p className="text-lg text-muted-foreground mb-10 max-w-xl mx-auto">
-            Join the waitlist to be the first to experience your personalized AI trainer. Start training smarter, not harder.
+            Join the waitlist to be the first to experience the future of personal trainers. Start training smarter, not
+            harder.
           </p>
 
           {/* Waitlist Form */}
