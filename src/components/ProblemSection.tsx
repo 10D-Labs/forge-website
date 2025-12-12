@@ -69,7 +69,7 @@ const ProblemSection = () => {
               <span className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center">
                 <Check className="w-4 h-4 text-primary" />
               </span>
-              Forge AI Trainer
+              Forge AI Trainers
             </h3>
             <ul className="space-y-4">
               {solutions.map((solution, index) => (
