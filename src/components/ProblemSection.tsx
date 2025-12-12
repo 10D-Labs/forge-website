@@ -31,7 +31,7 @@ const ProblemSection = () => {
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
             The Problem With
-            <span className="text-gradient"> Traditional Training</span>
+            <span className="text-gradient block">Traditional Training</span>
           </h2>
           <p className="text-muted-foreground text-lg">
             Personal training is effective, but it's expensive and inconvenient. Forge changes that.
