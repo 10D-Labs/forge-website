@@ -18,7 +18,7 @@ const CTASection = () => {
         >
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
             Ready to Transform Your
-            <span className="text-gradient"> Fitness Journey?</span>
+            <span className="text-gradient block">Fitness Journey?</span>
           </h2>
           <p className="text-lg text-muted-foreground mb-10 max-w-xl mx-auto">
             Join the waitlist to be the first to experience your personalized AI trainer. Start training smarter, not harder.
