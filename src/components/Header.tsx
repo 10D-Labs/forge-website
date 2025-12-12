@@ -31,10 +31,10 @@ const Header = () => {
             </Link>
           ))}
           <a
-            href="#download"
+            href="#waitlist"
             className="hidden sm:inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all hover:scale-105"
           >
-            Get the App
+            Join Waitlist
           </a>
         </nav>
       </div>
