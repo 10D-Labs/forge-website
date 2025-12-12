@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
-import appMockup1 from "@/assets/app-mockup-1.png";
-import appMockup2 from "@/assets/app-mockup-2.png";
+import appMockup from "@/assets/app-mockup-hero.png";
 import WaitlistForm from "./WaitlistForm";
 
 const HeroSection = () => {
@@ -46,26 +45,18 @@ const HeroSection = () => {
             </div>
           </div>
 
-          {/* App Mockups */}
+          {/* App Mockup */}
           <div className="relative flex justify-center lg:justify-end">
-            <div className="relative">
-              {/* Primary phone */}
-              <div
-                className={`relative z-20 animate-float transition-all duration-700 ease-out delay-300 ${
-                  isVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-12"
-                }`}
-              >
-                <img src={appMockup1} alt="Forge App - Workout Tracking" className="w-64 md:w-72 lg:w-80 rounded-3xl shadow-2xl glow-blue" />
-              </div>
-
-              {/* Secondary phone */}
-              <div
-                className={`absolute -right-12 md:-right-20 top-16 md:top-24 z-10 animate-float-delayed transition-all duration-700 ease-out delay-500 ${
-                  isVisible ? "opacity-80 translate-x-0" : "opacity-0 translate-x-12"
-                }`}
-              >
-                <img src={appMockup2} alt="Forge App - AI Chat" className="w-52 md:w-60 lg:w-64 rounded-3xl shadow-xl" />
-              </div>
+            <div
+              className={`animate-float transition-all duration-700 ease-out delay-300 ${
+                isVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-12"
+              }`}
+            >
+              <img 
+                src={appMockup} 
+                alt="Forge App - Personal AI Trainer" 
+                className="w-72 md:w-80 lg:w-96 drop-shadow-2xl" 
+              />
             </div>
           </div>
         </div>
