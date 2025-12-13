@@ -100,7 +100,7 @@ const About = () => {
             <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               {founders.map((founder) => (
                 <div key={founder.name} className="p-8 rounded-2xl card-gradient border border-border/50 text-center">
-                  <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-2 border-primary/30">
+                  <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-primary/50">
                     <img src={founder.image} alt={founder.name} className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-xl font-semibold mb-1">{founder.name}</h3>
