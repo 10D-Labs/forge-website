@@ -24,7 +24,7 @@ const About = () => {
       <Header />
       <main className="pt-20">
         {/* Hero Section */}
-        <section className="py-20 md:py-28 bg-hero-gradient relative overflow-hidden">
+        <section className="py-12 md:py-16 bg-hero-gradient relative overflow-hidden">
           <div className="absolute inset-0 bg-blue-glow opacity-30" />
           <div className="container relative z-10">
             <div className="max-w-3xl mx-auto text-center">
@@ -40,7 +40,7 @@ const About = () => {
         </section>
 
         {/* Story Section */}
-        <section className="py-20 md:py-28 bg-forge-dark">
+        <section className="py-12 md:py-16 bg-forge-dark">
           <div className="container">
             <div className="max-w-3xl mx-auto">
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">
@@ -63,7 +63,7 @@ const About = () => {
         </section>
 
         {/* Solution Section */}
-        <section className="py-20 md:py-28 bg-background">
+        <section className="py-12 md:py-16 bg-background">
           <div className="container">
             <div className="max-w-3xl mx-auto">
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">
@@ -91,7 +91,7 @@ const About = () => {
         </section>
 
         {/* Founders Section */}
-        <section className="py-20 md:py-28 bg-forge-dark">
+        <section className="py-12 md:py-16 bg-forge-dark">
           <div className="container">
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
               Meet the <span className="text-gradient">Team</span>
@@ -113,7 +113,7 @@ const About = () => {
         </section>
 
         {/* Values Section */}
-        <section className="py-20 md:py-28 bg-background">
+        <section className="py-12 md:py-16 bg-background">
           <div className="container">
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold mb-12">
