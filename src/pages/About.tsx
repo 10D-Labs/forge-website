@@ -32,7 +32,8 @@ const About = () => {
                 Our <span className="text-gradient">Mission</span>
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-                Make the gym as simple and approachable as possible so that everyone can experience what it's like to grow. Life-changing transformation begins in the gym and expands outwards, improving our lives, and ultimately the world.
+                We believe everyone deserves access to quality fitness coaching. Personal training has always been a
+                luxury for the few — we're here to change that.
               </p>
             </div>
           </div>
@@ -45,13 +46,16 @@ const About = () => {
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">
                 The <span className="text-gradient">Mission</span>
               </h2>
-              
+
               <div className="space-y-6 text-muted-foreground text-lg leading-relaxed">
                 <p>
-                  Our mission is to help people be consistent with their physical fitness by making the process as simple as possible. With AI, everyone can have their own personal trainer for just a tiny fraction of the price charged by traditional trainers, without any constraints like time or location.
+                  Our mission is to help people be consistent with their physical fitness by making the process as
+                  simple as possible. With AI, everyone can have their own personal trainer for just a tiny fraction of
+                  the price charged by traditional trainers, without any constraints like time or location.
                 </p>
                 <p>
-                  Having a trainer is a monumental help for many people, and we are making it accessible to everyone. Our people desperately need to become strong and healthy, and with Forge, it has never been simpler.
+                  Having a trainer is a monumental help for many people, and we are making it accessible to everyone.
+                  Our people desperately need to become strong and healthy, and with Forge, it has never been simpler.
                 </p>
               </div>
             </div>
@@ -65,16 +69,21 @@ const About = () => {
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">
                 The <span className="text-gradient">Solution</span>
               </h2>
-              
+
               <div className="space-y-6 text-muted-foreground text-lg leading-relaxed">
                 <p>
-                  Forge was born after Jake started working with a personal trainer and saw firsthand just how impactful, and expensive, it was. Realizing that with AI trainers almost everyone could get most of the benefits for less than 5% of the cost, he got to work.
+                  Forge was born after Jake, the founder, started working with a personal trainer and saw firsthand just
+                  how impactful, and expensive, it was. Realizing that with AI trainers almost everyone could get most
+                  of the benefits for less than 5% of the cost, he got to work.
                 </p>
                 <p>
-                  Focusing on progress, accountability, and customizability, Forge is designed to make getting strong as frictionless as possible. Your personal trainer will adapt to your personality, create custom workouts for you based on your preferences, schedule, and progress, and keep you accountable.
+                  Focusing on progress, accountability, and customizability, Forge is designed to make getting strong as
+                  frictionless as possible. Your personal trainer will adapt to your personality, create custom workouts
+                  for you based on your preferences, schedule, and progress, and keep you accountable.
                 </p>
                 <p>
-                  With a trainer in their corner, anyone can get in the gym with confidence, and it is our hope that the health of modern society will begin to improve.
+                  With a trainer in their corner, anyone can get in the gym with confidence, and it is our hope that the
+                  health of modern society will begin to improve.
                 </p>
               </div>
             </div>
@@ -90,22 +99,13 @@ const About = () => {
 
             <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               {founders.map((founder) => (
-                <div
-                  key={founder.name}
-                  className="p-8 rounded-2xl card-gradient border border-border/50 text-center"
-                >
+                <div key={founder.name} className="p-8 rounded-2xl card-gradient border border-border/50 text-center">
                   <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-2 border-primary/30">
-                    <img
-                      src={founder.image}
-                      alt={founder.name}
-                      className="w-full h-full object-cover"
-                    />
+                    <img src={founder.image} alt={founder.name} className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-xl font-semibold mb-1">{founder.name}</h3>
                   <p className="text-primary text-sm font-medium mb-4">{founder.role}</p>
-                  <p className="text-muted-foreground text-sm leading-relaxed">
-                    {founder.bio}
-                  </p>
+                  <p className="text-muted-foreground text-sm leading-relaxed">{founder.bio}</p>
                 </div>
               ))}
             </div>
