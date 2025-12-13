@@ -6,16 +6,16 @@ import founder2 from "@/assets/founder-2.png";
 const About = () => {
   const founders = [
     {
-      name: "Alex Mitchell",
-      role: "Co-Founder & CEO",
+      name: "Jake",
+      role: "Founder",
       image: founder1,
-      bio: "Former personal trainer with 8+ years of experience. After seeing too many clients struggle to afford consistent training, Alex became obsessed with making expert fitness guidance accessible to everyone.",
+      bio: "After working with a personal trainer and seeing firsthand how impactful it was, Jake founded Forge to make personalized fitness coaching accessible to everyone through AI.",
     },
     {
-      name: "Jordan Chen",
-      role: "Co-Founder & CTO",
+      name: "Zachary",
+      role: "Co-Founder",
       image: founder2,
-      bio: "AI researcher and fitness enthusiast. Jordan combines his passion for machine learning with his love for fitness to build technology that truly understands and adapts to each user's unique journey.",
+      bio: "Fitness enthusiast and health propagandist, Zachary brings his marketing expertise and passion for health and wellness to help build the Forge experience.",
     },
   ];
 
@@ -32,7 +32,7 @@ const About = () => {
                 Our <span className="text-gradient">Mission</span>
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-                We believe everyone deserves access to quality fitness coaching. Personal training has always been a luxury for the few — we're here to change that.
+                Make the gym as simple and approachable as possible so that everyone can experience what it's like to grow. Life-changing transformation begins in the gym and expands outwards, improving our lives, and ultimately the world.
               </p>
             </div>
           </div>
@@ -43,21 +43,38 @@ const About = () => {
           <div className="container">
             <div className="max-w-3xl mx-auto">
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">
-                Why We Built <span className="text-gradient">Forge</span>
+                The <span className="text-gradient">Mission</span>
               </h2>
               
               <div className="space-y-6 text-muted-foreground text-lg leading-relaxed">
                 <p>
-                  The idea for Forge came from a simple observation: personal training works. People who work with trainers consistently see better results, stay more motivated, and learn proper form. But at $50-150 per session, it's out of reach for most people.
+                  Our mission is to help people be consistent with their physical fitness by making the process as simple as possible. With AI, everyone can have their own personal trainer for just a tiny fraction of the price charged by traditional trainers, without any constraints like time or location.
                 </p>
                 <p>
-                  We met at a gym in San Francisco. Alex was training clients between tech jobs, frustrated that he could only help so many people. Jordan was building AI systems for tech companies, frustrated that the technology wasn't being used to help everyday people.
+                  Having a trainer is a monumental help for many people, and we are making it accessible to everyone. Our people desperately need to become strong and healthy, and with Forge, it has never been simpler.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Solution Section */}
+        <section className="py-20 md:py-28 bg-background">
+          <div className="container">
+            <div className="max-w-3xl mx-auto">
+              <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">
+                The <span className="text-gradient">Solution</span>
+              </h2>
+              
+              <div className="space-y-6 text-muted-foreground text-lg leading-relaxed">
+                <p>
+                  Forge was born after Jake started working with a personal trainer and saw firsthand just how impactful, and expensive, it was. Realizing that with AI trainers almost everyone could get most of the benefits for less than 5% of the cost, he got to work.
                 </p>
                 <p>
-                  We started asking: what if we could combine years of personal training expertise with cutting-edge AI? What if we could create a trainer that learns your preferences, adapts to your schedule, and is always there when you need guidance?
+                  Focusing on progress, accountability, and customizability, Forge is designed to make getting strong as frictionless as possible. Your personal trainer will adapt to your personality, create custom workouts for you based on your preferences, schedule, and progress, and keep you accountable.
                 </p>
                 <p>
-                  After two years of development, thousands of beta users, and countless iterations, Forge is that vision realized. It's not about replacing human connection — it's about making expert fitness guidance accessible to everyone.
+                  With a trainer in their corner, anyone can get in the gym with confidence, and it is our hope that the health of modern society will begin to improve.
                 </p>
               </div>
             </div>
@@ -65,7 +82,7 @@ const About = () => {
         </section>
 
         {/* Founders Section */}
-        <section className="py-20 md:py-28 bg-background">
+        <section className="py-20 md:py-28 bg-forge-dark">
           <div className="container">
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
               Meet the <span className="text-gradient">Team</span>
@@ -96,7 +113,7 @@ const About = () => {
         </section>
 
         {/* Values Section */}
-        <section className="py-20 md:py-28 bg-forge-dark">
+        <section className="py-20 md:py-28 bg-background">
           <div className="container">
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold mb-12">
@@ -110,25 +127,25 @@ const About = () => {
                   </div>
                   <h3 className="font-semibold mb-2">Accessibility</h3>
                   <p className="text-muted-foreground text-sm">
-                    Quality fitness coaching should be available to everyone, not just the wealthy.
+                    Everyone deserves a personal trainer, regardless of budget or location.
                   </p>
                 </div>
                 <div>
                   <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-primary/10 flex items-center justify-center">
-                    <span className="text-2xl">🧠</span>
+                    <span className="text-2xl">🎯</span>
                   </div>
-                  <h3 className="font-semibold mb-2">Intelligence</h3>
+                  <h3 className="font-semibold mb-2">Simplicity</h3>
                   <p className="text-muted-foreground text-sm">
-                    Every recommendation is backed by sports science and adapts to your progress.
+                    Making the gym as approachable as possible so anyone can start their journey.
                   </p>
                 </div>
                 <div>
                   <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-primary/10 flex items-center justify-center">
-                    <span className="text-2xl">🤝</span>
+                    <span className="text-2xl">📈</span>
                   </div>
-                  <h3 className="font-semibold mb-2">Support</h3>
+                  <h3 className="font-semibold mb-2">Growth</h3>
                   <p className="text-muted-foreground text-sm">
-                    Your AI trainer is always there — no scheduling, no excuses.
+                    Transformation begins in the gym and expands outwards, improving lives.
                   </p>
                 </div>
               </div>
