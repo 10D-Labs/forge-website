@@ -55,7 +55,7 @@ const HeroSection = () => {
               <img 
                 src={appMockup} 
                 alt="Forge App - Personal AI Trainer" 
-                className="w-72 md:w-80 lg:w-96 drop-shadow-2xl" 
+                className="w-72 md:w-80 lg:w-96 drop-shadow-2xl rounded-3xl" 
               />
             </div>
           </div>
