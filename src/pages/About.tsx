@@ -1,6 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import founder1 from "@/assets/founder-1.png";
+import founderJake from "@/assets/founder-jake.png";
 import founderZachary from "@/assets/founder-zachary.png";
 
 const About = () => {
@@ -8,7 +8,7 @@ const About = () => {
     {
       name: "Jake",
       role: "Founder",
-      image: founder1,
+      image: founderJake,
       bio: "After working with a personal trainer and seeing firsthand how impactful it was, Jake founded Forge to make personalized fitness coaching accessible to everyone through AI.",
     },
     {
