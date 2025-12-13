@@ -53,10 +53,10 @@ const ProblemSection = () => {
                     transitionDelay: problemVisible ? `${index * 100 + 200}ms` : "0ms",
                   }}
                 >
-                  <span className="w-8 h-8 rounded-full bg-destructive/20 flex items-center justify-center shrink-0">
-                    <X className="w-4 h-4 text-destructive" />
+                  <span className="w-8 flex justify-center shrink-0 mt-0.5">
+                    <X className="w-5 h-5 text-destructive" />
                   </span>
-                  <span className="mt-1">{problem}</span>
+                  <span>{problem}</span>
                 </li>
               ))}
             </ul>
@@ -82,10 +82,10 @@ const ProblemSection = () => {
                     transitionDelay: solutionVisible ? `${index * 100 + 200}ms` : "0ms",
                   }}
                 >
-                  <span className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center shrink-0">
-                    <Check className="w-4 h-4 text-primary" />
+                  <span className="w-8 flex justify-center shrink-0 mt-0.5">
+                    <Check className="w-5 h-5 text-primary" />
                   </span>
-                  <span className="mt-1">{solution}</span>
+                  <span>{solution}</span>
                 </li>
               ))}
             </ul>
