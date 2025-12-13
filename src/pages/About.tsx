@@ -1,7 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import founder1 from "@/assets/founder-1.png";
-import founder2 from "@/assets/founder-2.png";
+import founderZachary from "@/assets/founder-zachary.png";
 
 const About = () => {
   const founders = [
@@ -14,7 +14,7 @@ const About = () => {
     {
       name: "Zachary",
       role: "Co-Founder",
-      image: founder2,
+      image: founderZachary,
       bio: "Fitness enthusiast and health propagandist, Zachary brings his marketing expertise and passion for health and wellness to help build the Forge experience.",
     },
   ];
