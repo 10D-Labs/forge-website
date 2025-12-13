@@ -38,6 +38,16 @@ const Header = () => {
           ))}
           <a
             href="#waitlist"
+            onClick={(e) => {
+              e.preventDefault();
+              const element = document.getElementById('waitlist');
+              if (element) {
+                const elementRect = element.getBoundingClientRect();
+                const absoluteElementTop = elementRect.top + window.pageYOffset;
+                const middle = absoluteElementTop - (window.innerHeight / 2) + (elementRect.height / 2);
+                window.scrollTo({ top: middle, behavior: 'smooth' });
+              }
+            }}
             className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all hover:scale-105"
           >
             Join Waitlist
@@ -77,7 +87,17 @@ const Header = () => {
           ))}
           <a
             href="#waitlist"
-            onClick={closeMenu}
+            onClick={(e) => {
+              e.preventDefault();
+              closeMenu();
+              const element = document.getElementById('waitlist');
+              if (element) {
+                const elementRect = element.getBoundingClientRect();
+                const absoluteElementTop = elementRect.top + window.pageYOffset;
+                const middle = absoluteElementTop - (window.innerHeight / 2) + (elementRect.height / 2);
+                window.scrollTo({ top: middle, behavior: 'smooth' });
+              }
+            }}
             className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all w-full"
           >
             Join Waitlist
