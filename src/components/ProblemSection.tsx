@@ -48,13 +48,15 @@ const ProblemSection = () => {
               {problems.map((problem, index) => (
                 <li
                   key={problem}
-                  className={`flex items-start gap-3 text-muted-foreground transition-all duration-500 ease-out ${problemVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-4"}`}
+                  className={`flex items-start gap-2 text-muted-foreground transition-all duration-500 ease-out ${problemVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-4"}`}
                   style={{
                     transitionDelay: problemVisible ? `${index * 100 + 200}ms` : "0ms",
                   }}
                 >
-                  <X className="w-5 h-5 text-destructive shrink-0 mt-0.5" />
-                  <span>{problem}</span>
+                  <span className="w-8 h-8 rounded-full bg-destructive/20 flex items-center justify-center shrink-0">
+                    <X className="w-4 h-4 text-destructive" />
+                  </span>
+                  <span className="mt-1">{problem}</span>
                 </li>
               ))}
             </ul>
@@ -75,13 +77,15 @@ const ProblemSection = () => {
               {solutions.map((solution, index) => (
                 <li
                   key={solution}
-                  className={`flex items-start gap-3 text-muted-foreground transition-all duration-500 ease-out ${solutionVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-4"}`}
+                  className={`flex items-start gap-2 text-muted-foreground transition-all duration-500 ease-out ${solutionVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-4"}`}
                   style={{
                     transitionDelay: solutionVisible ? `${index * 100 + 200}ms` : "0ms",
                   }}
                 >
-                  <Check className="w-5 h-5 text-primary shrink-0 mt-0.5" />
-                  <span>{solution}</span>
+                  <span className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center shrink-0">
+                    <Check className="w-4 h-4 text-primary" />
+                  </span>
+                  <span className="mt-1">{solution}</span>
                 </li>
               ))}
             </ul>
