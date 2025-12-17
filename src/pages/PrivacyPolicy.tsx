@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import DOMPurify from "dompurify";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
@@ -7,9 +8,30 @@ const PrivacyPolicy = () => {
 
   useEffect(() => {
     fetch("/privacy-policy-content.html")
-      .then((res) => res.text())
-      .then((html) => setContent(html))
-      .catch((err) => console.error("Failed to load privacy policy:", err));
+      .then((res) => {
+        if (!res.ok) throw new Error("Failed to load privacy policy");
+        return res.text();
+      })
+      .then((html) => {
+        // Sanitize HTML to prevent XSS attacks
+        const clean = DOMPurify.sanitize(html, {
+          ALLOWED_TAGS: [
+            'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'a', 'ul', 'ol', 'li', 
+            'strong', 'em', 'span', 'div', 'br', 'table', 'thead', 'tbody', 
+            'tr', 'th', 'td', 'style', 'bdt', 'img'
+          ],
+          ALLOWED_ATTR: [
+            'href', 'class', 'data-custom-class', 'style', 'id', 'target', 
+            'rel', 'src', 'alt'
+          ],
+          ALLOWED_URI_REGEXP: /^(?:https?:\/\/|mailto:|tel:|#)/i,
+        });
+        setContent(clean);
+      })
+      .catch((err) => {
+        console.error("Failed to load privacy policy:", err);
+        setContent("<p>Unable to load privacy policy. Please try again later.</p>");
+      });
   }, []);
 
   return (
