@@ -85,9 +85,9 @@ const Footer = () => {
             © {currentYear} Forge. All rights reserved.
           </p>
           <div className="flex gap-6">
-            <a href="#" className="text-xs text-muted-foreground hover:text-primary transition-colors">
+            <Link to="/privacy-policy" className="text-xs text-muted-foreground hover:text-primary transition-colors">
               Privacy Policy
-            </a>
+            </Link>
             <a href="#" className="text-xs text-muted-foreground hover:text-primary transition-colors">
               Terms of Service
             </a>
