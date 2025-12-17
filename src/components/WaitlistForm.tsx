@@ -2,6 +2,13 @@ import { useState } from "react";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 import { Mail } from "lucide-react";
+import { z } from "zod";
+
+const emailSchema = z.string()
+  .trim()
+  .min(1, "Please enter your email")
+  .email("Please enter a valid email address")
+  .max(255, "Email must be less than 255 characters");
 
 const WaitlistForm = () => {
   const [email, setEmail] = useState("");
@@ -10,8 +17,9 @@ const WaitlistForm = () => {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
-    if (!email) {
-      toast.error("Please enter your email");
+    const validation = emailSchema.safeParse(email);
+    if (!validation.success) {
+      toast.error(validation.error.errors[0].message);
       return;
     }
 
