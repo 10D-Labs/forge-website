@@ -18,6 +18,13 @@ export const blogPosts: BlogPostMeta[] = [
     date: "2025-12-18",
     excerpt: "Introducing Forge - your AI-powered personal fitness trainer that's changing the way people work out.",
     author: "The Forge Team"
+  },
+  {
+    slug: "why-do-we-need-personal-trainers".
+    title: "Why Do We Need Personal Trainers?".
+    date: "2025-12-18".
+    excerpt: "Breaking down the benefits of personal trainers and how Forge helps you succeed.".
+    author: "The Forge Team"
   }
   // Add more posts here in the format:
   // {
