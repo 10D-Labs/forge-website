@@ -5,8 +5,6 @@ excerpt: "Introducing Forge - your AI-powered personal fitness trainer that's ch
 author: "The Forge Team"
 ---
 
-# Welcome to Forge
-
 We're thrilled to introduce Forge, your AI-powered personal fitness trainer that's revolutionizing the way people approach fitness.
 
 ## Why We Built Forge
