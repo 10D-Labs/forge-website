@@ -42,7 +42,7 @@ const Blog = () => {
                       </span>
                       <span className="flex items-center gap-1">
                         <Calendar className="h-4 w-4" />
-                        {new Date(post.date).toLocaleDateString("en-US", {
+                        {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
                           year: "numeric",
                           month: "long",
                           day: "numeric"
