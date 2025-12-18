@@ -12,20 +12,6 @@ export interface BlogPostMeta {
 }
 
 export const blogPosts: BlogPostMeta[] = [
-  {
-    slug: "welcome-to-forge",
-    title: "Welcome to Forge",
-    date: "2025-12-18",
-    excerpt: "Introducing Forge - your AI-powered personal fitness trainer that's changing the way people work out.",
-    author: "The Forge Team"
-  },
-  {
-    slug: "why-do-we-need-personal-trainers",
-    title: "Why Do We Need Personal Trainers?",
-    date: "2025-12-18",
-    excerpt: "Breaking down the benefits of personal trainers and how Forge helps you succeed.",
-    author: "The Forge Team"
-  }
   // Add more posts here in the format:
   // {
   //   slug: "your-post-slug",
@@ -34,4 +20,18 @@ export const blogPosts: BlogPostMeta[] = [
   //   excerpt: "A brief description...",
   //   author: "Author Name"
   // }
+  {
+    slug: "why-do-we-need-personal-trainers",
+    title: "Why Do We Need Personal Trainers?",
+    date: "2025-12-18",
+    excerpt: "Breaking down the benefits of personal trainers and how Forge helps you succeed.",
+    author: "The Forge Team"
+  },
+  {
+    slug: "welcome-to-forge",
+    title: "Welcome to Forge",
+    date: "2025-12-17",
+    excerpt: "Introducing Forge - your AI-powered personal fitness trainer that's changing the way people work out.",
+    author: "The Forge Team"
+  }
 ];
