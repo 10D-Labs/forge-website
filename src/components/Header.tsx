@@ -11,6 +11,7 @@ const Header = () => {
   const navLinks = [
     { href: "/", label: "Home" },
     { href: "/about", label: "About Us" },
+    { href: "/blog", label: "Blog" },
   ];
 
   const closeMenu = () => setIsMenuOpen(false);
@@ -78,7 +79,7 @@ const Header = () => {
       {/* Mobile Navigation */}
       <div 
         className={`sm:hidden bg-background border-t border-border/50 overflow-hidden transition-all duration-300 ease-out ${
-          isMenuOpen ? "max-h-60 opacity-100" : "max-h-0 opacity-0"
+          isMenuOpen ? "max-h-72 opacity-100" : "max-h-0 opacity-0"
         }`}
       >
         <nav className="container py-4 flex flex-col gap-4">
