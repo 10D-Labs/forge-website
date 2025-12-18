@@ -25,17 +25,27 @@ const WaitlistForm = () => {
 
     setIsLoading(true);
     
-    const { error } = await supabase
-      .from("waitlist")
-      .insert({ email: email.toLowerCase().trim() });
+    const { data, error } = await supabase.functions.invoke("waitlist-signup", {
+      body: { email: email.toLowerCase().trim() },
+    });
 
     setIsLoading(false);
 
     if (error) {
-      if (error.code === "23505") {
-        toast.info("You're already on the waitlist!");
+      toast.error("Something went wrong. Please try again.");
+      return;
+    }
+
+    if (data?.error === "already_registered") {
+      toast.info("You're already on the waitlist!");
+      return;
+    }
+
+    if (data?.error) {
+      if (data.error.includes("Too many requests")) {
+        toast.error("Too many attempts. Please try again in an hour.");
       } else {
-        toast.error("Something went wrong. Please try again.");
+        toast.error(data.error);
       }
       return;
     }
