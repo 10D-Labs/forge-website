@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Forge"
-date: "2025-12-18"
+date: "2025-12-17"
 excerpt: "Introducing Forge - your AI-powered personal fitness trainer that's changing the way people work out."
 author: "The Forge Team"
 ---
