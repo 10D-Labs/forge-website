@@ -39,7 +39,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-lg border-b border-border/50">
       <div className="container flex items-center justify-between h-16 md:h-20">
         <Link to="/" className="flex items-center gap-2">
-          <img src={forgeLogo} alt="Forge" className="h-8 md:h-10 w-auto" />
+          <img src={forgeLogo} alt="Forge - AI Personal Trainer" className="h-8 md:h-10 w-auto" />
         </Link>
 
         {/* Desktop Navigation */}

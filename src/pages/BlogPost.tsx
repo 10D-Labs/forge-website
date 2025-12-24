@@ -4,6 +4,8 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import SEOHead from "@/components/SEOHead";
+import StructuredData from "@/components/StructuredData";
 import { blogPosts } from "@/content/blog";
 import { Calendar, User, ArrowLeft } from "lucide-react";
 
@@ -52,6 +54,34 @@ const BlogPost = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      {post && (
+        <>
+          <SEOHead
+            title={post.title}
+            description={post.excerpt}
+            canonicalPath={`/blog/${post.slug}`}
+            ogType="article"
+            publishedTime={post.date}
+            author={post.author}
+          />
+          <StructuredData
+            type="article"
+            title={post.title}
+            description={post.excerpt}
+            publishedTime={post.date}
+            author={post.author}
+            url={`https://forgetrainer.ai/blog/${post.slug}`}
+          />
+          <StructuredData
+            type="breadcrumb"
+            items={[
+              { name: "Home", url: "https://forgetrainer.ai" },
+              { name: "Blog", url: "https://forgetrainer.ai/blog" },
+              { name: post.title, url: `https://forgetrainer.ai/blog/${post.slug}` },
+            ]}
+          />
+        </>
+      )}
       <Header />
       <main className="pt-24 pb-16">
         <div className="container mx-auto px-4 max-w-3xl">

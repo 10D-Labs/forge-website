@@ -22,7 +22,7 @@ const Footer = () => {
           {/* Logo & Description */}
           <div className="md:col-span-2">
             <Link to="/" className="inline-block mb-4">
-              <img src={forgeLogo} alt="Forge" className="h-10 w-auto" />
+              <img src={forgeLogo} alt="Forge - AI Personal Trainer" className="h-10 w-auto" loading="lazy" />
             </Link>
             <p className="text-muted-foreground text-sm max-w-sm leading-relaxed">
               Your AI-powered personal trainer. Get custom workout plans, track your progress, and achieve your fitness goals — all for a fraction of the cost.
