@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import SEOHead from "@/components/SEOHead";
 import { blogPosts } from "@/content/blog";
 import { Calendar, User, ArrowRight } from "lucide-react";
 
@@ -11,6 +12,11 @@ const Blog = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <SEOHead
+        title="Blog - Fitness Tips & Updates"
+        description="Insights, updates, and tips from the Forge team. Learn about AI fitness training, workout strategies, and staying consistent with your fitness goals."
+        canonicalPath="/blog"
+      />
       <Header />
       <main className="pt-24 pb-16">
         <div className="container mx-auto px-4 max-w-4xl">

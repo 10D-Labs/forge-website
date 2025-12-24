@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import SEOHead from "@/components/SEOHead";
 import founderJake from "@/assets/founder-jake.png";
 import founderZachary from "@/assets/founder-zachary.png";
 
@@ -21,6 +22,11 @@ const About = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <SEOHead
+        title="About Us - Our Mission & Team"
+        description="Learn about Forge's mission to make personal training accessible to everyone through AI. Meet the team behind your AI fitness trainer."
+        canonicalPath="/about"
+      />
       <Header />
       <main className="pt-20">
         {/* Hero Section */}
@@ -101,7 +107,12 @@ const About = () => {
               {founders.map((founder) => (
                 <div key={founder.name} className="p-8 rounded-2xl card-gradient border border-border/50 text-center">
                   <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-primary/50">
-                    <img src={founder.image} alt={founder.name} className="w-full h-full object-cover" />
+                    <img 
+                      src={founder.image} 
+                      alt={`${founder.name} - ${founder.role} at Forge`} 
+                      className="w-full h-full object-cover"
+                      loading="lazy"
+                    />
                   </div>
                   <h3 className="text-xl font-semibold mb-1">{founder.name}</h3>
                   <p className="text-primary text-sm font-medium mb-4">{founder.role}</p>

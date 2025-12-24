@@ -54,8 +54,10 @@ const HeroSection = () => {
             >
               <img 
                 src={appMockup} 
-                alt="Forge App - Personal AI Trainer" 
+                alt="Forge App - Personal AI Fitness Trainer showing custom workout plans and progress tracking" 
                 className="w-60 md:w-64 lg:w-80 drop-shadow-2xl rounded-3xl" 
+                loading="eager"
+                fetchPriority="high"
               />
             </div>
           </div>
