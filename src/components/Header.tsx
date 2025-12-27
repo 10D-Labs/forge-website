@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import forgeLogo from "@/assets/forge-logo.png";
+import ThemeToggle from "./ThemeToggle";
 
 const Header = () => {
   const location = useLocation();
@@ -64,6 +65,7 @@ const Header = () => {
           >
             Join Waitlist
           </a>
+          <ThemeToggle />
         </nav>
 
         {/* Mobile Menu Button */}
@@ -97,16 +99,19 @@ const Header = () => {
               {link.label}
             </Link>
           ))}
-          <a
-            href="/#waitlist"
-            onClick={(e) => {
-              closeMenu();
-              handleWaitlistClick(e);
-            }}
-            className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all w-full"
-          >
-            Join Waitlist
-          </a>
+          <div className="flex items-center gap-3">
+            <a
+              href="/#waitlist"
+              onClick={(e) => {
+                closeMenu();
+                handleWaitlistClick(e);
+              }}
+              className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-semibold rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all flex-1"
+            >
+              Join Waitlist
+            </a>
+            <ThemeToggle />
+          </div>
         </nav>
       </div>
     </header>
