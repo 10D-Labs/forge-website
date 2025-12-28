@@ -6,7 +6,11 @@ interface SEOHeadProps {
   canonicalPath?: string;
   ogType?: "website" | "article";
   publishedTime?: string;
+  modifiedTime?: string;
   author?: string;
+  keywords?: string;
+  noindex?: boolean;
+  ogImage?: string;
 }
 
 const SEOHead = ({
@@ -15,17 +19,22 @@ const SEOHead = ({
   canonicalPath = "",
   ogType = "website",
   publishedTime,
+  modifiedTime,
   author,
+  keywords,
+  noindex = false,
+  ogImage = "https://forgetrainer.ai/icon-512.png",
 }: SEOHeadProps) => {
   const baseUrl = "https://forgetrainer.ai";
   const fullUrl = `${baseUrl}${canonicalPath}`;
   const fullTitle = title.includes("Forge") ? title : `${title} | Forge`;
+  const truncatedDescription = description.length > 160 ? description.substring(0, 157) + "..." : description;
 
   useEffect(() => {
     // Update document title
     document.title = fullTitle;
 
-    // Update meta tags
+    // Helper to update or create meta tags
     const updateMeta = (name: string, content: string, property = false) => {
       const attr = property ? "property" : "name";
       let meta = document.querySelector(`meta[${attr}="${name}"]`);
@@ -37,19 +46,47 @@ const SEOHead = ({
       meta.setAttribute("content", content);
     };
 
-    updateMeta("description", description);
+    // Primary meta tags
+    updateMeta("description", truncatedDescription);
+    updateMeta("title", fullTitle);
+    if (keywords) {
+      updateMeta("keywords", keywords);
+    }
+
+    // Robot directives
+    updateMeta("robots", noindex ? "noindex, nofollow" : "index, follow, max-image-preview:large, max-snippet:-1");
+
+    // Open Graph meta tags
     updateMeta("og:title", fullTitle, true);
-    updateMeta("og:description", description, true);
+    updateMeta("og:description", truncatedDescription, true);
     updateMeta("og:url", fullUrl, true);
     updateMeta("og:type", ogType, true);
-    updateMeta("twitter:title", fullTitle);
-    updateMeta("twitter:description", description);
+    updateMeta("og:image", ogImage, true);
+    updateMeta("og:image:alt", `${title} - Forge AI Fitness Trainer`, true);
+    updateMeta("og:site_name", "Forge", true);
+    updateMeta("og:locale", "en_US", true);
 
-    if (ogType === "article" && publishedTime) {
-      updateMeta("article:published_time", publishedTime, true);
-    }
-    if (author) {
-      updateMeta("article:author", author, true);
+    // Twitter Card meta tags
+    updateMeta("twitter:card", "summary_large_image");
+    updateMeta("twitter:title", fullTitle);
+    updateMeta("twitter:description", truncatedDescription);
+    updateMeta("twitter:image", ogImage);
+    updateMeta("twitter:image:alt", `${title} - Forge AI Fitness Trainer`);
+    updateMeta("twitter:site", "@forgetrainer");
+
+    // Article-specific meta tags
+    if (ogType === "article") {
+      if (publishedTime) {
+        updateMeta("article:published_time", publishedTime, true);
+      }
+      if (modifiedTime) {
+        updateMeta("article:modified_time", modifiedTime, true);
+      }
+      if (author) {
+        updateMeta("article:author", author, true);
+      }
+      updateMeta("article:section", "Fitness", true);
+      updateMeta("article:tag", "AI Fitness, Personal Training, Workout Plans", true);
     }
 
     // Update canonical link
@@ -65,7 +102,7 @@ const SEOHead = ({
       // Reset to defaults on unmount
       document.title = "Forge - Your Personal AI Fitness Trainer | Custom Workouts & 24/7 Guidance";
     };
-  }, [fullTitle, description, fullUrl, ogType, publishedTime, author]);
+  }, [fullTitle, truncatedDescription, fullUrl, ogType, publishedTime, modifiedTime, author, keywords, noindex, ogImage]);
 
   return null;
 };

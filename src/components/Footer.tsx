@@ -16,21 +16,34 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-forge-dark border-t border-border/50">
+    <footer 
+      className="bg-forge-dark border-t border-border/50"
+      role="contentinfo"
+      itemScope
+      itemType="https://schema.org/WPFooter"
+    >
       <div className="container py-12 md:py-16">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           {/* Logo & Description */}
-          <div className="md:col-span-2">
-            <Link to="/" className="inline-block mb-4">
-              <img src={forgeLogo} alt="Forge - AI Personal Trainer" className="h-10 w-auto" loading="lazy" />
+          <div className="md:col-span-2" itemScope itemType="https://schema.org/Organization">
+            <Link to="/" className="inline-block mb-4" aria-label="Forge - Home">
+              <img 
+                src={forgeLogo} 
+                alt="Forge - AI Personal Trainer Logo" 
+                className="h-10 w-auto" 
+                loading="lazy"
+                width="120"
+                height="40"
+                itemProp="logo"
+              />
             </Link>
-            <p className="text-muted-foreground text-sm max-w-sm leading-relaxed">
+            <p className="text-muted-foreground text-sm max-w-sm leading-relaxed" itemProp="description">
               Your AI-powered personal trainer. Get custom workout plans, track your progress, and achieve your fitness goals — all for a fraction of the cost.
             </p>
           </div>
 
           {/* Navigation */}
-          <div>
+          <nav aria-label="Footer navigation">
             <h4 className="text-sm font-semibold mb-4">Navigation</h4>
             <ul className="space-y-3">
               <li>
@@ -49,36 +62,39 @@ const Footer = () => {
                 </Link>
               </li>
             </ul>
-          </div>
+          </nav>
 
           {/* Social */}
           <div>
             <h4 className="text-sm font-semibold mb-4">Connect</h4>
-            <div className="flex gap-4">
+            <div className="flex gap-4" role="list" aria-label="Social media links">
               <a
                 href="https://www.instagram.com/forgeaitrainer"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"
-                aria-label="Instagram"
+                aria-label="Follow Forge on Instagram"
+                role="listitem"
               >
-                <Instagram className="w-5 h-5" />
+                <Instagram className="w-5 h-5" aria-hidden="true" />
               </a>
               <a
                 href="https://www.tiktok.com/@forge.ai.trainer"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"
-                aria-label="TikTok"
+                aria-label="Follow Forge on TikTok"
+                role="listitem"
               >
                 <TikTokIcon />
               </a>
               <a
                 href="mailto:support@forgetrainer.ai"
                 className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"
-                aria-label="Email"
+                aria-label="Email Forge support"
+                role="listitem"
               >
-                <Mail className="w-5 h-5" />
+                <Mail className="w-5 h-5" aria-hidden="true" />
               </a>
             </div>
           </div>
@@ -89,14 +105,14 @@ const Footer = () => {
           <p className="text-xs text-muted-foreground">
             © {currentYear} Forge. All rights reserved.
           </p>
-          <div className="flex gap-6">
+          <nav aria-label="Legal links" className="flex gap-6">
             <Link to="/privacy-policy" className="text-xs text-muted-foreground hover:text-primary transition-colors">
               Privacy Policy
             </Link>
             <a href="#" className="text-xs text-muted-foreground hover:text-primary transition-colors">
               Terms of Service
             </a>
-          </div>
+          </nav>
         </div>
       </div>
     </footer>

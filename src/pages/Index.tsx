@@ -6,6 +6,7 @@ import HeroSection from "@/components/HeroSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import ProblemSection from "@/components/ProblemSection";
 import CTASection from "@/components/CTASection";
+import SEOHead from "@/components/SEOHead";
 
 const Index = () => {
   const location = useLocation();
@@ -13,7 +14,6 @@ const Index = () => {
   useEffect(() => {
     const params = new URLSearchParams(location.search);
     if (params.get("scrollTo") === "waitlist") {
-      // Small delay to ensure page is rendered
       setTimeout(() => {
         const element = document.getElementById("waitlist");
         if (element) {
@@ -28,8 +28,14 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <SEOHead
+        title="Forge - Your Personal AI Fitness Trainer | Custom Workouts & 24/7 Guidance"
+        description="Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer. All for a fraction of the cost of a human trainer. Join the waitlist today!"
+        canonicalPath="/"
+        keywords="AI fitness trainer, personal trainer app, AI workout app, fitness coaching, custom workout plans, AI gym trainer, affordable personal training"
+      />
       <Header />
-      <main>
+      <main role="main" itemScope itemType="https://schema.org/WebPage">
         <HeroSection />
         <FeaturesSection />
         <ProblemSection />

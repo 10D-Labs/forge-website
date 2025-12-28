@@ -39,35 +39,51 @@ const FeaturesSection = () => {
   const { ref: headerRef, isVisible: headerVisible } = useScrollAnimation(0.2);
 
   return (
-    <section id="features" className="py-20 md:py-28 bg-forge-dark">
+    <section 
+      id="features" 
+      className="py-20 md:py-28 bg-forge-dark"
+      aria-labelledby="features-heading"
+      itemScope
+      itemType="https://schema.org/ItemList"
+    >
       <div className="container">
         {/* Header */}
-        <div
+        <header
           ref={headerRef}
           className={`text-center max-w-2xl mx-auto mb-16 transition-all duration-700 ease-out ${
             headerVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">
+          <h2 
+            id="features-heading" 
+            className="text-3xl md:text-4xl font-bold mb-4"
+            itemProp="name"
+          >
             Everything You Need to
             <span className="text-gradient block">Train Smarter</span>
           </h2>
-          <p className="text-muted-foreground text-lg">
+          <p className="text-muted-foreground text-lg" itemProp="description">
             Forge combines cutting-edge AI with exercise science to give you an elite personal trainer that's always
             available.
           </p>
-        </div>
+        </header>
 
         {/* Features Grid */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div 
+          className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"
+          role="list"
+          aria-label="Forge features list"
+        >
           {features.map((feature, index) => (
-            <FeatureCard
-              key={feature.title}
-              icon={feature.icon}
-              title={feature.title}
-              description={feature.description}
-              index={index}
-            />
+            <div key={feature.title} itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
+              <meta itemProp="position" content={String(index + 1)} />
+              <FeatureCard
+                icon={feature.icon}
+                title={feature.title}
+                description={feature.description}
+                index={index}
+              />
+            </div>
           ))}
         </div>
       </div>
