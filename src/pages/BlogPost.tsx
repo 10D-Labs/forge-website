@@ -63,6 +63,7 @@ const BlogPost = () => {
             ogType="article"
             publishedTime={post.date}
             author={post.author}
+            keywords={`${post.title}, fitness tips, AI trainer, workout advice, personal training`}
           />
           <StructuredData
             type="article"
@@ -83,18 +84,20 @@ const BlogPost = () => {
         </>
       )}
       <Header />
-      <main className="pt-24 pb-16">
+      <main className="pt-24 pb-16" role="main">
         <div className="container mx-auto px-4 max-w-3xl">
-          <Link
-            to="/blog"
-            className="inline-flex items-center gap-1 text-muted-foreground hover:text-primary transition-colors mb-8"
-          >
-            <ArrowLeft className="h-4 w-4" />
-            Back to Blog
-          </Link>
+          <nav aria-label="Breadcrumb" className="mb-8">
+            <Link
+              to="/blog"
+              className="inline-flex items-center gap-1 text-muted-foreground hover:text-primary transition-colors"
+            >
+              <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+              Back to Blog
+            </Link>
+          </nav>
 
           {loading ? (
-            <div className="animate-pulse">
+            <div className="animate-pulse" aria-label="Loading article">
               <div className="h-10 bg-muted rounded w-3/4 mb-4" />
               <div className="h-4 bg-muted rounded w-1/2 mb-8" />
               <div className="space-y-3">
@@ -104,28 +107,35 @@ const BlogPost = () => {
               </div>
             </div>
           ) : post ? (
-            <article>
+            <article itemScope itemType="https://schema.org/BlogPosting">
               <header className="mb-8">
-                <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
+                <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-4" itemProp="headline">
                   {post.title}
                 </h1>
                 <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                  <span className="flex items-center gap-1">
-                    <User className="h-4 w-4" />
-                    {post.author}
+                  <span className="flex items-center gap-1" itemProp="author" itemScope itemType="https://schema.org/Person">
+                    <User className="h-4 w-4" aria-hidden="true" />
+                    <span itemProp="name">{post.author}</span>
                   </span>
-                  <span className="flex items-center gap-1">
-                    <Calendar className="h-4 w-4" />
+                  <time 
+                    className="flex items-center gap-1"
+                    dateTime={post.date}
+                    itemProp="datePublished"
+                  >
+                    <Calendar className="h-4 w-4" aria-hidden="true" />
                     {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
                       year: "numeric",
                       month: "long",
                       day: "numeric"
                     })}
-                  </span>
+                  </time>
                 </div>
               </header>
 
-              <div className="prose prose-invert max-w-none prose-headings:text-foreground prose-p:text-muted-foreground prose-strong:text-foreground prose-a:text-primary hover:prose-a:text-primary/80 prose-li:text-muted-foreground prose-ul:text-muted-foreground">
+              <div 
+                className="prose prose-invert max-w-none prose-headings:text-foreground prose-p:text-muted-foreground prose-strong:text-foreground prose-a:text-primary hover:prose-a:text-primary/80 prose-li:text-muted-foreground prose-ul:text-muted-foreground"
+                itemProp="articleBody"
+              >
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                   {content}
                 </ReactMarkdown>

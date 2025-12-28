@@ -2,70 +2,128 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="robots" content="index, follow" />
-    <meta name="googlebot" content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     
-    <link rel="icon" href="/favicon.ico" sizes="any">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <link rel="manifest" href="/manifest.json">
+    <!-- Preconnect to external domains for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     
+    <!-- Robot directives -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="bingbot" content="index, follow" />
+    
+    <!-- Favicons & App Icons -->
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192" />
+    <link rel="icon" href="/icon-512.png" type="image/png" sizes="512x512" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#0ea5e9" />
+    <meta name="msapplication-TileColor" content="#0ea5e9" />
+    
+    <!-- Primary Meta Tags -->
     <title>Forge - Your Personal AI Fitness Trainer | Custom Workouts & 24/7 Guidance</title>
+    <meta name="title" content="Forge - Your Personal AI Fitness Trainer | Custom Workouts & 24/7 Guidance" />
     <meta name="description" content="Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer. All for a fraction of the cost of a human trainer. Join the waitlist today!" />
     <meta name="author" content="Forge" />
-    <meta name="keywords" content="AI fitness trainer, personal trainer app, AI workout app, fitness coaching, custom workout plans, AI gym trainer, affordable personal training" />
+    <meta name="publisher" content="Forge" />
+    <meta name="keywords" content="AI fitness trainer, personal trainer app, AI workout app, fitness coaching, custom workout plans, AI gym trainer, affordable personal training, workout planner, exercise app, fitness AI" />
+    <meta name="application-name" content="Forge" />
+    <meta name="generator" content="Lovable" />
     
-    <!-- Open Graph -->
+    <!-- Geo & Language Meta -->
+    <meta name="language" content="en" />
+    <meta name="geo.region" content="US" />
+    <meta name="geo.placename" content="United States" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Forge" />
     <meta property="og:title" content="Forge - Your Personal AI Fitness Trainer" />
     <meta property="og:description" content="Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer. Join the waitlist!" />
-    <meta property="og:type" content="website" />
     <meta property="og:url" content="https://forgetrainer.ai" />
     <meta property="og:image" content="https://forgetrainer.ai/icon-512.png" />
-    <meta property="og:site_name" content="Forge" />
+    <meta property="og:image:width" content="512" />
+    <meta property="og:image:height" content="512" />
+    <meta property="og:image:alt" content="Forge AI Fitness Trainer Logo" />
     <meta property="og:locale" content="en_US" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@forgetrainer" />
+    <meta name="twitter:creator" content="@forgetrainer" />
     <meta name="twitter:title" content="Forge - Your Personal AI Fitness Trainer" />
     <meta name="twitter:description" content="Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer." />
     <meta name="twitter:image" content="https://forgetrainer.ai/icon-512.png" />
+    <meta name="twitter:image:alt" content="Forge AI Fitness Trainer Logo" />
 
-    <link rel="canonical" href="https://forgetrainer.ai" />
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://forgetrainer.ai/" />
+    
+    <!-- Alternate Languages (if applicable in future) -->
+    <link rel="alternate" hreflang="en" href="https://forgetrainer.ai/" />
+    <link rel="alternate" hreflang="x-default" href="https://forgetrainer.ai/" />
     
     <!-- Structured Data - Organization -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Organization",
+      "@id": "https://forgetrainer.ai/#organization",
       "name": "Forge",
       "url": "https://forgetrainer.ai",
-      "logo": "https://forgetrainer.ai/icon-512.png",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://forgetrainer.ai/icon-512.png",
+        "width": 512,
+        "height": 512
+      },
       "description": "AI-powered personal fitness trainer providing custom workout plans and 24/7 guidance.",
-      "sameAs": []
+      "email": "support@forgetrainer.ai",
+      "sameAs": [
+        "https://www.instagram.com/forgeaitrainer",
+        "https://www.tiktok.com/@forge.ai.trainer"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "support@forgetrainer.ai",
+        "contactType": "customer support"
+      }
     }
     </script>
     
-    <!-- Structured Data - WebApplication -->
+    <!-- Structured Data - WebApplication (SoftwareApplication) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "WebApplication",
+      "@type": "SoftwareApplication",
+      "@id": "https://forgetrainer.ai/#app",
       "name": "Forge",
       "description": "Your personal AI fitness trainer. Get custom workout plans, 24/7 guidance, and expert-level training for a fraction of the cost.",
       "url": "https://forgetrainer.ai",
       "applicationCategory": "HealthApplication",
-      "operatingSystem": "Web",
+      "operatingSystem": "Web, iOS, Android",
       "offers": {
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "USD",
-        "description": "Join the waitlist for early access"
+        "description": "Join the waitlist for early access",
+        "availability": "https://schema.org/PreOrder"
       },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "ratingCount": "1"
-      }
+      "author": {
+        "@type": "Organization",
+        "name": "Forge"
+      },
+      "screenshot": "https://forgetrainer.ai/icon-512.png",
+      "featureList": [
+        "Custom Workout Plans",
+        "24/7 AI Chat Support",
+        "Progress Tracking",
+        "Exercise Library",
+        "Multiple Trainer Personalities"
+      ]
     }
     </script>
 
@@ -74,8 +132,71 @@
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
+      "@id": "https://forgetrainer.ai/#website",
       "name": "Forge",
-      "url": "https://forgetrainer.ai"
+      "url": "https://forgetrainer.ai",
+      "description": "Your personal AI fitness trainer with custom workout plans and 24/7 guidance.",
+      "publisher": {
+        "@id": "https://forgetrainer.ai/#organization"
+      },
+      "inLanguage": "en-US"
+    }
+    </script>
+
+    <!-- Structured Data - WebPage -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://forgetrainer.ai/#webpage",
+      "url": "https://forgetrainer.ai",
+      "name": "Forge - Your Personal AI Fitness Trainer | Custom Workouts & 24/7 Guidance",
+      "description": "Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer.",
+      "isPartOf": {
+        "@id": "https://forgetrainer.ai/#website"
+      },
+      "about": {
+        "@id": "https://forgetrainer.ai/#organization"
+      },
+      "inLanguage": "en-US",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://forgetrainer.ai/icon-512.png"
+      }
+    }
+    </script>
+
+    <!-- Structured Data - FAQ -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Forge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Forge is an AI-powered personal fitness trainer that provides custom workout plans, 24/7 guidance, and expert-level training for a fraction of the cost of a human trainer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does Forge cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Forge offers personalized training for one low monthly price, making expert fitness guidance accessible to everyone. Join the waitlist for early access and pricing details."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Forge available 24/7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Unlike traditional personal trainers, Forge is available 24/7, whenever and wherever you want to train."
+          }
+        }
+      ]
     }
     </script>
   </head>
