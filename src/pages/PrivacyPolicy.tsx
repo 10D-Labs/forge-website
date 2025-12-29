@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import DOMPurify from "dompurify";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import SEOHead from "@/components/SEOHead";
 
 const PrivacyPolicy = () => {
   const [content, setContent] = useState("");
@@ -36,6 +37,12 @@ const PrivacyPolicy = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-background">
+      <SEOHead
+        title="Privacy Policy"
+        description="Privacy policy for Forge AI Fitness Trainer. Learn how we collect, use, and protect your personal information."
+        canonicalPath="/privacy-policy"
+        noindex={false}
+      />
       <Header />
       <main className="flex-1 container py-24 md:py-32">
         <div 
