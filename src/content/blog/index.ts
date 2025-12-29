@@ -20,6 +20,13 @@ export const blogPosts: BlogPostMeta[] = [
   //   excerpt: "A brief description...",
   //   author: "Author Name"
   // }
+   {
+    slug: "science-of-workout-consistency",
+    title: "The Science of Workout Consistency: How to Finally Stick With Exercise",
+    date: "2025-12-21",
+    excerpt: "Why consistency beats intensity, what the research says about habit formation, and practical strategies to finally make exercise stick.",
+    author: "The Forge Team"
+  },
   {
     slug: "why-do-we-need-personal-trainers",
     title: "Why Do We Need Personal Trainers?",
