@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
   <url>
     <loc>https://forgetrainer.ai/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -13,34 +14,74 @@
       <image:caption>Your personal AI fitness trainer with custom workout plans</image:caption>
     </image:image>
   </url>
+  
+  <!-- Main Pages -->
   <url>
     <loc>https://forgetrainer.ai/about</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://forgetrainer.ai/blog</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/blog/welcome-to-forge</loc>
-    <lastmod>2024-12-17</lastmod>
+    <loc>https://forgetrainer.ai/privacy-policy</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://forgetrainer.ai/blog/how-to-track-fitness-progress</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/blog/fitness-challenges-that-keep-you-motivated</loc>
+    <lastmod>2025-12-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/blog/home-workouts-vs-gym</loc>
+    <lastmod>2025-12-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/blog/science-of-workout-consistency</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/blog/personalized-workout-plans-vs-generic</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/blog/ai-vs-traditional-personal-trainers</loc>
+    <lastmod>2025-12-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://forgetrainer.ai/blog/why-do-we-need-personal-trainers</loc>
-    <lastmod>2024-12-18</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/privacy-policy</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://forgetrainer.ai/blog/welcome-to-forge</loc>
+    <lastmod>2025-12-17</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>
