@@ -21,6 +21,13 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "fitness-challenges-that-keep-you-motivated",
+    title: "5 Fitness Challenges That Actually Keep You Motivated (2025 Guide)",
+    date: "2025-12-23",
+    excerpt: "Proven fitness challenges that boost motivation and build lasting habits, plus how to design your own and make them stick.",
+    author: "The Forge Team"
+  },
+  {
     slug: "home-workouts-vs-gym",
     title: "Home Workouts vs. Gym: What Actually Works Better in 2025?",
     date: "2025-12-22",
