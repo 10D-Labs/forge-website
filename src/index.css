@@ -174,29 +174,46 @@
 }
 
 @layer utilities {
+  /* Reduce layout thrashing for animated elements */
+  .contain-layout {
+    contain: layout style;
+  }
+
+  .contain-paint {
+    contain: paint;
+  }
+
   .animate-float {
     animation: float 6s ease-in-out infinite;
+    will-change: transform;
+    contain: layout style;
   }
 
   .animate-float-delayed {
     animation: float 6s ease-in-out infinite 2s;
+    will-change: transform;
+    contain: layout style;
   }
 
   .animate-pulse-slow {
     animation: pulse 4s ease-in-out infinite;
+    will-change: opacity;
   }
 
   .animate-fade-up {
     animation: fadeUp 0.8s ease-out forwards;
+    will-change: opacity, transform;
   }
 
   .animate-fade-up-delayed {
     animation: fadeUp 0.8s ease-out 0.2s forwards;
     opacity: 0;
+    will-change: opacity, transform;
   }
 
   .animate-scale-in {
     animation: scaleIn 0.6s ease-out forwards;
+    will-change: opacity, transform;
   }
 }
 
