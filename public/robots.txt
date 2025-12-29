@@ -1,5 +1,5 @@
 # robots.txt for forgetrainer.ai
-# Last updated: 2025-12-28
+# Last updated: 2025-12-29
 
 # Allow all crawlers
 User-agent: *
@@ -16,6 +16,19 @@ Crawl-delay: 1
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 2
+
+# AI Crawlers - explicitly allowed for AI visibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
 
 # Social Media Crawlers
 User-agent: Twitterbot
