@@ -34,7 +34,7 @@ const Index = () => {
         title="Forge - AI Personal Trainer for Custom Workouts"
         description="Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer. All for a fraction of the cost of a human trainer. Join the waitlist today!"
         canonicalPath="/"
-        keywords="AI fitness trainer, personal trainer app, AI workout app, fitness coaching, custom workout plans, AI gym trainer, affordable personal training"
+        keywords="AI personal trainer, custom workout plans, AI fitness coach, virtual personal trainer, affordable fitness coaching, 24/7 workout guidance, personalized exercise plans"
       />
       <Header />
       <main role="main" itemScope itemType="https://schema.org/WebPage">

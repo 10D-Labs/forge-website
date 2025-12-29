@@ -41,7 +41,7 @@ const PrivacyPolicy = () => {
         title="Privacy Policy - Forge AI Fitness"
         description="Privacy policy for Forge AI Fitness Trainer. Learn how we collect, use, and protect your personal information."
         canonicalPath="/privacy-policy"
-        noindex={false}
+        keywords="Forge privacy policy, fitness app data protection, AI trainer privacy, user data security, GDPR compliance fitness app"
       />
       <Header />
       <main className="flex-1 container py-24 md:py-32">
