@@ -21,6 +21,13 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "home-workouts-vs-gym",
+    title: "Home Workouts vs. Gym: What Actually Works Better in 2025?",
+    date: "2025-12-22",
+    excerpt: "Comparing the real pros and cons of training at home versus the gym, and why the best answer might be 'both.'",
+    author: "The Forge Team"
+  },
+  {
     slug: "science-of-workout-consistency",
     title: "The Science of Workout Consistency: How to Finally Stick With Exercise",
     date: "2025-12-21",
