@@ -31,7 +31,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       <SEOHead
-        title="Forge - Your Personal AI Fitness Trainer | Custom Workouts & 24/7 Guidance"
+        title="Forge - AI Personal Trainer for Custom Workouts"
         description="Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer. All for a fraction of the cost of a human trainer. Join the waitlist today!"
         canonicalPath="/"
         keywords="AI fitness trainer, personal trainer app, AI workout app, fitness coaching, custom workout plans, AI gym trainer, affordable personal training"

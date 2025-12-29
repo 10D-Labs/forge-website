@@ -24,7 +24,7 @@ const About = () => {
   return (
     <div className="min-h-screen bg-background">
       <SEOHead
-        title="About Us - Our Mission & Team"
+        title="About Forge - Our Mission to Make Fitness Accessible"
         description="Learn about Forge's mission to make personal training accessible to everyone through AI. Meet the team behind your AI fitness trainer."
         canonicalPath="/about"
         keywords="Forge fitness, AI trainer team, fitness startup, accessible personal training, fitness mission"

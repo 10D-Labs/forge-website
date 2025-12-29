@@ -38,7 +38,7 @@ const PrivacyPolicy = () => {
   return (
     <div className="min-h-screen flex flex-col bg-background">
       <SEOHead
-        title="Privacy Policy"
+        title="Privacy Policy - Forge AI Fitness"
         description="Privacy policy for Forge AI Fitness Trainer. Learn how we collect, use, and protect your personal information."
         canonicalPath="/privacy-policy"
         noindex={false}
