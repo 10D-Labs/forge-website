@@ -9,6 +9,7 @@ export interface BlogPostMeta {
   date: string;
   excerpt: string;
   author: string;
+  keywords?: string[];
 }
 
 export const blogPosts: BlogPostMeta[] = [
