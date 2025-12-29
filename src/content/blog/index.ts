@@ -28,6 +28,13 @@ export const blogPosts: BlogPostMeta[] = [
     author: "The Forge Team"
   },
   {
+    slug: "ai-vs-traditional-personal-trainers",
+    title: "AI Personal Trainers vs. Traditional Personal Trainers in 2025",
+    date: "2025-12-19",
+    excerpt: "Comparing AI fitness coaches to traditional personal trainers: when each option makes sense and how to choose what's right for you.",
+    author: "The Forge Team"
+  },
+  {
     slug: "why-do-we-need-personal-trainers",
     title: "Why Do We Need Personal Trainers?",
     date: "2025-12-18",
