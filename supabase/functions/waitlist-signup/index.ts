@@ -1,14 +1,29 @@
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
-const corsHeaders = {
-  "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
+const allowedOrigins = [
+  "https://forgetrainer.ai",
+  "https://www.forgetrainer.ai",
+  "http://localhost:8080",
+  "http://localhost:5173",
+];
+
+const getCorsHeaders = (origin: string | null) => {
+  const allowedOrigin = origin && allowedOrigins.includes(origin) 
+    ? origin 
+    : "https://forgetrainer.ai";
+  return {
+    "Access-Control-Allow-Origin": allowedOrigin,
+    "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
+  };
 };
 
 const RATE_LIMIT_WINDOW_MINUTES = 60;
 const MAX_REQUESTS_PER_WINDOW = 3;
 
 Deno.serve(async (req) => {
+  const origin = req.headers.get("origin");
+  const corsHeaders = getCorsHeaders(origin);
+
   // Handle CORS preflight
   if (req.method === "OPTIONS") {
     return new Response(null, { headers: corsHeaders });
@@ -26,7 +41,7 @@ Deno.serve(async (req) => {
       || req.headers.get("x-real-ip") 
       || "unknown";
 
-    console.log(`Waitlist signup attempt from IP: ${clientIP}`);
+    console.log(`Waitlist signup attempt from IP: ${clientIP}, origin: ${origin}`);
 
     // Parse request body
     const { email } = await req.json();
