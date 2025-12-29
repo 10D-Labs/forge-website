@@ -1,12 +1,14 @@
-import { useEffect } from "react";
+import { useEffect, lazy, Suspense } from "react";
 import { useLocation } from "react-router-dom";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
-import FeaturesSection from "@/components/FeaturesSection";
-import ProblemSection from "@/components/ProblemSection";
-import CTASection from "@/components/CTASection";
 import SEOHead from "@/components/SEOHead";
+
+// Lazy load below-the-fold sections to improve TTI
+const FeaturesSection = lazy(() => import("@/components/FeaturesSection"));
+const ProblemSection = lazy(() => import("@/components/ProblemSection"));
+const CTASection = lazy(() => import("@/components/CTASection"));
 
 const Index = () => {
   const location = useLocation();
@@ -37,9 +39,11 @@ const Index = () => {
       <Header />
       <main role="main" itemScope itemType="https://schema.org/WebPage">
         <HeroSection />
-        <FeaturesSection />
-        <ProblemSection />
-        <CTASection />
+        <Suspense fallback={<div className="min-h-[400px]" />}>
+          <FeaturesSection />
+          <ProblemSection />
+          <CTASection />
+        </Suspense>
       </main>
       <Footer />
     </div>
