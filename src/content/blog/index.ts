@@ -20,11 +20,18 @@ export const blogPosts: BlogPostMeta[] = [
   //   excerpt: "A brief description...",
   //   author: "Author Name"
   // }
-   {
+  {
     slug: "science-of-workout-consistency",
     title: "The Science of Workout Consistency: How to Finally Stick With Exercise",
     date: "2025-12-21",
     excerpt: "Why consistency beats intensity, what the research says about habit formation, and practical strategies to finally make exercise stick.",
+    author: "The Forge Team"
+  },
+  {
+    slug: "personalized-workout-plans-vs-generic",
+    title: "Why Personalized Workout Plans Beat Generic Programs Every Time",
+    date: "2025-12-20",
+    excerpt: "Generic fitness programs fail most people. Here's why personalization matters and how to finally get a workout plan that works for your body and goals.",
     author: "The Forge Team"
   },
   {
