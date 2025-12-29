@@ -21,6 +21,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "how-to-track-fitness-progress",
+    title: "How to Track Fitness Progress: 7 Methods That Work Better Than the Scale",
+    date: "2025-12-29",
+    excerpt: "Learn how to track fitness progress with 7 proven methods. Why the scale fails, what to measure instead, and how technology makes tracking effortless.",
+    author: "The Forge Team",
+    keywords: ["how to track fitness progress", "fitness tracking methods", "track workout progress", "body composition tracking", "progressive overload tracking"]
+  },
+  {
     slug: "fitness-challenges-that-keep-you-motivated",
     title: "5 Fitness Challenges That Actually Keep You Motivated (2025 Guide)",
     date: "2025-12-23",
