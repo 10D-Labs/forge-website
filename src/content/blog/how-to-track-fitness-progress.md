@@ -6,8 +6,6 @@ author: "The Forge Team"
 keywords: ["how to track fitness progress", "fitness tracking methods", "track workout progress", "body composition tracking", "progressive overload tracking"]
 ---
 
-# How to Track Fitness Progress: 7 Methods That Work Better Than the Scale
-
 You've been hitting the gym consistently for two months. Three times a week, without fail. Your arms feel stronger. Your jeans fit differently. You can finally do those push-ups that used to leave you gasping on the floor.
 
 Then you step on the scale.
@@ -292,3 +290,4 @@ ForgeTrainer.ai combines evidence-based fitness science with AI technology to pr
 - [Muscle vs. Fat Weight - Cleveland Clinic](https://health.clevelandclinic.org/muscle-vs-fat-weight)
 - [DEXA Scan Accuracy: Gold Standard - BodySpec](https://www.bodyspec.com/blog/post/dexa_scan_accuracy_understanding_the_gold_standard)
 - [Water Retention and Weight Fluctuation - Healthy Eater](https://healthyeater.com/water-retention-weight-fluctuation)
+
