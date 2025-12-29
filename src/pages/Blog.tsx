@@ -14,7 +14,7 @@ const Blog = () => {
   return (
     <div className="min-h-screen bg-background">
       <SEOHead
-        title="Blog - Fitness Tips & Updates"
+        title="Forge Blog - Fitness Tips, Workouts & Training Advice"
         description="Insights, updates, and tips from the Forge team. Learn about AI fitness training, workout strategies, and staying consistent with your fitness goals."
         canonicalPath="/blog"
         keywords="fitness blog, AI workout tips, personal training advice, fitness motivation, workout strategies"
