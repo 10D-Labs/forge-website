@@ -48,6 +48,11 @@ const Index = () => {
           "https://www.tiktok.com/@forgetrainer"
         ]}
       />
+      <StructuredData
+        type="website"
+        name="Forge"
+        url="https://forgetrainer.ai"
+      />
       <Header />
       <main role="main" itemScope itemType="https://schema.org/WebPage">
         <HeroSection />

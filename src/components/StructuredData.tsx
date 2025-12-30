@@ -28,7 +28,14 @@ interface OrganizationStructuredDataProps {
   sameAs?: string[];
 }
 
-type StructuredDataProps = ArticleStructuredDataProps | BreadcrumbStructuredDataProps | OrganizationStructuredDataProps;
+interface WebSiteStructuredDataProps {
+  type: "website";
+  name: string;
+  url: string;
+  searchUrlTemplate?: string;
+}
+
+type StructuredDataProps = ArticleStructuredDataProps | BreadcrumbStructuredDataProps | OrganizationStructuredDataProps | WebSiteStructuredDataProps;
 
 const StructuredData = (props: StructuredDataProps) => {
   useEffect(() => {
@@ -91,6 +98,21 @@ const StructuredData = (props: StructuredDataProps) => {
           contactType: "customer service",
           email: "support@forgetrainer.ai",
         },
+      };
+    } else if (props.type === "website") {
+      data = {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        name: props.name,
+        url: props.url,
+        potentialAction: props.searchUrlTemplate ? {
+          "@type": "SearchAction",
+          target: {
+            "@type": "EntryPoint",
+            urlTemplate: props.searchUrlTemplate,
+          },
+          "query-input": "required name=search_term_string",
+        } : undefined,
       };
     } else {
       return;
