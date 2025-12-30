@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import SEOHead from "@/components/SEOHead";
+import StructuredData from "@/components/StructuredData";
 
 // Lazy load below-the-fold sections to improve TTI
 const FeaturesSection = lazy(() => import("@/components/FeaturesSection"));
@@ -35,6 +36,17 @@ const Index = () => {
         description="Get custom workout plans, 24/7 guidance, and expert-level training from your AI personal trainer. All for a fraction of the cost of a human trainer. Join the waitlist today!"
         canonicalPath="/"
         keywords="AI personal trainer, custom workout plans, AI fitness coach, virtual personal trainer, affordable fitness coaching, 24/7 workout guidance, personalized exercise plans"
+      />
+      <StructuredData
+        type="organization"
+        name="Forge"
+        url="https://forgetrainer.ai"
+        logo="https://forgetrainer.ai/icon-512.png"
+        description="Forge is an AI-powered personal trainer that delivers custom workout plans and 24/7 fitness guidance at a fraction of the cost of traditional personal training."
+        sameAs={[
+          "https://www.instagram.com/forgetrainer",
+          "https://www.tiktok.com/@forgetrainer"
+        ]}
       />
       <Header />
       <main role="main" itemScope itemType="https://schema.org/WebPage">

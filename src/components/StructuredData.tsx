@@ -19,7 +19,16 @@ interface BreadcrumbStructuredDataProps {
   items: BreadcrumbItem[];
 }
 
-type StructuredDataProps = ArticleStructuredDataProps | BreadcrumbStructuredDataProps;
+interface OrganizationStructuredDataProps {
+  type: "organization";
+  name: string;
+  url: string;
+  logo: string;
+  description: string;
+  sameAs?: string[];
+}
+
+type StructuredDataProps = ArticleStructuredDataProps | BreadcrumbStructuredDataProps | OrganizationStructuredDataProps;
 
 const StructuredData = (props: StructuredDataProps) => {
   useEffect(() => {
@@ -67,6 +76,21 @@ const StructuredData = (props: StructuredDataProps) => {
           name: item.name,
           item: item.url,
         })),
+      };
+    } else if (props.type === "organization") {
+      data = {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        name: props.name,
+        url: props.url,
+        logo: props.logo,
+        description: props.description,
+        sameAs: props.sameAs || [],
+        contactPoint: {
+          "@type": "ContactPoint",
+          contactType: "customer service",
+          email: "support@forgetrainer.ai",
+        },
       };
     } else {
       return;
