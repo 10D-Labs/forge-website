@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "best-workout-split-guide",
+    title: "Best Workout Split for Your Goals: Science-Based Guide (2025)",
+    date: "2025-12-30",
+    excerpt: "Discover the best workout split for muscle growth. Compare full-body, upper/lower, and PPL routines. Science-backed guide to choosing your ideal training frequency.",
+    author: "The Forge Team",
+    keywords: ["workout split", "best workout split", "workout split for beginners", "training frequency", "muscle hypertrophy", "resistance training split"]
+  },
+  {
     slug: "how-to-track-fitness-progress",
     title: "How to Track Fitness Progress: 7 Methods That Work Better Than the Scale",
     date: "2025-12-29",
