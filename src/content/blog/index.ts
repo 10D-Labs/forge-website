@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "progressive-overload-explained",
+    title: "Progressive Overload Explained: The Science-Backed Method to Build Muscle and Strength",
+    date: "2025-12-31",
+    excerpt: "Learn how progressive overload drives muscle growth and strength gains. Discover 7 proven methods to apply progressive resistance training and avoid common mistakes.",
+    author: "The Forge Team",
+    keywords: ["progressive overload", "build muscle", "strength training", "muscle growth", "workout progression"]
+  },
+  {
     slug: "best-workout-split-guide",
     title: "Best Workout Split for Your Goals: Science-Based Guide (2025)",
     date: "2025-12-30",
