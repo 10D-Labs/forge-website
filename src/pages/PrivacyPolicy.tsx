@@ -3,6 +3,7 @@ import DOMPurify from "dompurify";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import SEOHead from "@/components/SEOHead";
+import StructuredData from "@/components/StructuredData";
 
 const PrivacyPolicy = () => {
   const [content, setContent] = useState("");
@@ -42,6 +43,13 @@ const PrivacyPolicy = () => {
         description="Privacy policy for Forge AI Fitness Trainer. Learn how we collect, use, and protect your personal information."
         canonicalPath="/privacy-policy"
         keywords="Forge privacy policy, fitness app data protection, AI trainer privacy, user data security, GDPR compliance fitness app"
+      />
+      <StructuredData
+        type="breadcrumb"
+        items={[
+          { name: "Home", url: "https://forgetrainer.ai" },
+          { name: "Privacy Policy", url: "https://forgetrainer.ai/privacy-policy" },
+        ]}
       />
       <Header />
       <main className="flex-1 container py-24 md:py-32">
