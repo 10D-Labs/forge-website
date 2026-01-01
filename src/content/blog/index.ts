@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "rest-days-explained",
+    title: "Rest Days Explained: Why Recovery Is Your Secret Weapon for Faster Fitness Results",
+    date: "2026-01-01",
+    excerpt: "Discover why rest days accelerate your fitness gains, how to spot overtraining, and the science-backed strategies that turn recovery into your competitive advantage.",
+    author: "The Forge Team",
+    keywords: ["rest days", "active recovery", "passive recovery", "overtraining syndrome", "muscle recovery"]
+  },
+  {
     slug: "progressive-overload-explained",
     title: "Progressive Overload Explained: The Science-Backed Method to Build Muscle and Strength",
     date: "2025-12-31",
