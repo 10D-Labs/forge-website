@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "bridging-the-fitness-gap",
+    title: "Bridging the Fitness Gap: How Millions Are Left Behind by Traditional Personal Training",
+    date: "2026-01-02",
+    excerpt: "Personal trainers are invaluable for those who can access them. But cost, scheduling, anxiety, and geography leave millions without the fitness guidance they need. Here's how AI fitness technology is democratizing access.",
+    author: "The Forge Team",
+    keywords: ["personal training cost", "AI fitness app", "gym anxiety", "fitness accessibility", "personal trainer alternatives"]
+  },
+  {
     slug: "rest-days-explained",
     title: "Rest Days Explained: Why Recovery Is Your Secret Weapon for Faster Fitness Results",
     date: "2026-01-01",
