@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Menu, X } from "lucide-react";
-import forgeLogo from "@/assets/forge-logo.png";
+import forgeLogo from "@/assets/forge-logo-40.webp";
 import ThemeToggle from "./ThemeToggle";
 
 const Header = () => {
