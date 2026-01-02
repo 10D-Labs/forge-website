@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import appMockup from "@/assets/app-mockup-hero-optimized.png";
+import appMockup from "@/assets/app-mockup-hero.webp";
 import WaitlistForm from "./WaitlistForm";
 
 const HeroSection = () => {
