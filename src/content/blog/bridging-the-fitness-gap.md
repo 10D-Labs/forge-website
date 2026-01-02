@@ -66,7 +66,7 @@ Gym anxiety, often called "gymtimidation," is real and pervasive. People feel se
 
 Now imagine adding one-on-one attention from an expert who will be watching your every move, correcting your form, and witnessing your struggles up close. For someone already anxious, that sounds less like helpful guidance and more like an anxiety nightmare.
 
-This isn't rational, exactly. Good trainers are supportive, not judgmental. But anxiety doesn't respond to logic. The thought of being vulnerable with another person, of showing just how little you know or how much you're struggling, creates a barrier as real as any financial constraint.
+This isn't rational. Good trainers are supportive, not judgmental. But anxiety doesn't respond to logic. The thought of being vulnerable with another person, of showing just how little you know or how much you're struggling, creates a barrier as real as any financial constraint.
 
 Some people eventually push through this anxiety and find that working with a trainer actually helps. But many others never take that first step. They stay stuck, wanting help but unable to get past the emotional barrier of asking for it face-to-face.
 
@@ -131,3 +131,4 @@ Your health matters regardless of your income, your work schedule, your anxiety 
 The question isn't whether you deserve personalized fitness support. You do. The question is whether we're going to build systems that actually deliver it to everyone who needs it, not just those who can navigate the traditional barriers.
 
 We think everyone deserves that chance. That's why [Forge](https://forgetrainer.ai) exists.
+
