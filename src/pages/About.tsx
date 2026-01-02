@@ -2,8 +2,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import SEOHead from "@/components/SEOHead";
 import StructuredData from "@/components/StructuredData";
-import founderJake from "@/assets/founder-jake.png";
-import founderZachary from "@/assets/founder-zachary.png";
+import founderJake from "@/assets/founder-jake.webp";
+import founderZachary from "@/assets/founder-zachary.webp";
 
 const About = () => {
   const founders = [
