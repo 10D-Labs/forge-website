@@ -2,8 +2,12 @@ import { useEffect, useState } from "react";
 import appMockupHero from "@/assets/app-mockup-hero-new.webp";
 import WaitlistForm from "./WaitlistForm";
 
+// Base64 tiny placeholder - blurred version
+const PLACEHOLDER_BLUR = "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQABwAPm0qkEWkIqGYBABABsS0AAAMvuP4APy9gAD++Pb/rX/lP/N/8X/if+r/6L/q/+q/5//s/93/1P/af9V/6IAA";
+
 const HeroSection = () => {
   const [isVisible, setIsVisible] = useState(false);
+  const [imageLoaded, setImageLoaded] = useState(false);
 
   useEffect(() => {
     // Trigger animation after mount
@@ -75,24 +79,39 @@ const HeroSection = () => {
             </div>
           </div>
 
-          {/* App Mockup */}
+          {/* App Mockup with LQIP */}
           <div className="relative flex justify-center lg:justify-end">
             <figure
               className={`animate-float transition-all duration-1000 ease-out delay-500 ${
                 isVisible ? "opacity-100 translate-x-0 scale-100" : "opacity-0 translate-x-12 scale-95"
               }`}
             >
-              <img
-                src={appMockupHero}
-                alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance features"
-                className="w-60 md:w-64 lg:w-80 rounded-3xl animate-glow-pulse drop-shadow-2xl shadow-[0_0_60px_rgba(59,130,246,0.4)]"
-                loading="eager"
-                fetchPriority="high"
-                decoding="async"
-                width="320"
-                height="560"
-                itemProp="image"
-              />
+              <div className="relative w-60 md:w-64 lg:w-80">
+                {/* Blur placeholder - shows immediately */}
+                <img
+                  src={PLACEHOLDER_BLUR}
+                  alt=""
+                  aria-hidden="true"
+                  className={`absolute inset-0 w-full h-full rounded-3xl object-cover blur-md scale-105 transition-opacity duration-500 ${
+                    imageLoaded ? "opacity-0" : "opacity-100"
+                  }`}
+                />
+                {/* Full quality image */}
+                <img
+                  src={appMockupHero}
+                  alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance features"
+                  className={`w-full rounded-3xl animate-glow-pulse drop-shadow-2xl shadow-[0_0_60px_rgba(59,130,246,0.4)] transition-opacity duration-500 ${
+                    imageLoaded ? "opacity-100" : "opacity-0"
+                  }`}
+                  loading="eager"
+                  fetchPriority="high"
+                  decoding="async"
+                  width="320"
+                  height="560"
+                  itemProp="image"
+                  onLoad={() => setImageLoaded(true)}
+                />
+              </div>
               <figcaption className="sr-only">
                 Forge mobile app displaying AI-powered workout recommendations and fitness tracking
               </figcaption>
