@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
-import appMockupHero from "@/assets/app-mockup-hero-new.webp";
+import appMockupHeroSm from "@/assets/app-mockup-hero-sm.webp";
+import appMockupHeroMd from "@/assets/app-mockup-hero-md.webp";
+import appMockupHeroLg from "@/assets/app-mockup-hero-lg.webp";
 import WaitlistForm from "./WaitlistForm";
 
 const HeroSection = () => {
@@ -83,9 +85,11 @@ const HeroSection = () => {
               }`}
             >
               <img
-                src={appMockupHero}
+                src={appMockupHeroLg}
+                srcSet={`${appMockupHeroSm} 240w, ${appMockupHeroMd} 256w, ${appMockupHeroLg} 320w`}
+                sizes="(max-width: 768px) 240px, (max-width: 1024px) 256px, 320px"
                 alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance features"
-                className="w-60 md:w-64 lg:w-80 rounded-3xl animate-glow-pulse drop-shadow-2xl"
+                className="w-60 md:w-64 lg:w-80 rounded-3xl animate-glow-pulse drop-shadow-2xl shadow-[0_0_60px_rgba(59,130,246,0.4)]"
                 loading="eager"
                 fetchPriority="high"
                 width="320"
