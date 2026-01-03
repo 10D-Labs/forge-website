@@ -85,7 +85,7 @@ const HeroSection = () => {
               <img
                 src={appMockupHero}
                 alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance features"
-                className="w-60 md:w-64 lg:w-80 drop-shadow-2xl rounded-3xl"
+                className="w-60 md:w-64 lg:w-80 rounded-3xl shadow-[0_0_60px_rgba(59,130,246,0.4)] drop-shadow-2xl"
                 loading="eager"
                 fetchPriority="high"
                 width="320"
