@@ -22,14 +22,6 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
-    slug: "remove-every-barrier-gym-effortless",
-    title: "Remove Every Barrier: How to Make Going to the Gym Effortless",
-    date: "2026-01-03",
-    excerpt: "Learn how to eliminate every barrier to gym consistency using friction reduction. Science-backed strategies to make working out effortless. No willpower needed.",
-    author: "The Forge Team",
-    keywords: ["gym consistency", "workout barriers", "fitness friction", "gym habits", "activation energy", "make working out easier", "how to be consistent with gym"]
-  },
-  {
     slug: "bridging-the-fitness-gap",
     title: "Bridging the Fitness Gap: How Millions Are Left Behind by Traditional Personal Training",
     date: "2026-01-02",
