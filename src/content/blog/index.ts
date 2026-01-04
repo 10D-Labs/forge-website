@@ -23,7 +23,7 @@ export const blogPosts: BlogPostMeta[] = [
   // }
   {
     slug: "identity-based-habits-gym-consistency",
-    title: "RIdentity-Based Habits: Become the Person Who Goes to the Gym",
+    title: "Identity-Based Habits: Become the Person Who Goes to the Gym",
     date: "2026-01-04",
     excerpt: "Stop forcing workouts. Build lasting gym consistency with identity-based habits: think 'I'm someone who works out' not 'I should work out.' Science-backed strategies.",
     author: "The Forge Team",
