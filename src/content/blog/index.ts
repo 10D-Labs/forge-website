@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "identity-based-habits-gym-consistency",
+    title: "RIdentity-Based Habits: Become the Person Who Goes to the Gym",
+    date: "2026-01-04",
+    excerpt: "Stop forcing workouts. Build lasting gym consistency with identity-based habits: think 'I'm someone who works out' not 'I should work out.' Science-backed strategies.",
+    author: "The Forge Team",
+    keywords: ["identity-based habits", "gym consistency", "workout motivation", "fitness identity", "habit formation psychology", "how to stick with gym", "exercise habits", "how to make gym a habit", "become a person who works out"]
+  },
+  {
     slug: "remove-every-barrier-gym-effortless",
     title: "Remove Every Barrier: How to Make Going to the Gym Effortless",
     date: "2026-01-03",
