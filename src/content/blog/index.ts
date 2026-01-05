@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "rep-tempo-explained",
+    title: "Rep Tempo Explained: Fast vs Slow Reps for Strength and Muscle Growth",
+    date: "2026-01-05",
+    excerpt: "Does rep speed really matter for building muscle? Discover what science says about fast vs slow reps, time under tension, and how to match your tempo to your training goals.",
+    author: "The Forge Team",
+    keywords: ["rep tempo", "time under tension", "muscle growth", "strength training", "eccentric training", "concentric training", "lifting speed", "rep speed", "tempo training"]
+  },
+  {
     slug: "identity-based-habits-gym-consistency",
     title: "Identity-Based Habits: Become the Person Who Goes to the Gym",
     date: "2026-01-04",
