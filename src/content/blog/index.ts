@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "muscle-growth-during-recovery",
+    title: "The Biology of Muscle Growth: Why Muscles Are Built During Rest, Not Workouts",
+    date: "2026-01-06",
+    excerpt: "Discover the cellular mechanisms that transform your workouts into muscle growth. Learn why muscle protein synthesis peaks 24 hours after training, how satellite cells build new muscle tissue, and why sleep is your most anabolic activity.",
+    author: "The Forge Team",
+    keywords: ["muscle protein synthesis", "muscle growth biology", "satellite cells", "mTOR pathway", "recovery science", "growth hormone", "supercompensation", "how muscles grow", "muscle recovery"]
+  },
+  {
     slug: "rep-tempo-explained",
     title: "Rep Tempo Explained: Fast vs Slow Reps for Strength and Muscle Growth",
     date: "2026-01-05",
