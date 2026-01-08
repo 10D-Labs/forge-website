@@ -45,7 +45,7 @@ const Footer = () => {
           {/* Navigation */}
           <nav aria-label="Footer navigation">
             <h4 className="text-sm font-semibold mb-4">Navigation</h4>
-            <ul className="space-y-3">
+            <ul className="space-y-3 list-none">
               <li>
                 <Link to="/" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                   Home
