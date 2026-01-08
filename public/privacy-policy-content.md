@@ -3,7 +3,7 @@ Last updated January 08, 2026
 
 This Privacy Notice for 10D Labs, LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice
-- Download and use our mobile application (Forge), or any other application of ours that links to this Privacy Notice
+- Download and use our mobile application (Forge™), or any other application of ours that links to this Privacy Notice
 - Engage with us in other related ways, including any marketing or events
 
 Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at support@forgetrainer.ai.
@@ -304,3 +304,4 @@ United States
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please email us at support@forgetrainer.ai.
+
