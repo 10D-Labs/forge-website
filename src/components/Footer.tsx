@@ -103,7 +103,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-border/50 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-xs text-muted-foreground">
-            © {currentYear} Forge. All rights reserved.
+            © {currentYear} 10D Labs, LLC. Forge™ and the Forge logo are trademarks of 10D Labs, LLC.
           </p>
           <nav aria-label="Legal links" className="flex gap-6">
             <Link to="/privacy-policy" className="text-xs text-muted-foreground hover:text-primary transition-colors">
