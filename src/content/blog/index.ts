@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "break-through-workout-plateau",
+    title: "How to Break Through a Workout Plateau: The Science of Training Variation",
+    date: "2026-01-08",
+    excerpt: "Stuck at the same weights or seeing no progress? Learn the science-backed strategies to break through workout plateaus using smart training variation, deload weeks, and periodization.",
+    author: "The Forge Team",
+    keywords: ["workout plateau", "training variation", "progressive overload", "periodization", "deload", "muscle adaptation", "FITT principle", "training frequency"]
+  },
+  {
     slug: "muscle-growth-during-recovery",
     title: "The Biology of Muscle Growth: Why Muscles Are Built During Rest, Not Workouts",
     date: "2026-01-06",
