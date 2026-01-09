@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "master-exercise-form-technique-guide",
+    title: "Master Exercise Form: Complete Guide to Perfect Technique",
+    date: "2026-01-09",
+    excerpt: "Discover why proper exercise form matters more than the weight you lift, how to master technique for the big 5 lifts, and when AI-powered form coaching can help you train safer and smarter.",
+    author: "The Forge Team",
+    keywords: ["exercise form", "proper technique", "squat form", "deadlift form", "bench press form", "workout injuries", "AI form check"]
+  },
+  {
     slug: "break-through-workout-plateau",
     title: "How to Break Through a Workout Plateau: The Science of Training Variation",
     date: "2026-01-08",
