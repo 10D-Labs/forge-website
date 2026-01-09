@@ -200,6 +200,12 @@
     will-change: opacity;
   }
 
+  /* Tailwind config changes don't always hot-reload; define this here so speed updates reliably */
+  .animate-glow-pulse {
+    animation: glowPulse 6s ease-in-out infinite;
+    will-change: box-shadow;
+  }
+
   .animate-fade-up {
     animation: fadeUp 0.8s ease-out forwards;
     will-change: opacity, transform;
@@ -254,5 +260,14 @@
   }
   50% {
     opacity: 0.6;
+  }
+}
+
+@keyframes glowPulse {
+  0%, 100% {
+    box-shadow: 0 0 30px hsl(var(--primary) / 0.18);
+  }
+  50% {
+    box-shadow: 0 0 50px hsl(var(--primary) / 0.28);
   }
 }
