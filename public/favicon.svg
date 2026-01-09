@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
   <circle cx="96" cy="96" r="96" fill="#000000"/>
-  <!-- Top row - 3 blocks -->
-  <rect x="44" y="44" width="24" height="20" rx="2" fill="#ffffff"/>
-  <rect x="76" y="44" width="24" height="20" rx="2" fill="#ffffff"/>
-  <rect x="108" y="44" width="24" height="20" rx="2" fill="#ffffff"/>
-  <!-- Second row - 1 block -->
-  <rect x="44" y="72" width="24" height="20" rx="2" fill="#ffffff"/>
-  <!-- Third row - 2 blocks -->
-  <rect x="44" y="100" width="24" height="20" rx="2" fill="#ffffff"/>
-  <rect x="76" y="100" width="24" height="20" rx="2" fill="#ffffff"/>
-  <!-- Fourth row - 1 block -->
-  <rect x="44" y="128" width="24" height="20" rx="2" fill="#ffffff"/>
+  <!-- Top row - 3 blocks (F top bar) -->
+  <rect x="44" y="40" width="28" height="22" rx="3" fill="#ffffff"/>
+  <rect x="82" y="40" width="28" height="22" rx="3" fill="#ffffff"/>
+  <rect x="120" y="40" width="28" height="22" rx="3" fill="#ffffff"/>
+  <!-- Second row - 1 block (F stem) -->
+  <rect x="44" y="72" width="28" height="22" rx="3" fill="#ffffff"/>
+  <!-- Third row - 2 blocks (F middle bar) -->
+  <rect x="44" y="104" width="28" height="22" rx="3" fill="#ffffff"/>
+  <rect x="82" y="104" width="28" height="22" rx="3" fill="#ffffff"/>
+  <!-- Fourth row - 1 block (F stem bottom) -->
+  <rect x="44" y="136" width="28" height="22" rx="3" fill="#ffffff"/>
 </svg>
