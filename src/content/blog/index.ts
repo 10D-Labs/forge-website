@@ -110,6 +110,14 @@ export const blogPosts: BlogPostMeta[] = [
     keywords: ["how to track fitness progress", "fitness tracking methods", "track workout progress", "body composition tracking", "progressive overload tracking"]
   },
   {
+    slug: "best-ai-personal-trainer-apps-2026",
+    title: "Best AI Personal Trainer Apps & Services in 2026: Expert Reviews & Recommendations",
+    date: "2025-12-24",
+    excerpt: "Compare the top 11 AI personal trainer apps of 2026. Find the perfect AI fitness coach for your goals, budget, and experience level with our expert analysis and recommendations.",
+    author: "The Forge Team",
+    keywords: ["AI personal trainer apps", "best AI fitness apps 2026", "AI workout app comparison", "AI personal training app reviews", "AI fitness coach app", "personal trainer app with AI"]
+  },
+  {
     slug: "fitness-challenges-that-keep-you-motivated",
     title: "5 Fitness Challenges That Actually Keep You Motivated (2025 Guide)",
     date: "2025-12-23",
