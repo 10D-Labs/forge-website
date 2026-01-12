@@ -43,6 +43,12 @@
   
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/your-brain-sabotages-workouts</loc>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/master-exercise-form-technique-guide</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>yearly</changefreq>
