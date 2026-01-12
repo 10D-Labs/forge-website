@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "your-brain-sabotages-workouts",
+    title: "Your Brain Is Sabotaging Your Workouts (And How to Fight Back)",
+    date: "2026-01-12",
+    excerpt: "Science reveals your brain shuts you down long before your muscles actually fail. Learn evidence-based strategies to push past mental barriers and unlock real gains.",
+    author: "The Forge Team",
+    keywords: ["mental barriers in workouts", "brain tells you to quit workout", "push through mental barrier exercise", "central governor theory", "how to do more reps mentally", "40 percent rule fitness"]
+  },
+  {
     slug: "master-exercise-form-technique-guide",
     title: "Master Exercise Form: Complete Guide to Perfect Technique",
     date: "2026-01-09",
