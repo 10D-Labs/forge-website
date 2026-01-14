@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "machines-vs-barbells-vs-dumbbells",
+    title: "Machines vs Barbells vs Dumbbells: The Science of What Actually Works",
+    date: "2026-01-13",
+    excerpt: "Every piece of gym equipment builds muscle differently. Here's what the research says about when to use machines, barbells, or dumbbells for your specific goals.",
+    author: "The Forge Team",
+    keywords: ["barbells vs dumbbells vs machines", "free weights vs machines", "best equipment for strength training", "gym equipment for beginners", "barbell vs dumbbell strength"]
+  },
+  {
     slug: "your-brain-sabotages-workouts",
     title: "Your Brain Is Sabotaging Your Workouts (And How to Fight Back)",
     date: "2026-01-12",
