@@ -22,6 +22,14 @@ export const blogPosts: BlogPostMeta[] = [
   //   author: "Author Name"
   // }
   {
+    slug: "deload-week-complete-guide",
+    title: "Deload Week Complete Guide: When, Why, and How to Recover",
+    date: "2026-01-14",
+    excerpt: "Learn when and how to implement deload weeks for optimal recovery. Science-backed strategies to prevent overtraining and maximize long-term gains.",
+    author: "The Forge Team",
+    keywords: ["deload week", "what is a deload week", "how to deload", "when to deload", "overtraining recovery", "workout recovery", "deload training"]
+  },
+  {
     slug: "machines-vs-barbells-vs-dumbbells",
     title: "Machines vs Barbells vs Dumbbells: The Science of What Actually Works",
     date: "2026-01-13",
