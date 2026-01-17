@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forge - Mashup (Athletic + Angular)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --black: #000000;
+      --bg-card: #0a0a0a;
+      --white: #FFFFFF;
+      --orange: #FF6B35;
+      --orange-dark: #E85A2A;
+      --cyan: #00D4FF;
+      --gray-600: #52525b;
+      --gray-400: #a1a1aa;
+    }
+
+    body {
+      font-family: 'Barlow', sans-serif;
+      background: var(--black);
+      color: var(--white);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Subtle grid */
+    .grid-bg {
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255, 107, 53, 0.02) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 107, 53, 0.02) 1px, transparent 1px);
+      background-size: 60px 60px;
+      pointer-events: none;
+    }
+
+    /* Nav */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.25rem 4rem;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      background: rgba(0, 0, 0, 0.8);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .logo {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.75rem;
+      font-weight: 800;
+      letter-spacing: 0.15em;
+      background: linear-gradient(135deg, var(--orange) 0%, var(--cyan) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 3rem;
+    }
+
+    .nav-links a {
+      color: var(--gray-400);
+      text-decoration: none;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      font-size: 0.875rem;
+      transition: all 0.3s;
+    }
+
+    .nav-links a:hover {
+      color: var(--white);
+    }
+
+    .nav-cta {
+      background: linear-gradient(135deg, var(--orange) 0%, var(--orange-dark) 100%);
+      color: var(--white);
+      padding: 0.75rem 1.75rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 0.9rem;
+      letter-spacing: 0.1em;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 10px 100%, 0 calc(100% - 10px));
+    }
+
+    .nav-cta:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 30px rgba(255, 107, 53, 0.3);
+    }
+
+    /* Hero */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      position: relative;
+      padding: 8rem 4rem 4rem;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+    }
+
+    .gradient-orb {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(120px);
+      animation: float 10s ease-in-out infinite;
+    }
+
+    .orb-1 {
+      width: 700px;
+      height: 700px;
+      background: linear-gradient(135deg, var(--orange) 0%, #FF3D00 100%);
+      opacity: 0.12;
+      top: -250px;
+      right: -150px;
+    }
+
+    .orb-2 {
+      width: 500px;
+      height: 500px;
+      background: var(--cyan);
+      opacity: 0.06;
+      bottom: -150px;
+      left: -100px;
+      animation-delay: -5s;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0) scale(1); }
+      50% { transform: translateY(-40px) scale(1.05); }
+    }
+
+    .hero-content {
+      flex: 1;
+      max-width: 650px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      background: rgba(255, 107, 53, 0.1);
+      border: 1px solid rgba(255, 107, 53, 0.2);
+      padding: 0.6rem 1.25rem;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      margin-bottom: 2rem;
+      color: var(--orange);
+      clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+    }
+
+    .badge-dot {
+      width: 8px;
+      height: 8px;
+      background: var(--orange);
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(0.9); }
+    }
+
+    h1 {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: clamp(3.5rem, 7vw, 5.5rem);
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+      text-transform: uppercase;
+    }
+
+    h1 .line-1 {
+      display: block;
+      color: var(--white);
+    }
+
+    h1 .line-2 {
+      display: block;
+      background: linear-gradient(90deg, var(--orange) 0%, var(--cyan) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero-text {
+      font-size: 1.125rem;
+      font-weight: 400;
+      line-height: 1.7;
+      color: var(--gray-400);
+      margin-bottom: 2.5rem;
+      max-width: 480px;
+    }
+
+    .cta-group {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 4rem;
+    }
+
+    .cta-primary {
+      background: linear-gradient(135deg, var(--orange) 0%, var(--orange-dark) 100%);
+      color: var(--white);
+      padding: 1.25rem 2.5rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 1rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 14px 100%, 0 calc(100% - 14px));
+    }
+
+    .cta-primary:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 20px 40px rgba(255, 107, 53, 0.35);
+    }
+
+    .cta-secondary {
+      background: transparent;
+      color: var(--white);
+      padding: 1.25rem 2.5rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 1rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      cursor: pointer;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 14px 100%, 0 calc(100% - 14px));
+    }
+
+    .cta-secondary:hover {
+      background: rgba(255, 255, 255, 0.05);
+      border-color: rgba(255, 255, 255, 0.3);
+    }
+
+    /* Stats row */
+    .stats-row {
+      display: flex;
+      gap: 3rem;
+    }
+
+    .stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .stat-value {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--orange);
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: var(--gray-600);
+      letter-spacing: 0.05em;
+    }
+
+    /* Hero Visual */
+    .hero-visual {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+
+    .phone-mockup {
+      width: 300px;
+      height: 620px;
+      background: linear-gradient(180deg, #111 0%, var(--black) 100%);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 3rem;
+      position: relative;
+      box-shadow:
+        0 50px 100px -20px rgba(0, 0, 0, 0.8),
+        0 0 80px rgba(255, 107, 53, 0.08);
+      animation: phone-float 6s ease-in-out infinite;
+    }
+
+    @keyframes phone-float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-20px); }
+    }
+
+    .phone-screen {
+      margin: 0.75rem;
+      height: calc(100% - 1.5rem);
+      background: var(--black);
+      border-radius: 2.25rem;
+      padding: 2rem 1.25rem;
+      overflow: hidden;
+    }
+
+    .screen-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .screen-greeting {
+      font-size: 0.8rem;
+      color: var(--gray-400);
+    }
+
+    .screen-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .screen-badge {
+      background: rgba(255, 107, 53, 0.15);
+      color: var(--orange);
+      padding: 0.35rem 0.75rem;
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      clip-path: polygon(0 0, calc(100% - 6px) 0, 100% 6px, 100% 100%, 6px 100%, 0 calc(100% - 6px));
+    }
+
+    .workout-card {
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.08) 0%, rgba(0, 212, 255, 0.03) 100%);
+      border: 1px solid rgba(255, 107, 53, 0.15);
+      border-left: 3px solid var(--orange);
+      padding: 1rem;
+      margin-bottom: 0.75rem;
+      clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 0 100%);
+    }
+
+    .workout-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.35rem;
+    }
+
+    .workout-name {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 0.9rem;
+      letter-spacing: 0.03em;
+    }
+
+    .workout-sets {
+      font-size: 0.75rem;
+      color: var(--orange);
+      font-weight: 600;
+    }
+
+    .workout-detail {
+      font-size: 0.75rem;
+      color: var(--gray-600);
+    }
+
+    /* Features */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      padding: 5rem 4rem;
+      background: linear-gradient(180deg, var(--black) 0%, #050505 100%);
+      position: relative;
+    }
+
+    .feature {
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.03) 0%, rgba(0, 212, 255, 0.02) 100%);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      padding: 2.5rem 2rem;
+      position: relative;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 20px) 0, 100% 20px, 100% 100%, 20px 100%, 0 calc(100% - 20px));
+    }
+
+    .feature:hover {
+      border-color: rgba(255, 107, 53, 0.2);
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.06) 0%, rgba(0, 212, 255, 0.03) 100%);
+    }
+
+    .feature-icon {
+      width: 56px;
+      height: 56px;
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.15) 0%, rgba(255, 107, 53, 0.05) 100%);
+      border: 1px solid rgba(255, 107, 53, 0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1.5rem;
+      clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 10px 100%, 0 calc(100% - 10px));
+    }
+
+    .feature-icon svg {
+      width: 24px;
+      height: 24px;
+      stroke: var(--orange);
+      stroke-width: 2;
+      fill: none;
+    }
+
+    .feature-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+    }
+
+    .feature-text {
+      font-size: 0.9375rem;
+      color: var(--gray-400);
+      line-height: 1.6;
+    }
+
+    /* Trainers Section */
+    .trainers {
+      padding: 5rem 4rem;
+      background: var(--black);
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .section-label {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      color: var(--orange);
+      margin-bottom: 0.75rem;
+      text-transform: uppercase;
+    }
+
+    .section-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 2.5rem;
+      font-weight: 800;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .section-title span {
+      background: linear-gradient(90deg, var(--orange) 0%, var(--cyan) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .trainer-grid {
+      display: flex;
+      gap: 1.5rem;
+      overflow-x: auto;
+      padding-bottom: 1rem;
+    }
+
+    .trainer-card {
+      flex-shrink: 0;
+      width: 280px;
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.05) 0%, transparent 100%);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      padding: 1.5rem;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px));
+    }
+
+    .trainer-card:hover {
+      border-color: rgba(255, 107, 53, 0.3);
+      transform: translateY(-5px);
+    }
+
+    .trainer-avatar {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--orange), var(--cyan));
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 1.25rem;
+    }
+
+    .trainer-name {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      margin-bottom: 0.25rem;
+    }
+
+    .trainer-role {
+      font-size: 0.8rem;
+      color: var(--orange);
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.75rem;
+    }
+
+    .trainer-desc {
+      font-size: 0.875rem;
+      color: var(--gray-400);
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid-bg"></div>
+
+  <nav>
+    <div class="logo">FORGE</div>
+    <div class="nav-links">
+      <a href="#">Features</a>
+      <a href="#">How It Works</a>
+      <a href="#">Trainers</a>
+    </div>
+    <button class="nav-cta">JOIN WAITLIST</button>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-bg">
+      <div class="gradient-orb orb-1"></div>
+      <div class="gradient-orb orb-2"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        LAUNCHING SOON
+      </div>
+      <h1>
+        <span class="line-1">Your AI Trainer.</span>
+        <span class="line-2">Always Adapting.</span>
+      </h1>
+      <p class="hero-text">
+        Personalized workouts that evolve with you. 24/7 guidance from an AI that remembers everything and never stops pushing you forward.
+      </p>
+      <div class="cta-group">
+        <button class="cta-primary">Join the Waitlist</button>
+        <button class="cta-secondary">See How It Works</button>
+      </div>
+      <div class="stats-row">
+        <div class="stat">
+          <span class="stat-value">2,400+</span>
+          <span class="stat-label">On the waitlist</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value">24/7</span>
+          <span class="stat-label">AI availability</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value">100%</span>
+          <span class="stat-label">Personalized</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="phone-mockup">
+        <div class="phone-screen">
+          <div class="screen-header">
+            <div>
+              <div class="screen-greeting">Good morning, Alex</div>
+              <div class="screen-title">Today's Workout</div>
+            </div>
+            <div class="screen-badge">PUSH DAY</div>
+          </div>
+          <div class="workout-card">
+            <div class="workout-header">
+              <span class="workout-name">Bench Press</span>
+              <span class="workout-sets">4 x 8</span>
+            </div>
+            <div class="workout-detail">135 lbs / 90s rest</div>
+          </div>
+          <div class="workout-card">
+            <div class="workout-header">
+              <span class="workout-name">Incline Dumbbell</span>
+              <span class="workout-sets">3 x 12</span>
+            </div>
+            <div class="workout-detail">45 lbs / 60s rest</div>
+          </div>
+          <div class="workout-card">
+            <div class="workout-header">
+              <span class="workout-name">Cable Flyes</span>
+              <span class="workout-sets">3 x 15</span>
+            </div>
+            <div class="workout-detail">25 lbs / 45s rest</div>
+          </div>
+          <div class="workout-card">
+            <div class="workout-header">
+              <span class="workout-name">Tricep Pushdown</span>
+              <span class="workout-sets">3 x 12</span>
+            </div>
+            <div class="workout-detail">40 lbs / 60s rest</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <div class="feature-icon">
+        <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+      </div>
+      <h3 class="feature-title">Smart Adaptation</h3>
+      <p class="feature-text">Your workouts evolve based on progress, energy, and feedback. Never plateau again.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-icon">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+      </div>
+      <h3 class="feature-title">Always Available</h3>
+      <p class="feature-text">Questions at 2am? Your AI trainer is ready. No scheduling, no waiting.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-icon">
+        <svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+      </div>
+      <h3 class="feature-title">Track Everything</h3>
+      <p class="feature-text">Every rep, set, and PR logged automatically. See your progress visualized.</p>
+    </div>
+  </section>
+
+  <section class="trainers">
+    <div class="section-header">
+      <div class="section-label">Choose Your Coach</div>
+      <h2 class="section-title">Meet Your <span>AI Training Team</span></h2>
+    </div>
+    <div class="trainer-grid">
+      <div class="trainer-card">
+        <div class="trainer-avatar">SS</div>
+        <div class="trainer-name">Sergeant Stone</div>
+        <div class="trainer-role">Drill Instructor</div>
+        <p class="trainer-desc">Intense, demanding, and pushes you hard. No excuses accepted.</p>
+      </div>
+      <div class="trainer-card">
+        <div class="trainer-avatar">M</div>
+        <div class="trainer-name">Maya</div>
+        <div class="trainer-role">Gentle & Supportive</div>
+        <p class="trainer-desc">Patient and encouraging. Celebrates every win with you.</p>
+      </div>
+      <div class="trainer-card">
+        <div class="trainer-avatar">M</div>
+        <div class="trainer-name">Mike</div>
+        <div class="trainer-role">Casual & Friendly</div>
+        <p class="trainer-desc">Like working out with your best friend who knows their stuff.</p>
+      </div>
+      <div class="trainer-card">
+        <div class="trainer-avatar">R</div>
+        <div class="trainer-name">Reese</div>
+        <div class="trainer-role">Serious & Focused</div>
+        <p class="trainer-desc">Professional and results-oriented. Quality over quantity.</p>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

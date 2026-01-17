@@ -1,116 +1,147 @@
+import { motion, useInView } from "framer-motion";
+import { useRef } from "react";
 import { Check, X } from "lucide-react";
-import { useScrollAnimation } from "@/hooks/useScrollAnimation";
+import { staggerContainer, fadeInUp } from "@/lib/animations";
 
 const ProblemSection = () => {
-  const { ref: headerRef, isVisible: headerVisible } = useScrollAnimation(0.2);
-  const { ref: problemRef, isVisible: problemVisible } = useScrollAnimation(0.1);
-  const { ref: solutionRef, isVisible: solutionVisible } = useScrollAnimation(0.1);
+  const sectionRef = useRef(null);
+  const isInView = useInView(sectionRef, { once: true, amount: 0.2 });
 
   const problems = [
-    "Cost hundreds of dollars per month",
-    "Limited availability and scheduling conflicts",
-    "Inconsistent quality and standardized workout plans",
-    "No 24/7 support when you have questions",
+    "Costs $300-500+ per month",
+    "Limited to scheduled sessions",
+    "Same playbook for most clients",
+    "No support outside gym hours",
+    "Forgets your history and injuries",
+    "Everyone sees you have a trainer",
   ];
 
   const solutions = [
-    "Personalized training for one low monthly price",
-    "Available 24/7, whenever and wherever you want to train",
-    "Consistently optimized, science-backed workouts",
-    "Instant answers to any fitness question",
+    "Fraction of the cost, same results",
+    "Available 24/7, whenever you need it",
+    "Truly personalized to you",
+    "Instant answers, anytime",
+    "Remembers everything about you",
+    "Private — just you and your phone",
   ];
 
   return (
-    <section 
-      className="py-20 md:py-28 bg-background"
+    <section
+      ref={sectionRef}
+      className="section-padding bg-background relative overflow-hidden"
       aria-labelledby="problem-heading"
-      itemScope
-      itemType="https://schema.org/CompareAction"
     >
-      <div className="container">
-        <header
-          ref={headerRef}
-          className={`text-center max-w-2xl mx-auto mb-16 transition-all duration-700 ease-out ${
-            headerVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
-          }`}
-        >
-          <h2 id="problem-heading" className="text-3xl md:text-4xl font-bold mb-4">
-            The Problem With
-            <span className="text-gradient block">Traditional Training</span>
-          </h2>
-          <p className="text-muted-foreground text-lg">
-            Personal training is effective, but it's expensive and inconvenient. Forge changes that.
-          </p>
-        </header>
+      {/* Subtle background gradient */}
+      <div className="absolute inset-0 bg-radial-hero opacity-30" />
 
-        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+      <div className="container relative z-10">
+        {/* Header */}
+        <motion.header
+          className="text-center max-w-2xl mx-auto mb-16"
+          initial="hidden"
+          animate={isInView ? "visible" : "hidden"}
+          variants={staggerContainer}
+        >
+          <motion.p
+            variants={fadeInUp}
+            className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4"
+          >
+            The Better Way
+          </motion.p>
+          <motion.h2
+            id="problem-heading"
+            className="font-barlow-condensed text-h1 font-black uppercase mb-4"
+            variants={fadeInUp}
+          >
+            The Problem With
+            <span className="text-primary text-neon block">Traditional Training</span>
+          </motion.h2>
+          <motion.p className="text-text-secondary text-lg font-barlow" variants={fadeInUp}>
+            Personal training works, but it's expensive and inconvenient.
+            <br />
+            Forge changes that.
+          </motion.p>
+        </motion.header>
+
+        {/* Comparison Cards */}
+        <div className="grid md:grid-cols-2 gap-6 md:gap-8 max-w-4xl mx-auto">
           {/* Problem Card */}
-          <article
-            ref={problemRef}
-            className={`p-8 rounded-2xl bg-destructive/5 border border-destructive/20 transition-all duration-700 ease-out ${
-              problemVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
-            }`}
+          <motion.article
+            className="relative p-8 angular-border [--angular-bg:hsl(var(--surface-0))] [--angular-border-color:hsl(var(--destructive)/0.3)] overflow-hidden"
+            initial={{ opacity: 0, x: -30 }}
+            animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -30 }}
+            transition={{ duration: 0.6, delay: 0.2 }}
             aria-labelledby="traditional-trainers-heading"
           >
-            <h3 id="traditional-trainers-heading" className="text-xl font-semibold mb-6 flex items-center gap-2">
-              <span className="w-8 h-8 rounded-full bg-destructive/20 flex items-center justify-center" aria-hidden="true">
-                <X className="w-4 h-4 text-destructive" />
+            {/* Background decoration */}
+            <div className="absolute -top-20 -right-20 w-40 h-40 bg-destructive/5 rounded-full blur-3xl" aria-hidden="true" />
+
+            <h3
+              id="traditional-trainers-heading"
+              className="relative z-10 font-barlow-condensed text-xl font-bold uppercase tracking-wide mb-6 flex items-center gap-3"
+            >
+              <span className="w-10 h-10 rounded-full bg-destructive/20 flex items-center justify-center shrink-0" aria-hidden="true">
+                <X className="w-5 h-5 text-destructive" />
               </span>
               Traditional Trainers
             </h3>
-            <ul className="space-y-4" aria-label="Problems with traditional trainers">
+
+            <ul className="space-y-4 relative z-10" aria-label="Problems with traditional trainers">
               {problems.map((problem, index) => (
-                <li
+                <motion.li
                   key={problem}
-                  className={`flex items-start gap-2 text-muted-foreground transition-all duration-500 ease-out ${
-                    problemVisible ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-4"
-                  }`}
-                  style={{
-                    transitionDelay: problemVisible ? `${index * 100 + 200}ms` : "0ms",
-                  }}
+                  className="flex items-center gap-3 text-muted-foreground"
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -20 }}
+                  transition={{ delay: 0.4 + index * 0.1 }}
                 >
-                  <span className="w-8 flex justify-center shrink-0 mt-0.5" aria-hidden="true">
+                  <span className="w-10 flex items-center justify-center shrink-0" aria-hidden="true">
                     <X className="w-5 h-5 text-destructive" />
                   </span>
                   <span>{problem}</span>
-                </li>
+                </motion.li>
               ))}
             </ul>
-          </article>
+          </motion.article>
 
           {/* Solution Card */}
-          <article
-            ref={solutionRef}
-            className={`p-8 rounded-2xl bg-primary/5 border border-primary/20 transition-all duration-700 ease-out delay-150 ${
-              solutionVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
-            }`}
+          <motion.article
+            className="relative p-8 angular-border card-neon [--angular-bg:hsl(var(--surface-0))] [--angular-border-color:hsl(var(--primary)/0.3)] overflow-hidden"
+            initial={{ opacity: 0, x: 30 }}
+            animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 30 }}
+            transition={{ duration: 0.6, delay: 0.3 }}
             aria-labelledby="forge-trainers-heading"
           >
-            <h3 id="forge-trainers-heading" className="text-xl font-semibold mb-6 flex items-center gap-2">
-              <span className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center" aria-hidden="true">
-                <Check className="w-4 h-4 text-primary" />
+            {/* Background decoration */}
+            <div className="absolute -top-20 -right-20 w-40 h-40 bg-primary/10 rounded-full blur-3xl" aria-hidden="true" />
+
+            <h3
+              id="forge-trainers-heading"
+              className="relative z-10 font-barlow-condensed text-xl font-bold uppercase tracking-wide mb-6 flex items-center gap-3"
+            >
+              <span className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center shrink-0" aria-hidden="true">
+                <Check className="w-5 h-5 text-primary" />
               </span>
               Forge AI Trainers
             </h3>
-            <ul className="space-y-4" aria-label="Benefits of Forge AI trainers">
+
+            <ul className="space-y-4 relative z-10" aria-label="Benefits of Forge AI trainers">
               {solutions.map((solution, index) => (
-                <li
+                <motion.li
                   key={solution}
-                  className={`flex items-start gap-2 text-muted-foreground transition-all duration-500 ease-out ${
-                    solutionVisible ? "opacity-100 translate-x-0" : "opacity-0 translate-x-4"
-                  }`}
-                  style={{
-                    transitionDelay: solutionVisible ? `${index * 100 + 200}ms` : "0ms",
-                  }}
+                  className="flex items-center gap-3 text-muted-foreground"
+                  initial={{ opacity: 0, x: 20 }}
+                  animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 20 }}
+                  transition={{ delay: 0.5 + index * 0.1 }}
                 >
-                  <span className="w-8 flex justify-center shrink-0 mt-0.5" aria-hidden="true">
+                  <span className="w-10 flex items-center justify-center shrink-0" aria-hidden="true">
                     <Check className="w-5 h-5 text-primary" />
                   </span>
                   <span>{solution}</span>
-                </li>
+                </motion.li>
               ))}
             </ul>
-          </article>
+          </motion.article>
         </div>
       </div>
     </section>

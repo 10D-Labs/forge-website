@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forge - Split Screen Bold</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --black: #000000;
+      --white: #FFFFFF;
+      --orange: #FF6B35;
+      --gray: #111;
+    }
+
+    body {
+      font-family: 'Barlow', sans-serif;
+      background: var(--black);
+      color: var(--white);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Nav */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.5rem 4rem;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      mix-blend-mode: difference;
+    }
+
+    .logo {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.75rem;
+      font-weight: 800;
+      letter-spacing: 0.15em;
+      color: var(--white);
+    }
+
+    .nav-cta {
+      background: var(--white);
+      color: var(--black);
+      padding: 0.875rem 2rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 0.875rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .nav-cta:hover {
+      transform: scale(1.05);
+    }
+
+    /* Hero - Split Screen */
+    .hero {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .hero-left {
+      background: var(--black);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 4rem;
+      position: relative;
+    }
+
+    .hero-left::after {
+      content: 'FORGE';
+      position: absolute;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 20vw;
+      font-weight: 900;
+      color: rgba(255,255,255,0.02);
+      bottom: -5%;
+      left: -5%;
+      letter-spacing: -0.05em;
+    }
+
+    .hero-eyebrow {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.3em;
+      color: var(--orange);
+      margin-bottom: 2rem;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: clamp(4rem, 8vw, 7rem);
+      font-weight: 900;
+      line-height: 0.9;
+      letter-spacing: -0.03em;
+      text-transform: uppercase;
+      margin-bottom: 2rem;
+    }
+
+    h1 span {
+      display: block;
+    }
+
+    h1 .outline {
+      -webkit-text-stroke: 2px var(--white);
+      color: transparent;
+    }
+
+    .hero-text {
+      font-size: 1rem;
+      line-height: 1.7;
+      color: rgba(255,255,255,0.5);
+      max-width: 380px;
+      margin-bottom: 2.5rem;
+    }
+
+    .cta-primary {
+      display: inline-block;
+      background: var(--orange);
+      color: var(--white);
+      padding: 1.25rem 3rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 1rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+      text-decoration: none;
+    }
+
+    .cta-primary:hover {
+      background: var(--white);
+      color: var(--black);
+    }
+
+    /* Right side - Orange */
+    .hero-right {
+      background: var(--orange);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-right::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(
+        -45deg,
+        transparent 0px,
+        transparent 30px,
+        rgba(0,0,0,0.03) 30px,
+        rgba(0,0,0,0.03) 60px
+      );
+    }
+
+    .phone-mockup {
+      width: 280px;
+      height: 580px;
+      background: var(--black);
+      border-radius: 2.5rem;
+      padding: 0.75rem;
+      position: relative;
+      z-index: 1;
+      box-shadow: 0 50px 100px rgba(0,0,0,0.3);
+    }
+
+    .phone-screen {
+      height: 100%;
+      background: var(--gray);
+      border-radius: 2rem;
+      padding: 2rem 1.25rem;
+      overflow: hidden;
+    }
+
+    .screen-header {
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .screen-label {
+      font-size: 0.7rem;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.4);
+      text-transform: uppercase;
+      margin-bottom: 0.25rem;
+    }
+
+    .screen-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    .workout-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .workout-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem;
+      background: rgba(255, 107, 53, 0.1);
+      border-radius: 0.5rem;
+    }
+
+    .workout-name {
+      font-weight: 600;
+      font-size: 0.875rem;
+    }
+
+    .workout-sets {
+      font-size: 0.75rem;
+      color: var(--orange);
+      font-weight: 600;
+    }
+
+    /* Stats Section */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      background: var(--gray);
+      border-top: 1px solid rgba(255,255,255,0.05);
+    }
+
+    .stat {
+      padding: 4rem 2rem;
+      text-align: center;
+      border-right: 1px solid rgba(255,255,255,0.05);
+    }
+
+    .stat:last-child {
+      border-right: none;
+    }
+
+    .stat-value {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 4rem;
+      font-weight: 900;
+      color: var(--orange);
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 0.75rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.4);
+      margin-top: 0.5rem;
+    }
+
+    /* Features - Alternating */
+    .features {
+      background: var(--black);
+    }
+
+    .feature-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      min-height: 60vh;
+    }
+
+    .feature-row:nth-child(even) {
+      direction: rtl;
+    }
+
+    .feature-row:nth-child(even) > * {
+      direction: ltr;
+    }
+
+    .feature-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 4rem;
+    }
+
+    .feature-number {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 8rem;
+      font-weight: 900;
+      color: var(--orange);
+      line-height: 1;
+      opacity: 0.2;
+      margin-bottom: -2rem;
+    }
+
+    .feature-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 3rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+      position: relative;
+    }
+
+    .feature-text {
+      font-size: 1.125rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.7;
+      max-width: 400px;
+    }
+
+    .feature-visual {
+      background: var(--gray);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .feature-visual::before {
+      content: '';
+      position: absolute;
+      width: 300px;
+      height: 300px;
+      background: var(--orange);
+      border-radius: 50%;
+      opacity: 0.05;
+    }
+
+    .feature-icon {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 6rem;
+      font-weight: 900;
+      color: var(--orange);
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="logo">FORGE</div>
+    <button class="nav-cta">Join Waitlist</button>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-left">
+      <p class="hero-eyebrow">AI Personal Training</p>
+      <h1>
+        <span>Train</span>
+        <span class="outline">With</span>
+        <span>Purpose.</span>
+      </h1>
+      <p class="hero-text">
+        Your AI trainer learns your body, adapts your workouts, and pushes you toward your goals. Available 24/7. Never forgets.
+      </p>
+      <a href="#" class="cta-primary">Join The Waitlist</a>
+    </div>
+    <div class="hero-right">
+      <div class="phone-mockup">
+        <div class="phone-screen">
+          <div class="screen-header">
+            <p class="screen-label">Today's Workout</p>
+            <h3 class="screen-title">Push Day</h3>
+          </div>
+          <div class="workout-list">
+            <div class="workout-item">
+              <span class="workout-name">Bench Press</span>
+              <span class="workout-sets">4×8</span>
+            </div>
+            <div class="workout-item">
+              <span class="workout-name">Incline DB Press</span>
+              <span class="workout-sets">3×12</span>
+            </div>
+            <div class="workout-item">
+              <span class="workout-name">Cable Flyes</span>
+              <span class="workout-sets">3×15</span>
+            </div>
+            <div class="workout-item">
+              <span class="workout-name">Overhead Press</span>
+              <span class="workout-sets">3×10</span>
+            </div>
+            <div class="workout-item">
+              <span class="workout-name">Tricep Pushdown</span>
+              <span class="workout-sets">3×12</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="stat">
+      <div class="stat-value">24/7</div>
+      <div class="stat-label">Availability</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">100%</div>
+      <div class="stat-label">Personalized</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">4</div>
+      <div class="stat-label">Trainer Styles</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">∞</div>
+      <div class="stat-label">Adaptations</div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="feature-row">
+      <div class="feature-content">
+        <div class="feature-number">01</div>
+        <h3 class="feature-title">Learns You</h3>
+        <p class="feature-text">Your AI trainer remembers everything—your goals, your injuries, your progress. Every workout is built specifically for you.</p>
+      </div>
+      <div class="feature-visual">
+        <div class="feature-icon">AI</div>
+      </div>
+    </div>
+    <div class="feature-row">
+      <div class="feature-content">
+        <div class="feature-number">02</div>
+        <h3 class="feature-title">Always There</h3>
+        <p class="feature-text">Questions at 2am? Need motivation? Your trainer is always available. No scheduling, no waiting rooms.</p>
+      </div>
+      <div class="feature-visual">
+        <div class="feature-icon">24H</div>
+      </div>
+    </div>
+    <div class="feature-row">
+      <div class="feature-content">
+        <div class="feature-number">03</div>
+        <h3 class="feature-title">Your Style</h3>
+        <p class="feature-text">Pick your coach personality. Want a drill sergeant or a supportive guide? Choose what motivates you.</p>
+      </div>
+      <div class="feature-visual">
+        <div class="feature-icon">YOU</div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

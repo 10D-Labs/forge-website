@@ -1,15 +1,18 @@
-import { useEffect, lazy, Suspense } from "react";
+import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import HeroSection from "@/components/HeroSection";
+import { HeroSection } from "@/components/hero";
+import {
+  SocialProofBar,
+  HowItWorksSection,
+  MeetTheTrainersSection,
+} from "@/components/sections";
+import FeaturesSection from "@/components/FeaturesSection";
+import ProblemSection from "@/components/ProblemSection";
+import CTASection from "@/components/CTASection";
 import SEOHead from "@/components/SEOHead";
 import StructuredData from "@/components/StructuredData";
-
-// Lazy load below-the-fold sections to improve TTI
-const FeaturesSection = lazy(() => import("@/components/FeaturesSection"));
-const ProblemSection = lazy(() => import("@/components/ProblemSection"));
-const CTASection = lazy(() => import("@/components/CTASection"));
 
 const Index = () => {
   const location = useLocation();
@@ -22,7 +25,8 @@ const Index = () => {
         if (element) {
           const elementRect = element.getBoundingClientRect();
           const absoluteElementTop = elementRect.top + window.pageYOffset;
-          const middle = absoluteElementTop - (window.innerHeight / 2) + (elementRect.height / 2);
+          const middle =
+            absoluteElementTop - window.innerHeight / 2 + elementRect.height / 2;
           window.scrollTo({ top: middle, behavior: "smooth" });
         }
       }, 100);
@@ -45,23 +49,36 @@ const Index = () => {
         description="Forge is an AI-powered personal trainer that delivers custom workout plans and 24/7 fitness guidance at a fraction of the cost of traditional personal training."
         sameAs={[
           "https://www.instagram.com/forgetrainer",
-          "https://www.tiktok.com/@forgetrainer"
+          "https://www.tiktok.com/@forgetrainer",
         ]}
       />
-      <StructuredData
-        type="website"
-        name="Forge"
-        url="https://forgetrainer.ai"
-      />
+      <StructuredData type="website" name="Forge" url="https://forgetrainer.ai" />
+
       <Header />
+
       <main role="main" itemScope itemType="https://schema.org/WebPage">
+        {/* Hero - Primary conversion point */}
         <HeroSection />
-        <Suspense fallback={<div className="min-h-[400px]" />}>
-          <FeaturesSection />
-          <ProblemSection />
-          <CTASection />
-        </Suspense>
+
+        {/* Social Proof - Build trust immediately */}
+        <SocialProofBar />
+
+        {/* Features - Value proposition */}
+        <FeaturesSection />
+
+        {/* How It Works - Reduce friction */}
+        <HowItWorksSection />
+
+        {/* Problem/Solution - Competitive positioning */}
+        <ProblemSection />
+
+        {/* Meet The Trainers - Showcase unique feature */}
+        <MeetTheTrainersSection />
+
+        {/* CTA - Final conversion push */}
+        <CTASection />
       </main>
+
       <Footer />
     </div>
   );

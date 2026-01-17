@@ -27,13 +27,13 @@ const Footer = () => {
           {/* Logo & Description */}
           <div className="md:col-span-2" itemScope itemType="https://schema.org/Organization">
             <Link to="/" className="inline-block mb-4" aria-label="Forge - Home">
-              <img 
-                src={forgeLogo} 
-                alt="Forge - AI Personal Trainer Logo" 
-                className="h-10 w-auto" 
+              <img
+                src={forgeLogo}
+                alt="Forge - AI Personal Trainer Logo"
+                className="h-12 w-auto"
                 loading="lazy"
-                width="120"
-                height="40"
+                width="48"
+                height="48"
                 itemProp="logo"
               />
             </Link>

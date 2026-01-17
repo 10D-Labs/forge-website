@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forge - Cyberpunk Neon</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --bg-dark: #0a0a0f;
+      --bg-card: #12121a;
+      --cyan: #00FFFF;
+      --magenta: #FF00FF;
+      --lime: #39FF14;
+      --purple: #8B5CF6;
+      --white: #FFFFFF;
+    }
+
+    body {
+      font-family: 'Rajdhani', sans-serif;
+      background: var(--bg-dark);
+      color: var(--white);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Scanlines overlay */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(
+        0deg,
+        rgba(0, 0, 0, 0.1) 0px,
+        rgba(0, 0, 0, 0.1) 1px,
+        transparent 1px,
+        transparent 2px
+      );
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    /* Grid background */
+    .grid-bg {
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(0, 255, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 50px 50px;
+      perspective: 500px;
+    }
+
+    /* Nav */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.5rem 4rem;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      background: rgba(10, 10, 15, 0.8);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid rgba(0, 255, 255, 0.1);
+    }
+
+    .logo {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 800;
+      letter-spacing: 0.2em;
+      color: var(--cyan);
+      text-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 3rem;
+    }
+
+    .nav-links a {
+      color: rgba(255, 255, 255, 0.6);
+      text-decoration: none;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      font-size: 0.875rem;
+      transition: all 0.3s;
+    }
+
+    .nav-links a:hover {
+      color: var(--cyan);
+      text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+    }
+
+    .nav-cta {
+      background: transparent;
+      color: var(--cyan);
+      padding: 0.75rem 2rem;
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 600;
+      font-size: 0.75rem;
+      letter-spacing: 0.15em;
+      border: 1px solid var(--cyan);
+      cursor: pointer;
+      transition: all 0.3s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .nav-cta::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: var(--cyan);
+      transform: translateX(-100%);
+      transition: transform 0.3s;
+      z-index: -1;
+    }
+
+    .nav-cta:hover {
+      color: var(--bg-dark);
+      box-shadow: 0 0 30px rgba(0, 255, 255, 0.5);
+    }
+
+    .nav-cta:hover::before {
+      transform: translateX(0);
+    }
+
+    /* Hero */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      position: relative;
+      padding: 8rem 4rem;
+    }
+
+    .hero-content {
+      flex: 1;
+      max-width: 650px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .glitch-container {
+      position: relative;
+    }
+
+    .hero-label {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.4em;
+      color: var(--magenta);
+      margin-bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .hero-label::before {
+      content: '//';
+      color: var(--cyan);
+    }
+
+    h1 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      font-weight: 800;
+      line-height: 1.1;
+      letter-spacing: 0.05em;
+      margin-bottom: 2rem;
+    }
+
+    h1 .line-1 {
+      display: block;
+      color: var(--white);
+    }
+
+    h1 .line-2 {
+      display: block;
+      background: linear-gradient(90deg, var(--cyan) 0%, var(--magenta) 50%, var(--cyan) 100%);
+      background-size: 200% auto;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      animation: neon-flow 3s linear infinite;
+    }
+
+    @keyframes neon-flow {
+      0%, 100% { background-position: 0% center; }
+      50% { background-position: 100% center; }
+    }
+
+    .hero-text {
+      font-size: 1.125rem;
+      font-weight: 400;
+      line-height: 1.8;
+      color: rgba(255,255,255,0.5);
+      margin-bottom: 3rem;
+      max-width: 500px;
+    }
+
+    .cta-group {
+      display: flex;
+      gap: 1.5rem;
+    }
+
+    .cta-primary {
+      background: linear-gradient(135deg, var(--cyan) 0%, var(--magenta) 100%);
+      color: var(--bg-dark);
+      padding: 1.25rem 3rem;
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 700;
+      font-size: 0.875rem;
+      letter-spacing: 0.15em;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 15px) 0, 100% 15px, 100% 100%, 15px 100%, 0 calc(100% - 15px));
+    }
+
+    .cta-primary:hover {
+      transform: scale(1.05);
+      box-shadow:
+        0 0 30px rgba(0, 255, 255, 0.5),
+        0 0 60px rgba(255, 0, 255, 0.3);
+    }
+
+    .cta-secondary {
+      background: transparent;
+      color: var(--white);
+      padding: 1.25rem 3rem;
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 600;
+      font-size: 0.875rem;
+      letter-spacing: 0.1em;
+      border: 1px solid rgba(255,255,255,0.2);
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .cta-secondary:hover {
+      border-color: var(--cyan);
+      color: var(--cyan);
+    }
+
+    /* Hero Visual */
+    .hero-visual {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+
+    .phone-mockup {
+      width: 320px;
+      height: 650px;
+      background: var(--bg-card);
+      border: 1px solid rgba(0, 255, 255, 0.2);
+      border-radius: 2.5rem;
+      position: relative;
+      box-shadow:
+        0 0 50px rgba(0, 255, 255, 0.1),
+        0 0 100px rgba(255, 0, 255, 0.05),
+        inset 0 0 50px rgba(0, 255, 255, 0.02);
+      animation: phone-glow 4s ease-in-out infinite;
+    }
+
+    @keyframes phone-glow {
+      0%, 100% {
+        box-shadow:
+          0 0 50px rgba(0, 255, 255, 0.1),
+          0 0 100px rgba(255, 0, 255, 0.05);
+      }
+      50% {
+        box-shadow:
+          0 0 80px rgba(0, 255, 255, 0.2),
+          0 0 150px rgba(255, 0, 255, 0.1);
+      }
+    }
+
+    .phone-notch {
+      position: absolute;
+      top: 1rem;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100px;
+      height: 25px;
+      background: var(--bg-dark);
+      border-radius: 20px;
+    }
+
+    .phone-screen {
+      margin: 3.5rem 0.75rem 0.75rem;
+      height: calc(100% - 4.25rem);
+      background: var(--bg-dark);
+      border-radius: 2rem;
+      padding: 1.5rem;
+      overflow: hidden;
+    }
+
+    .screen-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .screen-title {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 0.875rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      color: var(--cyan);
+    }
+
+    .screen-status {
+      font-size: 0.75rem;
+      color: var(--lime);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .status-dot {
+      width: 6px;
+      height: 6px;
+      background: var(--lime);
+      border-radius: 50%;
+      animation: blink 1s ease-in-out infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .workout-card {
+      background: rgba(0, 255, 255, 0.05);
+      border: 1px solid rgba(0, 255, 255, 0.1);
+      border-left: 3px solid var(--cyan);
+      padding: 1rem;
+      margin-bottom: 0.75rem;
+      position: relative;
+    }
+
+    .workout-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, rgba(0, 255, 255, 0.1) 0%, transparent 50%);
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .workout-card:hover::before {
+      opacity: 1;
+    }
+
+    .workout-name {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.25rem;
+    }
+
+    .workout-detail {
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.4);
+    }
+
+    .workout-progress {
+      margin-top: 0.5rem;
+      height: 3px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, var(--cyan), var(--magenta));
+      width: 65%;
+    }
+
+    /* Features */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      padding: 6rem 4rem;
+      background: linear-gradient(180deg, var(--bg-dark) 0%, var(--bg-card) 100%);
+      position: relative;
+    }
+
+    .feature {
+      background: rgba(0, 255, 255, 0.02);
+      border: 1px solid rgba(0, 255, 255, 0.1);
+      padding: 2.5rem;
+      position: relative;
+      clip-path: polygon(0 0, calc(100% - 20px) 0, 100% 20px, 100% 100%, 20px 100%, 0 calc(100% - 20px));
+    }
+
+    .feature::before {
+      content: '';
+      position: absolute;
+      top: -1px;
+      left: -1px;
+      right: -1px;
+      bottom: -1px;
+      background: linear-gradient(135deg, var(--cyan) 0%, transparent 50%, var(--magenta) 100%);
+      clip-path: polygon(0 0, calc(100% - 20px) 0, 100% 20px, 100% 100%, 20px 100%, 0 calc(100% - 20px));
+      z-index: -1;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .feature:hover::before {
+      opacity: 0.5;
+    }
+
+    .feature-number {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 3rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, var(--cyan), var(--magenta));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1;
+      margin-bottom: 1.5rem;
+    }
+
+    .feature-title {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      margin-bottom: 1rem;
+    }
+
+    .feature-text {
+      font-size: 0.9375rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.7;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid-bg"></div>
+
+  <nav>
+    <div class="logo">FORGE</div>
+    <div class="nav-links">
+      <a href="#">FEATURES</a>
+      <a href="#">HOW IT WORKS</a>
+      <a href="#">TRAINERS</a>
+    </div>
+    <button class="nav-cta">ACCESS WAITLIST</button>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-label">NEXT-GEN FITNESS TECHNOLOGY</div>
+      <div class="glitch-container">
+        <h1>
+          <span class="line-1">NEURAL TRAINING</span>
+          <span class="line-2">PROTOCOL ENGAGED</span>
+        </h1>
+      </div>
+      <p class="hero-text">
+        An AI system that learns your body, predicts your limits, and pushes beyond them.
+        This isn't an app. It's your evolution.
+      </p>
+      <div class="cta-group">
+        <button class="cta-primary">INITIALIZE SEQUENCE</button>
+        <button class="cta-secondary">VIEW PROTOCOL</button>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="phone-mockup">
+        <div class="phone-notch"></div>
+        <div class="phone-screen">
+          <div class="screen-header">
+            <span class="screen-title">ACTIVE PROTOCOL</span>
+            <span class="screen-status">
+              <span class="status-dot"></span>
+              SYNCED
+            </span>
+          </div>
+          <div class="workout-card">
+            <div class="workout-name">BARBELL BENCH PRESS</div>
+            <div class="workout-detail">4 SETS x 8 REPS / 135 LBS</div>
+            <div class="workout-progress">
+              <div class="progress-bar"></div>
+            </div>
+          </div>
+          <div class="workout-card">
+            <div class="workout-name">INCLINE DUMBBELL PRESS</div>
+            <div class="workout-detail">3 SETS x 12 REPS / 45 LBS</div>
+            <div class="workout-progress">
+              <div class="progress-bar" style="width: 33%"></div>
+            </div>
+          </div>
+          <div class="workout-card">
+            <div class="workout-name">CABLE CROSSOVER</div>
+            <div class="workout-detail">3 SETS x 15 REPS / 25 LBS</div>
+            <div class="workout-progress">
+              <div class="progress-bar" style="width: 0%"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <div class="feature-number">01</div>
+      <h3 class="feature-title">ADAPTIVE ALGORITHMS</h3>
+      <p class="feature-text">Machine learning that evolves with every rep. Your workouts optimize in real-time.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-number">02</div>
+      <h3 class="feature-title">24/7 NEURAL LINK</h3>
+      <p class="feature-text">Always connected. Always learning. Your AI trainer never sleeps.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-number">03</div>
+      <h3 class="feature-title">PREDICTIVE GAINS</h3>
+      <p class="feature-text">See your future progress mapped out. Hit targets before you knew they existed.</p>
+    </div>
+  </section>
+</body>
+</html>

@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forge - Refined Mashup</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --black: #000000;
+      --white: #FFFFFF;
+      --orange: #E84A27;
+      --orange-dark: #D04020;
+      --gray-900: #0a0a0a;
+      --gray-800: #111111;
+      --gray-400: #a1a1aa;
+    }
+
+    body {
+      font-family: 'Barlow', sans-serif;
+      background: var(--black);
+      color: var(--white);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Nav */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.25rem 4rem;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      background: rgba(0, 0, 0, 0.85);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .logo {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.75rem;
+      font-weight: 800;
+      letter-spacing: 0.15em;
+      color: var(--orange);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 2.5rem;
+    }
+
+    .nav-links a {
+      color: var(--gray-400);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.875rem;
+      letter-spacing: 0.03em;
+      transition: color 0.3s;
+    }
+
+    .nav-links a:hover {
+      color: var(--white);
+    }
+
+    .nav-cta {
+      background: var(--orange);
+      color: var(--white);
+      padding: 0.75rem 1.75rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 0.875rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+    }
+
+    .nav-cta:hover {
+      background: var(--white);
+      color: var(--black);
+    }
+
+    /* Hero */
+    .hero {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      position: relative;
+    }
+
+    /* Left content */
+    .hero-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 8rem 4rem 4rem;
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      width: fit-content;
+      background: rgba(255, 107, 53, 0.1);
+      border: 1px solid rgba(255, 107, 53, 0.2);
+      padding: 0.5rem 1rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--orange);
+      margin-bottom: 2rem;
+      clip-path: polygon(0 0, calc(100% - 6px) 0, 100% 6px, 100% 100%, 6px 100%, 0 calc(100% - 6px));
+    }
+
+    .badge-dot {
+      width: 6px;
+      height: 6px;
+      background: var(--orange);
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    h1 {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: clamp(3.5rem, 6vw, 5rem);
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -0.01em;
+      text-transform: uppercase;
+      margin-bottom: 2rem;
+    }
+
+    h1 .line {
+      display: block;
+      transition: transform 0.3s;
+    }
+
+    h1 .line:nth-child(2) {
+      margin-left: 8%;
+      color: var(--orange);
+    }
+
+    h1 .line:nth-child(3) {
+      margin-left: 16%;
+    }
+
+    .hero-text {
+      font-size: 1.0625rem;
+      line-height: 1.7;
+      color: var(--gray-400);
+      max-width: 420px;
+      margin-bottom: 2.5rem;
+      margin-left: 16%;
+    }
+
+    .cta-group {
+      display: flex;
+      gap: 1rem;
+      margin-left: 16%;
+    }
+
+    .cta-primary {
+      background: var(--orange);
+      color: var(--white);
+      padding: 1.125rem 2.5rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 0.9375rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
+    }
+
+    .cta-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 15px 30px rgba(255, 107, 53, 0.25);
+    }
+
+    .cta-secondary {
+      background: transparent;
+      color: var(--white);
+      padding: 1.125rem 2.5rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 0.9375rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      cursor: pointer;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
+    }
+
+    .cta-secondary:hover {
+      border-color: var(--orange);
+      color: var(--orange);
+    }
+
+    /* Right visual area */
+    .hero-visual {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    /* Soft gradient split instead of hard color */
+    .hero-visual::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, transparent 0%, rgba(255, 107, 53, 0.08) 50%, rgba(255, 107, 53, 0.15) 100%);
+    }
+
+    /* Ambient glow */
+    .glow-orb {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(80px);
+      pointer-events: none;
+    }
+
+    .glow-1 {
+      width: 400px;
+      height: 400px;
+      background: var(--orange);
+      opacity: 0.15;
+      top: 20%;
+      right: 10%;
+      animation: float 8s ease-in-out infinite;
+    }
+
+    .glow-2 {
+      width: 250px;
+      height: 250px;
+      background: var(--orange);
+      opacity: 0.1;
+      bottom: 20%;
+      left: 20%;
+      animation: float 8s ease-in-out infinite reverse;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-30px); }
+    }
+
+    .phone-mockup {
+      width: 300px;
+      height: 620px;
+      background: linear-gradient(180deg, var(--gray-800) 0%, var(--black) 100%);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 3rem;
+      padding: 0.75rem;
+      position: relative;
+      z-index: 1;
+      box-shadow:
+        0 50px 100px -20px rgba(0, 0, 0, 0.7),
+        0 0 60px rgba(255, 107, 53, 0.08);
+      animation: phone-float 6s ease-in-out infinite;
+    }
+
+    @keyframes phone-float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-15px); }
+    }
+
+    .phone-screen {
+      height: 100%;
+      background: var(--black);
+      border-radius: 2.25rem;
+      padding: 2rem 1.25rem;
+      overflow: hidden;
+    }
+
+    .screen-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 1.5rem;
+    }
+
+    .screen-greeting {
+      font-size: 0.75rem;
+      color: var(--gray-400);
+      margin-bottom: 0.25rem;
+    }
+
+    .screen-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .screen-badge {
+      background: var(--orange);
+      color: var(--white);
+      padding: 0.35rem 0.75rem;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      clip-path: polygon(0 0, calc(100% - 5px) 0, 100% 5px, 100% 100%, 5px 100%, 0 calc(100% - 5px));
+    }
+
+    .workout-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.625rem;
+    }
+
+    .workout-item {
+      background: rgba(255, 107, 53, 0.06);
+      border: 1px solid rgba(255, 107, 53, 0.1);
+      border-left: 3px solid var(--orange);
+      padding: 0.875rem 1rem;
+      clip-path: polygon(0 0, calc(100% - 6px) 0, 100% 6px, 100% 100%, 0 100%);
+    }
+
+    .workout-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.2rem;
+    }
+
+    .workout-name {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 0.875rem;
+      letter-spacing: 0.02em;
+    }
+
+    .workout-sets {
+      font-size: 0.7rem;
+      color: var(--orange);
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    .workout-detail {
+      font-size: 0.7rem;
+      color: var(--gray-400);
+    }
+
+    /* Trusted by bar */
+    .trust-bar {
+      position: absolute;
+      bottom: 4rem;
+      left: 4rem;
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+      z-index: 2;
+    }
+
+    .trust-stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .trust-value {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      color: var(--orange);
+    }
+
+    .trust-label {
+      font-size: 0.7rem;
+      color: var(--gray-400);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    /* Features section */
+    .features {
+      padding: 6rem 4rem;
+      background: var(--gray-900);
+    }
+
+    .features-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-bottom: 4rem;
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .features-title-group {
+      max-width: 500px;
+    }
+
+    .features-label {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      color: var(--orange);
+      margin-bottom: 0.75rem;
+      text-transform: uppercase;
+    }
+
+    .features-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 3rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      line-height: 1;
+    }
+
+    .features-title span {
+      color: var(--orange);
+    }
+
+    .features-subtitle {
+      color: var(--gray-400);
+      font-size: 0.9375rem;
+      line-height: 1.6;
+      max-width: 350px;
+    }
+
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .feature-card {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      padding: 2rem;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px));
+    }
+
+    .feature-card:hover {
+      background: rgba(255, 107, 53, 0.05);
+      border-color: rgba(255, 107, 53, 0.2);
+      transform: translateY(-4px);
+    }
+
+    .feature-icon {
+      width: 48px;
+      height: 48px;
+      background: rgba(255, 107, 53, 0.1);
+      border: 1px solid rgba(255, 107, 53, 0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1.25rem;
+      clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+    }
+
+    .feature-icon svg {
+      width: 22px;
+      height: 22px;
+      stroke: var(--orange);
+      stroke-width: 2;
+      fill: none;
+    }
+
+    .feature-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.125rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-bottom: 0.5rem;
+    }
+
+    .feature-text {
+      font-size: 0.875rem;
+      color: var(--gray-400);
+      line-height: 1.6;
+    }
+
+    /* Trainers Section */
+    .trainers {
+      padding: 6rem 4rem;
+      background: var(--black);
+    }
+
+    .trainers-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .trainers-grid {
+      display: flex;
+      gap: 1.5rem;
+      max-width: 1200px;
+      margin: 0 auto;
+      justify-content: center;
+    }
+
+    .trainer-card {
+      flex: 1;
+      max-width: 280px;
+      background: rgba(255, 107, 53, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      padding: 1.75rem;
+      transition: all 0.3s;
+      clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 14px 100%, 0 calc(100% - 14px));
+    }
+
+    .trainer-card:hover {
+      border-color: rgba(255, 107, 53, 0.3);
+      transform: translateY(-5px);
+    }
+
+    .trainer-avatar {
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--orange), var(--orange-dark));
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 1.125rem;
+    }
+
+    .trainer-name {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      margin-bottom: 0.125rem;
+    }
+
+    .trainer-role {
+      font-size: 0.75rem;
+      color: var(--orange);
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+    }
+
+    .trainer-desc {
+      font-size: 0.8125rem;
+      color: var(--gray-400);
+      line-height: 1.5;
+    }
+
+    /* CTA Section */
+    .cta-section {
+      padding: 6rem 4rem;
+      background: linear-gradient(180deg, var(--gray-900) 0%, var(--black) 100%);
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .cta-section::before {
+      content: '';
+      position: absolute;
+      width: 600px;
+      height: 600px;
+      background: var(--orange);
+      border-radius: 50%;
+      filter: blur(150px);
+      opacity: 0.08;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .cta-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .cta-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 3.5rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+
+    .cta-title span {
+      color: var(--orange);
+    }
+
+    .cta-text {
+      font-size: 1.0625rem;
+      color: var(--gray-400);
+      margin-bottom: 2rem;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="logo">FORGE</div>
+    <div class="nav-links">
+      <a href="#">Features</a>
+      <a href="#">How It Works</a>
+      <a href="#">Trainers</a>
+    </div>
+    <button class="nav-cta">Join Waitlist</button>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        Launching Soon
+      </div>
+      <h1>
+        <span class="line">Your AI</span>
+        <span class="line">Personal</span>
+        <span class="line">Trainer.</span>
+      </h1>
+      <p class="hero-text">
+        Workouts built for your body, your goals, your schedule. 24/7 guidance from an AI that remembers everything and adapts as you grow.
+      </p>
+      <div class="cta-group">
+        <button class="cta-primary">Join the Waitlist</button>
+        <button class="cta-secondary">See How It Works</button>
+      </div>
+
+      <div class="trust-bar">
+        <div class="trust-stat">
+          <span class="trust-value">2,400+</span>
+          <span class="trust-label">On Waitlist</span>
+        </div>
+        <div class="trust-stat">
+          <span class="trust-value">24/7</span>
+          <span class="trust-label">Availability</span>
+        </div>
+        <div class="trust-stat">
+          <span class="trust-value">4</span>
+          <span class="trust-label">AI Trainers</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <div class="glow-orb glow-1"></div>
+      <div class="glow-orb glow-2"></div>
+      <div class="phone-mockup">
+        <div class="phone-screen">
+          <div class="screen-header">
+            <div>
+              <div class="screen-greeting">Good morning, Alex</div>
+              <div class="screen-title">Today's Workout</div>
+            </div>
+            <div class="screen-badge">Push Day</div>
+          </div>
+          <div class="workout-list">
+            <div class="workout-item">
+              <div class="workout-header">
+                <span class="workout-name">Bench Press</span>
+                <span class="workout-sets">4 × 8</span>
+              </div>
+              <div class="workout-detail">135 lbs / 90s rest</div>
+            </div>
+            <div class="workout-item">
+              <div class="workout-header">
+                <span class="workout-name">Incline Dumbbell</span>
+                <span class="workout-sets">3 × 12</span>
+              </div>
+              <div class="workout-detail">45 lbs / 60s rest</div>
+            </div>
+            <div class="workout-item">
+              <div class="workout-header">
+                <span class="workout-name">Cable Flyes</span>
+                <span class="workout-sets">3 × 15</span>
+              </div>
+              <div class="workout-detail">25 lbs / 45s rest</div>
+            </div>
+            <div class="workout-item">
+              <div class="workout-header">
+                <span class="workout-name">Tricep Pushdown</span>
+                <span class="workout-sets">3 × 12</span>
+              </div>
+              <div class="workout-detail">40 lbs / 60s rest</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="features-header">
+      <div class="features-title-group">
+        <p class="features-label">Why Forge</p>
+        <h2 class="features-title">Everything You Need<br>To <span>Train Smarter</span></h2>
+      </div>
+      <p class="features-subtitle">AI-powered coaching that adapts to you, available whenever you need it.</p>
+    </div>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+        </div>
+        <h3 class="feature-title">Smart Adaptation</h3>
+        <p class="feature-text">Your workouts evolve based on progress, energy, and feedback. Every session optimized for you.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+        </div>
+        <h3 class="feature-title">Always Available</h3>
+        <p class="feature-text">Questions at 2am? Your AI trainer is ready. No scheduling, no waiting, just answers.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">
+          <svg viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+        </div>
+        <h3 class="feature-title">Track Progress</h3>
+        <p class="feature-text">Every rep, set, and PR logged automatically. See your journey visualized.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="trainers">
+    <div class="trainers-header">
+      <p class="features-label">Choose Your Coach</p>
+      <h2 class="features-title">Meet Your <span>AI Training Team</span></h2>
+    </div>
+    <div class="trainers-grid">
+      <div class="trainer-card">
+        <div class="trainer-avatar">SS</div>
+        <div class="trainer-name">Sergeant Stone</div>
+        <div class="trainer-role">Drill Instructor</div>
+        <p class="trainer-desc">Intense, demanding, and pushes you hard. No excuses accepted.</p>
+      </div>
+      <div class="trainer-card">
+        <div class="trainer-avatar">M</div>
+        <div class="trainer-name">Maya</div>
+        <div class="trainer-role">Gentle & Supportive</div>
+        <p class="trainer-desc">Patient and encouraging. Celebrates every win with you.</p>
+      </div>
+      <div class="trainer-card">
+        <div class="trainer-avatar">M</div>
+        <div class="trainer-name">Mike</div>
+        <div class="trainer-role">Casual & Friendly</div>
+        <p class="trainer-desc">Like working out with your best friend who knows their stuff.</p>
+      </div>
+      <div class="trainer-card">
+        <div class="trainer-avatar">R</div>
+        <div class="trainer-name">Reese</div>
+        <div class="trainer-role">Serious & Focused</div>
+        <p class="trainer-desc">Professional and results-oriented. Quality over quantity.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="cta-content">
+      <h2 class="cta-title">Ready To <span>Train Smarter?</span></h2>
+      <p class="cta-text">Join thousands on the waitlist. Be first in line when we launch.</p>
+      <button class="cta-primary">Join the Waitlist</button>
+    </div>
+  </section>
+</body>
+</html>

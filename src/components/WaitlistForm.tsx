@@ -56,24 +56,31 @@ const WaitlistForm = () => {
 
   return (
     <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 w-full max-w-md">
-      <div className="relative flex-1">
-        <Mail className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground" />
+      <div className="relative flex-1 angular-border-sm focus-within:[--angular-border-color:hsl(var(--primary))]">
+        <label htmlFor="waitlist-email" className="sr-only">Email address</label>
+        <Mail className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-text-tertiary z-10" aria-hidden="true" />
         <input
           type="email"
+          id="waitlist-email"
+          name="email"
           placeholder="Enter your email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          className="w-full pl-12 pr-4 py-4 rounded-xl bg-secondary border border-border focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all text-foreground placeholder:text-muted-foreground"
+          className="relative z-10 w-full pl-12 pr-4 py-4 bg-transparent focus:outline-none transition-all text-foreground placeholder:text-text-tertiary font-barlow"
           disabled={isLoading}
+          aria-required="true"
+          autoComplete="email"
         />
       </div>
-      <button
-        type="submit"
-        disabled={isLoading}
-        className="px-8 py-4 rounded-xl bg-primary text-primary-foreground font-semibold hover:bg-primary/90 transition-all hover:scale-105 disabled:opacity-50 disabled:hover:scale-100 whitespace-nowrap"
-      >
-        {isLoading ? "Joining..." : "Join Waitlist"}
-      </button>
+      <div className="angular-border-md angular-bg-primary hover:[--angular-bg:hsl(var(--forge-orange-dark))] btn-neon">
+        <button
+          type="submit"
+          disabled={isLoading}
+          className="relative z-10 px-8 py-4 bg-transparent text-primary-foreground font-barlow-condensed font-bold uppercase tracking-wider transition-all disabled:opacity-50 whitespace-nowrap"
+        >
+          {isLoading ? "Joining..." : "Join Waitlist"}
+        </button>
+      </div>
     </form>
   );
 };

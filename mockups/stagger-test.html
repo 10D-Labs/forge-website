@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forge - Stagger Test</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --black: #000000;
+      --white: #FFFFFF;
+      --orange: #FF6600;
+      --gray-800: #1A1A1A;
+      --gray-400: #A1A1AA;
+    }
+
+    body {
+      font-family: 'Barlow', sans-serif;
+      background: var(--black);
+      color: var(--white);
+      min-height: 100vh;
+    }
+
+    section {
+      padding: 5rem 4rem;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    /* Staggered headline style */
+    .stagger-headline {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: clamp(3rem, 8vw, 5rem);
+      line-height: 0.95;
+      text-transform: uppercase;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+    }
+
+    .stagger-headline span {
+      display: block;
+    }
+
+    .stagger-headline span:nth-child(2) {
+      margin-left: 5%;
+      color: var(--orange);
+    }
+
+    .stagger-headline span:nth-child(3) {
+      margin-left: 10%;
+    }
+
+    .stagger-headline span:nth-child(4) {
+      margin-left: 15%;
+    }
+
+    /* Non-staggered for comparison */
+    .normal-headline {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: clamp(3rem, 8vw, 5rem);
+      line-height: 0.95;
+      text-transform: uppercase;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+    }
+
+    .normal-headline span {
+      display: block;
+    }
+
+    .normal-headline span:nth-child(2) {
+      color: var(--orange);
+    }
+
+    .section-text {
+      font-size: 1.125rem;
+      color: var(--gray-400);
+      max-width: 500px;
+      line-height: 1.6;
+    }
+
+    .label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--orange);
+      margin-bottom: 1rem;
+    }
+
+    /* Hero - definitely staggered */
+    .hero {
+      min-height: 60vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .hero .stagger-headline {
+      font-size: clamp(4rem, 10vw, 7rem);
+    }
+
+    /* Feature cards with staggered titles */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      margin-top: 3rem;
+    }
+
+    .feature-card {
+      background: var(--gray-800);
+      padding: 2rem;
+      clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px));
+    }
+
+    .feature-card .stagger-headline {
+      font-size: 1.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .feature-card .stagger-headline span:nth-child(2) {
+      margin-left: 10%;
+    }
+
+    .comparison {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4rem;
+    }
+
+    .comparison-label {
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gray-400);
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+  </style>
+</head>
+<body>
+  <!-- Hero - Staggered -->
+  <section class="hero">
+    <p class="label">Hero Section</p>
+    <h1 class="stagger-headline">
+      <span>Your</span>
+      <span>Personal</span>
+      <span>Trainer.</span>
+    </h1>
+    <p class="section-text">
+      Workouts built for you. Guidance available 24/7. An AI that remembers everything.
+    </p>
+  </section>
+
+  <!-- Side by side comparison -->
+  <section>
+    <p class="label">Side by Side Comparison</p>
+    <div class="comparison">
+      <div>
+        <p class="comparison-label">With Stagger</p>
+        <h2 class="stagger-headline">
+          <span>Train</span>
+          <span>Smarter</span>
+          <span>Daily.</span>
+        </h2>
+        <p class="section-text">Every workout adapts to your progress and energy levels.</p>
+      </div>
+      <div>
+        <p class="comparison-label">Without Stagger</p>
+        <h2 class="normal-headline">
+          <span>Train</span>
+          <span>Smarter</span>
+          <span>Daily.</span>
+        </h2>
+        <p class="section-text">Every workout adapts to your progress and energy levels.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section - Staggered -->
+  <section>
+    <p class="label">Features Section</p>
+    <h2 class="stagger-headline">
+      <span>Built</span>
+      <span>Different.</span>
+    </h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <h3 class="stagger-headline">
+          <span>Adaptive</span>
+          <span>Plans</span>
+        </h3>
+        <p class="section-text" style="font-size: 0.95rem;">Workouts that evolve with your progress.</p>
+      </div>
+      <div class="feature-card">
+        <h3 class="stagger-headline">
+          <span>Always</span>
+          <span>Available</span>
+        </h3>
+        <p class="section-text" style="font-size: 0.95rem;">Your AI coach never sleeps.</p>
+      </div>
+      <div class="feature-card">
+        <h3 class="stagger-headline">
+          <span>Your</span>
+          <span>Style</span>
+        </h3>
+        <p class="section-text" style="font-size: 0.95rem;">Pick your trainer personality.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Another section - Staggered -->
+  <section>
+    <p class="label">CTA Section</p>
+    <h2 class="stagger-headline">
+      <span>Ready</span>
+      <span>To</span>
+      <span>Start?</span>
+    </h2>
+    <p class="section-text">Join the waitlist and be first to train with AI.</p>
+  </section>
+
+  <!-- Too much? -->
+  <section>
+    <p class="label">Maybe Too Much?</p>
+    <h2 class="stagger-headline">
+      <span>Every</span>
+      <span>Single</span>
+      <span>Headline</span>
+      <span>Staggers.</span>
+    </h2>
+    <p class="section-text">At some point it might start feeling repetitive or forced. What do you think?</p>
+  </section>
+</body>
+</html>

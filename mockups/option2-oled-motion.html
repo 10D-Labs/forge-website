@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forge - OLED Dark + Motion</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --black: #000000;
+      --white: #FFFFFF;
+      --gray: #111111;
+      --gray-light: #1a1a1a;
+      --orange: #FF6B35;
+      --red: #FF3D00;
+      --blue: #007EF5;
+    }
+
+    body {
+      font-family: 'Barlow', sans-serif;
+      background: var(--black);
+      color: var(--white);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Nav */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.5rem 4rem;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      background: rgba(0,0,0,0.8);
+      backdrop-filter: blur(20px);
+    }
+
+    .logo {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      background: linear-gradient(135deg, var(--orange) 0%, var(--red) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .nav-cta {
+      background: linear-gradient(135deg, var(--orange) 0%, var(--red) 100%);
+      color: var(--white);
+      padding: 0.75rem 2rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 1rem;
+      letter-spacing: 0.1em;
+      border: none;
+      border-radius: 100px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .nav-cta:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 40px rgba(255, 107, 53, 0.4);
+    }
+
+    /* Hero */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      padding: 6rem 4rem;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+    }
+
+    .gradient-orb {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(100px);
+      animation: float 8s ease-in-out infinite;
+    }
+
+    .orb-1 {
+      width: 600px;
+      height: 600px;
+      background: linear-gradient(135deg, var(--orange) 0%, var(--red) 100%);
+      opacity: 0.15;
+      top: -200px;
+      right: -100px;
+    }
+
+    .orb-2 {
+      width: 400px;
+      height: 400px;
+      background: linear-gradient(135deg, var(--blue) 0%, #00D4FF 100%);
+      opacity: 0.1;
+      bottom: -100px;
+      left: -100px;
+      animation-delay: -4s;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0) scale(1); }
+      50% { transform: translateY(-30px) scale(1.05); }
+    }
+
+    .hero-content {
+      max-width: 900px;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(255, 107, 53, 0.1);
+      border: 1px solid rgba(255, 107, 53, 0.3);
+      padding: 0.5rem 1.25rem;
+      border-radius: 100px;
+      font-size: 0.875rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      margin-bottom: 2rem;
+      color: var(--orange);
+    }
+
+    .badge-dot {
+      width: 8px;
+      height: 8px;
+      background: var(--orange);
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    h1 {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: clamp(3.5rem, 8vw, 6rem);
+      font-weight: 700;
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 .gradient {
+      background: linear-gradient(135deg, var(--orange) 0%, var(--red) 50%, var(--orange) 100%);
+      background-size: 200% auto;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      animation: gradient-shift 3s ease-in-out infinite;
+    }
+
+    @keyframes gradient-shift {
+      0%, 100% { background-position: 0% center; }
+      50% { background-position: 100% center; }
+    }
+
+    .hero-text {
+      font-size: 1.25rem;
+      font-weight: 300;
+      line-height: 1.7;
+      color: rgba(255,255,255,0.6);
+      max-width: 600px;
+      margin: 0 auto 3rem;
+    }
+
+    .cta-group {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      margin-bottom: 4rem;
+    }
+
+    .cta-primary {
+      background: linear-gradient(135deg, var(--orange) 0%, var(--red) 100%);
+      color: var(--white);
+      padding: 1.25rem 3rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 1.125rem;
+      letter-spacing: 0.1em;
+      border: none;
+      border-radius: 100px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .cta-primary:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 20px 40px rgba(255, 107, 53, 0.3);
+    }
+
+    .cta-secondary {
+      background: transparent;
+      color: var(--white);
+      padding: 1.25rem 3rem;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      font-size: 1.125rem;
+      letter-spacing: 0.1em;
+      border: 1px solid rgba(255,255,255,0.2);
+      border-radius: 100px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .cta-secondary:hover {
+      background: rgba(255,255,255,0.05);
+      border-color: rgba(255,255,255,0.4);
+    }
+
+    /* Phone Mockup */
+    .phone-container {
+      perspective: 1000px;
+    }
+
+    .phone-mockup {
+      width: 300px;
+      height: 620px;
+      background: linear-gradient(180deg, var(--gray-light) 0%, var(--black) 100%);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 3rem;
+      margin: 0 auto;
+      position: relative;
+      box-shadow:
+        0 0 0 1px rgba(255,255,255,0.05),
+        0 50px 100px -20px rgba(0,0,0,0.8),
+        0 0 100px rgba(255, 107, 53, 0.1);
+      animation: phone-float 6s ease-in-out infinite;
+      transform: rotateX(5deg) rotateY(-5deg);
+    }
+
+    @keyframes phone-float {
+      0%, 100% { transform: rotateX(5deg) rotateY(-5deg) translateY(0); }
+      50% { transform: rotateX(5deg) rotateY(-5deg) translateY(-15px); }
+    }
+
+    .phone-screen {
+      margin: 0.75rem;
+      height: calc(100% - 1.5rem);
+      background: var(--black);
+      border-radius: 2.25rem;
+      padding: 2rem 1.5rem;
+      overflow: hidden;
+    }
+
+    .screen-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .screen-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+
+    .screen-subtitle {
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.4);
+    }
+
+    .workout-card {
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.15) 0%, rgba(255, 61, 0, 0.1) 100%);
+      border: 1px solid rgba(255, 107, 53, 0.2);
+      border-radius: 1rem;
+      padding: 1.25rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .workout-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .workout-name {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+
+    .workout-sets {
+      font-size: 0.75rem;
+      color: var(--orange);
+    }
+
+    .workout-detail {
+      font-size: 0.875rem;
+      color: rgba(255,255,255,0.5);
+    }
+
+    /* Features */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      padding: 6rem 4rem;
+      background: var(--gray);
+    }
+
+    .feature {
+      text-align: center;
+      padding: 2rem;
+    }
+
+    .feature-icon {
+      width: 64px;
+      height: 64px;
+      background: linear-gradient(135deg, rgba(255, 107, 53, 0.2) 0%, rgba(255, 61, 0, 0.1) 100%);
+      border: 1px solid rgba(255, 107, 53, 0.3);
+      border-radius: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1.5rem;
+      font-size: 1.5rem;
+    }
+
+    .feature-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.75rem;
+    }
+
+    .feature-text {
+      font-size: 0.9375rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="logo">FORGE</div>
+    <button class="nav-cta">JOIN WAITLIST</button>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-bg">
+      <div class="gradient-orb orb-1"></div>
+      <div class="gradient-orb orb-2"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        LAUNCHING SOON
+      </div>
+      <h1>
+        Your AI Trainer.<br>
+        <span class="gradient">Always On. Always Adapting.</span>
+      </h1>
+      <p class="hero-text">
+        Personalized workouts that evolve with you. 24/7 guidance from an AI that remembers
+        everything and never stops pushing you forward.
+      </p>
+      <div class="cta-group">
+        <button class="cta-primary">JOIN THE WAITLIST</button>
+        <button class="cta-secondary">SEE HOW IT WORKS</button>
+      </div>
+      <div class="phone-container">
+        <div class="phone-mockup">
+          <div class="phone-screen">
+            <div class="screen-header">
+              <div>
+                <div class="screen-title">TODAY'S WORKOUT</div>
+                <div class="screen-subtitle">Push Day / 45 min</div>
+              </div>
+            </div>
+            <div class="workout-card">
+              <div class="workout-header">
+                <span class="workout-name">BENCH PRESS</span>
+                <span class="workout-sets">4 x 8</span>
+              </div>
+              <div class="workout-detail">135 lbs / 90s rest</div>
+            </div>
+            <div class="workout-card">
+              <div class="workout-header">
+                <span class="workout-name">INCLINE DUMBBELL</span>
+                <span class="workout-sets">3 x 12</span>
+              </div>
+              <div class="workout-detail">45 lbs / 60s rest</div>
+            </div>
+            <div class="workout-card">
+              <div class="workout-header">
+                <span class="workout-name">CABLE FLYES</span>
+                <span class="workout-sets">3 x 15</span>
+              </div>
+              <div class="workout-detail">25 lbs / 45s rest</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <div class="feature-icon">AI</div>
+      <h3 class="feature-title">SMART ADAPTATION</h3>
+      <p class="feature-text">Your workouts evolve based on your progress, energy levels, and feedback.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-icon">24</div>
+      <h3 class="feature-title">ALWAYS AVAILABLE</h3>
+      <p class="feature-text">Questions at midnight? Your AI trainer is ready to help, anytime.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-icon">%</div>
+      <h3 class="feature-title">TRACK EVERYTHING</h3>
+      <p class="feature-text">Every rep, every set, every PR. Complete visibility into your progress.</p>
+    </div>
+  </section>
+</body>
+</html>
