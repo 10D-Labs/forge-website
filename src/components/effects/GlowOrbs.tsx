@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { motion, useReducedMotion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
 interface GlowOrbsProps {
@@ -7,6 +7,7 @@ interface GlowOrbsProps {
 }
 
 const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
+  const shouldReduceMotion = useReducedMotion();
   const orbConfigs = {
     hero: [
       {
@@ -93,12 +94,16 @@ const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
             background: `radial-gradient(circle, ${orb.color} 0%, transparent 70%)`,
             ...orb.position,
           }}
-          animate={orb.animation}
-          transition={{
-            duration: orb.duration,
-            repeat: Infinity,
-            ease: "easeInOut",
-          }}
+          animate={shouldReduceMotion ? undefined : orb.animation}
+          transition={
+            shouldReduceMotion
+              ? undefined
+              : {
+                  duration: orb.duration,
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }
+          }
         />
       ))}
     </div>

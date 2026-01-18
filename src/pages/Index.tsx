@@ -13,25 +13,20 @@ import ProblemSection from "@/components/ProblemSection";
 import CTASection from "@/components/CTASection";
 import SEOHead from "@/components/SEOHead";
 import StructuredData from "@/components/StructuredData";
+import { useScrollToElement } from "@/hooks/useScrollToElement";
 
 const Index = () => {
   const location = useLocation();
+  const { scrollToElement } = useScrollToElement();
 
   useEffect(() => {
     const params = new URLSearchParams(location.search);
     if (params.get("scrollTo") === "waitlist") {
       setTimeout(() => {
-        const element = document.getElementById("waitlist");
-        if (element) {
-          const elementRect = element.getBoundingClientRect();
-          const absoluteElementTop = elementRect.top + window.pageYOffset;
-          const middle =
-            absoluteElementTop - window.innerHeight / 2 + elementRect.height / 2;
-          window.scrollTo({ top: middle, behavior: "smooth" });
-        }
+        scrollToElement('waitlist', { center: true });
       }, 100);
     }
-  }, [location.search]);
+  }, [location.search, scrollToElement]);
 
   return (
     <div className="min-h-screen bg-background">

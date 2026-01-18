@@ -13,6 +13,8 @@ import CookieConsent from "./components/CookieConsent";
 const About = lazy(() => import("./pages/About"));
 const Blog = lazy(() => import("./pages/Blog"));
 const BlogPost = lazy(() => import("./pages/BlogPost"));
+const TopicPage = lazy(() => import("./pages/TopicPage"));
+const TrainerPage = lazy(() => import("./pages/TrainerPage"));
 const PrivacyPolicy = lazy(() => import("./pages/PrivacyPolicy"));
 const TermsOfService = lazy(() => import("./pages/TermsOfService"));
 const DeleteAccount = lazy(() => import("./pages/DeleteAccount"));
@@ -34,6 +36,8 @@ const App = () => (
               <Route path="/about" element={<About />} />
               <Route path="/blog" element={<Blog />} />
               <Route path="/blog/:slug" element={<BlogPost />} />
+              <Route path="/topics/:topic" element={<TopicPage />} />
+              <Route path="/trainers/:trainer" element={<TrainerPage />} />
               <Route path="/privacy-policy" element={<PrivacyPolicy />} />
               <Route path="/terms-of-service" element={<TermsOfService />} />
               <Route path="/delete-account" element={<DeleteAccount />} />

@@ -1,42 +1,10 @@
 import { motion, useInView } from "framer-motion";
 import { useRef, useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { staggerContainer, fadeInUp, cardHover } from "@/lib/animations";
-
-const trainers = [
-  {
-    name: "Sergeant Stone",
-    role: "Drill Instructor",
-    description:
-      "Intense, demanding, and pushes you hard. Stone doesn't care about your feelings — he cares about your results.",
-    vibe: "Pain is weakness leaving",
-    avatarUrl: "/trainers/sergeant-stone-drill-avatar.png",
-  },
-  {
-    name: "Maya",
-    role: "Gentle & Supportive",
-    description:
-      "Patient, encouraging, and always positive. Maya celebrates every win and helps you build confidence alongside strength.",
-    vibe: "Warm encouragement, zero judgment",
-    avatarUrl: "/trainers/maya-gentle-avatar.png",
-  },
-  {
-    name: "Mike",
-    role: "Casual & Friendly",
-    description:
-      "Relaxed and easy-going. Working out with Mike feels like training with your best friend who happens to know their stuff.",
-    vibe: "Like a gym buddy",
-    avatarUrl: "/trainers/mike-casual-avatar.png",
-  },
-  {
-    name: "Reese",
-    role: "Serious & Focused",
-    description:
-      "Professional and results-oriented. Reese keeps you focused on form and technique — quality over quantity, always.",
-    vibe: "All business, all results",
-    avatarUrl: "/trainers/reese-serious-avatar.png",
-  },
-];
+import { TRAINER_CAROUSEL, SCROLL_AMOUNTS } from "@/lib/constants";
+import { trainers } from "@/content/trainers";
 
 const MeetTheTrainersSection = () => {
   const sectionRef = useRef(null);
@@ -49,13 +17,13 @@ const MeetTheTrainersSection = () => {
   const checkScroll = () => {
     if (scrollRef.current) {
       const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
-      setCanScrollLeft(scrollLeft > 10);
-      setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 10);
+      setCanScrollLeft(scrollLeft > TRAINER_CAROUSEL.scrollThreshold);
+      setCanScrollRight(scrollLeft < scrollWidth - clientWidth - TRAINER_CAROUSEL.scrollThreshold);
 
       // Calculate active card index for pagination dots
-      const cardWidth = window.innerWidth < 768 ? 280 : 320;
-      const gap = 24;
-      const index = Math.round(scrollLeft / (cardWidth + gap));
+      const isMobile = window.innerWidth < TRAINER_CAROUSEL.mobileBreakpoint;
+      const cardWidth = isMobile ? TRAINER_CAROUSEL.cardWidthMobile : TRAINER_CAROUSEL.cardWidthDesktop;
+      const index = Math.round(scrollLeft / (cardWidth + TRAINER_CAROUSEL.gap));
       setActiveIndex(Math.min(index, trainers.length - 1));
     }
   };
@@ -69,10 +37,10 @@ const MeetTheTrainersSection = () => {
 
   const scrollToIndex = (index: number) => {
     if (scrollRef.current) {
-      const cardWidth = window.innerWidth < 768 ? 280 : 320;
-      const gap = 24;
+      const isMobile = window.innerWidth < TRAINER_CAROUSEL.mobileBreakpoint;
+      const cardWidth = isMobile ? TRAINER_CAROUSEL.cardWidthMobile : TRAINER_CAROUSEL.cardWidthDesktop;
       scrollRef.current.scrollTo({
-        left: index * (cardWidth + gap),
+        left: index * (cardWidth + TRAINER_CAROUSEL.gap),
         behavior: "smooth",
       });
     }
@@ -80,9 +48,8 @@ const MeetTheTrainersSection = () => {
 
   const scroll = (direction: "left" | "right") => {
     if (scrollRef.current) {
-      // Card width + gap: 280px + 24px on mobile, 320px + 24px on desktop
-      const isMobile = window.innerWidth < 768;
-      const scrollAmount = isMobile ? 304 : 344;
+      const isMobile = window.innerWidth < TRAINER_CAROUSEL.mobileBreakpoint;
+      const scrollAmount = isMobile ? SCROLL_AMOUNTS.mobile : SCROLL_AMOUNTS.desktop;
       scrollRef.current.scrollBy({
         left: direction === "left" ? -scrollAmount : scrollAmount,
         behavior: "smooth",
@@ -163,39 +130,47 @@ const MeetTheTrainersSection = () => {
                 key={trainer.name}
                 variants={fadeInUp}
                 whileHover={cardHover}
-                className="relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 flex-shrink-0 w-[280px] md:w-[320px] snap-center"
+                className="flex-shrink-0 w-[280px] md:w-[320px] snap-center"
               >
-                {/* Avatar */}
-                <div className="flex items-center gap-4 mb-4">
-                  <div
-                    className="w-14 h-14 p-[1px]"
-                    style={{
-                      background: "hsl(24 100% 50% / 0.4)",
-                      clipPath: "polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px))"
-                    }}
-                  >
-                    <img
-                      src={trainer.avatarUrl}
-                      alt={trainer.name}
-                      className="w-full h-full object-cover"
-                      style={{ clipPath: "polygon(0 0, calc(100% - 7px) 0, 100% 7px, 100% 100%, 7px 100%, 0 calc(100% - 7px))" }}
-                    />
-                  </div>
-                  <div>
-                    <h3 className="font-barlow-condensed font-bold text-lg uppercase tracking-wide">{trainer.name}</h3>
-                    <p className="text-sm text-text-tertiary font-barlow">{trainer.role}</p>
-                  </div>
-                </div>
-
-                {/* Description */}
-                <p className="text-text-secondary mb-4 leading-relaxed font-barlow">{trainer.description}</p>
-
-                {/* Vibe tag */}
-                <div
-                  className="inline-flex items-center px-3 py-1.5 angular-border-sm [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--primary)/0.3)]"
+                <Link
+                  to={`/trainers/${trainer.slug}`}
+                  className="block relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
                 >
-                  <span className="text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wide relative z-10">{trainer.vibe}</span>
-                </div>
+                  {/* Avatar */}
+                  <div className="flex items-center gap-4 mb-4">
+                    <div
+                      className="w-14 h-14 p-[1px]"
+                      style={{
+                        background: "hsl(24 100% 50% / 0.4)",
+                        clipPath: "polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px))"
+                      }}
+                    >
+                      <img
+                        src={trainer.avatarUrl}
+                        alt={trainer.name}
+                        loading="lazy"
+                        width="56"
+                        height="56"
+                        className="w-full h-full object-cover"
+                        style={{ clipPath: "polygon(0 0, calc(100% - 7px) 0, 100% 7px, 100% 100%, 7px 100%, 0 calc(100% - 7px))" }}
+                      />
+                    </div>
+                    <div>
+                      <h3 className="font-barlow-condensed font-bold text-lg uppercase tracking-wide">{trainer.name}</h3>
+                      <p className="text-sm text-text-tertiary font-barlow">{trainer.role}</p>
+                    </div>
+                  </div>
+
+                  {/* Description */}
+                  <p className="text-text-secondary mb-4 leading-relaxed font-barlow">{trainer.description}</p>
+
+                  {/* Vibe tag */}
+                  <div
+                    className="inline-flex items-center px-3 py-1.5 angular-border-sm [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--primary)/0.3)]"
+                  >
+                    <span className="text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wide relative z-10">{trainer.vibe}</span>
+                  </div>
+                </Link>
               </motion.article>
             ))}
           </motion.div>

@@ -1,4 +1,4 @@
-import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
+import { motion, useMotionValue, useSpring, useTransform, useReducedMotion } from "framer-motion";
 import { useRef, useState, useEffect } from "react";
 import appMockupHero from "@/assets/app-mockup-hero-new.webp";
 
@@ -14,6 +14,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   const ref = useRef<HTMLDivElement>(null);
   const [imageLoaded, setImageLoaded] = useState(false);
   const [isTouchDevice, setIsTouchDevice] = useState(false);
+  const shouldReduceMotion = useReducedMotion();
 
   // Detect touch device
   useEffect(() => {
@@ -76,27 +77,23 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
               "radial-gradient(ellipse at center, hsl(var(--primary) / 0.4) 0%, transparent 70%)",
             transform: "translateZ(-50px) scale(1.3)",
           }}
-          animate={{
-            opacity: [0.4, 0.6, 0.4],
-          }}
-          transition={{
-            duration: 4,
-            repeat: Infinity,
-            ease: "easeInOut",
-          }}
+          animate={shouldReduceMotion ? { opacity: 0.5 } : { opacity: [0.4, 0.6, 0.4] }}
+          transition={
+            shouldReduceMotion
+              ? undefined
+              : { duration: 4, repeat: Infinity, ease: "easeInOut" }
+          }
         />
 
         {/* Phone frame wrapper */}
         <motion.div
           className="relative"
-          animate={{
-            y: [0, -15, 0],
-          }}
-          transition={{
-            duration: 6,
-            repeat: Infinity,
-            ease: "easeInOut",
-          }}
+          animate={shouldReduceMotion ? undefined : { y: [0, -15, 0] }}
+          transition={
+            shouldReduceMotion
+              ? undefined
+              : { duration: 6, repeat: Infinity, ease: "easeInOut" }
+          }
         >
           {/* Blur placeholder */}
           <img
@@ -137,14 +134,16 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
                 "linear-gradient(135deg, transparent 40%, hsl(0 0% 100% / 0.1) 50%, transparent 60%)",
               transform: "translateZ(25px)",
             }}
-            animate={{
-              backgroundPosition: ["200% 200%", "-200% -200%"],
-            }}
-            transition={{
-              duration: 8,
-              repeat: Infinity,
-              ease: "linear",
-            }}
+            animate={
+              shouldReduceMotion
+                ? undefined
+                : { backgroundPosition: ["200% 200%", "-200% -200%"] }
+            }
+            transition={
+              shouldReduceMotion
+                ? undefined
+                : { duration: 8, repeat: Infinity, ease: "linear" }
+            }
           />
         </motion.div>
 
@@ -156,16 +155,16 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
               "radial-gradient(circle, hsl(var(--forge-cyan) / 0.3) 0%, transparent 70%)",
             transform: "translateZ(40px)",
           }}
-          animate={{
-            y: [0, -10, 0],
-            x: [0, 5, 0],
-            scale: [1, 1.1, 1],
-          }}
-          transition={{
-            duration: 5,
-            repeat: Infinity,
-            ease: "easeInOut",
-          }}
+          animate={
+            shouldReduceMotion
+              ? undefined
+              : { y: [0, -10, 0], x: [0, 5, 0], scale: [1, 1.1, 1] }
+          }
+          transition={
+            shouldReduceMotion
+              ? undefined
+              : { duration: 5, repeat: Infinity, ease: "easeInOut" }
+          }
         />
 
         <motion.div
@@ -175,17 +174,16 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
               "radial-gradient(circle, hsl(var(--forge-purple) / 0.3) 0%, transparent 70%)",
             transform: "translateZ(30px)",
           }}
-          animate={{
-            y: [0, 8, 0],
-            x: [0, -5, 0],
-            scale: [1, 1.15, 1],
-          }}
-          transition={{
-            duration: 4,
-            repeat: Infinity,
-            ease: "easeInOut",
-            delay: 1,
-          }}
+          animate={
+            shouldReduceMotion
+              ? undefined
+              : { y: [0, 8, 0], x: [0, -5, 0], scale: [1, 1.15, 1] }
+          }
+          transition={
+            shouldReduceMotion
+              ? undefined
+              : { duration: 4, repeat: Infinity, ease: "easeInOut", delay: 1 }
+          }
         />
       </motion.div>
     </motion.div>

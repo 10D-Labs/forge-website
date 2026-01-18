@@ -2,11 +2,13 @@ import { useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
+import { useScrollToElement } from "@/hooks/useScrollToElement";
 
 const Header = () => {
   const location = useLocation();
   const navigate = useNavigate();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const { scrollToElement } = useScrollToElement();
 
   const navLinks = [
     { href: "/", label: "Home" },
@@ -16,22 +18,12 @@ const Header = () => {
 
   const closeMenu = () => setIsMenuOpen(false);
 
-  const scrollToWaitlist = () => {
-    const element = document.getElementById('waitlist');
-    if (element) {
-      const elementRect = element.getBoundingClientRect();
-      const absoluteElementTop = elementRect.top + window.pageYOffset;
-      const middle = absoluteElementTop - (window.innerHeight / 2) + (elementRect.height / 2);
-      window.scrollTo({ top: middle, behavior: 'smooth' });
-    }
-  };
-
   const handleWaitlistClick = (e: React.MouseEvent) => {
     e.preventDefault();
     if (location.pathname !== "/") {
       navigate("/?scrollTo=waitlist");
     } else {
-      scrollToWaitlist();
+      scrollToElement('waitlist', { center: true });
     }
   };
 

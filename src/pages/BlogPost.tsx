@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import SEOHead from "@/components/SEOHead";
 import StructuredData from "@/components/StructuredData";
+import RelatedPosts from "@/components/blog/RelatedPosts";
 import { blogPosts } from "@/content/blog";
 import { Calendar, User, ArrowLeft } from "lucide-react";
 
@@ -143,26 +144,31 @@ const BlogPost = () => {
                 <div className="h-4 bg-surface-2 w-5/6" />
               </div>
             ) : post ? (
-              <article itemScope itemType="https://schema.org/BlogPosting">
-                <div
-                  className="prose prose-invert max-w-none
-                    prose-headings:font-barlow-condensed prose-headings:font-bold prose-headings:uppercase prose-headings:tracking-wide prose-headings:text-foreground
-                    prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
-                    prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
-                    prose-p:text-zinc-300 prose-p:font-barlow prose-p:leading-relaxed
-                    prose-strong:text-foreground prose-strong:font-semibold
-                    prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-                    prose-li:text-zinc-300 prose-li:font-barlow
-                    prose-ul:text-zinc-300
-                    prose-ol:text-zinc-300
-                    prose-blockquote:border-l-primary prose-blockquote:text-zinc-300 prose-blockquote:font-barlow prose-blockquote:italic
-                    prose-code:text-primary prose-code:bg-surface-2 prose-code:px-1 prose-code:py-0.5 prose-code:rounded
-                    prose-pre:bg-surface-2 prose-pre:border prose-pre:border-border"
-                  itemProp="articleBody"
-                >
-                  <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
-                </div>
-              </article>
+              <>
+                <article itemScope itemType="https://schema.org/BlogPosting">
+                  <div
+                    className="prose prose-invert max-w-none
+                      prose-headings:font-barlow-condensed prose-headings:font-bold prose-headings:uppercase prose-headings:tracking-wide prose-headings:text-foreground
+                      prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
+                      prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
+                      prose-p:text-zinc-300 prose-p:font-barlow prose-p:leading-relaxed
+                      prose-strong:text-foreground prose-strong:font-semibold
+                      prose-a:text-primary prose-a:no-underline hover:prose-a:underline
+                      prose-li:text-zinc-300 prose-li:font-barlow
+                      prose-ul:text-zinc-300
+                      prose-ol:text-zinc-300
+                      prose-blockquote:border-l-primary prose-blockquote:text-zinc-300 prose-blockquote:font-barlow prose-blockquote:italic
+                      prose-code:text-primary prose-code:bg-surface-2 prose-code:px-1 prose-code:py-0.5 prose-code:rounded
+                      prose-pre:bg-surface-2 prose-pre:border prose-pre:border-border"
+                    itemProp="articleBody"
+                  >
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
+                  </div>
+                </article>
+
+                {/* Related Posts */}
+                <RelatedPosts currentSlug={post.slug} />
+              </>
             ) : null}
           </div>
         </section>
