@@ -13,7 +13,7 @@ export const SCROLL_AMOUNTS = {
 
 // SEO constants
 export const BASE_URL = 'https://forgetrainer.ai';
-export const DEFAULT_OG_IMAGE = `${BASE_URL}/icon-512.png`;
+export const DEFAULT_OG_IMAGE = `${BASE_URL}/og-image.png`;
 export const SITE_NAME = 'Forge';
 export const DEFAULT_AUTHOR = 'The Forge Team';
 

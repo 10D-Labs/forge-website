@@ -8,7 +8,7 @@ export const trainers: Trainer[] = [
     description:
       "8 years active duty, 3 years as a drill instructor. Stone doesn't care about your feelings — he cares about your results.",
     vibe: "Pain builds character",
-    avatarUrl: "/trainers/sergeant-stone-drill-avatar.png",
+    avatarUrl: "/trainers/sergeant-stone-drill-avatar.webp",
     fullDescription:
       "Sergeant Stone spent 8 years in active military duty and 3 years breaking recruits as a drill instructor before bringing that same intensity to civilian fitness. At 6'2\" and 230 lbs of muscle (385 bench, 495 squat, 545 deadlift), Stone doesn't just talk — he walks. His approach is 20% tough love, 80% hard-ass. He sees weakness as something to destroy, not coddle. He believes pain builds character. Stone will call out your excuses before you finish making them, hold you accountable with zero mercy, and remind you that discipline is freedom. He's for those who need someone to push them past what they think their limits are.",
     trainingStyle: [
@@ -40,7 +40,7 @@ export const trainers: Trainer[] = [
     description:
       "Patient, encouraging, and always positive. Maya celebrates every win and helps you build confidence alongside strength.",
     vibe: "Warm encouragement, zero judgment",
-    avatarUrl: "/trainers/maya-gentle-avatar.png",
+    avatarUrl: "/trainers/maya-gentle-avatar.webp",
     fullDescription:
       "Maya creates a safe, judgment-free space for your fitness journey. She understands that starting a fitness routine can be intimidating, and she's there to celebrate every small victory along the way. Maya focuses on building sustainable habits and self-compassion, believing that lasting fitness comes from kindness to yourself. She'll never make you feel bad about a missed workout — instead, she'll help you understand why it happened and how to do better next time.",
     trainingStyle: [
@@ -70,7 +70,7 @@ export const trainers: Trainer[] = [
     description:
       "Relaxed and easy-going. Working out with Mike feels like training with your best friend who happens to know their stuff.",
     vibe: "Like a gym buddy",
-    avatarUrl: "/trainers/mike-casual-avatar.png",
+    avatarUrl: "/trainers/mike-casual-avatar.webp",
     fullDescription:
       "Mike is the gym buddy everyone wishes they had. He keeps things light, makes working out fun, and somehow makes burpees feel less awful. But don't let his casual demeanor fool you — Mike knows his stuff and will make sure you're progressing toward your goals. He's perfect for people who want effective training without the intimidation factor, and who believe fitness should be enjoyable, not a chore.",
     trainingStyle: [
@@ -100,7 +100,7 @@ export const trainers: Trainer[] = [
     description:
       "Professional and results-oriented. Reese keeps you focused on form and technique — quality over quantity, always.",
     vibe: "All business, all results",
-    avatarUrl: "/trainers/reese-serious-avatar.png",
+    avatarUrl: "/trainers/reese-serious-avatar.webp",
     fullDescription:
       "Reese is the technical expert you turn to when you want to train with precision. Every rep matters, every movement is deliberate, and nothing is left to chance. Reese brings a professional, focused approach to training, emphasizing perfect form, proper progression, and evidence-based methods. If you're serious about optimizing your training and want a trainer who geeks out on the details as much as you do, Reese is your match.",
     trainingStyle: [

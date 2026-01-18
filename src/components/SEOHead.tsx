@@ -23,7 +23,7 @@ const SEOHead = ({
   author,
   keywords,
   noindex = false,
-  ogImage = "https://forgetrainer.ai/icon-512.png",
+  ogImage = "https://forgetrainer.ai/og-image.png",
 }: SEOHeadProps) => {
   const baseUrl = "https://forgetrainer.ai";
   const fullUrl = `${baseUrl}${canonicalPath}`;
