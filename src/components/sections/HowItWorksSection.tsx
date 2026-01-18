@@ -112,13 +112,25 @@ const HowItWorksSection = () => {
 
                 <h3 className="text-h4 font-semibold mb-3">{step.title}</h3>
                 <p className="text-muted-foreground leading-relaxed">{step.description}</p>
+
+                {/* Waitlist Form after Step 1 on mobile only */}
+                {index === 0 && (
+                  <motion.div
+                    className="max-w-md mx-auto mt-8 md:hidden"
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+                    transition={{ duration: 0.6, delay: 0.4 }}
+                  >
+                    <WaitlistForm />
+                  </motion.div>
+                )}
               </motion.div>
             ))}
           </motion.div>
 
-          {/* Waitlist Form */}
+          {/* Waitlist Form - desktop only */}
           <motion.div
-            className="max-w-md mx-auto mt-12"
+            className="max-w-md mx-auto mt-12 hidden md:block"
             initial={{ opacity: 0, y: 20 }}
             animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
             transition={{ duration: 0.6, delay: 0.8 }}

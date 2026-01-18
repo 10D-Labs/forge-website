@@ -8,13 +8,13 @@ import { staggerContainer, fadeInUp, heroContent } from "@/lib/animations";
 const HeroSection = () => {
   return (
     <section
-      className="relative min-h-screen flex items-center pt-20 overflow-hidden bg-surface-0"
+      className="relative pt-20 overflow-hidden bg-surface-0"
       aria-labelledby="hero-heading"
       itemScope
       itemType="https://schema.org/WPHeader"
     >
       {/* Background Effects */}
-      <GridBackground fadeDirection="bottom" opacity={0.03} />
+      <GridBackground fadeDirection="bottom" opacity={0.08} />
       <GlowOrbs variant="hero" />
 
       <div className="container relative z-10 py-16 md:py-24">
@@ -86,7 +86,7 @@ const HeroSection = () => {
 
       {/* Scroll Indicator */}
       <motion.div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
+        className="flex flex-col items-center gap-2 pb-8 pt-4"
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 1.5, duration: 0.6 }}

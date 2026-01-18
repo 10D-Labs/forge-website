@@ -1,5 +1,5 @@
 import { motion, useInView } from "framer-motion";
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { staggerContainer, fadeInUp, cardHover } from "@/lib/animations";
 
@@ -44,18 +44,45 @@ const MeetTheTrainersSection = () => {
   const isInView = useInView(sectionRef, { once: true, amount: 0.2 });
   const [canScrollLeft, setCanScrollLeft] = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(true);
+  const [activeIndex, setActiveIndex] = useState(0);
 
   const checkScroll = () => {
     if (scrollRef.current) {
       const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
-      setCanScrollLeft(scrollLeft > 0);
+      setCanScrollLeft(scrollLeft > 10);
       setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 10);
+
+      // Calculate active card index for pagination dots
+      const cardWidth = window.innerWidth < 768 ? 280 : 320;
+      const gap = 24;
+      const index = Math.round(scrollLeft / (cardWidth + gap));
+      setActiveIndex(Math.min(index, trainers.length - 1));
+    }
+  };
+
+  // Check scroll position on mount and window resize
+  useEffect(() => {
+    checkScroll();
+    window.addEventListener("resize", checkScroll);
+    return () => window.removeEventListener("resize", checkScroll);
+  }, []);
+
+  const scrollToIndex = (index: number) => {
+    if (scrollRef.current) {
+      const cardWidth = window.innerWidth < 768 ? 280 : 320;
+      const gap = 24;
+      scrollRef.current.scrollTo({
+        left: index * (cardWidth + gap),
+        behavior: "smooth",
+      });
     }
   };
 
   const scroll = (direction: "left" | "right") => {
     if (scrollRef.current) {
-      const scrollAmount = 360;
+      // Card width + gap: 280px + 24px on mobile, 320px + 24px on desktop
+      const isMobile = window.innerWidth < 768;
+      const scrollAmount = isMobile ? 304 : 344;
       scrollRef.current.scrollBy({
         left: direction === "left" ? -scrollAmount : scrollAmount,
         behavior: "smooth",
@@ -96,39 +123,35 @@ const MeetTheTrainersSection = () => {
           </motion.h2>
           <motion.p variants={fadeInUp} className="text-text-secondary text-lg font-barlow">
             Different personalities for different motivations. Pick the coach that matches your
-            style — or switch anytime.
+            style, and switch anytime.
           </motion.p>
         </motion.header>
 
         {/* Trainer Cards Carousel */}
         <div className="relative">
-          {/* Navigation Arrows */}
-          <button
-            onClick={() => scroll("left")}
-            className={`absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 z-20 w-12 h-12 angular-border-sm flex items-center justify-center transition-opacity ${
-              canScrollLeft ? "opacity-100 hover:[&::before]:bg-primary/50" : "opacity-0 pointer-events-none"
-            }`}
-            aria-label="Scroll left"
-          >
-            <ChevronLeft className="w-6 h-6 relative z-10" />
-          </button>
-          <button
-            onClick={() => scroll("right")}
-            className={`absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 z-20 w-12 h-12 angular-border-sm flex items-center justify-center transition-opacity ${
-              canScrollRight ? "opacity-100 hover:[&::before]:bg-primary/50" : "opacity-0 pointer-events-none"
-            }`}
-            aria-label="Scroll right"
-          >
-            <ChevronRight className="w-6 h-6 relative z-10" />
-          </button>
-
-          {/* Gradient fades */}
-          <div className={`absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-r from-surface-1 to-transparent z-10 pointer-events-none transition-opacity ${canScrollLeft ? "opacity-100" : "opacity-0"}`} />
-          <div className={`absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-surface-1 to-transparent z-10 pointer-events-none transition-opacity ${canScrollRight ? "opacity-100" : "opacity-0"}`} />
+          {/* Navigation Arrows - desktop only */}
+          {canScrollLeft && (
+            <button
+              onClick={() => scroll("left")}
+              className="hidden md:flex absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 z-20 w-12 h-12 angular-border-sm items-center justify-center hover:[&::before]:bg-primary/50"
+              aria-label="Scroll left"
+            >
+              <ChevronLeft className="w-6 h-6 relative z-10" />
+            </button>
+          )}
+          {canScrollRight && (
+            <button
+              onClick={() => scroll("right")}
+              className="hidden md:flex absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 z-20 w-12 h-12 angular-border-sm items-center justify-center hover:[&::before]:bg-primary/50"
+              aria-label="Scroll right"
+            >
+              <ChevronRight className="w-6 h-6 relative z-10" />
+            </button>
+          )}
 
           <motion.div
             ref={scrollRef}
-            className="flex gap-6 overflow-x-auto py-6 -my-6 scrollbar-hide"
+            className="flex gap-6 overflow-x-auto py-6 -my-6 px-[calc(50vw-140px)] md:px-0 scrollbar-hide snap-x snap-mandatory"
             style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
             initial="hidden"
             animate={isInView ? "visible" : "hidden"}
@@ -140,7 +163,7 @@ const MeetTheTrainersSection = () => {
                 key={trainer.name}
                 variants={fadeInUp}
                 whileHover={cardHover}
-                className="relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 flex-shrink-0 w-[300px] md:w-[340px]"
+                className="relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 flex-shrink-0 w-[280px] md:w-[320px] snap-center"
               >
                 {/* Avatar */}
                 <div className="flex items-center gap-4 mb-4">
@@ -176,6 +199,22 @@ const MeetTheTrainersSection = () => {
               </motion.article>
             ))}
           </motion.div>
+
+          {/* Pagination dots - mobile only */}
+          <div className="flex md:hidden justify-center gap-2 mt-6">
+            {trainers.map((_, index) => (
+              <button
+                key={index}
+                onClick={() => scrollToIndex(index)}
+                className={`w-2 h-2 rounded-full transition-all ${
+                  activeIndex === index
+                    ? "bg-primary w-6"
+                    : "bg-foreground/30 hover:bg-foreground/50"
+                }`}
+                aria-label={`Go to trainer ${index + 1}`}
+              />
+            ))}
+          </div>
         </div>
 
         {/* Coming soon note */}

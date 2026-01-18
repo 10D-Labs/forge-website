@@ -1,5 +1,5 @@
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 import appMockupHero from "@/assets/app-mockup-hero-new.webp";
 
 // Blur placeholder for loading
@@ -13,6 +13,12 @@ interface Hero3DPhoneProps {
 const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   const ref = useRef<HTMLDivElement>(null);
   const [imageLoaded, setImageLoaded] = useState(false);
+  const [isTouchDevice, setIsTouchDevice] = useState(false);
+
+  // Detect touch device
+  useEffect(() => {
+    setIsTouchDevice('ontouchstart' in window || navigator.maxTouchPoints > 0);
+  }, []);
 
   // Mouse position values for 3D tilt effect
   const mouseX = useMotionValue(0);
@@ -24,7 +30,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   const rotateY = useSpring(useTransform(mouseX, [-0.5, 0.5], [-8, 8]), springConfig);
 
   const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (!ref.current) return;
+    if (!ref.current || isTouchDevice) return;
     const rect = ref.current.getBoundingClientRect();
     const centerX = rect.left + rect.width / 2;
     const centerY = rect.top + rect.height / 2;
@@ -57,8 +63,8 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
       <motion.div
         className="relative"
         style={{
-          rotateX,
-          rotateY,
+          rotateX: isTouchDevice ? 0 : rotateX,
+          rotateY: isTouchDevice ? 0 : rotateY,
           transformStyle: "preserve-3d",
         }}
       >
