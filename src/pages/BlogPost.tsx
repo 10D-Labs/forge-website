@@ -62,6 +62,7 @@ const BlogPost = () => {
             publishedTime={post.date}
             author={post.author}
             keywords={`${post.title}, fitness tips, AI trainer, workout advice, personal training`}
+            markdownUrl={`/markdown/blog/${post.slug}.md`}
           />
           <StructuredData
             type="article"

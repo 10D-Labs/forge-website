@@ -11,6 +11,7 @@ interface SEOHeadProps {
   keywords?: string;
   noindex?: boolean;
   ogImage?: string;
+  markdownUrl?: string; // For AI crawler discovery
 }
 
 const SEOHead = ({
@@ -24,6 +25,7 @@ const SEOHead = ({
   keywords,
   noindex = false,
   ogImage = "https://forgetrainer.ai/og-image.png",
+  markdownUrl,
 }: SEOHeadProps) => {
   const baseUrl = "https://forgetrainer.ai";
   const fullUrl = `${baseUrl}${canonicalPath}`;
@@ -98,11 +100,25 @@ const SEOHead = ({
     }
     canonical.setAttribute("href", fullUrl);
 
+    // Update markdown discovery link (for AI crawlers)
+    let markdownLink = document.querySelector('link[rel="alternate"][type="text/markdown"]');
+    if (markdownUrl) {
+      if (!markdownLink) {
+        markdownLink = document.createElement("link");
+        markdownLink.setAttribute("rel", "alternate");
+        markdownLink.setAttribute("type", "text/markdown");
+        document.head.appendChild(markdownLink);
+      }
+      markdownLink.setAttribute("href", `${baseUrl}${markdownUrl}`);
+    } else if (markdownLink) {
+      markdownLink.remove();
+    }
+
     return () => {
       // Reset to defaults on unmount
       document.title = "Forge - Your Personal AI Fitness Trainer | Custom Workouts & 24/7 Guidance";
     };
-  }, [fullTitle, truncatedDescription, fullUrl, ogType, publishedTime, modifiedTime, author, keywords, noindex, ogImage]);
+  }, [fullTitle, truncatedDescription, fullUrl, ogType, publishedTime, modifiedTime, author, keywords, noindex, ogImage, markdownUrl]);
 
   return null;
 };

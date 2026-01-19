@@ -29,6 +29,7 @@ const TrainerPage = () => {
         description={`Meet ${trainer.name}, your ${trainer.role.toLowerCase()} AI personal trainer. ${trainer.description} Train with ${trainer.name} on Forge.`}
         canonicalPath={`/trainers/${trainer.slug}`}
         keywords={`${trainer.name}, AI personal trainer, ${trainer.role}, fitness coach, virtual trainer, ${trainer.vibe}`}
+        markdownUrl={`/markdown/trainers/${trainer.slug}.md`}
       />
       <StructuredData
         type="breadcrumb"
