@@ -117,7 +117,7 @@ export const trainers: Trainer[] = [
       "Anyone who values precision over intensity",
     ],
     samplePhrases: [
-      "Let's analyze your form on that last set.",
+      "Here's how to tell if your form is right.",
       "Your numbers are trending up — here's why that matters.",
       "Quality over quantity. One perfect rep beats ten sloppy ones.",
       "I've adjusted your program based on this week's performance.",

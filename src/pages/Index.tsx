@@ -48,6 +48,11 @@ const homepageFAQs = [
       "Most fitness apps offer generic workout programs that aren't tailored to you. Forge creates truly personalized plans and provides real-time coaching that adapts as you progress. Plus, you can choose from four distinct trainer personalities - from tough love to gentle encouragement - so you get guidance that matches how you like to train.",
   },
   {
+    question: "How does Forge help with exercise form?",
+    answer:
+      "Every exercise includes detailed instructions, form cues, and common mistakes to avoid. You can ask your AI trainer questions like 'How do I keep my back straight during deadlifts?' and get specific guidance. No filming required - Forge teaches proper form through clear explanations you can reference anytime, even mid-workout.",
+  },
+  {
     question: "Can I choose my trainer's personality?",
     answer:
       "Yes! Forge offers four distinct AI trainers: Sergeant Stone for tough love and no excuses, Maya for supportive and encouraging guidance, Mike for a casual gym buddy vibe, and Reese for data-driven technical coaching. You can switch trainers anytime to find the style that motivates you best.",

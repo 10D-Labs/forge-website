@@ -88,6 +88,9 @@ Forge is a personal trainer in your pocket — an AI-powered fitness app that cr
 ### How is Forge different from other fitness apps?
 Most fitness apps offer generic workout programs that aren't tailored to you. Forge creates truly personalized plans and provides real-time coaching that adapts as you progress.
 
+### How does Forge help with exercise form?
+Every exercise includes detailed instructions, form cues, and common mistakes to avoid. You can ask your AI trainer questions like "How do I keep my back straight during deadlifts?" and get specific guidance. No filming required — Forge teaches proper form through clear explanations you can reference anytime, even mid-workout.
+
 ### Can I choose my trainer's personality?
 Yes! Forge offers four distinct AI trainers: Sergeant Stone (tough love), Maya (supportive), Mike (casual), and Reese (data-driven). You can switch trainers anytime.
 

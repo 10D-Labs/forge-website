@@ -41,7 +41,7 @@ const features: Feature[] = [
     icon: Library,
     title: "Huge Exercise Library",
     description:
-      "Access hundreds of exercises covering every muscle group, with step-by-step instructions and proper form cues.",
+      "Access hundreds of exercises with step-by-step instructions, form cues, and common mistakes, so you get it right every time.",
   },
   {
     icon: Dumbbell,
