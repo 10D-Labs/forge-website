@@ -20,6 +20,12 @@ interface Feature {
 
 const features: Feature[] = [
   {
+    icon: Users,
+    title: "Choose Your Trainer",
+    description:
+      "Pick from different trainer personalities like gentle cheerleader, drill instructor, gym buddy, or focused coach.",
+  },
+  {
     icon: ClipboardList,
     title: "Custom Workout Plans",
     description:
@@ -30,12 +36,6 @@ const features: Feature[] = [
     title: "Chat With Your Trainer",
     description:
       "Ask questions about workouts, nutrition, form, or anything fitness-related. Get instant answers, available 24/7.",
-  },
-  {
-    icon: Users,
-    title: "Choose Your Trainer",
-    description:
-      "Pick from different trainer personalities like gentle cheerleader, drill instructor, gym buddy, or focused coach.",
   },
   {
     icon: Library,
