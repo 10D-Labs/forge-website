@@ -53,7 +53,7 @@ const HeroSection = () => {
               variants={fadeInUp}
               itemProp="description"
             >
-              Workouts built for you. Guidance available 24/7. An AI that remembers everything and adapts to your progress.
+              Personal training without the $500/month price tag. Custom workouts, real guidance, and an AI that actually knows you.
             </motion.p>
 
             {/* Waitlist Form */}
