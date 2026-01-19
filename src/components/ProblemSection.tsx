@@ -153,12 +153,10 @@ const ProblemSection = () => {
             animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            <div className="flex items-center gap-2 justify-center p-3 rounded-lg bg-destructive/10">
-              <X className="w-4 h-4 text-destructive" aria-hidden="true" />
+            <div className="flex items-center justify-center p-3 rounded-lg bg-destructive/10">
               <span className="font-barlow-condensed text-sm font-bold uppercase tracking-wide text-destructive">Traditional</span>
             </div>
-            <div className="flex items-center gap-2 justify-center p-3 rounded-lg bg-primary/10">
-              <Check className="w-4 h-4 text-primary" aria-hidden="true" />
+            <div className="flex items-center justify-center p-3 rounded-lg bg-primary/10">
               <span className="font-barlow-condensed text-sm font-bold uppercase tracking-wide text-primary">Forge</span>
             </div>
           </motion.div>
