@@ -144,48 +144,59 @@ const ProblemSection = () => {
           </motion.article>
         </div>
 
-        {/* Mobile: Interleaved comparison pairs */}
-        <div className="md:hidden max-w-lg mx-auto space-y-4">
-          {/* Mobile headers */}
+        {/* Mobile: Unified column cards (matches desktop layout) */}
+        <div className="md:hidden grid grid-cols-2 gap-3 max-w-lg mx-auto">
+          {/* Traditional Column */}
           <motion.div
-            className="grid grid-cols-2 gap-3 mb-6"
-            initial={{ opacity: 0, y: 20 }}
-            animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+            className="rounded-xl border border-destructive/20 bg-destructive/[0.03] overflow-hidden"
+            initial={{ opacity: 0, x: -20 }}
+            animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -20 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            <div className="flex items-center justify-center p-3 rounded-lg bg-destructive/10">
+            <div className="p-3 bg-destructive/10 text-center">
               <span className="font-barlow-condensed text-sm font-bold uppercase tracking-wide text-destructive">Traditional</span>
             </div>
-            <div className="flex items-center justify-center p-3 rounded-lg bg-primary/10">
-              <span className="font-barlow-condensed text-sm font-bold uppercase tracking-wide text-primary">Forge</span>
+            <div className="p-2 space-y-2">
+              {problems.map((problem, index) => (
+                <motion.div
+                  key={index}
+                  className="p-2.5 rounded-lg bg-black/30 flex items-start gap-2"
+                  initial={{ opacity: 0 }}
+                  animate={isInView ? { opacity: 1 } : { opacity: 0 }}
+                  transition={{ delay: 0.4 + index * 0.08 }}
+                >
+                  <X className="w-4 h-4 text-destructive mt-0.5 shrink-0" aria-hidden="true" />
+                  <span className="text-xs text-muted-foreground leading-snug">{problem}</span>
+                </motion.div>
+              ))}
             </div>
           </motion.div>
 
-          {/* Interleaved pairs */}
-          {problems.map((problem, index) => (
-            <motion.div
-              key={index}
-              className="grid grid-cols-2 gap-3"
-              initial={{ opacity: 0, y: 20 }}
-              animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
-              transition={{ delay: 0.3 + index * 0.1 }}
-            >
-              {/* Problem */}
-              <div className="p-3 rounded-lg bg-surface-0 border border-destructive/20">
-                <div className="flex items-start gap-2">
-                  <X className="w-4 h-4 text-destructive mt-0.5 shrink-0" aria-hidden="true" />
-                  <span className="text-sm text-muted-foreground">{problem}</span>
-                </div>
-              </div>
-              {/* Solution */}
-              <div className="p-3 rounded-lg bg-surface-0 border border-primary/20">
-                <div className="flex items-start gap-2">
+          {/* Forge Column */}
+          <motion.div
+            className="rounded-xl border border-primary/20 bg-primary/[0.03] overflow-hidden"
+            initial={{ opacity: 0, x: 20 }}
+            animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 20 }}
+            transition={{ duration: 0.5, delay: 0.3 }}
+          >
+            <div className="p-3 bg-primary/10 text-center">
+              <span className="font-barlow-condensed text-sm font-bold uppercase tracking-wide text-primary">Forge</span>
+            </div>
+            <div className="p-2 space-y-2">
+              {solutions.map((solution, index) => (
+                <motion.div
+                  key={index}
+                  className="p-2.5 rounded-lg bg-black/30 flex items-start gap-2"
+                  initial={{ opacity: 0 }}
+                  animate={isInView ? { opacity: 1 } : { opacity: 0 }}
+                  transition={{ delay: 0.5 + index * 0.08 }}
+                >
                   <Check className="w-4 h-4 text-primary mt-0.5 shrink-0" aria-hidden="true" />
-                  <span className="text-sm text-muted-foreground">{solutions[index]}</span>
-                </div>
-              </div>
-            </motion.div>
-          ))}
+                  <span className="text-xs text-muted-foreground leading-snug">{solution}</span>
+                </motion.div>
+              ))}
+            </div>
+          </motion.div>
         </div>
       </div>
     </section>
