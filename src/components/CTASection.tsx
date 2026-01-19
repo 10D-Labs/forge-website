@@ -53,7 +53,7 @@ const CTASection = () => {
             className="font-barlow-condensed text-display font-black uppercase leading-none mb-8"
             variants={fadeInUp}
           >
-            Ready To <span className="text-primary text-neon">Start?</span>
+            Ready To <span className="text-primary text-neon">Transform?</span>
           </motion.h2>
 
           {/* Subheadline */}
