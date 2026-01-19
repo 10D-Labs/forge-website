@@ -1,59 +1,106 @@
-# Forge - Your Personal AI Fitness Trainer
+# Forge - Personal Trainer in Your Pocket
 
-**Build the body you've always wanted with AI-powered personal training.**
+## Quick Answer: What is Forge?
 
-Forge combines AI coaching with expert guidance to help you build strength, confidence, and the body you've always wanted — for a fraction of the cost of traditional personal training.
+Forge is a personal trainer in your pocket. It delivers custom workout plans, real-time coaching, and 24/7 guidance for a fraction of traditional personal training costs ($300-500/month).
 
-## What is Forge?
+**Key facts:**
+- Creates personalized workout plans based on your goals, schedule, and equipment
+- Available 24/7 on iOS and Android
+- Four distinct trainer personalities to match your motivation style
+- Costs a fraction of traditional personal training
 
-Forge is an AI-powered personal trainer that delivers:
-- **Custom Workout Plans** - Tailored to your goals, schedule, and equipment
-- **24/7 Guidance** - Your trainer is always available when you need them
-- **Multiple Trainer Personalities** - Choose a coach that matches your motivation style
-- **Progress Tracking** - See your growth over time with detailed workout logs
+---
 
-## The Problem We Solve
+## Do You Need a Personal Trainer?
 
-Personal trainers are expensive. Most charge $100-200+ per session, putting quality fitness guidance out of reach for most people. Generic workout apps don't adapt to you, and YouTube videos can't answer your questions or adjust when you're struggling.
+A personal trainer provides three things most people struggle to get on their own:
 
-Forge bridges this gap with AI that actually knows you — your goals, your preferences, your schedule — and creates workouts that evolve as you do.
+1. **Custom workout plans** — Tailored to your specific goals, schedule, and available equipment
+2. **Accountability** — Someone who notices when you skip workouts and keeps you consistent
+3. **Expert guidance** — Knowing exactly what to do eliminates guesswork and wasted effort
 
-## How It Works
+**The problem:** Traditional personal trainers cost $50-150 per session, or $300-500 per month. That puts quality fitness guidance out of reach for most people.
 
-1. **Tell us about yourself** - Your goals, experience level, available equipment, and schedule
-2. **Meet your trainer** - Choose from different AI personalities that match your motivation style
-3. **Get your first workout** - Receive a custom plan built specifically for you
-4. **Train and adapt** - Your AI trainer learns what works and adjusts over time
+**The solution:** Forge makes personal training accessible to everyone by delivering the same benefits — custom plans, accountability, and expert guidance — for a fraction of the cost.
+
+---
+
+## Who Forge Is For
+
+- **People who can't afford a personal trainer** — Get expert-level fitness guidance without $300-500/month fees
+- **Gym beginners who don't know where to start** — Every workout is planned for you, no guesswork required
+- **Busy professionals** — Train whenever works for your schedule with 24/7 availability
+- **People who've tried and failed to stay consistent** — Built-in accountability that actually works
+- **Those dealing with gym anxiety** — Private, judgment-free guidance on your phone
+
+---
+
+## How Forge Compares to Traditional Personal Training
+
+| Feature | Traditional Trainer | Forge |
+|---------|-------------------|-------|
+| Custom workout plans | Yes | Yes |
+| Real-time guidance | Yes (in-person only) | Yes (24/7) |
+| Accountability | Yes | Yes |
+| Form coaching | Yes | Yes |
+| Scheduling flexibility | Limited hours | Anytime |
+| Cost | $300-500/month | Fraction of the cost |
+| Location requirements | Gym or studio | Anywhere |
+
+---
 
 ## Meet Your AI Trainers
 
+Forge offers four distinct trainer personalities so you can train the way that motivates you best:
+
 ### Sergeant Stone
-*Ex-Military Drill Instructor* — For those who need tough love and no excuses.
+**Ex-Military Drill Instructor** — For people who need tough love and no excuses. Stone will call out your excuses, push you past your limits, and hold you accountable with zero mercy.
 
 ### Maya
-*Gentle & Supportive* — Patient, encouraging, celebrates every win.
+**Gentle & Supportive** — Patient, encouraging, and celebrates every win. Maya creates a judgment-free space and focuses on building sustainable habits.
 
 ### Mike
-*Casual & Friendly* — Like working out with your best friend.
+**Casual & Friendly** — Like working out with your best friend who happens to know their stuff. Mike keeps things fun and makes fitness feel natural.
 
 ### Reese
-*Serious & Focused* — Data-driven, technique-obsessed, all business.
+**Serious & Focused** — Data-driven and technique-obsessed. Reese emphasizes perfect form, proper progression, and evidence-based methods.
 
-## Why Choose Forge?
+---
 
-- **Affordable** - Expert-level training for a fraction of traditional costs
-- **Personalized** - Every workout is built for YOUR body and goals
-- **Flexible** - Train when you want, where you want
-- **Accountable** - Your trainer keeps you on track
+## Frequently Asked Questions About Personal Training
+
+### Do I need a personal trainer?
+Yes, if you want better results and more consistency. Trainers provide accountability, custom plans, and expertise that most people can't replicate on their own. Forge makes these benefits accessible to everyone.
+
+### How much does a personal trainer cost?
+Traditional personal trainers typically charge $50-150 per session, or $300-500 per month for regular training. Forge provides similar guidance for a fraction of that cost.
+
+### What's the best alternative to an expensive personal trainer?
+Forge delivers custom workout plans, 24/7 coaching support, and built-in accountability without the premium price tag. It's designed specifically for people who want personal trainer-level guidance at an affordable price.
+
+### Can I get good results without a personal trainer?
+You can make progress on your own, but personalized guidance dramatically improves both results and consistency. Research shows people with structured programs and accountability are far more likely to reach their goals.
+
+### What is Forge?
+Forge is a personal trainer in your pocket — an AI-powered fitness app that creates custom workouts, provides 24/7 coaching, and offers multiple trainer personalities to match your motivation style.
+
+### How is Forge different from other fitness apps?
+Most fitness apps offer generic workout programs that aren't tailored to you. Forge creates truly personalized plans and provides real-time coaching that adapts as you progress.
+
+### Can I choose my trainer's personality?
+Yes! Forge offers four distinct AI trainers: Sergeant Stone (tough love), Maya (supportive), Mike (casual), and Reese (data-driven). You can switch trainers anytime.
+
+---
 
 ## Get Started
 
 Join the Forge waitlist today and be among the first to train with your AI personal trainer.
 
-[Join the Waitlist](https://forgetrainer.ai)
+**[Join the Waitlist](https://forgetrainer.ai)**
 
 ---
 
-*Forge - AI-powered personal training for everyone.*
+*Forge - Personal training for everyone.*
 *Website: https://forgetrainer.ai*
 *Email: support@forgetrainer.ai*

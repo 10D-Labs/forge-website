@@ -39,6 +39,19 @@ const TrainerPage = () => {
           { name: trainer.name, url: `https://forgetrainer.ai/trainers/${trainer.slug}` },
         ]}
       />
+      <StructuredData
+        type="person"
+        name={trainer.name}
+        description={`${trainer.role} AI personal trainer. ${trainer.description}`}
+        jobTitle="AI Personal Trainer"
+        knowsAbout={trainer.trainingStyle?.slice(0, 3) || ["Fitness", "Personal Training", "Workout Planning"]}
+        image={`https://forgetrainer.ai${trainer.avatarUrl}`}
+        memberOf={{
+          name: "Forge",
+          url: "https://forgetrainer.ai",
+        }}
+        isVirtualCharacter={true}
+      />
 
       <Header />
 

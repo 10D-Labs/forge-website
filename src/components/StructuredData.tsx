@@ -5,8 +5,13 @@ interface ArticleStructuredDataProps {
   title: string;
   description: string;
   publishedTime: string;
+  modifiedTime?: string;
   author: string;
   url: string;
+  image?: string;
+  wordCount?: number;
+  keywords?: string[];
+  articleSection?: string;
 }
 
 interface BreadcrumbItem {
@@ -35,7 +40,57 @@ interface WebSiteStructuredDataProps {
   searchUrlTemplate?: string;
 }
 
-type StructuredDataProps = ArticleStructuredDataProps | BreadcrumbStructuredDataProps | OrganizationStructuredDataProps | WebSiteStructuredDataProps;
+interface SoftwareApplicationStructuredDataProps {
+  type: "softwareApplication";
+  name: string;
+  alternateName?: string;
+  description: string;
+  applicationCategory: string;
+  applicationSubCategory?: string;
+  operatingSystem: string[];
+  offers?: {
+    price: string;
+    priceCurrency: string;
+    description?: string;
+  };
+  featureList?: string[];
+  audienceType?: string;
+  keywords?: string;
+  datePublished?: string;
+}
+
+export interface FAQQuestion {
+  question: string;
+  answer: string;
+}
+
+interface FAQStructuredDataProps {
+  type: "faq";
+  questions: FAQQuestion[];
+}
+
+interface PersonStructuredDataProps {
+  type: "person";
+  name: string;
+  description: string;
+  jobTitle?: string;
+  knowsAbout?: string[];
+  image?: string;
+  memberOf?: {
+    name: string;
+    url?: string;
+  };
+  isVirtualCharacter?: boolean;
+}
+
+type StructuredDataProps =
+  | ArticleStructuredDataProps
+  | BreadcrumbStructuredDataProps
+  | OrganizationStructuredDataProps
+  | WebSiteStructuredDataProps
+  | SoftwareApplicationStructuredDataProps
+  | FAQStructuredDataProps
+  | PersonStructuredDataProps;
 
 const StructuredData = (props: StructuredDataProps) => {
   useEffect(() => {
@@ -56,6 +111,13 @@ const StructuredData = (props: StructuredDataProps) => {
         headline: props.title,
         description: props.description,
         datePublished: props.publishedTime,
+        ...(props.modifiedTime && { dateModified: props.modifiedTime }),
+        ...(props.image && { image: props.image }),
+        ...(props.wordCount && { wordCount: props.wordCount }),
+        ...(props.keywords && { keywords: props.keywords.join(", ") }),
+        ...(props.articleSection && { articleSection: props.articleSection }),
+        inLanguage: "en",
+        isAccessibleForFree: true,
         author: {
           "@type": "Person",
           name: props.author,
@@ -72,6 +134,71 @@ const StructuredData = (props: StructuredDataProps) => {
           "@type": "WebPage",
           "@id": props.url,
         },
+      };
+    } else if (props.type === "softwareApplication") {
+      data = {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        name: props.name,
+        ...(props.alternateName && { alternateName: props.alternateName }),
+        applicationCategory: props.applicationCategory,
+        ...(props.applicationSubCategory && { applicationSubCategory: props.applicationSubCategory }),
+        operatingSystem: props.operatingSystem,
+        description: props.description,
+        ...(props.offers && {
+          offers: {
+            "@type": "Offer",
+            price: props.offers.price,
+            priceCurrency: props.offers.priceCurrency,
+            ...(props.offers.description && { description: props.offers.description }),
+          },
+        }),
+        ...(props.featureList && { featureList: props.featureList }),
+        ...(props.audienceType && {
+          audience: {
+            "@type": "PeopleAudience",
+            audienceType: props.audienceType,
+          },
+        }),
+        ...(props.keywords && { keywords: props.keywords }),
+        inLanguage: "en",
+        ...(props.datePublished && { datePublished: props.datePublished }),
+        provider: {
+          "@type": "Organization",
+          name: "Forge",
+          url: "https://forgetrainer.ai",
+        },
+      };
+    } else if (props.type === "faq") {
+      data = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: props.questions.map((q) => ({
+          "@type": "Question",
+          name: q.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: q.answer,
+          },
+        })),
+      };
+    } else if (props.type === "person") {
+      data = {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        ...(props.isVirtualCharacter && { additionalType: "VirtualCharacter" }),
+        name: props.name,
+        description: props.description,
+        ...(props.jobTitle && { jobTitle: props.jobTitle }),
+        ...(props.knowsAbout && { knowsAbout: props.knowsAbout }),
+        ...(props.image && { image: props.image }),
+        ...(props.memberOf && {
+          memberOf: {
+            "@type": "Organization",
+            name: props.memberOf.name,
+            ...(props.memberOf.url && { url: props.memberOf.url }),
+          },
+        }),
       };
     } else if (props.type === "breadcrumb") {
       data = {

@@ -29,6 +29,7 @@ const TopicPage = () => {
         description={topic.metaDescription}
         canonicalPath={`/topics/${topic.slug}`}
         keywords={topic.keywords.join(", ")}
+        markdownUrl={`/markdown/topics/${topic.slug}.md`}
       />
       <StructuredData
         type="breadcrumb"
