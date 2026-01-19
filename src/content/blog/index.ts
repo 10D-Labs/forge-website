@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "fitness-decision-paralysis-guide",
+    title: "Fitness Decision Paralysis: Why You Can't Choose a Workout Plan (And How to Finally Start)",
+    date: "2026-01-17",
+    excerpt: "Overwhelmed by workout options? Learn why fitness decision paralysis happens and use this 6-step framework to finally choose a program and start making progress.",
+    author: "The Forge Team",
+    keywords: ["fitness decision paralysis", "how to choose a workout plan", "workout overwhelm", "analysis paralysis gym", "beginner workout confusion"],
+    category: "fitness-psychology"
+  },
+  {
     slug: "program-hopping-guide",
     title: "Program Hopping: Why You Keep Switching Workout Plans (And How to Finally Stick to One)",
     date: "2026-01-15",
