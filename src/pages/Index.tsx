@@ -99,7 +99,7 @@ const Index = () => {
         offers={{
           price: "0",
           priceCurrency: "USD",
-          description: "Join waitlist for early access",
+          description: "Join waitlist to be notified at launch",
         }}
         featureList={[
           "Custom workout plans tailored to your goals",
