@@ -63,8 +63,8 @@ const ProblemSection = () => {
           </motion.p>
         </motion.header>
 
-        {/* Comparison Cards */}
-        <div className="grid md:grid-cols-2 gap-6 md:gap-8 max-w-4xl mx-auto">
+        {/* Desktop: Side-by-side cards */}
+        <div className="hidden md:grid md:grid-cols-2 gap-6 md:gap-8 max-w-4xl mx-auto">
           {/* Problem Card */}
           <motion.article
             className="relative p-8 angular-border [--angular-bg:hsl(var(--surface-0))] [--angular-border-color:hsl(var(--destructive)/0.3)] overflow-hidden"
@@ -142,6 +142,52 @@ const ProblemSection = () => {
               ))}
             </ul>
           </motion.article>
+        </div>
+
+        {/* Mobile: Interleaved comparison pairs */}
+        <div className="md:hidden max-w-lg mx-auto space-y-4">
+          {/* Mobile headers */}
+          <motion.div
+            className="grid grid-cols-2 gap-3 mb-6"
+            initial={{ opacity: 0, y: 20 }}
+            animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+            transition={{ duration: 0.5, delay: 0.2 }}
+          >
+            <div className="flex items-center gap-2 justify-center p-3 rounded-lg bg-destructive/10">
+              <X className="w-4 h-4 text-destructive" aria-hidden="true" />
+              <span className="font-barlow-condensed text-sm font-bold uppercase tracking-wide text-destructive">Traditional</span>
+            </div>
+            <div className="flex items-center gap-2 justify-center p-3 rounded-lg bg-primary/10">
+              <Check className="w-4 h-4 text-primary" aria-hidden="true" />
+              <span className="font-barlow-condensed text-sm font-bold uppercase tracking-wide text-primary">Forge</span>
+            </div>
+          </motion.div>
+
+          {/* Interleaved pairs */}
+          {problems.map((problem, index) => (
+            <motion.div
+              key={index}
+              className="grid grid-cols-2 gap-3"
+              initial={{ opacity: 0, y: 20 }}
+              animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+              transition={{ delay: 0.3 + index * 0.1 }}
+            >
+              {/* Problem */}
+              <div className="p-3 rounded-lg bg-surface-0 border border-destructive/20">
+                <div className="flex items-start gap-2">
+                  <X className="w-4 h-4 text-destructive mt-0.5 shrink-0" aria-hidden="true" />
+                  <span className="text-sm text-muted-foreground">{problem}</span>
+                </div>
+              </div>
+              {/* Solution */}
+              <div className="p-3 rounded-lg bg-surface-0 border border-primary/20">
+                <div className="flex items-start gap-2">
+                  <Check className="w-4 h-4 text-primary mt-0.5 shrink-0" aria-hidden="true" />
+                  <span className="text-sm text-muted-foreground">{solutions[index]}</span>
+                </div>
+              </div>
+            </motion.div>
+          ))}
         </div>
       </div>
     </section>
