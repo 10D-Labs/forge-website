@@ -134,7 +134,7 @@ const MeetTheTrainersSection = () => {
               >
                 <Link
                   to={`/trainers/${trainer.slug}`}
-                  className="block relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
+                  className="group block relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
                 >
                   {/* Avatar */}
                   <div className="flex items-center gap-4 mb-4">
@@ -170,6 +170,9 @@ const MeetTheTrainersSection = () => {
                   >
                     <span className="text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wide relative z-10">{trainer.vibe}</span>
                   </div>
+
+                  {/* Click indicator */}
+                  <ChevronRight className="absolute bottom-4 right-4 w-5 h-5 text-primary/50 transition-all duration-300 group-hover:text-primary group-hover:translate-x-1" />
                 </Link>
               </motion.article>
             ))}
