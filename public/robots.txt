@@ -46,5 +46,9 @@ Allow: /
 # Sitemap location
 Sitemap: https://forgetrainer.ai/sitemap.xml
 
+# LLMs.txt - AI instruction file
+# See https://llmstxt.org for specification
+LLMsTxt: https://forgetrainer.ai/llms.txt
+
 # Host
 Host: https://forgetrainer.ai

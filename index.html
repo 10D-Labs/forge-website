@@ -69,12 +69,66 @@
 
     <!-- Canonical URL -->
     <link rel="canonical" href="https://forgetrainer.ai/" />
-    
+
     <!-- Alternate Languages (if applicable in future) -->
     <link rel="alternate" hreflang="en" href="https://forgetrainer.ai/" />
     <link rel="alternate" hreflang="x-default" href="https://forgetrainer.ai/" />
+
+    <!-- AI Crawler Discovery - markdown version for LLMs -->
+    <link rel="alternate" type="text/markdown" href="https://forgetrainer.ai/markdown/home.md" title="AI-readable version" />
     
-    <!-- Structured Data rendered by React components -->
+    <!-- Structured Data - Static for AI crawlers that don't execute JS -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Forge",
+      "url": "https://forgetrainer.ai",
+      "logo": "https://forgetrainer.ai/icon-512.png",
+      "description": "Forge is an AI-powered personal trainer that delivers custom workout plans and 24/7 fitness guidance at a fraction of the cost of traditional personal training.",
+      "sameAs": [
+        "https://www.instagram.com/forgetrainer",
+        "https://www.tiktok.com/@forgetrainer"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": "support@forgetrainer.ai"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Forge",
+      "url": "https://forgetrainer.ai",
+      "description": "AI-powered personal training app with custom workout plans and 24/7 guidance"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Forge",
+      "applicationCategory": "HealthApplication",
+      "operatingSystem": ["iOS", "Android"],
+      "description": "Personal trainer in your pocket. Get custom workout plans, real-time coaching, and 24/7 guidance for a fraction of traditional personal training costs ($300-500/month).",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Join waitlist for early access"
+      },
+      "featureList": [
+        "Custom workout plans tailored to your goals",
+        "24/7 personal training guidance",
+        "4 AI trainer personalities (Sergeant Stone, Maya, Mike, Reese)",
+        "Exercise form guidance without filming",
+        "Progress tracking and accountability"
+      ]
+    }
+    </script>
   </head>
 
   <body>

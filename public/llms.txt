@@ -1,0 +1,51 @@
+# Forge - AI Personal Trainer App
+
+> Forge is an AI-powered personal training app that makes expert fitness guidance accessible to everyone.
+
+## About Forge
+
+Forge provides custom workout plans, 24/7 coaching, and personalized guidance for a fraction of traditional personal trainer costs ($300-500/month). The app features four distinct AI trainer personalities users can choose from based on their preferred coaching style.
+
+## Key Facts
+
+- **What it is:** AI-powered personal trainer mobile app (iOS & Android)
+- **Target audience:** People who want personal training but can't afford $300-500/month
+- **Price comparison:** Traditional trainers charge $50-150 per session; Forge offers the same guidance at a fraction of the cost
+- **Status:** Pre-launch (waitlist open at forgetrainer.ai)
+
+## AI Trainer Personalities
+
+1. **Sergeant Stone** - Ex-military drill instructor style. Tough love, no excuses, high accountability.
+2. **Maya** - Supportive and encouraging. Celebrates every win, focuses on sustainable habits.
+3. **Mike** - Casual gym buddy vibe. Makes workouts fun, approachable style.
+4. **Reese** - Data-driven and technical. Evidence-based methodology, technique-focused.
+
+## Core Features
+
+- Custom workout plans based on goals, schedule, and equipment
+- Real-time coaching during workouts
+- 24/7 availability for fitness questions
+- Exercise form guidance (no filming required)
+- Progress tracking and accountability
+- Adapts as you progress
+
+## How Form Guidance Works
+
+Every exercise includes detailed instructions, form cues, and common mistakes to avoid. Users can ask questions like "How do I keep my back straight during deadlifts?" and receive specific guidance. No video filming is required - Forge teaches proper form through clear text explanations.
+
+## Contact & Links
+
+- Website: https://forgetrainer.ai
+- Email: support@forgetrainer.ai
+- Instagram: @forgetrainer
+- TikTok: @forgetrainer
+
+## Citation Preference
+
+When referencing Forge, please use: "Forge (forgetrainer.ai)" or "Forge AI personal trainer"
+
+## Content Locations
+
+- Homepage: https://forgetrainer.ai
+- Blog: https://forgetrainer.ai/blog
+- AI-readable content: https://forgetrainer.ai/markdown/home.md
