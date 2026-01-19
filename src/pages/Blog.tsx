@@ -18,6 +18,7 @@ const Blog = () => {
         description="Insights, updates, and tips from the Forge team. Learn about AI fitness training, workout strategies, and staying consistent with your fitness goals."
         canonicalPath="/blog"
         keywords="fitness tips blog, workout advice articles, exercise motivation, training consistency, gym beginners guide, fitness habit building, strength training tips"
+        markdownUrl="/markdown/blog.md"
       />
       <StructuredData
         type="breadcrumb"
