@@ -1,9 +1,27 @@
 import { ChevronDown } from "lucide-react";
+import { lazy, Suspense, useState, useEffect } from "react";
 import { GridBackground, GlowOrbs } from "@/components/effects";
-import Hero3DPhone from "./Hero3DPhone";
+import HeroPhoneStatic from "./HeroPhoneStatic";
 import WaitlistForm from "@/components/WaitlistForm";
 
+// Lazy load the interactive 3D phone (loads Framer Motion)
+const Hero3DPhone = lazy(() => import("./Hero3DPhone"));
+
 const HeroSection = () => {
+  const [showInteractive, setShowInteractive] = useState(false);
+
+  // Delay loading interactive version until after initial paint
+  useEffect(() => {
+    // Use requestIdleCallback if available, otherwise setTimeout
+    if ('requestIdleCallback' in window) {
+      const id = window.requestIdleCallback(() => setShowInteractive(true), { timeout: 2000 });
+      return () => window.cancelIdleCallback(id);
+    } else {
+      const id = setTimeout(() => setShowInteractive(true), 1000);
+      return () => clearTimeout(id);
+    }
+  }, []);
+
   return (
     <section
       className="relative pt-20 overflow-hidden bg-surface-0"
@@ -62,9 +80,15 @@ const HeroSection = () => {
 
           </div>
 
-          {/* Right: 3D Phone */}
+          {/* Right: Phone - Static first, then interactive */}
           <div className="relative flex justify-center lg:justify-end hero-animate-phone">
-            <Hero3DPhone className="relative z-10" />
+            {showInteractive ? (
+              <Suspense fallback={<HeroPhoneStatic />}>
+                <Hero3DPhone className="relative z-10" />
+              </Suspense>
+            ) : (
+              <HeroPhoneStatic />
+            )}
           </div>
         </div>
       </div>
