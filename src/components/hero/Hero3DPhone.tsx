@@ -1,6 +1,8 @@
 import { motion, useMotionValue, useSpring, useTransform, useReducedMotion } from "framer-motion";
 import { useRef, useState, useEffect } from "react";
-import appMockupHero from "@/assets/app-mockup-hero-new.webp";
+
+// Use public path for preload compatibility
+const appMockupHero = "/app-mockup-hero.webp";
 
 // Blur placeholder for loading
 const PLACEHOLDER_BLUR =
@@ -50,14 +52,11 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   };
 
   return (
-    <motion.div
+    <div
       ref={ref}
       className={className}
       onMouseMove={handleMouseMove}
       onMouseLeave={handleMouseLeave}
-      initial={{ opacity: 0, x: 100, scale: 0.9 }}
-      animate={{ opacity: 1, x: 0, scale: 1 }}
-      transition={{ duration: 1, ease: [0.25, 0.1, 0.25, 1], delay: 0.3 }}
       style={{ perspective: 1000 }}
     >
       {/* 3D Phone Container */}
@@ -186,7 +185,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
           }
         />
       </motion.div>
-    </motion.div>
+    </div>
   );
 };
 

@@ -1,20 +1,23 @@
-import { useEffect } from "react";
+import { useEffect, lazy, Suspense } from "react";
 import { useLocation } from "react-router-dom";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { HeroSection } from "@/components/hero";
-import {
-  SocialProofBar,
-  HowItWorksSection,
-  MeetTheTrainersSection,
-} from "@/components/sections";
-import FeaturesSection from "@/components/FeaturesSection";
-import ProblemSection from "@/components/ProblemSection";
-import CTASection from "@/components/CTASection";
-import FAQSection from "@/components/FAQSection";
+import { SocialProofBar } from "@/components/sections";
 import SEOHead from "@/components/SEOHead";
 import StructuredData from "@/components/StructuredData";
 import { useScrollToElement } from "@/hooks/useScrollToElement";
+
+// Lazy load below-fold sections for faster initial paint
+const FeaturesSection = lazy(() => import("@/components/FeaturesSection"));
+const HowItWorksSection = lazy(() => import("@/components/sections/HowItWorksSection"));
+const ProblemSection = lazy(() => import("@/components/ProblemSection"));
+const MeetTheTrainersSection = lazy(() => import("@/components/sections/MeetTheTrainersSection"));
+const FAQSection = lazy(() => import("@/components/FAQSection"));
+const CTASection = lazy(() => import("@/components/CTASection"));
+
+// Minimal loading fallback (invisible, prevents layout shift)
+const SectionFallback = () => <div className="min-h-[200px]" />;
 
 const homepageFAQs = [
   {
@@ -122,33 +125,40 @@ const Index = () => {
       <Header />
 
       <main role="main" itemScope itemType="https://schema.org/WebPage">
-        {/* Hero - Primary conversion point */}
+        {/* Hero - Primary conversion point (not lazy - critical for FCP/LCP) */}
         <HeroSection />
 
-        {/* Social Proof - Build trust immediately */}
+        {/* Social Proof - Build trust immediately (small, keep eager) */}
         <SocialProofBar />
 
-        {/* Features - Value proposition */}
-        <FeaturesSection />
+        {/* Below-fold sections - lazy loaded for performance */}
+        <Suspense fallback={<SectionFallback />}>
+          <FeaturesSection />
+        </Suspense>
 
-        {/* How It Works - Reduce friction */}
-        <HowItWorksSection />
+        <Suspense fallback={<SectionFallback />}>
+          <HowItWorksSection />
+        </Suspense>
 
-        {/* Problem/Solution - Competitive positioning */}
-        <ProblemSection />
+        <Suspense fallback={<SectionFallback />}>
+          <ProblemSection />
+        </Suspense>
 
-        {/* Meet The Trainers - Showcase unique feature */}
-        <MeetTheTrainersSection />
+        <Suspense fallback={<SectionFallback />}>
+          <MeetTheTrainersSection />
+        </Suspense>
 
-        {/* FAQ - Answer common questions, optimize for AI search */}
-        <FAQSection
-          title="Frequently Asked Questions"
-          subtitle="Everything you need to know about personal training with Forge"
-          questions={homepageFAQs}
-        />
+        <Suspense fallback={<SectionFallback />}>
+          <FAQSection
+            title="Frequently Asked Questions"
+            subtitle="Everything you need to know about personal training with Forge"
+            questions={homepageFAQs}
+          />
+        </Suspense>
 
-        {/* CTA - Final conversion push */}
-        <CTASection />
+        <Suspense fallback={<SectionFallback />}>
+          <CTASection />
+        </Suspense>
       </main>
 
       <Footer />
