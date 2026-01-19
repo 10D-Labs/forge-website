@@ -8,7 +8,15 @@ import SEOHead from "@/components/SEOHead";
 import StructuredData from "@/components/StructuredData";
 import RelatedPosts from "@/components/blog/RelatedPosts";
 import { blogPosts } from "@/content/blog";
+import { topics } from "@/content/topics";
 import { Calendar, User, ArrowLeft } from "lucide-react";
+
+// Helper to get topic name from category slug
+const getCategoryName = (category?: string): string | undefined => {
+  if (!category) return undefined;
+  const topic = topics.find(t => t.relatedCategories?.includes(category));
+  return topic?.name;
+};
 
 // Import all markdown files from the blog content folder
 const markdownModules = import.meta.glob("/src/content/blog/*.md", {
@@ -71,6 +79,9 @@ const BlogPost = () => {
             publishedTime={post.date}
             author={post.author}
             url={`https://forgetrainer.ai/blog/${post.slug}`}
+            keywords={post.keywords}
+            articleSection={getCategoryName(post.category)}
+            wordCount={content ? content.split(/\s+/).filter(Boolean).length : undefined}
           />
           <StructuredData
             type="breadcrumb"
