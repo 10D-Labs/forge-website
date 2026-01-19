@@ -27,7 +27,7 @@ const features: Feature[] = [
   },
   {
     icon: MessageCircle,
-    title: "Chat With Your PT",
+    title: "Chat With Your Trainer",
     description:
       "Ask questions about workouts, nutrition, form, or anything fitness-related. Get instant answers, available 24/7.",
   },
@@ -35,7 +35,7 @@ const features: Feature[] = [
     icon: Users,
     title: "Choose Your Trainer",
     description:
-      "Pick from different PT personalities like gentle cheerleader, drill instructor, gym buddy, or focused coach.",
+      "Pick from different trainer personalities like gentle cheerleader, drill instructor, gym buddy, or focused coach.",
   },
   {
     icon: Library,

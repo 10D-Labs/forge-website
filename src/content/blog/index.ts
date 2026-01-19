@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "do-you-need-a-personal-trainer",
+    title: "Do You Need a Personal Trainer? 12 Signs You'd Benefit From One",
+    date: "2026-01-19",
+    excerpt: "Not sure if personal training is worth it? This self-assessment guide reveals 12 signs you'd benefit from a trainer, plus affordable alternatives to fit any budget.",
+    author: "The Forge Team",
+    keywords: ["do I need a personal trainer", "signs you need a personal trainer", "personal trainer worth it", "when to hire personal trainer", "personal training benefits"],
+    category: "getting-started"
+  },
+  {
     slug: "fitness-decision-paralysis-guide",
     title: "Fitness Decision Paralysis: Why You Can't Choose a Workout Plan (And How to Finally Start)",
     date: "2026-01-17",
