@@ -47,6 +47,7 @@ const About = () => {
         description="Learn about Forge's mission to make personal training accessible to everyone through AI. Meet the team behind your AI fitness trainer."
         canonicalPath="/about"
         keywords="Forge AI founders, fitness accessibility mission, affordable personal training solution, AI fitness startup, democratizing fitness coaching, fitness tech company"
+        markdownUrl="/markdown/about.md"
       />
       <StructuredData
         type="breadcrumb"

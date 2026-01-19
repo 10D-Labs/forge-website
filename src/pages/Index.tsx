@@ -35,6 +35,7 @@ const Index = () => {
         description="Ready to transform? Forge combines AI coaching with expert guidance to help you build strength, confidence, and the body you've always wanted. Start today."
         canonicalPath="/"
         keywords="AI personal trainer, custom workout plans, AI fitness coach, virtual personal trainer, affordable fitness coaching, 24/7 workout guidance, personalized exercise plans"
+        markdownUrl="/markdown/home.md"
       />
       <StructuredData
         type="organization"
