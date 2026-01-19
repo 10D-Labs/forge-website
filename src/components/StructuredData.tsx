@@ -83,6 +83,19 @@ interface PersonStructuredDataProps {
   isVirtualCharacter?: boolean;
 }
 
+export interface HowToStep {
+  name: string;
+  text: string;
+}
+
+interface HowToStructuredDataProps {
+  type: "howTo";
+  name: string;
+  description: string;
+  steps: HowToStep[];
+  totalTime?: string; // ISO 8601 duration format, e.g., "PT5M" for 5 minutes
+}
+
 type StructuredDataProps =
   | ArticleStructuredDataProps
   | BreadcrumbStructuredDataProps
@@ -90,7 +103,8 @@ type StructuredDataProps =
   | WebSiteStructuredDataProps
   | SoftwareApplicationStructuredDataProps
   | FAQStructuredDataProps
-  | PersonStructuredDataProps;
+  | PersonStructuredDataProps
+  | HowToStructuredDataProps;
 
 const StructuredData = (props: StructuredDataProps) => {
   useEffect(() => {
@@ -240,6 +254,20 @@ const StructuredData = (props: StructuredDataProps) => {
           },
           "query-input": "required name=search_term_string",
         } : undefined,
+      };
+    } else if (props.type === "howTo") {
+      data = {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        name: props.name,
+        description: props.description,
+        ...(props.totalTime && { totalTime: props.totalTime }),
+        step: props.steps.map((step, index) => ({
+          "@type": "HowToStep",
+          position: index + 1,
+          name: step.name,
+          text: step.text,
+        })),
       };
     } else {
       return;

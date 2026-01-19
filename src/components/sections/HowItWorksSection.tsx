@@ -3,6 +3,7 @@ import { useRef } from "react";
 import { UserPlus, Target, Dumbbell } from "lucide-react";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
 import WaitlistForm from "../WaitlistForm";
+import StructuredData from "../StructuredData";
 
 const steps = [
   {
@@ -38,6 +39,15 @@ const HowItWorksSection = () => {
       className="pt-12 pb-6 md:pt-16 md:pb-8 bg-background relative overflow-hidden"
       aria-labelledby="how-it-works-heading"
     >
+      <StructuredData
+        type="howTo"
+        name="How to Get Started with Forge AI Personal Training"
+        description="Join the Forge waitlist and start your AI-powered personal training journey in three simple steps."
+        steps={steps.map((step) => ({
+          name: step.title,
+          text: step.description,
+        }))}
+      />
       <div className="container">
         {/* Header */}
         <motion.header

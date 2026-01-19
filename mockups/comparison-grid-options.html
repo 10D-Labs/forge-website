@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comparison Grid Options - Mobile View</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #000;
+      color: #fff;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 40px;
+      font-size: 24px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 16px;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #FF6600;
+    }
+
+    .description {
+      text-align: center;
+      color: #888;
+      font-size: 13px;
+      margin-bottom: 20px;
+      max-width: 320px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .option {
+      max-width: 380px;
+      margin: 0 auto 60px;
+      padding: 20px;
+    }
+
+    /* Colors */
+    .text-destructive { color: #DC2626; }
+    .text-primary { color: #FF6600; }
+    .bg-destructive-10 { background: rgba(220, 38, 38, 0.1); }
+    .bg-primary-10 { background: rgba(255, 102, 0, 0.1); }
+    .border-destructive { border-color: rgba(220, 38, 38, 0.3); }
+    .border-primary { border-color: rgba(255, 102, 0, 0.3); }
+
+    /* Current (for reference) */
+    .current .headers {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .current .header {
+      padding: 12px;
+      border-radius: 8px;
+      text-align: center;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .current .rows {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .current .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .current .cell {
+      padding: 12px;
+      border-radius: 8px;
+      background: #111;
+      border: 1px solid;
+      font-size: 13px;
+      color: #999;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .current .icon {
+      flex-shrink: 0;
+      font-size: 14px;
+    }
+
+    /* ========== OPTION 1: Wrapper Container ========== */
+    .option1 .wrapper {
+      border: 1px solid #333;
+      border-radius: 12px;
+      background: #0a0a0a;
+      padding: 16px;
+    }
+
+    .option1 .headers {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .option1 .header {
+      padding: 12px;
+      border-radius: 8px;
+      text-align: center;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .option1 .rows {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .option1 .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .option1 .cell {
+      padding: 12px;
+      border-radius: 8px;
+      background: #111;
+      border: 1px solid;
+      font-size: 13px;
+      color: #999;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .option1 .icon {
+      flex-shrink: 0;
+      font-size: 14px;
+    }
+
+    /* ========== OPTION 2: Table-style grid lines ========== */
+    .option2 .table {
+      border: 1px solid #333;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .option2 .headers {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      background: #111;
+      border-bottom: 1px solid #333;
+    }
+
+    .option2 .header {
+      padding: 14px 12px;
+      text-align: center;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .option2 .header:first-child {
+      border-right: 1px solid #333;
+    }
+
+    .option2 .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 1px solid #222;
+    }
+
+    .option2 .row:last-child {
+      border-bottom: none;
+    }
+
+    .option2 .cell {
+      padding: 14px 12px;
+      font-size: 13px;
+      color: #999;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .option2 .cell:first-child {
+      border-right: 1px solid #222;
+      background: rgba(220, 38, 38, 0.03);
+    }
+
+    .option2 .cell:last-child {
+      background: rgba(255, 102, 0, 0.03);
+    }
+
+    .option2 .icon {
+      flex-shrink: 0;
+      font-size: 14px;
+    }
+
+    /* ========== OPTION 3: Shared background ========== */
+    .option3 .container {
+      background: linear-gradient(135deg, rgba(220, 38, 38, 0.05) 0%, rgba(255, 102, 0, 0.05) 100%);
+      border-radius: 16px;
+      padding: 20px 16px;
+    }
+
+    .option3 .headers {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .option3 .header {
+      padding: 12px;
+      border-radius: 8px;
+      text-align: center;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .option3 .rows {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .option3 .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .option3 .cell {
+      padding: 12px;
+      border-radius: 8px;
+      background: rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(4px);
+      border: 1px solid;
+      font-size: 13px;
+      color: #999;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .option3 .icon {
+      flex-shrink: 0;
+      font-size: 14px;
+    }
+
+    /* ========== OPTION 4: Unified card columns ========== */
+    .option4 .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .option4 .column {
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid;
+    }
+
+    .option4 .column.traditional {
+      border-color: rgba(220, 38, 38, 0.2);
+      background: rgba(220, 38, 38, 0.03);
+    }
+
+    .option4 .column.forge {
+      border-color: rgba(255, 102, 0, 0.2);
+      background: rgba(255, 102, 0, 0.03);
+    }
+
+    .option4 .header {
+      padding: 14px 12px;
+      text-align: center;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .option4 .column.traditional .header {
+      background: rgba(220, 38, 38, 0.1);
+    }
+
+    .option4 .column.forge .header {
+      background: rgba(255, 102, 0, 0.1);
+    }
+
+    .option4 .items {
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .option4 .item {
+      padding: 10px;
+      font-size: 12px;
+      color: #999;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      background: rgba(0, 0, 0, 0.3);
+      border-radius: 6px;
+    }
+
+    .option4 .icon {
+      flex-shrink: 0;
+      font-size: 13px;
+    }
+
+    /* Divider */
+    .divider {
+      border-top: 1px solid #222;
+      margin: 40px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mobile Comparison Grid Options</h1>
+
+  <!-- Current (Reference) -->
+  <div class="option current">
+    <h2>Current Design</h2>
+    <p class="description">Floating cards with gaps - what we have now</p>
+
+    <div class="headers">
+      <div class="header bg-destructive-10 text-destructive">Traditional</div>
+      <div class="header bg-primary-10 text-primary">Forge</div>
+    </div>
+
+    <div class="rows">
+      <div class="row">
+        <div class="cell border-destructive">
+          <span class="icon text-destructive">✕</span>
+          <span>Costs $300-500+ per month</span>
+        </div>
+        <div class="cell border-primary">
+          <span class="icon text-primary">✓</span>
+          <span>Fraction of the cost, same results</span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="cell border-destructive">
+          <span class="icon text-destructive">✕</span>
+          <span>Limited to scheduled sessions</span>
+        </div>
+        <div class="cell border-primary">
+          <span class="icon text-primary">✓</span>
+          <span>Available 24/7, whenever you need</span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="cell border-destructive">
+          <span class="icon text-destructive">✕</span>
+          <span>Same playbook for most clients</span>
+        </div>
+        <div class="cell border-primary">
+          <span class="icon text-primary">✓</span>
+          <span>Truly personalized to you</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- Option 1: Wrapper Container -->
+  <div class="option option1">
+    <h2>Option 1: Wrapper Container</h2>
+    <p class="description">Single border/card wrapping everything together</p>
+
+    <div class="wrapper">
+      <div class="headers">
+        <div class="header bg-destructive-10 text-destructive">Traditional</div>
+        <div class="header bg-primary-10 text-primary">Forge</div>
+      </div>
+
+      <div class="rows">
+        <div class="row">
+          <div class="cell border-destructive">
+            <span class="icon text-destructive">✕</span>
+            <span>Costs $300-500+ per month</span>
+          </div>
+          <div class="cell border-primary">
+            <span class="icon text-primary">✓</span>
+            <span>Fraction of the cost, same results</span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="cell border-destructive">
+            <span class="icon text-destructive">✕</span>
+            <span>Limited to scheduled sessions</span>
+          </div>
+          <div class="cell border-primary">
+            <span class="icon text-primary">✓</span>
+            <span>Available 24/7, whenever you need</span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="cell border-destructive">
+            <span class="icon text-destructive">✕</span>
+            <span>Same playbook for most clients</span>
+          </div>
+          <div class="cell border-primary">
+            <span class="icon text-primary">✓</span>
+            <span>Truly personalized to you</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- Option 2: Table-style -->
+  <div class="option option2">
+    <h2>Option 2: Table-Style Grid Lines</h2>
+    <p class="description">Clean table look with visible dividers between cells</p>
+
+    <div class="table">
+      <div class="headers">
+        <div class="header text-destructive">Traditional</div>
+        <div class="header text-primary">Forge</div>
+      </div>
+
+      <div class="row">
+        <div class="cell">
+          <span class="icon text-destructive">✕</span>
+          <span>Costs $300-500+ per month</span>
+        </div>
+        <div class="cell">
+          <span class="icon text-primary">✓</span>
+          <span>Fraction of the cost, same results</span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="cell">
+          <span class="icon text-destructive">✕</span>
+          <span>Limited to scheduled sessions</span>
+        </div>
+        <div class="cell">
+          <span class="icon text-primary">✓</span>
+          <span>Available 24/7, whenever you need</span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="cell">
+          <span class="icon text-destructive">✕</span>
+          <span>Same playbook for most clients</span>
+        </div>
+        <div class="cell">
+          <span class="icon text-primary">✓</span>
+          <span>Truly personalized to you</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- Option 3: Shared Background -->
+  <div class="option option3">
+    <h2>Option 3: Shared Background</h2>
+    <p class="description">Gradient background that ties everything together</p>
+
+    <div class="container">
+      <div class="headers">
+        <div class="header bg-destructive-10 text-destructive">Traditional</div>
+        <div class="header bg-primary-10 text-primary">Forge</div>
+      </div>
+
+      <div class="rows">
+        <div class="row">
+          <div class="cell border-destructive">
+            <span class="icon text-destructive">✕</span>
+            <span>Costs $300-500+ per month</span>
+          </div>
+          <div class="cell border-primary">
+            <span class="icon text-primary">✓</span>
+            <span>Fraction of the cost, same results</span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="cell border-destructive">
+            <span class="icon text-destructive">✕</span>
+            <span>Limited to scheduled sessions</span>
+          </div>
+          <div class="cell border-primary">
+            <span class="icon text-primary">✓</span>
+            <span>Available 24/7, whenever you need</span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="cell border-destructive">
+            <span class="icon text-destructive">✕</span>
+            <span>Same playbook for most clients</span>
+          </div>
+          <div class="cell border-primary">
+            <span class="icon text-primary">✓</span>
+            <span>Truly personalized to you</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- Option 4: Unified Column Cards -->
+  <div class="option option4">
+    <h2>Option 4: Unified Column Cards</h2>
+    <p class="description">Two distinct columns - each side is its own card</p>
+
+    <div class="grid">
+      <div class="column traditional">
+        <div class="header text-destructive">Traditional</div>
+        <div class="items">
+          <div class="item">
+            <span class="icon text-destructive">✕</span>
+            <span>Costs $300-500+ per month</span>
+          </div>
+          <div class="item">
+            <span class="icon text-destructive">✕</span>
+            <span>Limited to scheduled sessions</span>
+          </div>
+          <div class="item">
+            <span class="icon text-destructive">✕</span>
+            <span>Same playbook for most clients</span>
+          </div>
+        </div>
+      </div>
+      <div class="column forge">
+        <div class="header text-primary">Forge</div>
+        <div class="items">
+          <div class="item">
+            <span class="icon text-primary">✓</span>
+            <span>Fraction of the cost, same results</span>
+          </div>
+          <div class="item">
+            <span class="icon text-primary">✓</span>
+            <span>Available 24/7, whenever you need</span>
+          </div>
+          <div class="item">
+            <span class="icon text-primary">✓</span>
+            <span>Truly personalized to you</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

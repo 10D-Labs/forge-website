@@ -6,8 +6,8 @@ const SocialProofBar = () => {
   const stats = [
     {
       icon: Users,
-      value: "15+",
-      label: "on the waitlist",
+      value: "4",
+      label: "AI trainer personalities",
     },
     {
       icon: DollarSign,

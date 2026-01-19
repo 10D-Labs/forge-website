@@ -66,7 +66,7 @@ const HeroSection = () => {
             >
               <WaitlistForm />
               <p className="text-sm text-text-tertiary mt-3">
-                Be the first to know when we launch.
+                No spam. Unsubscribe anytime.
               </p>
             </motion.div>
 
