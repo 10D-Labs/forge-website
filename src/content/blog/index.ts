@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-much-does-personal-trainer-cost",
+    title: "How Much Does a Personal Trainer Cost? 2026 Pricing Guide",
+    date: "2026-01-20",
+    excerpt: "Personal trainers cost $40-$500+ per session depending on location, experience, and setting. Complete breakdown of gym trainers, independent coaches, online training, and AI alternatives with real monthly costs.",
+    author: "The Forge Team",
+    keywords: ["how much does a personal trainer cost", "personal trainer cost", "personal training prices", "personal trainer rates", "cost of personal trainer"],
+    category: "getting-started"
+  },
+  {
     slug: "do-you-need-a-personal-trainer",
     title: "Do You Need a Personal Trainer? 12 Signs You'd Benefit From One",
     date: "2026-01-19",
