@@ -113,6 +113,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/personal-trainer-alternatives</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/how-much-does-personal-trainer-cost</loc>
     <lastmod>2026-01-20</lastmod>
     <changefreq>yearly</changefreq>

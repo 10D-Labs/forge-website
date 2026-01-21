@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "personal-trainer-alternatives",
+    title: "Personal Trainer Alternatives: What Actually Works",
+    date: "2026-01-21",
+    excerpt: "Personal trainers cost $300-500/month. Here's an honest look at alternatives that actually work, from AI trainers to group classes, and what you trade for the savings.",
+    author: "The Forge Team",
+    keywords: ["personal trainer alternatives", "can't afford personal trainer", "alternatives to personal trainer", "AI personal trainer", "group fitness classes"],
+    category: "getting-started"
+  },
+  {
     slug: "how-much-does-personal-trainer-cost",
     title: "How Much Does a Personal Trainer Cost? 2026 Pricing Guide",
     date: "2026-01-20",
