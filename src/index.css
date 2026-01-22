@@ -909,3 +909,41 @@
 .hero-scroll-bounce {
   animation: hero-bounce 1.5s ease-in-out infinite;
 }
+
+/* === CLS-SAFE FADE ANIMATIONS === */
+/* Used by GridBackground and other effects to prevent layout shift during initial render */
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in-slow {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out forwards;
+}
+
+.animate-fade-in-slow {
+  animation: fade-in-slow 1s ease-out forwards;
+}
+
+/* Reduced motion: instant appearance instead of animation */
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in,
+  .animate-fade-in-slow {
+    animation: none;
+    opacity: 1;
+  }
+}

@@ -81,7 +81,15 @@ const HeroSection = () => {
           </div>
 
           {/* Right: Phone - Static first, then interactive */}
-          <div className="relative flex justify-center lg:justify-end hero-animate-phone">
+          {/* Fixed container prevents CLS during component swap */}
+          <div
+            className="relative flex justify-center lg:justify-end hero-animate-phone"
+            style={{
+              // Reserve exact space for phone to prevent any layout shift
+              // This container size matches the phone dimensions at each breakpoint
+              contain: "layout",
+            }}
+          >
             {showInteractive ? (
               <Suspense fallback={<HeroPhoneStatic />}>
                 <Hero3DPhone className="relative z-10" />

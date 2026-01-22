@@ -1,12 +1,16 @@
 import { motion, useMotionValue, useSpring, useTransform, useReducedMotion } from "framer-motion";
-import { useRef, useState, useEffect } from "react";
+import { useRef } from "react";
 
 // Use public path for preload compatibility
 const appMockupHero = "/app-mockup-hero.webp";
 
-// Blur placeholder for loading
-const PLACEHOLDER_BLUR =
-  "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQABwAPm0qkEWkIqGYBABABsS0AAAMvuP4APy9gAD++Pb/rX/lP/N/8X/if+r/6L/q/+q/5//s/93/1P/af9V/6IAA";
+// Fixed dimensions for CLS prevention
+// These match Tailwind's w-72 (288px), md:w-80 (320px), lg:w-96 (384px)
+// Aspect ratio ~2.05:1 based on actual image dimensions
+const PHONE_DIMENSIONS = {
+  width: 384,
+  height: 788,
+} as const;
 
 interface Hero3DPhoneProps {
   className?: string;
@@ -14,14 +18,12 @@ interface Hero3DPhoneProps {
 
 const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   const ref = useRef<HTMLDivElement>(null);
-  const [imageLoaded, setImageLoaded] = useState(false);
-  const [isTouchDevice, setIsTouchDevice] = useState(false);
   const shouldReduceMotion = useReducedMotion();
 
-  // Detect touch device
-  useEffect(() => {
-    setIsTouchDevice('ontouchstart' in window || navigator.maxTouchPoints > 0);
-  }, []);
+  // Detect touch device synchronously to prevent hydration mismatch
+  // Use matchMedia for more reliable detection
+  const isTouchDevice = typeof window !== 'undefined' &&
+    (window.matchMedia?.('(pointer: coarse)')?.matches || false);
 
   // Mouse position values for 3D tilt effect
   const mouseX = useMotionValue(0);
@@ -52,12 +54,16 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   };
 
   return (
+    // Fixed container prevents layout shift - matches HeroPhoneStatic exactly
     <div
       ref={ref}
-      className={className}
+      className={`w-72 md:w-80 lg:w-96 ${className || ''}`}
       onMouseMove={handleMouseMove}
       onMouseLeave={handleMouseLeave}
-      style={{ perspective: 1000 }}
+      style={{
+        perspective: 1000,
+        aspectRatio: `${PHONE_DIMENSIONS.width} / ${PHONE_DIMENSIONS.height}`,
+      }}
     >
       {/* 3D Phone Container */}
       <motion.div
@@ -68,25 +74,28 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
           transformStyle: "preserve-3d",
         }}
       >
-        {/* Glow behind phone */}
+        {/* Glow behind phone - contained to prevent layout impact */}
         <motion.div
           className="absolute inset-0 -z-10 blur-3xl"
           style={{
             background:
               "radial-gradient(ellipse at center, hsl(var(--primary) / 0.4) 0%, transparent 70%)",
             transform: "translateZ(-50px) scale(1.3)",
+            contain: "layout paint",
           }}
+          initial={{ opacity: 0.5 }}
           animate={shouldReduceMotion ? { opacity: 0.5 } : { opacity: [0.4, 0.6, 0.4] }}
           transition={
             shouldReduceMotion
               ? undefined
               : { duration: 4, repeat: Infinity, ease: "easeInOut" }
           }
+          aria-hidden="true"
         />
 
         {/* Phone frame wrapper */}
         <motion.div
-          className="relative"
+          className="relative w-full h-full"
           animate={shouldReduceMotion ? undefined : { y: [0, -15, 0] }}
           transition={
             shouldReduceMotion
@@ -94,23 +103,13 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
               : { duration: 6, repeat: Infinity, ease: "easeInOut" }
           }
         >
-          {/* Blur placeholder */}
-          <img
-            src={PLACEHOLDER_BLUR}
-            alt=""
-            aria-hidden="true"
-            className={`absolute inset-0 w-full h-full rounded-[2.5rem] object-cover blur-md scale-105 transition-opacity duration-500 ${
-              imageLoaded ? "opacity-0" : "opacity-100"
-            }`}
-          />
-
-          {/* Main phone image */}
+          {/* Main phone image - explicit dimensions prevent CLS */}
           <motion.img
             src={appMockupHero}
             alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance"
-            className={`w-72 md:w-80 lg:w-96 rounded-[2.5rem] transition-opacity duration-500 ${
-              imageLoaded ? "opacity-100" : "opacity-0"
-            }`}
+            width={PHONE_DIMENSIONS.width}
+            height={PHONE_DIMENSIONS.height}
+            className="w-full h-full rounded-[2.5rem] object-cover"
             style={{
               boxShadow: `
                 0 0 0 1px hsl(var(--primary) / 0.1),
@@ -121,8 +120,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
             }}
             loading="eager"
             fetchPriority="high"
-            decoding="async"
-            onLoad={() => setImageLoaded(true)}
+            decoding="sync"
           />
 
           {/* Reflection/shine effect */}
@@ -146,13 +144,14 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
           />
         </motion.div>
 
-        {/* Floating accent elements */}
+        {/* Floating accent elements - contained to prevent layout impact */}
         <motion.div
           className="absolute -top-8 -right-8 w-16 h-16 rounded-full"
           style={{
             background:
               "radial-gradient(circle, hsl(var(--forge-cyan) / 0.3) 0%, transparent 70%)",
             transform: "translateZ(40px)",
+            contain: "layout paint",
           }}
           animate={
             shouldReduceMotion
@@ -164,6 +163,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
               ? undefined
               : { duration: 5, repeat: Infinity, ease: "easeInOut" }
           }
+          aria-hidden="true"
         />
 
         <motion.div
@@ -172,6 +172,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
             background:
               "radial-gradient(circle, hsl(var(--forge-purple) / 0.3) 0%, transparent 70%)",
             transform: "translateZ(30px)",
+            contain: "layout paint",
           }}
           animate={
             shouldReduceMotion
@@ -183,6 +184,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
               ? undefined
               : { duration: 4, repeat: Infinity, ease: "easeInOut", delay: 1 }
           }
+          aria-hidden="true"
         />
       </motion.div>
     </div>

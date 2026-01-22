@@ -81,14 +81,19 @@ const Header = () => {
         </button>
       </div>
 
-      {/* Mobile Navigation */}
+      {/* Mobile Navigation - CLS-safe with CSS Grid height animation */}
       <div
         id="mobile-menu"
-        className={`sm:hidden bg-surface-0 border-t border-border-nav overflow-hidden transition-all duration-300 ease-out ${
-          isMenuOpen ? "max-h-72 opacity-100" : "max-h-0 opacity-0"
-        }`}
+        className="sm:hidden bg-surface-0 border-t border-border-nav grid transition-[grid-template-rows,opacity] duration-300 ease-out"
+        style={{
+          gridTemplateRows: isMenuOpen ? "1fr" : "0fr",
+          opacity: isMenuOpen ? 1 : 0,
+          // Contain layout to prevent affecting other elements
+          contain: "layout style",
+        }}
         aria-hidden={!isMenuOpen}
       >
+        <div className="overflow-hidden">
         <nav className="container py-4 flex flex-col gap-4" aria-label="Mobile navigation">
           {navLinks.map((link) => (
             <Link
@@ -122,6 +127,7 @@ const Header = () => {
             <ThemeToggle />
           </div>
         </nav>
+        </div>
       </div>
     </header>
   );

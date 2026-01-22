@@ -83,6 +83,8 @@ const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
     <div
       className={cn("absolute inset-0 overflow-hidden pointer-events-none", className)}
       aria-hidden="true"
+      // Strict containment prevents this element from affecting parent layout calculations
+      style={{ contain: "strict" }}
     >
       {orbs.map((orb, index) => (
         <motion.div
@@ -93,6 +95,10 @@ const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
             height: orb.size,
             background: `radial-gradient(circle, ${orb.color} 0%, transparent 70%)`,
             ...orb.position,
+            // GPU-accelerated transforms without layout impact
+            willChange: "transform",
+            // Contain paint and layout to prevent reflows
+            contain: "layout paint",
           }}
           animate={shouldReduceMotion ? undefined : orb.animation}
           transition={

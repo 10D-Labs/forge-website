@@ -1,5 +1,5 @@
 import { useState, useRef } from "react";
-import { motion, useInView, AnimatePresence } from "framer-motion";
+import { motion, useInView } from "framer-motion";
 import { ChevronDown } from "lucide-react";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
 import StructuredData, { type FAQQuestion } from "./StructuredData";
@@ -94,24 +94,23 @@ const FAQSection = ({
                 </motion.div>
               </button>
 
-              <AnimatePresence>
-                {openIndex === index && (
-                  <motion.div
-                    id={`faq-answer-${index}`}
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: "auto", opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.2 }}
-                    className="overflow-hidden"
-                  >
-                    <div className="px-5 pb-5 relative z-10">
-                      <p className="text-text-secondary font-barlow leading-relaxed">
-                        {faq.answer}
-                      </p>
-                    </div>
-                  </motion.div>
-                )}
-              </AnimatePresence>
+              {/* CLS-safe accordion using CSS Grid instead of JS height animation */}
+              <div
+                id={`faq-answer-${index}`}
+                className="grid transition-[grid-template-rows,opacity] duration-200 ease-out"
+                style={{
+                  gridTemplateRows: openIndex === index ? "1fr" : "0fr",
+                  opacity: openIndex === index ? 1 : 0,
+                }}
+              >
+                <div className="overflow-hidden">
+                  <div className="px-5 pb-5 relative z-10">
+                    <p className="text-text-secondary font-barlow leading-relaxed">
+                      {faq.answer}
+                    </p>
+                  </div>
+                </div>
+              </div>
             </motion.div>
           ))}
         </motion.div>

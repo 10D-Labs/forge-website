@@ -15,8 +15,9 @@ export default {
     extend: {
       fontFamily: {
         sora: ["Sora", "sans-serif"],
-        barlow: ["Barlow", "sans-serif"],
-        "barlow-condensed": ["Barlow Condensed", "sans-serif"],
+        // Include size-adjusted fallback fonts to minimize CLS during font swap
+        barlow: ["Barlow", "Barlow Fallback", "system-ui", "sans-serif"],
+        "barlow-condensed": ["Barlow Condensed", "Barlow Condensed Fallback", "Arial Narrow", "sans-serif"],
       },
       fontSize: {
         // Display/Hero sizes

@@ -12,10 +12,36 @@
     <!-- Preload hero image for faster LCP -->
     <link rel="preload" as="image" href="/app-mockup-hero.webp" type="image/webp" fetchpriority="high" />
     
-    <!-- Non-blocking font loading - Barlow & Barlow Condensed -->
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@400;500;600&display=swap" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@400;500;600&display=swap" media="print" onload="this.media='all'" />
-    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@400;500;600&display=swap" /></noscript>
+    <!-- Non-blocking font loading - Barlow & Barlow Condensed with optional display to prevent CLS -->
+    <!-- Using display=optional prevents layout shifts: fonts only used if loaded within ~100ms -->
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@400;500;600&display=optional" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@400;500;600&display=optional" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@400;500;600&display=optional" /></noscript>
+
+    <!-- Fallback font metrics to minimize CLS when web fonts load -->
+    <style>
+      /* Size-adjusted fallback fonts minimize layout shift */
+      @font-face {
+        font-family: 'Barlow Fallback';
+        src: local('Arial');
+        size-adjust: 100%;
+        ascent-override: 95%;
+        descent-override: 25%;
+        line-gap-override: 0%;
+      }
+      @font-face {
+        font-family: 'Barlow Condensed Fallback';
+        src: local('Arial Narrow'), local('Arial');
+        size-adjust: 88%;
+        ascent-override: 100%;
+        descent-override: 25%;
+        line-gap-override: 0%;
+      }
+      /* Apply fallbacks in font stack */
+      html {
+        font-family: 'Barlow', 'Barlow Fallback', system-ui, sans-serif;
+      }
+    </style>
     
     <!-- Robot directives -->
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
