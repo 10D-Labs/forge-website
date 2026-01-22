@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "first-time-at-gym-trainers-guide",
+    title: "First Time at the Gym? A Trainer's Complete Guide",
+    date: "2026-01-22",
+    excerpt: "Your first gym visit doesn't have to be scary. Here's exactly what to bring, when to go, what to do, and how to survive your first workout.",
+    author: "The Forge Team",
+    keywords: ["first time at gym", "gym beginner guide", "gym anxiety", "first gym workout", "gym etiquette", "beginner workout plan"],
+    category: "getting-started"
+  },
+  {
     slug: "personal-trainer-alternatives",
     title: "Personal Trainer Alternatives: What Actually Works",
     date: "2026-01-21",
