@@ -29,7 +29,7 @@ const features: Feature[] = [
     icon: ClipboardList,
     title: "Custom Workout Plans",
     description:
-      "Personalized workouts tailored to your goals, fitness level, equipment, and schedule. No cookie-cutter routines.",
+      "Every exercise tells you exactly what weight to use and how many reps. 30 minutes or 60. Zero decisions required.",
   },
   {
     icon: MessageCircle,
@@ -47,13 +47,13 @@ const features: Feature[] = [
     icon: Dumbbell,
     title: "Smart Workout Log",
     description:
-      "Track every set, rep, and weight. Your trainer adapts future workout targets based on your progress.",
+      "Track every set, rep, and weight. See graphs of your strength gains and celebrate PRs. Actual proof you're improving.",
   },
   {
     icon: Bell,
     title: "Built-In Accountability",
     description:
-      "Check-ins, reminders, and a trainer who notices when you've been away. The push you need to stay consistent.",
+      "Miss a workout? Your trainer notices — not to shame you, but to help you get back. On your hardest days, showing up is enough.",
   },
 ];
 

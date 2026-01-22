@@ -62,7 +62,7 @@ const HeroSection = () => {
               className="text-lg md:text-xl text-text-secondary mb-10 leading-relaxed max-w-md hero-animate-item"
               itemProp="description"
             >
-              Personal training without the $500/month price tag. Custom workouts, real guidance, and an AI that actually knows you.
+              Personal training without the $500/month price tag. Whether you're a complete beginner or getting back into it, your AI trainer tells you exactly what to do.
             </p>
 
             {/* Waitlist Form */}

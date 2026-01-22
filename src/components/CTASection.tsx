@@ -87,7 +87,11 @@ const CTASection = () => {
             </li>
             <li className="flex items-center gap-2">
               <Check className="w-4 h-4 text-primary" aria-hidden="true" />
-              <span>No credit card required</span>
+              <span>Launching under $20/month</span>
+            </li>
+            <li className="flex items-center gap-2">
+              <Check className="w-4 h-4 text-primary" aria-hidden="true" />
+              <span>Free trial at launch</span>
             </li>
           </motion.ul>
         </motion.div>

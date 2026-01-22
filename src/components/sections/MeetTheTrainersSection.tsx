@@ -89,8 +89,8 @@ const MeetTheTrainersSection = () => {
             <span className="text-primary text-neon block">Training Team</span>
           </motion.h2>
           <motion.p variants={fadeInUp} className="text-text-secondary text-lg font-barlow">
-            Different personalities for different motivations. Pick the coach that matches your
-            style, and switch anytime.
+            Whether you need tough love, gentle encouragement, or someone who celebrates every small win and understands that some days just showing up is enough — there's a trainer for you.
+            Pick the coach that matches your style, and switch anytime.
           </motion.p>
         </motion.header>
 

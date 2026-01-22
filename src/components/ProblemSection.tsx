@@ -17,11 +17,11 @@ const ProblemSection = () => {
   ];
 
   const solutions = [
-    "Fraction of the cost, same results",
+    "Under $20/month — not $500",
     "Available 24/7, whenever you need it",
-    "Truly personalized to you",
+    "Personalized to YOUR body and goals",
     "Instant answers, anytime",
-    "Remembers everything about you",
+    "Never forgets your injuries",
     "Private — just you and your phone",
   ];
 

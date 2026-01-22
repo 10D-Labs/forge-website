@@ -21,24 +21,9 @@ const SectionFallback = () => <div className="min-h-[200px]" />;
 
 const homepageFAQs = [
   {
-    question: "Do I need a personal trainer?",
-    answer:
-      "A personal trainer provides three things most people struggle to get on their own: custom workout plans tailored to your goals, accountability to stay consistent, and expert guidance so you always know what to do. Studies show people who work with trainers see significantly better results. Forge makes these benefits accessible to everyone.",
-  },
-  {
     question: "How much does a personal trainer cost?",
     answer:
       "Traditional personal trainers typically charge $50-150 per session, or $300-500 per month for regular training. That puts quality fitness guidance out of reach for most people. Forge provides the same personalized workout plans, real-time coaching, and accountability for a fraction of that cost.",
-  },
-  {
-    question: "What's the best alternative to an expensive personal trainer?",
-    answer:
-      "Forge is designed specifically for people who want personal trainer-level guidance without the premium price tag. You get custom workout plans built for your goals and schedule, 24/7 coaching support, and built-in accountability - everything a trainer provides, available whenever you need it.",
-  },
-  {
-    question: "Can I get good results without a personal trainer?",
-    answer:
-      "You can make progress on your own, but personalized guidance dramatically improves both results and consistency. Research shows people with structured programs and accountability are far more likely to reach their goals. Forge bridges this gap by providing expert-level guidance that adapts to you.",
   },
   {
     question: "What is Forge?",
@@ -48,7 +33,7 @@ const homepageFAQs = [
   {
     question: "How is Forge different from other fitness apps?",
     answer:
-      "Most fitness apps offer generic workout programs that aren't tailored to you. Forge creates truly personalized plans and provides real-time coaching that adapts as you progress. Plus, you can choose from four distinct trainer personalities - from tough love to gentle encouragement - so you get guidance that matches how you like to train.",
+      "Apps like Fitbod use fatigue-based algorithms that often suggest illogical exercise combinations. Forge is different: it uses periodized programming with progressive overload to systematically increase your weights week over week. It remembers your complete history — including injuries — and auto-substitutes exercises you can't do. The AI can explain WHY it's programming each exercise, so you understand the logic. Plus, choose from four trainer personalities.",
   },
   {
     question: "How does Forge help with exercise form?",
@@ -59,6 +44,11 @@ const homepageFAQs = [
     question: "Can I choose my trainer's personality?",
     answer:
       "Yes! Forge offers four distinct AI trainers: Sergeant Stone for tough love and no excuses, Maya for supportive and encouraging guidance, Mike for a casual gym buddy vibe, and Reese for data-driven technical coaching. You can switch trainers anytime to find the style that motivates you best.",
+  },
+  {
+    question: "What if I have injuries or limitations?",
+    answer:
+      "Forge remembers every injury you tell it — shoulder issues, bad back, knee problems, all of it. Unlike human trainers who forget or apps that ignore your settings, Forge automatically programs around your limitations. It substitutes exercises you can't do and never suggests movements that would aggravate old injuries. You'll never have to explain your history again.",
   },
 ];
 

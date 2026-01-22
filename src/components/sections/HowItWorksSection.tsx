@@ -25,7 +25,7 @@ const steps = [
     icon: Dumbbell,
     title: "Start Training",
     description:
-      "Get personalized workouts, real-time guidance, and 24/7 support. Your trainer adapts as you progress.",
+      "Open the app, follow the workout, done. Zero decisions required. Your trainer tells you exactly what to do and adapts as you progress.",
   },
 ];
 
