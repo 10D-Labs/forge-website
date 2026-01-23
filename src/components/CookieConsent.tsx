@@ -9,10 +9,14 @@ const CookieConsent = () => {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const consent = localStorage.getItem("cookie-consent");
-    if (!consent) {
-      setIsVisible(true);
-    }
+    // Delay cookie consent to avoid interfering with LCP measurement
+    const timer = setTimeout(() => {
+      const consent = localStorage.getItem("cookie-consent");
+      if (!consent) {
+        setIsVisible(true);
+      }
+    }, 3000);
+    return () => clearTimeout(timer);
   }, []);
 
   const handleAccept = () => {

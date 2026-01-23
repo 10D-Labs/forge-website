@@ -1,14 +1,29 @@
 import { Suspense } from "react";
+import dynamic from "next/dynamic";
 import { HeroSection } from "@/components/hero";
 import { SocialProofBar } from "@/components/sections";
-import FeaturesSection from "@/components/FeaturesSection";
-import HowItWorksSection from "@/components/sections/HowItWorksSection";
-import ProblemSection from "@/components/ProblemSection";
-import MeetTheTrainersSection from "@/components/sections/MeetTheTrainersSection";
-import FAQSection from "@/components/FAQSection";
-import CTASection from "@/components/CTASection";
 import StructuredData from "@/components/StructuredData";
 import HomeScrollHandler from "@/components/HomeScrollHandler";
+
+// Dynamic imports for below-fold sections - code splitting reduces initial bundle
+const FeaturesSection = dynamic(() => import("@/components/FeaturesSection"), {
+  loading: () => <div className="min-h-[400px]" />,
+});
+const HowItWorksSection = dynamic(() => import("@/components/sections/HowItWorksSection"), {
+  loading: () => <div className="min-h-[400px]" />,
+});
+const ProblemSection = dynamic(() => import("@/components/ProblemSection"), {
+  loading: () => <div className="min-h-[300px]" />,
+});
+const MeetTheTrainersSection = dynamic(() => import("@/components/sections/MeetTheTrainersSection"), {
+  loading: () => <div className="min-h-[400px]" />,
+});
+const FAQSection = dynamic(() => import("@/components/FAQSection"), {
+  loading: () => <div className="min-h-[300px]" />,
+});
+const CTASection = dynamic(() => import("@/components/CTASection"), {
+  loading: () => <div className="min-h-[200px]" />,
+});
 
 const homepageFAQs = [
   {
@@ -43,8 +58,6 @@ const homepageFAQs = [
   },
 ];
 
-// Minimal loading fallback
-const SectionFallback = () => <div className="min-h-[200px]" />;
 
 export default function HomePage() {
   return (
@@ -100,34 +113,17 @@ export default function HomePage() {
         {/* Social Proof - Build trust immediately */}
         <SocialProofBar />
 
-        {/* Below-fold sections */}
-        <Suspense fallback={<SectionFallback />}>
-          <FeaturesSection />
-        </Suspense>
-
-        <Suspense fallback={<SectionFallback />}>
-          <HowItWorksSection />
-        </Suspense>
-
-        <Suspense fallback={<SectionFallback />}>
-          <ProblemSection />
-        </Suspense>
-
-        <Suspense fallback={<SectionFallback />}>
-          <MeetTheTrainersSection />
-        </Suspense>
-
-        <Suspense fallback={<SectionFallback />}>
-          <FAQSection
-            title="Frequently Asked Questions"
-            subtitle="Everything you need to know about personal training with Forge"
-            questions={homepageFAQs}
-          />
-        </Suspense>
-
-        <Suspense fallback={<SectionFallback />}>
-          <CTASection />
-        </Suspense>
+        {/* Below-fold sections - dynamically loaded to reduce initial JS */}
+        <FeaturesSection />
+        <HowItWorksSection />
+        <ProblemSection />
+        <MeetTheTrainersSection />
+        <FAQSection
+          title="Frequently Asked Questions"
+          subtitle="Everything you need to know about personal training with Forge"
+          questions={homepageFAQs}
+        />
+        <CTASection />
       </main>
     </div>
   );
