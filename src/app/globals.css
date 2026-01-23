@@ -859,8 +859,9 @@
 
 @keyframes hero-slide-in-right {
   from {
-    opacity: 0;
-    transform: translateX(100px) scale(0.9);
+    /* Keep opacity at 1 so LCP image is visible immediately */
+    opacity: 1;
+    transform: translateX(60px) scale(0.95);
   }
   to {
     opacity: 1;
@@ -893,8 +894,9 @@
 .hero-animate-item:nth-child(5) { animation-delay: 0.5s; }
 
 .hero-animate-phone {
-  animation: hero-slide-in-right 1s cubic-bezier(0.25, 0.1, 0.25, 1) 0.3s forwards;
-  opacity: 0;
+  /* No delay, phone visible immediately for LCP optimization */
+  animation: hero-slide-in-right 0.8s cubic-bezier(0.25, 0.1, 0.25, 1) forwards;
+  /* opacity: 1 by default - phone visible immediately for faster LCP */
 }
 
 .hero-scroll-indicator {
