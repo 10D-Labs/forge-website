@@ -3,6 +3,7 @@
 import { motion, useInView } from "framer-motion";
 import { useRef, useState, useEffect, useCallback } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { staggerContainer, fadeInUp, cardHover } from "@/lib/animations";
 import { TRAINER_CAROUSEL, SCROLL_AMOUNTS } from "@/lib/constants";
@@ -157,12 +158,11 @@ const MeetTheTrainersSection = () => {
                         clipPath: "polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px))"
                       }}
                     >
-                      <img
+                      <Image
                         src={trainer.avatarUrl}
                         alt={trainer.name}
-                        loading="lazy"
-                        width="56"
-                        height="56"
+                        width={56}
+                        height={56}
                         className="w-full h-full object-cover"
                         style={{ clipPath: "polygon(0 0, calc(100% - 7px) 0, 100% 7px, 100% 100%, 7px 100%, 0 calc(100% - 7px))" }}
                       />

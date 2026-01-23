@@ -2,6 +2,8 @@
 // Used as placeholder while Hero3DPhone lazy loads
 // CLS Prevention: Fixed dimensions match the responsive sizes exactly
 
+import Image from "next/image";
+
 // Fixed dimensions for each breakpoint to prevent CLS
 // These match Tailwind's w-72 (288px), md:w-80 (320px), lg:w-96 (384px)
 // Aspect ratio ~2.05:1 based on actual image dimensions
@@ -36,11 +38,9 @@ const HeroPhoneStatic = () => {
 
         {/* Phone frame wrapper */}
         <div className="relative w-full h-full">
-          {/* Main phone image with responsive srcset for optimized delivery */}
-          <img
+          {/* Main phone image - priority loading for LCP optimization */}
+          <Image
             src="/app-mockup-hero.webp"
-            srcSet="/app-mockup-hero-576w.webp 576w, /app-mockup-hero-768w.webp 768w, /app-mockup-hero.webp 1080w"
-            sizes="(max-width: 768px) 288px, (max-width: 1024px) 320px, 384px"
             alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance"
             width={PHONE_DIMENSIONS.width}
             height={PHONE_DIMENSIONS.height}
@@ -52,9 +52,8 @@ const HeroPhoneStatic = () => {
                 0 0 80px hsl(var(--primary) / 0.2)
               `,
             }}
-            loading="eager"
-            fetchPriority="high"
-            decoding="sync"
+            priority
+            sizes="(max-width: 768px) 288px, (max-width: 1024px) 320px, 384px"
           />
 
           {/* Reflection/shine effect */}

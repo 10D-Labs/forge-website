@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { Users, Zap, TrendingUp } from "lucide-react";
 import StructuredData from "@/components/StructuredData";
 
@@ -175,7 +176,7 @@ export default function AboutPage() {
                         "polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px))",
                     }}
                   >
-                    <img
+                    <Image
                       src={founder.image}
                       alt={`${founder.name} - ${founder.role} at Forge AI Fitness`}
                       className="w-full h-full object-cover"
@@ -183,7 +184,6 @@ export default function AboutPage() {
                         clipPath:
                           "polygon(0 0, calc(100% - 15px) 0, 100% 15px, 100% 100%, 15px 100%, 0 calc(100% - 15px))",
                       }}
-                      loading="lazy"
                       width={128}
                       height={128}
                       itemProp="image"

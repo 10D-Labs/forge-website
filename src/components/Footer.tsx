@@ -1,7 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Instagram, Mail } from "lucide-react";
-
-const forgeLogo = "/forge-logo.png";
 
 const TikTokIcon = () => (
   <svg
@@ -28,13 +27,12 @@ const Footer = () => {
           {/* Logo & Description */}
           <div className="md:col-span-2" itemScope itemType="https://schema.org/Organization">
             <Link href="/" className="inline-block mb-4" aria-label="Forge - Home">
-              <img
-                src={forgeLogo}
+              <Image
+                src="/forge-logo.png"
                 alt="Forge - AI Personal Trainer Logo"
                 className="h-12 w-auto"
-                loading="lazy"
-                width="48"
-                height="48"
+                width={48}
+                height={48}
                 itemProp="logo"
               />
             </Link>

@@ -2,6 +2,7 @@
 
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import StructuredData from "@/components/StructuredData";
 import { getTrainerBySlug, trainers } from "@/content/trainers";
@@ -118,11 +119,11 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                         "polygon(0 0, calc(100% - 24px) 0, 100% 24px, 100% 100%, 24px 100%, 0 calc(100% - 24px))",
                     }}
                   >
-                    <img
+                    <Image
                       src={trainer.avatarUrl}
                       alt={trainer.name}
-                      width="280"
-                      height="280"
+                      width={280}
+                      height={280}
                       className="w-56 h-56 md:w-72 md:h-72 object-cover"
                       style={{
                         clipPath:
@@ -303,12 +304,11 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                             "polygon(0 0, calc(100% - 6px) 0, 100% 6px, 100% 100%, 6px 100%, 0 calc(100% - 6px))",
                         }}
                       >
-                        <img
+                        <Image
                           src={t.avatarUrl}
                           alt={t.name}
-                          loading="lazy"
-                          width="48"
-                          height="48"
+                          width={48}
+                          height={48}
                           className="w-full h-full object-cover"
                           style={{
                             clipPath:
