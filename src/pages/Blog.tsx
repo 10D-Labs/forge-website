@@ -30,8 +30,8 @@ const Blog = () => {
       <Header />
       <main className="pt-20" role="main" itemScope itemType="https://schema.org/Blog">
         {/* Hero Section */}
-        <section className="py-10 md:py-12 bg-surface-0 relative overflow-hidden">
-          <div className="absolute inset-0 bg-mesh opacity-50" aria-hidden="true" />
+        <section className="py-10 md:py-12 bg-surface-0 relative overflow-hidden" style={{ contain: 'layout style' }}>
+          <div className="absolute inset-0 bg-mesh opacity-50" style={{ contain: 'strict' }} aria-hidden="true" />
           <div className="container relative z-10 max-w-4xl">
             <p className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4">
               Insights & Tips

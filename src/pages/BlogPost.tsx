@@ -96,8 +96,11 @@ const BlogPost = () => {
       <Header />
       <main className="pt-20" role="main">
         {/* Hero Section */}
-        <section className="py-10 md:py-12 bg-surface-0 relative overflow-hidden">
-          <div className="absolute inset-0 bg-mesh opacity-50" aria-hidden="true" />
+        <section
+          className="py-10 md:py-12 bg-surface-0 relative overflow-hidden"
+          style={{ contain: 'layout style' }}
+        >
+          <div className="absolute inset-0 bg-mesh opacity-50" style={{ contain: 'strict' }} aria-hidden="true" />
           <div className="container relative z-10 max-w-3xl">
             <nav aria-label="Breadcrumb" className="mb-6">
               <Link
@@ -146,12 +149,29 @@ const BlogPost = () => {
           </div>
         </section>
 
-        {/* Article Content */}
-        <section className="py-10 md:py-12 bg-surface-1 border-t border-border-subtle">
+        {/* Article Content - min-height prevents CLS during async content load */}
+        <section
+          className="py-10 md:py-12 bg-surface-1 border-t border-border-subtle"
+          style={{
+            // Reserve space to prevent CLS when content loads
+            minHeight: loading ? '80vh' : 'auto',
+            // Contain layout to isolate from rest of page
+            contain: 'layout style',
+          }}
+        >
           <div className="container max-w-3xl">
             {loading ? (
-              <div className="animate-pulse space-y-3" aria-label="Loading content">
+              <div className="animate-pulse space-y-4" aria-label="Loading content">
+                {/* More realistic skeleton that better matches article structure */}
+                <div className="h-6 bg-surface-2 w-3/4" />
                 <div className="h-4 bg-surface-2" />
+                <div className="h-4 bg-surface-2" />
+                <div className="h-4 bg-surface-2 w-5/6" />
+                <div className="h-4 bg-surface-2 w-4/6 mt-6" />
+                <div className="h-4 bg-surface-2" />
+                <div className="h-4 bg-surface-2" />
+                <div className="h-4 bg-surface-2 w-3/4" />
+                <div className="h-6 bg-surface-2 w-2/3 mt-8" />
                 <div className="h-4 bg-surface-2" />
                 <div className="h-4 bg-surface-2 w-5/6" />
               </div>

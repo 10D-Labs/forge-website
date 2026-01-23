@@ -16,6 +16,8 @@ const RelatedPosts = ({ currentSlug }: RelatedPostsProps) => {
     <section
       className="mt-16 pt-12 border-t border-border-subtle"
       aria-labelledby="related-posts-heading"
+      // Contain layout to prevent animations from causing CLS
+      style={{ contain: 'layout style' }}
     >
       <motion.div
         initial="hidden"
