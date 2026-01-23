@@ -4,6 +4,7 @@ date: "2026-01-04"
 excerpt: "Stop forcing workouts. Build lasting gym consistency with identity-based habits: think 'I'm someone who works out' not 'I should work out.' Science-backed strategies."
 author: "The Forge Team"
 keywords: ["identity-based habits", "gym consistency", "workout motivation", "fitness identity", "habit formation psychology", "how to stick with gym", "exercise habits", "how to make gym a habit", "become a person who works out"]
+category: "fitness-psychology"
 ---
 
 You walk past your gym bag sitting by the door. Still packed from last week. You glance at it while scrolling through Instagram fitness influencers, promising yourself tomorrow will be different. Tomorrow arrives with the same internal negotiation: too tired, too busy, too... whatever excuse feels most believable today.

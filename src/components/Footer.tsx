@@ -80,7 +80,7 @@ const Footer = () => {
                 <Instagram className="w-5 h-5" aria-hidden="true" />
               </a>
               <a
-                href="https://www.tiktok.com/@forge.ai.trainer"
+                href="https://www.tiktok.com/@forgeaitrainer"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"

@@ -4,6 +4,7 @@ date: "2026-01-17"
 excerpt: "Overwhelmed by workout options? Learn why fitness decision paralysis happens and use this 6-step framework to finally choose a program and start making progress."
 author: "The Forge Team"
 keywords: ["fitness decision paralysis", "how to choose a workout plan", "workout overwhelm", "analysis paralysis gym", "beginner workout confusion"]
+category: "fitness-psychology"
 ---
 
 You've bookmarked 47 workout plans. Downloaded 8 fitness apps. Watched countless YouTube videos comparing programs. You're following four different fitness influencers who all contradict each other.

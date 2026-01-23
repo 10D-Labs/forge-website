@@ -4,6 +4,7 @@ date: "2025-12-30"
 excerpt: "Learn how progressive overload drives muscle growth and strength gains. Discover 7 proven methods to apply progressive resistance training and avoid common mistakes."
 author: "The Forge Team"
 keywords: ["progressive overload", "build muscle", "strength training", "muscle growth", "workout progression"]
+category: "training-fundamentals"
 ---
 
 You've been hitting the gym consistently for months. You show up, do your exercises, break a sweat. But somehow, your body looks exactly the same as it did twelve weeks ago. The weights that felt challenging in January still feel challenging in April. What gives?

@@ -4,6 +4,7 @@ date: "2025-12-29"
 excerpt: "Discover the best workout split for muscle growth. Compare full-body, upper/lower, and PPL routines. Science-backed guide to choosing your ideal training frequency."
 author: "The Forge Team"
 keywords: ["workout split", "best workout split", "workout split for beginners", "training frequency", "muscle hypertrophy", "resistance training split"]
+category: "training-fundamentals"
 ---
 You've probably seen them at the gym: the person who only trains chest on Mondays, the athlete crushing full-body sessions three times a week, the bodybuilder who seems to live at the gym six days straight. They're all following different workout splits, and if you're wondering which approach is right for you, you're not alone.
 

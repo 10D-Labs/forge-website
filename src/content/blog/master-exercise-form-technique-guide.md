@@ -4,6 +4,7 @@ excerpt: "Discover why proper exercise form matters more than the weight you lif
 date: "2026-01-09"
 author: "The Forge Team"
 keywords: ["exercise form", "proper technique", "squat form", "deadlift form", "bench press form", "workout injuries", "AI form check"]
+category: "exercise-technique"
 ---
 
 You've seen them at the gym. They load up the barbell, arch their back into a concerning curve, and grind out reps that make you wince. Maybe you've been that person. Here's something that should get your attention: research shows beginners face significantly elevated injury risk during their first six months of training. That's not because beginners are weak or clumsy. It's because they never learned proper form, and their bodies are paying the price.

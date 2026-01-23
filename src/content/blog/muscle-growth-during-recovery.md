@@ -5,6 +5,7 @@ excerpt: "Discover the cellular mechanisms that transform your workouts into mus
 description: "Learn the science of muscle growth: how muscle protein synthesis peaks 24 hours post-workout, why satellite cells matter, and why sleep drives gains."
 author: "The Forge Team"
 keywords: ["muscle protein synthesis", "muscle growth biology", "satellite cells", "mTOR pathway", "recovery science", "growth hormone", "supercompensation", "how muscles grow", "muscle recovery"]
+category: "workout-recovery"
 ---
 
 You finish your last set of squats, rack the weight, and feel that familiar burn in your quads. Muscles pumped, sweat dripping, endorphins flowing. This is when you're building muscle, right?

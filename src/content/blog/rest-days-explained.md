@@ -4,6 +4,7 @@ date: "2026-01-01"
 excerpt: "Discover why rest days accelerate your fitness gains, how to spot overtraining, and the science-backed strategies that turn recovery into your competitive advantage."
 author: "The Forge Team"
 keywords: ["rest days", "active recovery", "passive recovery", "overtraining syndrome", "muscle recovery"]
+category: "workout-recovery"
 ---
 
 You've been crushing your workouts for weeks. Every session feels like a personal victory. You're showing up six days a week, pushing harder than you ever have, yet your progress has stalled. Worse, you're feeling more exhausted after warm-ups than you used to feel after full workouts. What's happening?

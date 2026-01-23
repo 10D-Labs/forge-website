@@ -4,6 +4,7 @@ date: "2026-01-14"
 excerpt: "Learn when and how to implement deload weeks for optimal recovery. Science-backed strategies to prevent overtraining and maximize long-term gains."
 author: "The Forge Team"
 keywords: ["deload week", "what is a deload week", "how to deload", "when to deload", "overtraining recovery", "workout recovery", "deload training"]
+category: "workout-recovery"
 ---
 
 You've been grinding at the gym for months. Your nutrition is dialed in, your sleep is consistent, and you haven't missed a workout in eight weeks. But something feels off. Weights that used to feel manageable now feel like boulders. Your joints ache in ways they didn't before. You're still showing up, but the fire that used to drive you through those last reps has dimmed to a flicker.

@@ -101,7 +101,7 @@ export default function BlogPage() {
                     {post.category && (
                       <span className="inline-block px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider angular-border-sm [--angular-bg:hsl(var(--primary)/0.1)] [--angular-border-color:hsl(var(--primary)/0.3)] mb-4">
                         <span className="relative z-10">
-                          {topics.find((t) => t.slug === post.category)?.name ||
+                          {topics.find((t) => t.relatedCategories.includes(post.category!))?.name ||
                             post.category}
                         </span>
                       </span>

@@ -3,6 +3,7 @@ title: "Why Do We Need Personal Trainers?"
 date: "2025-12-18"
 excerpt: "Breaking down the benefits of personal trainers and how Forge helps you succeed."
 author: "The Forge Team"
+category: "getting-started"
 ---
 
 Most people have never worked with a personal trainer, and while we might have some idea of the benefits, it's hard to get a full picture without experiencing it for yourself. Let's take a look at some of the main benefits, and why they matter.

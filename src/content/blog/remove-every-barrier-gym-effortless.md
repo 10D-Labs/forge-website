@@ -4,6 +4,7 @@ date: "2026-01-03"
 excerpt: "Learn how to eliminate every barrier to gym consistency using friction reduction. Science-backed strategies to make working out effortless. No willpower needed."
 author: "The Forge Team"
 keywords: ["gym consistency", "workout barriers", "fitness friction", "gym habits", "activation energy", "make working out easier", "how to be consistent with gym"]
+category: "fitness-psychology"
 ---
 
 You've joined a gym. You know what exercises to do. You understand that consistent training produces results. So why don't you go?

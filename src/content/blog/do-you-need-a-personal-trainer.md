@@ -4,6 +4,7 @@ date: "2026-01-19"
 excerpt: "Not sure if personal training is worth it? This self-assessment guide reveals 12 signs you'd benefit from a trainer, plus affordable alternatives to fit any budget."
 author: "The Forge Team"
 keywords: ["do I need a personal trainer", "signs you need a personal trainer", "personal trainer worth it", "when to hire personal trainer", "personal training benefits"]
+category: "getting-started"
 ---
 
 You've been scrolling through fitness transformations on social media for the third time this week. Your gym membership card sits untouched in your wallet. Or maybe you're grinding away at the gym regularly but seeing zero progress. Either way, the same question keeps nagging you: would a personal trainer actually help, or is it just an expensive luxury?

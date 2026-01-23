@@ -4,6 +4,7 @@ date: "2026-01-15"
 excerpt: "Discover why constantly switching workout programs sabotages your progress and learn science-backed strategies to finally commit to a plan long enough to see real results."
 author: "The Forge Team"
 keywords: ["program hopping", "switching workout programs", "how long to stick with workout program", "workout program consistency", "gym program results"]
+category: "fitness-psychology"
 ---
 
 Program hopping might be the most common reason gym-goers never see the results they're working toward. You're three weeks into a push-pull-legs split when you stumble across a video about upper-lower training. The influencer's physique is incredible, and their enthusiasm is infectious. By the next Monday, you've abandoned PPL and started fresh. Two weeks later, you see someone praising full-body workouts for natural lifters. The cycle continues. If this sounds familiar, you're caught in program hopping, and it's quietly destroying your progress.

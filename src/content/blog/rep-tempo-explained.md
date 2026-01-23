@@ -6,6 +6,7 @@ date: "2026-01-05"
 excerpt: "Does rep speed really matter for building muscle? Discover what science says about fast vs slow reps, time under tension, and how to match your tempo to your training goals."
 author: "The Forge Team"
 keywords: ["rep tempo", "time under tension", "muscle growth", "strength training", "eccentric training", "concentric training", "lifting speed", "rep speed", "tempo training"]
+category: "exercise-technique"
 ---
 
 You're three sets into your bench press when someone at the gym tells you you're lifting too fast. "Slow down," they insist. "Time under tension is everything for muscle growth." The next week, a different person watches you grind through a deliberately slow squat and shakes their head. "You need to be explosive," they say. "Fast reps build real strength."

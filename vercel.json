@@ -8,8 +8,5 @@
         { "key": "X-Robots-Tag", "value": "index, follow" }
       ]
     }
-  ],
-  "rewrites": [
-    { "source": "/((?!api/|markdown/).*)", "destination": "/" }
   ]
 }

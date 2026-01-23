@@ -4,6 +4,7 @@ date: "2025-12-21"
 excerpt: "Why consistency beats intensity, what the research says about habit formation, and practical strategies to finally make exercise stick."
 author: "The Forge Team"
 keywords: ["workout consistency", "exercise habit formation", "how to stick with exercise", "fitness motivation", "gym habits"]
+category: "fitness-psychology"
 ---
 
 Here's a statistic that might make you feel better about your own fitness struggles: [67% of gym members rarely or never use their memberships](https://wod.guru/blog/gym-membership-statistics/). About half of people who start a workout routine quit within six months. The average personal training client makes it only three to six months before dropping off.

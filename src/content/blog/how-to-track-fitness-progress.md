@@ -4,6 +4,7 @@ date: "2025-12-29"
 excerpt: "Learn how to track fitness progress with 7 proven methods. Why the scale fails, what to measure instead, and how technology makes tracking effortless."
 author: "The Forge Team"
 keywords: ["how to track fitness progress", "fitness tracking methods", "track workout progress", "body composition tracking", "progressive overload tracking"]
+category: "fitness-technology"
 ---
 You've been hitting the gym consistently for two months. Three times a week, without fail. Your arms feel stronger. Your jeans fit differently. You can finally do those push-ups that used to leave you gasping on the floor.
 

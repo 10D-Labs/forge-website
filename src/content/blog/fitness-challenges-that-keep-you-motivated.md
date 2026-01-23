@@ -4,6 +4,7 @@ date: "2025-12-23"
 excerpt: "Proven fitness challenges that boost motivation and build lasting habits, plus how to design your own and make them stick."
 author: "The Forge Team"
 keywords: ["fitness challenge", "30-day workout challenge", "workout challenge ideas", "fitness motivation", "exercise challenge"]
+category: "fitness-psychology"
 ---
 
 There's a reason fitness challenges are everywhere: they work. A clear timeframe, measurable goals, and a sense of accomplishment tap into fundamental psychology that keeps people engaged when open-ended "get in shape" goals fall flat.

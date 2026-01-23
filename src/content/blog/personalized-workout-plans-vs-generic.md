@@ -4,6 +4,7 @@ date: "2025-12-20"
 excerpt: "Generic fitness programs fail most people. Here's why personalization matters and how to finally get a workout plan that works for your body and goals."
 author: "The Forge Team"
 keywords: ["personalized workout plan", "custom fitness program", "AI workout generator", "individualized training program", "personalized exercise routine"]
+category: "training-fundamentals"
 ---
 
 You've probably been there. You find a workout program online (maybe it promises to get you shredded in 12 weeks or build serious muscle with just three days a week). You start strong, follow it exactly as written, and then... nothing. Or worse, you get hurt. Or you just quietly stop because the whole thing feels wrong for your body.
