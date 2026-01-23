@@ -22,6 +22,7 @@ export default defineConfig(({ mode }) => ({
           'vendor-react': ['react', 'react-dom', 'react-router-dom'],
           'vendor-motion': ['framer-motion'],
           'vendor-ui': ['lucide-react', '@radix-ui/react-toast', '@radix-ui/react-slot'],
+          'vendor-supabase': ['@supabase/supabase-js'],
         },
       },
     },

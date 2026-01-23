@@ -1,5 +1,5 @@
 import { motion, useInView } from "framer-motion";
-import { useRef, useState, useEffect } from "react";
+import { useRef, useState, useEffect, useCallback } from "react";
 import { Link } from "react-router-dom";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { staggerContainer, fadeInUp, cardHover } from "@/lib/animations";
@@ -9,31 +9,41 @@ import { trainers } from "@/content/trainers";
 const MeetTheTrainersSection = () => {
   const sectionRef = useRef(null);
   const scrollRef = useRef<HTMLDivElement>(null);
+  const rafId = useRef<number | null>(null);
   const isInView = useInView(sectionRef, { once: true, amount: 0.2 });
   const [canScrollLeft, setCanScrollLeft] = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(true);
   const [activeIndex, setActiveIndex] = useState(0);
 
-  const checkScroll = () => {
-    if (scrollRef.current) {
-      const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
-      setCanScrollLeft(scrollLeft > TRAINER_CAROUSEL.scrollThreshold);
-      setCanScrollRight(scrollLeft < scrollWidth - clientWidth - TRAINER_CAROUSEL.scrollThreshold);
+  // Throttled scroll check using requestAnimationFrame to prevent forced reflow
+  const checkScroll = useCallback(() => {
+    if (rafId.current) return; // Skip if already scheduled
 
-      // Calculate active card index for pagination dots
-      const isMobile = window.innerWidth < TRAINER_CAROUSEL.mobileBreakpoint;
-      const cardWidth = isMobile ? TRAINER_CAROUSEL.cardWidthMobile : TRAINER_CAROUSEL.cardWidthDesktop;
-      const index = Math.round(scrollLeft / (cardWidth + TRAINER_CAROUSEL.gap));
-      setActiveIndex(Math.min(index, trainers.length - 1));
-    }
-  };
+    rafId.current = requestAnimationFrame(() => {
+      if (scrollRef.current) {
+        const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
+        setCanScrollLeft(scrollLeft > TRAINER_CAROUSEL.scrollThreshold);
+        setCanScrollRight(scrollLeft < scrollWidth - clientWidth - TRAINER_CAROUSEL.scrollThreshold);
+
+        // Calculate active card index for pagination dots
+        const isMobile = window.innerWidth < TRAINER_CAROUSEL.mobileBreakpoint;
+        const cardWidth = isMobile ? TRAINER_CAROUSEL.cardWidthMobile : TRAINER_CAROUSEL.cardWidthDesktop;
+        const index = Math.round(scrollLeft / (cardWidth + TRAINER_CAROUSEL.gap));
+        setActiveIndex(Math.min(index, trainers.length - 1));
+      }
+      rafId.current = null;
+    });
+  }, []);
 
   // Check scroll position on mount and window resize
   useEffect(() => {
     checkScroll();
     window.addEventListener("resize", checkScroll);
-    return () => window.removeEventListener("resize", checkScroll);
-  }, []);
+    return () => {
+      window.removeEventListener("resize", checkScroll);
+      if (rafId.current) cancelAnimationFrame(rafId.current);
+    };
+  }, [checkScroll]);
 
   const scrollToIndex = (index: number) => {
     if (scrollRef.current) {

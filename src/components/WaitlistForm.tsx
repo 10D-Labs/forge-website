@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 import { Mail } from "lucide-react";
 import { z } from "zod";
@@ -16,7 +15,7 @@ const WaitlistForm = () => {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    
+
     const validation = emailSchema.safeParse(email);
     if (!validation.success) {
       toast.error(validation.error.errors[0].message);
@@ -24,7 +23,10 @@ const WaitlistForm = () => {
     }
 
     setIsLoading(true);
-    
+
+    // Lazy-load Supabase only when form is submitted (reduces initial bundle by ~35KB)
+    const { supabase } = await import("@/integrations/supabase/client");
+
     const { data, error } = await supabase.functions.invoke("waitlist-signup", {
       body: { email: email.toLowerCase().trim() },
     });

@@ -38,6 +38,7 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   const rotateY = useSpring(useTransform(mouseX, [-0.5, 0.5], [-8, 8]), springConfig);
 
   // Cache getBoundingClientRect on mount and resize to prevent forced reflow
+  // Note: Only resize listener needed - scroll doesn't change element's rect position
   useEffect(() => {
     if (!ref.current || isTouchDevice) return;
 
@@ -49,11 +50,9 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
 
     updateRect();
     window.addEventListener('resize', updateRect);
-    window.addEventListener('scroll', updateRect);
 
     return () => {
       window.removeEventListener('resize', updateRect);
-      window.removeEventListener('scroll', updateRect);
     };
   }, [isTouchDevice]);
 

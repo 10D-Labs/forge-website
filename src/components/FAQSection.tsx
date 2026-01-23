@@ -85,13 +85,13 @@ const FAQSection = ({
                 <span className="font-barlow-condensed text-lg font-semibold uppercase tracking-wide pr-4">
                   {faq.question}
                 </span>
-                <motion.div
-                  animate={{ rotate: openIndex === index ? 180 : 0 }}
-                  transition={{ duration: 0.2 }}
-                  className="flex-shrink-0"
+                <div
+                  className={`flex-shrink-0 transition-transform duration-200 ${
+                    openIndex === index ? "rotate-180" : ""
+                  }`}
                 >
                   <ChevronDown className="w-5 h-5 text-primary" />
-                </motion.div>
+                </div>
               </button>
 
               {/* CLS-safe accordion using CSS Grid instead of JS height animation */}
