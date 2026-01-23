@@ -1,9 +1,19 @@
 import { Suspense } from "react";
 import dynamic from "next/dynamic";
+import type { Metadata } from "next";
 import { HeroSection } from "@/components/hero";
 import { SocialProofBar } from "@/components/sections";
 import StructuredData from "@/components/StructuredData";
 import HomeScrollHandler from "@/components/HomeScrollHandler";
+
+// Metadata with markdown discovery for LLM crawlers
+export const metadata: Metadata = {
+  alternates: {
+    types: {
+      "text/markdown": "/markdown/home.md",
+    },
+  },
+};
 
 // Dynamic imports for below-fold sections - code splitting reduces initial bundle
 const FeaturesSection = dynamic(() => import("@/components/FeaturesSection"), {

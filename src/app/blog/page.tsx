@@ -23,6 +23,11 @@ export const metadata: Metadata = {
       "Expert fitness advice and training guidance from your AI personal trainer.",
     url: "https://forgetrainer.ai/blog",
   },
+  alternates: {
+    types: {
+      "text/markdown": "/markdown/blog.md",
+    },
+  },
 };
 
 export default function BlogPage() {

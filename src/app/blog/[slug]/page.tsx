@@ -48,6 +48,11 @@ export async function generateMetadata({
       title: post.title,
       description: post.excerpt,
     },
+    alternates: {
+      types: {
+        "text/markdown": `/markdown/blog/${slug}.md`,
+      },
+    },
   };
 }
 

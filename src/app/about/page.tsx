@@ -21,6 +21,11 @@ export const metadata: Metadata = {
       "Learn about Forge's mission to make personal training accessible to everyone through AI.",
     url: "https://forgetrainer.ai/about",
   },
+  alternates: {
+    types: {
+      "text/markdown": "/markdown/about.md",
+    },
+  },
 };
 
 const founders = [
