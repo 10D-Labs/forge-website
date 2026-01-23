@@ -8,7 +8,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import CookieConsent from "@/components/CookieConsent";
+import CookieConsentWrapper from "@/components/CookieConsentWrapper";
 import "./globals.css";
 
 const barlow = Barlow({
@@ -93,7 +93,7 @@ export default function RootLayout({
             <Header />
             <main>{children}</main>
             <Footer />
-            <CookieConsent />
+            <CookieConsentWrapper />
           </TooltipProvider>
         </ThemeProvider>
         <Analytics />
