@@ -1,4 +1,3 @@
-import { motion, useReducedMotion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
 interface GlowOrbsProps {
@@ -6,39 +5,27 @@ interface GlowOrbsProps {
   variant?: "hero" | "section" | "subtle";
 }
 
+// CSS-only glow orbs - no Framer Motion dependency for better performance
 const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
-  const shouldReduceMotion = useReducedMotion();
   const orbConfigs = {
     hero: [
       {
         size: 600,
         color: "hsl(var(--primary) / 0.12)",
         position: { top: "-20%", left: "-10%" },
-        animation: {
-          x: [0, 50, 0],
-          y: [0, 30, 0],
-        },
-        duration: 20,
+        animationClass: "animate-orb-1",
       },
       {
         size: 400,
         color: "hsl(var(--primary) / 0.08)",
         position: { bottom: "10%", right: "-5%" },
-        animation: {
-          x: [0, -30, 0],
-          y: [0, -50, 0],
-        },
-        duration: 15,
+        animationClass: "animate-orb-2",
       },
       {
         size: 300,
         color: "hsl(var(--primary) / 0.06)",
         position: { top: "40%", right: "20%" },
-        animation: {
-          x: [0, 40, 0],
-          y: [0, -30, 0],
-        },
-        duration: 18,
+        animationClass: "animate-orb-3",
       },
     ],
     section: [
@@ -46,21 +33,13 @@ const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
         size: 400,
         color: "hsl(var(--primary) / 0.08)",
         position: { top: "10%", left: "-5%" },
-        animation: {
-          x: [0, 30, 0],
-          y: [0, 20, 0],
-        },
-        duration: 22,
+        animationClass: "animate-orb-1",
       },
       {
         size: 300,
         color: "hsl(var(--primary) / 0.05)",
         position: { bottom: "20%", right: "-10%" },
-        animation: {
-          x: [0, -20, 0],
-          y: [0, -30, 0],
-        },
-        duration: 18,
+        animationClass: "animate-orb-2",
       },
     ],
     subtle: [
@@ -68,11 +47,7 @@ const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
         size: 300,
         color: "hsl(var(--primary) / 0.04)",
         position: { top: "20%", left: "10%" },
-        animation: {
-          x: [0, 20, 0],
-          y: [0, 15, 0],
-        },
-        duration: 25,
+        animationClass: "animate-orb-3",
       },
     ],
   };
@@ -83,33 +58,20 @@ const GlowOrbs = ({ className, variant = "hero" }: GlowOrbsProps) => {
     <div
       className={cn("absolute inset-0 overflow-hidden pointer-events-none", className)}
       aria-hidden="true"
-      // Strict containment prevents this element from affecting parent layout calculations
       style={{ contain: "strict" }}
     >
       {orbs.map((orb, index) => (
-        <motion.div
+        <div
           key={index}
-          className="absolute rounded-full"
+          className={`absolute rounded-full ${orb.animationClass}`}
           style={{
             width: orb.size,
             height: orb.size,
             background: `radial-gradient(circle, ${orb.color} 0%, transparent 70%)`,
             ...orb.position,
-            // GPU-accelerated transforms without layout impact
             willChange: "transform",
-            // Contain paint and layout to prevent reflows
             contain: "layout paint",
           }}
-          animate={shouldReduceMotion ? undefined : orb.animation}
-          transition={
-            shouldReduceMotion
-              ? undefined
-              : {
-                  duration: orb.duration,
-                  repeat: Infinity,
-                  ease: "easeInOut",
-                }
-          }
         />
       ))}
     </div>

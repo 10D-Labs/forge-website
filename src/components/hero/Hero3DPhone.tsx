@@ -1,5 +1,5 @@
 import { motion, useMotionValue, useSpring, useTransform, useReducedMotion } from "framer-motion";
-import { useRef } from "react";
+import { useRef, useState, useEffect, useCallback } from "react";
 
 // Use public path for preload compatibility
 const appMockupHero = "/app-mockup-hero.webp";
@@ -20,6 +20,9 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   const ref = useRef<HTMLDivElement>(null);
   const shouldReduceMotion = useReducedMotion();
 
+  // Cache rect to avoid forced reflow on every mouse move
+  const [cachedRect, setCachedRect] = useState<DOMRect | null>(null);
+
   // Detect touch device synchronously to prevent hydration mismatch
   // Use matchMedia for more reliable detection
   const isTouchDevice = typeof window !== 'undefined' &&
@@ -34,19 +37,39 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
   const rotateX = useSpring(useTransform(mouseY, [-0.5, 0.5], [8, -8]), springConfig);
   const rotateY = useSpring(useTransform(mouseX, [-0.5, 0.5], [-8, 8]), springConfig);
 
-  const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
+  // Cache getBoundingClientRect on mount and resize to prevent forced reflow
+  useEffect(() => {
     if (!ref.current || isTouchDevice) return;
-    const rect = ref.current.getBoundingClientRect();
-    const centerX = rect.left + rect.width / 2;
-    const centerY = rect.top + rect.height / 2;
+
+    const updateRect = () => {
+      if (ref.current) {
+        setCachedRect(ref.current.getBoundingClientRect());
+      }
+    };
+
+    updateRect();
+    window.addEventListener('resize', updateRect);
+    window.addEventListener('scroll', updateRect);
+
+    return () => {
+      window.removeEventListener('resize', updateRect);
+      window.removeEventListener('scroll', updateRect);
+    };
+  }, [isTouchDevice]);
+
+  const handleMouseMove = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
+    if (!cachedRect || isTouchDevice) return;
+
+    const centerX = cachedRect.left + cachedRect.width / 2;
+    const centerY = cachedRect.top + cachedRect.height / 2;
 
     // Normalize to -0.5 to 0.5
-    const x = (e.clientX - centerX) / rect.width;
-    const y = (e.clientY - centerY) / rect.height;
+    const x = (e.clientX - centerX) / cachedRect.width;
+    const y = (e.clientY - centerY) / cachedRect.height;
 
     mouseX.set(x);
     mouseY.set(y);
-  };
+  }, [cachedRect, isTouchDevice, mouseX, mouseY]);
 
   const handleMouseLeave = () => {
     mouseX.set(0);
@@ -103,9 +126,11 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
               : { duration: 6, repeat: Infinity, ease: "easeInOut" }
           }
         >
-          {/* Main phone image - explicit dimensions prevent CLS */}
+          {/* Main phone image with responsive srcset for optimized delivery */}
           <motion.img
             src={appMockupHero}
+            srcSet="/app-mockup-hero-576w.webp 576w, /app-mockup-hero-768w.webp 768w, /app-mockup-hero.webp 1080w"
+            sizes="(max-width: 768px) 288px, (max-width: 1024px) 320px, 384px"
             alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance"
             width={PHONE_DIMENSIONS.width}
             height={PHONE_DIMENSIONS.height}

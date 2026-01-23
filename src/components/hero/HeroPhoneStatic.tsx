@@ -36,9 +36,11 @@ const HeroPhoneStatic = () => {
 
         {/* Phone frame wrapper */}
         <div className="relative w-full h-full">
-          {/* Main phone image with explicit dimensions for CLS prevention */}
+          {/* Main phone image with responsive srcset for optimized delivery */}
           <img
             src="/app-mockup-hero.webp"
+            srcSet="/app-mockup-hero-576w.webp 576w, /app-mockup-hero-768w.webp 768w, /app-mockup-hero.webp 1080w"
+            sizes="(max-width: 768px) 288px, (max-width: 1024px) 320px, 384px"
             alt="Forge App interface showing personalized AI fitness trainer with custom workout plans, progress tracking, and real-time guidance"
             width={PHONE_DIMENSIONS.width}
             height={PHONE_DIMENSIONS.height}

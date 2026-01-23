@@ -78,36 +78,32 @@ export const scaleInUp: Variants = {
 };
 
 // === CONTAINER VARIANTS (for staggered children) ===
+// Optimized: Containers don't animate opacity themselves (children do)
+// Reduced delays for faster perceived performance
 
 export const staggerContainer: Variants = {
-  hidden: { opacity: 0 },
+  hidden: {},
   visible: {
-    opacity: 1,
     transition: {
-      staggerChildren: 0.1,
-      delayChildren: 0.1,
+      staggerChildren: 0.08,
     },
   },
 };
 
 export const staggerContainerSlow: Variants = {
-  hidden: { opacity: 0 },
+  hidden: {},
   visible: {
-    opacity: 1,
     transition: {
-      staggerChildren: 0.15,
-      delayChildren: 0.2,
+      staggerChildren: 0.12,
     },
   },
 };
 
 export const staggerContainerFast: Variants = {
-  hidden: { opacity: 0 },
+  hidden: {},
   visible: {
-    opacity: 1,
     transition: {
-      staggerChildren: 0.05,
-      delayChildren: 0.05,
+      staggerChildren: 0.04,
     },
   },
 };

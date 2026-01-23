@@ -9,8 +9,16 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     
-    <!-- Preload hero image for faster LCP -->
-    <link rel="preload" as="image" href="/app-mockup-hero.webp" type="image/webp" fetchpriority="high" />
+    <!-- Preload hero image for faster LCP - responsive srcset -->
+    <link
+      rel="preload"
+      as="image"
+      href="/app-mockup-hero-576w.webp"
+      imagesrcset="/app-mockup-hero-576w.webp 576w, /app-mockup-hero-768w.webp 768w, /app-mockup-hero.webp 1080w"
+      imagesizes="(max-width: 768px) 288px, (max-width: 1024px) 320px, 384px"
+      type="image/webp"
+      fetchpriority="high"
+    />
     
     <!-- Non-blocking font loading - Barlow & Barlow Condensed with optional display to prevent CLS -->
     <!-- Using display=optional prevents layout shifts: fonts only used if loaded within ~100ms -->

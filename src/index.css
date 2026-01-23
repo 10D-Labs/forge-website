@@ -947,3 +947,41 @@
     opacity: 1;
   }
 }
+
+/* === CSS-ONLY GLOW ORB ANIMATIONS === */
+/* Replaces Framer Motion for better performance - reduces JS bundle and main-thread work */
+
+@keyframes orb-float-1 {
+  0%, 100% { transform: translate(0, 0); }
+  50% { transform: translate(50px, 30px); }
+}
+
+@keyframes orb-float-2 {
+  0%, 100% { transform: translate(0, 0); }
+  50% { transform: translate(-30px, -50px); }
+}
+
+@keyframes orb-float-3 {
+  0%, 100% { transform: translate(0, 0); }
+  50% { transform: translate(40px, -30px); }
+}
+
+.animate-orb-1 {
+  animation: orb-float-1 20s ease-in-out infinite;
+}
+
+.animate-orb-2 {
+  animation: orb-float-2 15s ease-in-out infinite;
+}
+
+.animate-orb-3 {
+  animation: orb-float-3 18s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-orb-1,
+  .animate-orb-2,
+  .animate-orb-3 {
+    animation: none;
+  }
+}
