@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "personal-training-on-a-budget",
+    title: "How to Get Personal Training on a Budget: 7 Smart Strategies",
+    date: "2026-01-23",
+    excerpt: "Personal trainers cost $300-500/month. Here are 7 proven strategies to get quality training guidance for a fraction of the price.",
+    author: "The Forge Team",
+    keywords: ["personal training on a budget", "affordable personal training", "cheap personal trainer", "how to afford personal trainer", "budget fitness coaching"],
+    category: "getting-started"
+  },
+  {
     slug: "first-time-at-gym-trainers-guide",
     title: "First Time at the Gym? A Trainer's Complete Guide",
     date: "2026-01-22",
