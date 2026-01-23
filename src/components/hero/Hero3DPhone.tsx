@@ -1,3 +1,5 @@
+"use client";
+
 import { motion, useMotionValue, useSpring, useTransform, useReducedMotion } from "framer-motion";
 import { useRef, useState, useEffect, useCallback } from "react";
 

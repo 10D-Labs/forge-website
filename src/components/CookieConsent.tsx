@@ -1,5 +1,7 @@
+"use client";
+
 import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { X } from "lucide-react";
 
@@ -30,7 +32,7 @@ const CookieConsent = () => {
       <div className="container flex flex-col sm:flex-row items-center justify-between gap-4">
         <p className="text-sm text-muted-foreground text-center sm:text-left">
           We use cookies to enhance your experience. By continuing to visit this site, you agree to our use of cookies.{" "}
-          <Link to="/privacy-policy" className="text-primary hover:underline">
+          <Link href="/privacy-policy" className="text-primary hover:underline">
             Learn more
           </Link>
         </p>

@@ -1,6 +1,8 @@
+"use client";
+
 import { motion, useInView } from "framer-motion";
 import { useRef, useState, useEffect, useCallback } from "react";
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { staggerContainer, fadeInUp, cardHover } from "@/lib/animations";
 import { TRAINER_CAROUSEL, SCROLL_AMOUNTS } from "@/lib/constants";
@@ -143,7 +145,7 @@ const MeetTheTrainersSection = () => {
                 className="flex-shrink-0 w-[280px] md:w-[320px] snap-center"
               >
                 <Link
-                  to={`/trainers/${trainer.slug}`}
+                  href={`/trainers/${trainer.slug}`}
                   className="group block relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
                 >
                   {/* Avatar */}

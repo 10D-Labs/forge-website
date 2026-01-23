@@ -1,3 +1,5 @@
+"use client";
+
 import { ChevronDown } from "lucide-react";
 import { lazy, Suspense, useState, useEffect } from "react";
 import { GridBackground, GlowOrbs } from "@/components/effects";

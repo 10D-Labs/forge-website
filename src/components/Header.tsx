@@ -1,12 +1,15 @@
+"use client";
+
 import { useState } from "react";
-import { Link, useLocation, useNavigate } from "react-router-dom";
+import Link from "next/link";
+import { usePathname, useRouter } from "next/navigation";
 import { Menu, X } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
 import { useScrollToElement } from "@/hooks/useScrollToElement";
 
 const Header = () => {
-  const location = useLocation();
-  const navigate = useNavigate();
+  const pathname = usePathname();
+  const router = useRouter();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const { scrollToElement } = useScrollToElement();
 
@@ -20,8 +23,8 @@ const Header = () => {
 
   const handleWaitlistClick = (e: React.MouseEvent) => {
     e.preventDefault();
-    if (location.pathname !== "/") {
-      navigate("/?scrollTo=waitlist");
+    if (pathname !== "/") {
+      router.push("/?scrollTo=waitlist");
     } else {
       scrollToElement('waitlist', { center: true });
     }
@@ -35,7 +38,7 @@ const Header = () => {
       <div className="container flex items-center justify-between h-16 md:h-20">
         {/* Logo */}
         <Link
-          to="/"
+          href="/"
           className="font-barlow-condensed text-xl md:text-2xl font-extrabold tracking-widest text-foreground hover:text-primary transition-colors"
           aria-label="Forge - Home"
         >
@@ -47,13 +50,13 @@ const Header = () => {
           {navLinks.map((link) => (
             <Link
               key={link.href}
-              to={link.href}
+              href={link.href}
               className={`font-barlow text-sm font-medium transition-colors hover:text-primary ${
-                location.pathname === link.href
+                pathname === link.href
                   ? "text-primary"
                   : "text-text-secondary"
               }`}
-              aria-current={location.pathname === link.href ? "page" : undefined}
+              aria-current={pathname === link.href ? "page" : undefined}
             >
               {link.label}
             </Link>
@@ -98,14 +101,14 @@ const Header = () => {
           {navLinks.map((link) => (
             <Link
               key={link.href}
-              to={link.href}
+              href={link.href}
               onClick={closeMenu}
               className={`font-barlow text-sm font-medium transition-colors hover:text-primary ${
-                location.pathname === link.href
+                pathname === link.href
                   ? "text-primary"
                   : "text-text-secondary"
               }`}
-              aria-current={location.pathname === link.href ? "page" : undefined}
+              aria-current={pathname === link.href ? "page" : undefined}
               tabIndex={isMenuOpen ? 0 : -1}
             >
               {link.label}

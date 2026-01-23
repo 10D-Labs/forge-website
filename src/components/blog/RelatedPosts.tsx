@@ -1,4 +1,6 @@
-import { Link } from "react-router-dom";
+"use client";
+
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { getRelatedPosts, type BlogPostMeta } from "@/content/blog";
 import { fadeInUp, staggerContainer } from "@/lib/animations";
@@ -51,7 +53,7 @@ const RelatedPostCard = ({ post }: RelatedPostCardProps) => {
   return (
     <motion.article variants={fadeInUp}>
       <Link
-        to={`/blog/${post.slug}`}
+        href={`/blog/${post.slug}`}
         className="group block p-5 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
       >
         <time

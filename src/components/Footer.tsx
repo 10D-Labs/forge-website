@@ -1,6 +1,7 @@
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { Instagram, Mail } from "lucide-react";
-import forgeLogo from "@/assets/forge-logo.png";
+
+const forgeLogo = "/forge-logo.png";
 
 const TikTokIcon = () => (
   <svg
@@ -26,7 +27,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           {/* Logo & Description */}
           <div className="md:col-span-2" itemScope itemType="https://schema.org/Organization">
-            <Link to="/" className="inline-block mb-4" aria-label="Forge - Home">
+            <Link href="/" className="inline-block mb-4" aria-label="Forge - Home">
               <img
                 src={forgeLogo}
                 alt="Forge - AI Personal Trainer Logo"
@@ -47,17 +48,17 @@ const Footer = () => {
             <h4 className="text-sm font-semibold mb-4">Navigation</h4>
             <ul className="space-y-3 list-none">
               <li>
-                <Link to="/" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                <Link href="/" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                   Home
                 </Link>
               </li>
               <li>
-                <Link to="/about" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                <Link href="/about" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                   About Us
                 </Link>
               </li>
               <li>
-                <Link to="/blog" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                <Link href="/blog" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                   Blog
                 </Link>
               </li>
@@ -106,10 +107,10 @@ const Footer = () => {
             © {currentYear} 10D Labs, LLC. Forge™ and the Forge logo are trademarks of 10D Labs, LLC.
           </p>
           <nav aria-label="Legal links" className="flex gap-6">
-            <Link to="/privacy-policy" className="text-xs text-muted-foreground hover:text-primary transition-colors">
+            <Link href="/privacy-policy" className="text-xs text-muted-foreground hover:text-primary transition-colors">
               Privacy Policy
             </Link>
-            <Link to="/terms-of-service" className="text-xs text-muted-foreground hover:text-primary transition-colors">
+            <Link href="/terms-of-service" className="text-xs text-muted-foreground hover:text-primary transition-colors">
               Terms of Service
             </Link>
           </nav>
