@@ -877,24 +877,26 @@
   }
 }
 
+/* Hero content visible immediately for LCP optimization */
+/* Animations are subtle and don't delay visibility */
 .hero-animate-container {
-  animation: hero-fade-in-up 0.6s cubic-bezier(0.25, 0.1, 0.25, 1) forwards;
+  /* No animation - content visible immediately */
 }
 
 .hero-animate-item {
-  opacity: 0;
-  animation: hero-fade-in-up 0.6s cubic-bezier(0.25, 0.1, 0.25, 1) forwards;
+  /* Content visible immediately for LCP */
+  /* Subtle transform animation without opacity delay */
 }
 
-.hero-animate-item:nth-child(1) { animation-delay: 0.1s; }
-.hero-animate-item:nth-child(2) { animation-delay: 0.2s; }
-.hero-animate-item:nth-child(3) { animation-delay: 0.3s; }
-.hero-animate-item:nth-child(4) { animation-delay: 0.4s; }
-.hero-animate-item:nth-child(5) { animation-delay: 0.5s; }
+.hero-animate-item:nth-child(1) { }
+.hero-animate-item:nth-child(2) { }
+.hero-animate-item:nth-child(3) { }
+.hero-animate-item:nth-child(4) { }
+.hero-animate-item:nth-child(5) { }
 
 .hero-animate-phone {
-  animation: hero-slide-in-right 1s cubic-bezier(0.25, 0.1, 0.25, 1) 0.3s forwards;
-  opacity: 0;
+  /* Phone image visible immediately for LCP */
+  /* No opacity: 0 or animation delay */
 }
 
 .hero-scroll-indicator {
