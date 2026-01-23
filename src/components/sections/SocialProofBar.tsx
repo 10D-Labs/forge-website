@@ -1,7 +1,6 @@
-import { motion } from "framer-motion";
 import { Users, DollarSign, Zap } from "lucide-react";
-import { fadeIn } from "@/lib/animations";
 
+// CSS-only social proof bar - no Framer Motion to keep initial bundle small
 const SocialProofBar = () => {
   const stats = [
     {
@@ -24,21 +23,12 @@ const SocialProofBar = () => {
   return (
     <section className="py-8 border-y border-border/20 bg-surface-1" aria-label="Key statistics">
       <div className="container">
-        <motion.div
-          className="flex items-center justify-center gap-4 sm:gap-8 md:gap-16"
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true, amount: 0.5 }}
-          variants={fadeIn}
-        >
+        <div className="flex items-center justify-center gap-4 sm:gap-8 md:gap-16 animate-fade-in">
           {stats.map((stat, index) => (
-            <motion.div
+            <div
               key={stat.label}
-              className="flex flex-col sm:flex-row items-center gap-1 sm:gap-3 text-center sm:text-left"
-              initial={{ opacity: 0, y: 10 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: index * 0.1 + 0.2 }}
+              className="flex flex-col sm:flex-row items-center gap-1 sm:gap-3 text-center sm:text-left animate-fade-in-up"
+              style={{ animationDelay: `${index * 100 + 200}ms` }}
             >
               <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-primary/10 flex items-center justify-center" aria-hidden="true">
                 <stat.icon className="w-4 h-4 sm:w-5 sm:h-5 text-primary" />
@@ -47,9 +37,9 @@ const SocialProofBar = () => {
                 <span className="text-sm sm:text-lg font-semibold text-foreground">{stat.value}</span>
                 <span className="text-xs sm:text-sm text-muted-foreground block">{stat.label}</span>
               </div>
-            </motion.div>
+            </div>
           ))}
-        </motion.div>
+        </div>
       </div>
     </section>
   );

@@ -939,12 +939,30 @@
   animation: fade-in-slow 1s ease-out forwards;
 }
 
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  opacity: 0;
+  animation: fade-in-up 0.4s ease-out forwards;
+}
+
 /* Reduced motion: instant appearance instead of animation */
 @media (prefers-reduced-motion: reduce) {
   .animate-fade-in,
-  .animate-fade-in-slow {
+  .animate-fade-in-slow,
+  .animate-fade-in-up {
     animation: none;
     opacity: 1;
+    transform: none;
   }
 }
 

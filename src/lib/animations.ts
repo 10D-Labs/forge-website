@@ -1,4 +1,4 @@
-import { Variants, Transition } from "framer-motion";
+import type { Variants, Transition } from "framer-motion";
 
 // Shared easing curves
 export const easeOut = [0.25, 0.1, 0.25, 1] as const;
