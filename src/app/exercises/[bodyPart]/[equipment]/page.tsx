@@ -18,6 +18,18 @@ import {
   EQUIPMENT_SLUGS,
 } from "@/types/exercise";
 
+// Singular forms of body parts for description text
+const BODY_PART_SINGULAR: Record<BodyPart, string> = {
+  Arms: "arm",
+  Back: "back",
+  Cardio: "cardio",
+  Chest: "chest",
+  Core: "core",
+  Legs: "leg",
+  Neck: "neck",
+  Shoulders: "shoulder",
+};
+
 interface ComboPageProps {
   params: Promise<{ bodyPart: string; equipment: string }>;
 }
@@ -149,7 +161,7 @@ export default async function ComboPage({ params }: ComboPageProps) {
             {bodyPart} Exercises with {equipment}
           </h1>
           <p className="font-barlow text-xl text-text-secondary max-w-2xl">
-            {exercises.length} effective {bodyPart.toLowerCase()} exercises you
+            {exercises.length} effective {BODY_PART_SINGULAR[bodyPart]} exercises you
             can do with{" "}
             {equipment === "Body Weight"
               ? "no equipment"
@@ -205,7 +217,7 @@ export default async function ComboPage({ params }: ComboPageProps) {
             {equipment === "Body Weight" ? "Bodyweight" : equipment}
           </h2>
           <p className="font-barlow text-text-secondary mb-6 max-w-xl mx-auto">
-            Get a personalized {bodyPart.toLowerCase()} workout plan using{" "}
+            Get a personalized {BODY_PART_SINGULAR[bodyPart]} workout plan using{" "}
             {equipment === "Body Weight"
               ? "just your bodyweight"
               : equipment.toLowerCase()}

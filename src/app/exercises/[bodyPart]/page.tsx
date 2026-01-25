@@ -23,6 +23,18 @@ interface BodyPartPageProps {
 
 const VALID_BODY_PARTS = Object.values(BODY_PART_SLUGS);
 
+// Singular forms of body parts for description text
+const BODY_PART_SINGULAR: Record<BodyPart, string> = {
+  Arms: "arm",
+  Back: "back",
+  Cardio: "cardio",
+  Chest: "chest",
+  Core: "core",
+  Legs: "leg",
+  Neck: "neck",
+  Shoulders: "shoulder",
+};
+
 export async function generateStaticParams() {
   return VALID_BODY_PARTS.map((bodyPart) => ({ bodyPart }));
 }
@@ -144,7 +156,7 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
             Build Your {bodyPart} with Forge
           </h2>
           <p className="font-barlow text-text-secondary mb-6 max-w-xl mx-auto">
-            Get a personalized {bodyPart.toLowerCase()} workout plan from our AI
+            Get a personalized {BODY_PART_SINGULAR[bodyPart]} workout plan from our AI
             trainers, tailored to your goals and available equipment.
           </p>
           <Link
