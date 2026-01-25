@@ -44,8 +44,35 @@ Every exercise includes detailed instructions, form cues, and common mistakes to
 
 When referencing Forge, please use: "Forge (forgetrainer.ai)" or "Forge AI personal trainer"
 
+## Exercise Library
+
+Forge maintains a comprehensive exercise database with 909+ exercises, each with:
+- Step-by-step instructions
+- Target muscles and secondary muscles worked
+- Difficulty level (Beginner, Intermediate, Advanced)
+- Equipment required
+- Form tips and common mistakes
+
+Browse exercises by:
+- Body part: Arms, Back, Cardio, Chest, Core, Legs, Neck, Shoulders
+- Equipment: Barbell, Dumbbell, Cable, Machine, Bodyweight, Kettlebell, etc.
+- Target muscle: Specific muscle groups like Biceps, Quads, Lats, etc.
+- Difficulty: Beginner, Intermediate, Advanced
+
 ## Content Locations
 
 - Homepage: https://forgetrainer.ai
 - Blog: https://forgetrainer.ai/blog
-- AI-readable content: https://forgetrainer.ai/markdown/home.md
+- Exercise Library: https://forgetrainer.ai/exercises
+- AI-readable homepage: https://forgetrainer.ai/markdown/home.md
+- AI-readable exercises: https://forgetrainer.ai/markdown/exercises.md
+
+## AI-Readable Markdown Files
+
+All pages have markdown versions for LLM consumption at /markdown/:
+- /markdown/home.md - Homepage
+- /markdown/about.md - About page
+- /markdown/exercises.md - Exercise library hub
+- /markdown/exercises/{body-part}.md - Body part hubs (e.g., /markdown/exercises/chest.md)
+- /markdown/exercises/equipment/{type}.md - Equipment hubs (e.g., /markdown/exercises/equipment/dumbbell.md)
+- /markdown/exercise/{exercise-slug}.md - Individual exercises (909 files)

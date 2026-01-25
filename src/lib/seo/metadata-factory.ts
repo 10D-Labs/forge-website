@@ -44,6 +44,9 @@ export function generateExerciseMetadata(exercise: Exercise): Metadata {
     },
     alternates: {
       canonical: `${BASE_URL}/exercise/${slug}`,
+      types: {
+        "text/markdown": `${BASE_URL}/markdown/exercise/${slug}.md`,
+      },
     },
   };
 }
@@ -77,6 +80,9 @@ export function generateBodyPartHubMetadata(
     },
     alternates: {
       canonical: `${BASE_URL}/exercises/${slug}`,
+      types: {
+        "text/markdown": `${BASE_URL}/markdown/exercises/${slug}.md`,
+      },
     },
   };
 }
@@ -109,6 +115,9 @@ export function generateEquipmentHubMetadata(
     },
     alternates: {
       canonical: `${BASE_URL}/exercises/equipment/${slug}`,
+      types: {
+        "text/markdown": `${BASE_URL}/markdown/exercises/equipment/${slug}.md`,
+      },
     },
   };
 }
@@ -142,6 +151,9 @@ export function generateMuscleHubMetadata(
     },
     alternates: {
       canonical: `${BASE_URL}/exercises/muscle/${slug}`,
+      types: {
+        "text/markdown": `${BASE_URL}/markdown/exercises/muscle/${slug}.md`,
+      },
     },
   };
 }
@@ -176,6 +188,9 @@ export function generateDifficultyMetadata(
     },
     alternates: {
       canonical: `${BASE_URL}/exercises/${slug}`,
+      types: {
+        "text/markdown": `${BASE_URL}/markdown/exercises/${slug}.md`,
+      },
     },
   };
 }
@@ -214,6 +229,9 @@ export function generateComboMetadata(
     },
     alternates: {
       canonical: `${BASE_URL}/exercises/${bodyPartSlug}/${equipmentSlug}`,
+      types: {
+        "text/markdown": `${BASE_URL}/markdown/exercises/${bodyPartSlug}/${equipmentSlug}.md`,
+      },
     },
   };
 }
@@ -244,6 +262,9 @@ export function generateExercisesHubMetadata(totalCount: number): Metadata {
     },
     alternates: {
       canonical: `${BASE_URL}/exercises`,
+      types: {
+        "text/markdown": `${BASE_URL}/markdown/exercises.md`,
+      },
     },
   };
 }
