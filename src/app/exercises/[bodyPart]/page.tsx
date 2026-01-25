@@ -127,22 +127,27 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
         </div>
       </section>
 
-      {/* Equipment Filter Navigation */}
-      <section className="py-4 bg-surface-1 border-y border-border-subtle sticky top-16 z-20">
-        <div className="container">
-          <div className="flex flex-wrap gap-2">
-            {equipmentCounts.map(({ equipment, count }) => (
-              <Link
-                key={equipment}
-                href={`/exercises/${bodyPartSlug}/${EQUIPMENT_SLUGS[equipment]}`}
-                className="px-3 py-1.5 text-sm font-barlow-condensed uppercase tracking-wide angular-border hover:text-primary hover:[--angular-bg:hsl(var(--primary)/0.1)] transition-colors"
-              >
-                <span>{equipment} ({count})</span>
-              </Link>
-            ))}
+      {/* Equipment Filter Navigation - only show if there are valid combinations */}
+      {equipmentCounts.length > 0 && (
+        <section className="py-4 bg-surface-1 border-y border-border-subtle sticky top-16 z-20">
+          <div className="container">
+            <div className="flex flex-wrap gap-2">
+              <span className="px-3 py-1.5 text-sm font-barlow text-text-tertiary">
+                Filter by equipment:
+              </span>
+              {equipmentCounts.map(({ equipment, count }) => (
+                <Link
+                  key={equipment}
+                  href={`/exercises/${bodyPartSlug}/${EQUIPMENT_SLUGS[equipment]}`}
+                  className="px-3 py-1.5 text-sm font-barlow-condensed uppercase tracking-wide angular-border hover:text-primary hover:[--angular-bg:hsl(var(--primary)/0.1)] transition-colors"
+                >
+                  <span>{equipment} ({count})</span>
+                </Link>
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {/* Exercise Grid */}
       <section className="py-12 md:py-16 bg-surface-0">
