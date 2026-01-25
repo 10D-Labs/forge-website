@@ -495,6 +495,63 @@ Get a personalized workout plan from our AI trainers, tailored to your goals and
   return md;
 }
 
+function generateIndividualExerciseMarkdown(exercise) {
+  const slug = slugify(exercise.name);
+  const bpSlug = BODY_PART_SLUGS[exercise.bodyPart];
+  const eqSlug = EQUIPMENT_SLUGS[exercise.equipment];
+
+  let md = `# ${exercise.name} - Forge Exercise Library
+
+## Quick Answer
+
+${exercise.description}
+
+**Details:**
+- **Body Part:** ${exercise.bodyPart}
+- **Equipment:** ${exercise.equipment}
+- **Target Muscle:** ${exercise.target}
+${exercise.secondaryMuscles && exercise.secondaryMuscles.length > 0 ? `- **Secondary Muscles:** ${exercise.secondaryMuscles.join(', ')}` : ''}
+- **Difficulty:** ${exercise.difficulty}
+- **Category:** ${exercise.category}
+
+---
+
+## How to Perform ${exercise.name}
+
+`;
+
+  if (exercise.instructions && exercise.instructions.length > 0) {
+    exercise.instructions.forEach((step, index) => {
+      md += `${index + 1}. ${step}\n`;
+    });
+  }
+
+  md += `
+---
+
+## Browse Related Exercises
+
+- **[More ${exercise.bodyPart} Exercises](https://forgetrainer.ai/exercises/${bpSlug})**
+- **[More ${exercise.equipment} Exercises](https://forgetrainer.ai/exercises/equipment/${eqSlug})**
+- **[More ${exercise.target} Exercises](https://forgetrainer.ai/exercises/muscle/${TARGET_SLUGS[exercise.target] || slugify(exercise.target)})**
+
+---
+
+## Master ${exercise.name} with Forge
+
+Get personalized coaching, form feedback, and workout plans featuring ${exercise.name} and other exercises tailored to your goals.
+
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
+
+---
+
+*Forge - Personal training for everyone.*
+*Website: https://forgetrainer.ai*
+`;
+
+  return md;
+}
+
 // Main execution
 function main() {
   console.log('Generating exercise markdown files...\n');
@@ -564,6 +621,17 @@ function main() {
       fileCount++;
     }
   }
+
+  // 7. Individual exercise pages (in /exercise/ not /exercises/)
+  const individualDir = path.join(__dirname, '../public/markdown/exercise');
+  ensureDir(individualDir);
+  for (const exercise of exercises) {
+    const md = generateIndividualExerciseMarkdown(exercise);
+    const slug = slugify(exercise.name);
+    fs.writeFileSync(path.join(individualDir, `${slug}.md`), md);
+    fileCount++;
+  }
+  console.log(`Created: ${exercises.length} individual exercise pages in exercise/`);
 
   console.log(`\nDone! Generated ${fileCount} markdown files.`);
 }
