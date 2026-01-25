@@ -1,12 +1,12 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import type { Exercise } from "@/types/exercise";
 import ExerciseCard from "./ExerciseCard";
 
 interface ExerciseGridProps {
   exercises: Exercise[];
-  priorityCount?: number;
 }
 
 const containerVariants = {
@@ -26,8 +26,18 @@ const itemVariants = {
 
 export default function ExerciseGrid({
   exercises,
-  priorityCount = 2,
 }: ExerciseGridProps) {
+  // 2 priority on mobile, 4 on desktop (sm breakpoint = 640px)
+  const [priorityCount, setPriorityCount] = useState(2);
+
+  useEffect(() => {
+    const updatePriorityCount = () => {
+      setPriorityCount(window.innerWidth >= 640 ? 4 : 2);
+    };
+    updatePriorityCount();
+    window.addEventListener("resize", updatePriorityCount);
+    return () => window.removeEventListener("resize", updatePriorityCount);
+  }, []);
   if (exercises.length === 0) {
     return (
       <div className="text-center py-12">
