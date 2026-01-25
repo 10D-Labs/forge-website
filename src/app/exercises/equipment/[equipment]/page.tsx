@@ -189,7 +189,7 @@ export default async function EquipmentPage({ params }: EquipmentPageProps) {
       )}
 
       {/* Exercise Grid */}
-      <section className="py-12 md:py-16 bg-surface-0">
+      <section className={`pb-12 md:pb-16 bg-surface-0 ${bodyPartCounts.length > 1 ? "pt-12 md:pt-16" : "pt-6 md:pt-8"}`}>
         <div className="container">
           <ExerciseGrid exercises={exercises} />
         </div>
