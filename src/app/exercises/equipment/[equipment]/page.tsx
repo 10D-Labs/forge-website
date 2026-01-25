@@ -167,7 +167,7 @@ export default async function EquipmentPage({ params }: EquipmentPageProps) {
       </section>
 
       {/* Body Part Filter Navigation - only show if there are valid combinations */}
-      {bodyPartCounts.length > 0 && (
+      {bodyPartCounts.length > 1 && (
         <section className="py-4 bg-surface-1 border-y border-border-subtle sticky top-16 z-20">
           <div className="container">
             <div className="flex flex-wrap gap-2">
