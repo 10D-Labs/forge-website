@@ -66,6 +66,24 @@ const EQUIPMENT_DESC_TEXT: Record<Equipment, string> = {
   "Trap Bar": "a trap bar",
 };
 
+// Equipment names for page headlines (Title Case, with articles where needed)
+const EQUIPMENT_HEADLINE_TEXT: Record<Equipment, string> = {
+  "Ab Wheel": "an Ab Wheel",
+  Barbell: "a Barbell",
+  "Body Weight": "Bodyweight",
+  Cable: "a Cable Machine",
+  "Cardio Machine": "a Cardio Machine",
+  Dumbbell: "Dumbbells",
+  "EZ Bar": "an EZ Bar",
+  Kettlebell: "Kettlebells",
+  Machine: "Machines",
+  "Medicine Ball": "a Medicine Ball",
+  "Resistance Band": "Resistance Bands",
+  Rings: "Rings",
+  "Smith Machine": "a Smith Machine",
+  "Trap Bar": "a Trap Bar",
+};
+
 interface ComboPageProps {
   params: Promise<{ bodyPart: string; equipment: string }>;
 }
@@ -194,7 +212,7 @@ export default async function ComboPage({ params }: ComboPageProps) {
           </div>
 
           <h1 className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase mb-4">
-            {bodyPart} Exercises with {equipment}
+            {bodyPart} Exercises with {EQUIPMENT_HEADLINE_TEXT[equipment]}
           </h1>
           <p className="font-barlow text-xl text-text-secondary max-w-2xl">
             {exercises.length} effective {BODY_PART_SINGULAR[bodyPart]} exercises you
