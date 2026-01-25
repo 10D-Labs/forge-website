@@ -13,8 +13,8 @@ import {
   SchemaScript,
 } from "@/lib/seo/schema-generators";
 import { ExerciseGrid } from "@/components/exercises";
-import type { Equipment } from "@/types/exercise";
-import { SLUG_TO_EQUIPMENT, EQUIPMENT_SLUGS } from "@/types/exercise";
+import type { Equipment, BodyPart } from "@/types/exercise";
+import { SLUG_TO_EQUIPMENT, EQUIPMENT_SLUGS, BODY_PART_SLUGS } from "@/types/exercise";
 
 interface EquipmentPageProps {
   params: Promise<{ equipment: string }>;
@@ -104,12 +104,14 @@ export default async function EquipmentPage({ params }: EquipmentPageProps) {
   const equipment = SLUG_TO_EQUIPMENT[equipmentSlug] as Equipment;
   const exercises = getExercisesByEquipment(equipment);
 
-  // Get body parts available for this equipment
+  // Get body parts available for this equipment (only those with 5+ exercises for valid combo pages)
   const bodyParts = [...new Set(exercises.map((e) => e.bodyPart))].sort();
-  const bodyPartCounts = bodyParts.map((bp) => ({
-    bodyPart: bp,
-    count: exercises.filter((e) => e.bodyPart === bp).length,
-  }));
+  const bodyPartCounts = bodyParts
+    .map((bp) => ({
+      bodyPart: bp,
+      count: exercises.filter((e) => e.bodyPart === bp).length,
+    }))
+    .filter((bc) => bc.count >= 5);
 
   const listSchema = generateExerciseListSchema(
     `${equipment} Exercises`,
@@ -174,7 +176,7 @@ export default async function EquipmentPage({ params }: EquipmentPageProps) {
             {bodyPartCounts.map(({ bodyPart, count }) => (
               <Link
                 key={bodyPart}
-                href={`/exercises/${slugify(bodyPart)}/${equipmentSlug}`}
+                href={`/exercises/${BODY_PART_SLUGS[bodyPart]}/${equipmentSlug}`}
                 className="px-3 py-1.5 text-sm font-barlow-condensed uppercase tracking-wide angular-border hover:text-primary hover:[--angular-bg:hsl(var(--primary)/0.1)] transition-colors"
               >
                 <span>{bodyPart} ({count})</span>

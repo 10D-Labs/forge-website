@@ -64,12 +64,14 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
   const bodyPart = SLUG_TO_BODY_PART[bodyPartSlug] as BodyPart;
   const exercises = getExercisesByBodyPart(bodyPart);
 
-  // Get equipment types available for this body part
+  // Get equipment types available for this body part (only those with 5+ exercises for valid combo pages)
   const equipmentTypes = [...new Set(exercises.map((e) => e.equipment))].sort();
-  const equipmentCounts = equipmentTypes.map((eq) => ({
-    equipment: eq,
-    count: exercises.filter((e) => e.equipment === eq).length,
-  }));
+  const equipmentCounts = equipmentTypes
+    .map((eq) => ({
+      equipment: eq,
+      count: exercises.filter((e) => e.equipment === eq).length,
+    }))
+    .filter((ec) => ec.count >= 5);
 
   const listSchema = generateExerciseListSchema(
     `${bodyPart} Exercises`,
