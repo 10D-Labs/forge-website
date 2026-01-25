@@ -134,7 +134,7 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
           </h1>
           <p className="font-barlow text-xl text-text-secondary max-w-2xl">
             Browse {exercises.length} exercises targeting your {bodyPart.toLowerCase()}.
-            Filter by equipment type below.
+            {equipmentCounts.length > 1 && " Filter by equipment type below."}
           </p>
         </div>
       </section>
