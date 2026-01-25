@@ -1,5 +1,6 @@
 "use client";
 
+import { useRef, useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
@@ -16,9 +17,32 @@ export default function ExerciseCard({
   priority = false,
 }: ExerciseCardProps) {
   const slug = slugify(exercise.name);
+  const cardRef = useRef<HTMLElement>(null);
+  const [isVisible, setIsVisible] = useState(priority);
+
+  useEffect(() => {
+    if (priority) return; // Already visible if priority
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true);
+          observer.disconnect(); // Stop observing once visible
+        }
+      },
+      { rootMargin: "100px" } // Start loading 100px before entering viewport
+    );
+
+    if (cardRef.current) {
+      observer.observe(cardRef.current);
+    }
+
+    return () => observer.disconnect();
+  }, [priority]);
 
   return (
     <motion.article
+      ref={cardRef}
       whileHover={{ y: -4 }}
       transition={{ duration: 0.2 }}
       className="group"
@@ -29,15 +53,19 @@ export default function ExerciseCard({
       >
         {/* GIF Preview */}
         <div className="relative aspect-square bg-surface-2 overflow-hidden">
-          <Image
-            src={getExerciseGifUrl(exercise)}
-            alt={`${exercise.name} demonstration`}
-            fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-            className="object-cover transition-transform duration-300 group-hover:scale-105"
-            unoptimized
-            priority={priority}
-          />
+          {isVisible ? (
+            <Image
+              src={getExerciseGifUrl(exercise)}
+              alt={`${exercise.name} demonstration`}
+              fill
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+              className="object-cover transition-transform duration-300 group-hover:scale-105"
+              unoptimized
+              priority={priority}
+            />
+          ) : (
+            <div className="absolute inset-0 bg-surface-2 animate-pulse" />
+          )}
           {/* Difficulty Badge */}
           <span
             className={`absolute top-2 right-2 px-2 py-0.5 text-xs font-barlow-condensed font-semibold uppercase tracking-wide rounded ${

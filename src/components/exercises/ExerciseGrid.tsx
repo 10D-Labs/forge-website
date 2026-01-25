@@ -26,7 +26,7 @@ const itemVariants = {
 
 export default function ExerciseGrid({
   exercises,
-  priorityCount = 4,
+  priorityCount = 2,
 }: ExerciseGridProps) {
   if (exercises.length === 0) {
     return (
