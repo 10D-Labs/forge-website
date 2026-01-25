@@ -30,6 +30,42 @@ const BODY_PART_SINGULAR: Record<BodyPart, string> = {
   Shoulders: "shoulder",
 };
 
+// Equipment names for CTA headlines (pluralized where appropriate)
+const EQUIPMENT_CTA_TEXT: Record<Equipment, string> = {
+  "Ab Wheel": "an Ab Wheel",
+  Barbell: "Barbells",
+  "Body Weight": "Bodyweight",
+  Cable: "Cable Machines",
+  "Cardio Machine": "Cardio Machines",
+  Dumbbell: "Dumbbells",
+  "EZ Bar": "an EZ Bar",
+  Kettlebell: "Kettlebells",
+  Machine: "Machines",
+  "Medicine Ball": "Medicine Balls",
+  "Resistance Band": "Resistance Bands",
+  Rings: "Rings",
+  "Smith Machine": "a Smith Machine",
+  "Trap Bar": "a Trap Bar",
+};
+
+// Equipment names for description text (lowercase, with article)
+const EQUIPMENT_DESC_TEXT: Record<Equipment, string> = {
+  "Ab Wheel": "an ab wheel",
+  Barbell: "a barbell",
+  "Body Weight": "just your bodyweight",
+  Cable: "cable machines",
+  "Cardio Machine": "cardio machines",
+  Dumbbell: "dumbbells",
+  "EZ Bar": "an EZ bar",
+  Kettlebell: "kettlebells",
+  Machine: "gym machines",
+  "Medicine Ball": "a medicine ball",
+  "Resistance Band": "resistance bands",
+  Rings: "gymnastic rings",
+  "Smith Machine": "a Smith machine",
+  "Trap Bar": "a trap bar",
+};
+
 interface ComboPageProps {
   params: Promise<{ bodyPart: string; equipment: string }>;
 }
@@ -165,7 +201,7 @@ export default async function ComboPage({ params }: ComboPageProps) {
             can do with{" "}
             {equipment === "Body Weight"
               ? "no equipment"
-              : equipment.toLowerCase()}
+              : EQUIPMENT_DESC_TEXT[equipment]}
             . Complete instructions and form tips included.
           </p>
         </div>
@@ -213,15 +249,11 @@ export default async function ComboPage({ params }: ComboPageProps) {
       <section className="py-12 bg-surface-1 border-t border-border-subtle">
         <div className="container text-center">
           <h2 className="font-barlow-condensed text-2xl font-bold uppercase mb-4">
-            Build Your {bodyPart} with{" "}
-            {equipment === "Body Weight" ? "Bodyweight" : equipment}
+            Build Your {bodyPart} with {EQUIPMENT_CTA_TEXT[equipment]}
           </h2>
           <p className="font-barlow text-text-secondary mb-6 max-w-xl mx-auto">
             Get a personalized {BODY_PART_SINGULAR[bodyPart]} workout plan using{" "}
-            {equipment === "Body Weight"
-              ? "just your bodyweight"
-              : equipment.toLowerCase()}
-            . Our AI trainers design programs for your specific goals.
+            {EQUIPMENT_DESC_TEXT[equipment]}. Our AI trainers design programs for your specific goals.
           </p>
           <Link
             href="/?scrollTo=waitlist"
