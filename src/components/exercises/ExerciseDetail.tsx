@@ -1,11 +1,10 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import type { Exercise } from "@/types/exercise";
 import { EQUIPMENT_SLUGS } from "@/types/exercise";
-import { slugify, getExerciseGifUrl } from "@/lib/exercises";
+import { slugify, getExerciseGifUrl, getExerciseVideoUrl } from "@/lib/exercises";
 import InstructionsList from "./InstructionsList";
 
 interface ExerciseDetailProps {
@@ -26,15 +25,17 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
           >
             <div className="sticky top-24">
               <div className="relative aspect-square rounded-lg overflow-hidden bg-surface-2 angular-border">
-                <Image
-                  src={getExerciseGifUrl(exercise)}
-                  alt={`${exercise.name} demonstration`}
-                  fill
-                  sizes="(max-width: 1024px) 100vw, 50vw"
-                  className="object-cover"
-                  unoptimized
-                  priority
-                />
+                <video
+                  autoPlay
+                  loop
+                  muted
+                  playsInline
+                  className="absolute inset-0 w-full h-full object-cover"
+                  aria-label={`${exercise.name} demonstration`}
+                >
+                  <source src={getExerciseVideoUrl(exercise)} type="video/webm" />
+                  <source src={getExerciseGifUrl(exercise)} type="image/gif" />
+                </video>
               </div>
 
               {/* Quick Info Cards */}

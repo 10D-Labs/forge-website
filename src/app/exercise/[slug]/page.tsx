@@ -6,7 +6,7 @@ import {
   getExerciseBySlug,
   getRelatedExercises,
   slugify,
-  getExerciseGifUrl,
+  getExerciseVideoUrl,
 } from "@/lib/exercises";
 import { generateExerciseMetadata } from "@/lib/seo/metadata-factory";
 import {
@@ -53,12 +53,12 @@ export default async function ExercisePage({ params }: ExercisePageProps) {
   const howToSchema = generateExerciseHowToSchema(exercise);
   const breadcrumbSchema = generateExerciseBreadcrumbs(exercise);
 
-  const gifUrl = getExerciseGifUrl(exercise);
+  const videoUrl = getExerciseVideoUrl(exercise);
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Preload the main exercise GIF for faster LCP */}
-      <link rel="preload" as="image" href={gifUrl} />
+      {/* Preload the main exercise video for faster LCP */}
+      <link rel="preload" as="video" href={videoUrl} />
       <SchemaScript schema={howToSchema} />
       <SchemaScript schema={breadcrumbSchema} />
 

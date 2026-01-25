@@ -2,10 +2,9 @@
 
 import { useRef, useState, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { motion } from "framer-motion";
 import type { Exercise } from "@/types/exercise";
-import { slugify, getExerciseGifUrl } from "@/lib/exercises";
+import { slugify, getExerciseGifUrl, getExerciseVideoUrl } from "@/lib/exercises";
 
 interface ExerciseCardProps {
   exercise: Exercise;
@@ -51,18 +50,20 @@ export default function ExerciseCard({
         href={`/exercise/${slug}`}
         className="block h-full angular-border card-neon transition-all duration-300 hover:[--angular-border-color:hsl(var(--primary)/0.5)] overflow-hidden"
       >
-        {/* GIF Preview */}
+        {/* Video Preview */}
         <div className="relative aspect-square bg-surface-2 overflow-hidden">
           {isVisible ? (
-            <Image
-              src={getExerciseGifUrl(exercise)}
-              alt={`${exercise.name} demonstration`}
-              fill
-              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-              className="object-cover transition-transform duration-300 group-hover:scale-105"
-              unoptimized
-              priority={priority}
-            />
+            <video
+              autoPlay
+              loop
+              muted
+              playsInline
+              className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+              aria-label={`${exercise.name} demonstration`}
+            >
+              <source src={getExerciseVideoUrl(exercise)} type="video/webm" />
+              <source src={getExerciseGifUrl(exercise)} type="image/gif" />
+            </video>
           ) : (
             <div className="absolute inset-0 bg-surface-2 animate-pulse" />
           )}

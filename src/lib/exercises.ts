@@ -329,10 +329,17 @@ export function getMuscleHubs(): MuscleHub[] {
 }
 
 /**
- * Get the GIF URL for an exercise
+ * Get the GIF URL for an exercise (fallback)
  */
 export function getExerciseGifUrl(exercise: Exercise): string {
   return `/exercises/gifs/${exercise.id}.gif`;
+}
+
+/**
+ * Get the WebM video URL for an exercise (preferred, smaller file size)
+ */
+export function getExerciseVideoUrl(exercise: Exercise): string {
+  return `/exercises/videos/${exercise.id}.webm`;
 }
 
 /**
