@@ -23,7 +23,7 @@ interface BodyPartPageProps {
 
 const VALID_BODY_PARTS = Object.values(BODY_PART_SLUGS);
 
-// Singular forms of body parts for description text
+// Singular forms of body parts for description text (lowercase)
 const BODY_PART_SINGULAR: Record<BodyPart, string> = {
   Arms: "arm",
   Back: "back",
@@ -33,6 +33,18 @@ const BODY_PART_SINGULAR: Record<BodyPart, string> = {
   Legs: "leg",
   Neck: "neck",
   Shoulders: "shoulder",
+};
+
+// Singular forms for page headlines (Title Case)
+const BODY_PART_HEADLINE: Record<BodyPart, string> = {
+  Arms: "Arm",
+  Back: "Back",
+  Cardio: "Cardio",
+  Chest: "Chest",
+  Core: "Core",
+  Legs: "Leg",
+  Neck: "Neck",
+  Shoulders: "Shoulder",
 };
 
 export async function generateStaticParams() {
@@ -118,7 +130,7 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
           </nav>
 
           <h1 className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase mb-4">
-            {bodyPart} Exercises
+            {BODY_PART_HEADLINE[bodyPart]} Exercises
           </h1>
           <p className="font-barlow text-xl text-text-secondary max-w-2xl">
             Browse {exercises.length} exercises targeting your {bodyPart.toLowerCase()}.
