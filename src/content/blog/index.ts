@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-find-good-personal-trainer",
+    title: "How to Find a Good Personal Trainer: What to Look For & Red Flags to Avoid",
+    date: "2026-01-25",
+    excerpt: "Not all personal trainers are created equal. Learn how to spot certified professionals, verify credentials online, ask the right questions, and avoid trainers who'll waste your money or injure you.",
+    author: "The Forge Team",
+    keywords: ["how to find a good personal trainer", "personal trainer certification", "questions to ask personal trainer", "personal trainer red flags", "how to choose personal trainer", "NCCA certified trainer"],
+    category: "getting-started"
+  },
+  {
     slug: "personal-training-on-a-budget",
     title: "How to Get Personal Training on a Budget: 7 Smart Strategies",
     date: "2026-01-23",
