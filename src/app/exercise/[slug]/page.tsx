@@ -117,7 +117,7 @@ export default async function ExercisePage({ params }: ExercisePageProps) {
         <section className="py-12 bg-surface-1 border-t border-border-subtle">
           <div className="container text-center">
             <h2 className="font-barlow-condensed text-2xl font-bold uppercase mb-4">
-              Master {exercise.name} with Forge
+              Master The {exercise.name} with Forge
             </h2>
             <p className="font-barlow text-text-secondary mb-6 max-w-xl mx-auto">
               Get personalized coaching, form feedback, and workout plans

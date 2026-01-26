@@ -10,6 +10,8 @@ import { generateEquipmentHubMetadata } from "@/lib/seo/metadata-factory";
 import {
   generateExerciseListSchema,
   generateHubBreadcrumbs,
+  generateFAQSchema,
+  generateEquipmentFAQs,
   SchemaScript,
 } from "@/lib/seo/schema-generators";
 import { ExerciseGrid } from "@/components/exercises";
@@ -124,10 +126,15 @@ export default async function EquipmentPage({ params }: EquipmentPageProps) {
     equipmentSlug
   );
 
+  // Generate FAQ schema for SEO
+  const faqs = generateEquipmentFAQs(equipment, exercises.length);
+  const faqSchema = generateFAQSchema(faqs);
+
   return (
     <div className="min-h-screen bg-background">
       <SchemaScript schema={listSchema} />
       <SchemaScript schema={breadcrumbSchema} />
+      <SchemaScript schema={faqSchema} />
 
       {/* Hero Section */}
       <section className="pt-24 pb-12 md:pt-32 md:pb-16 bg-surface-0 relative overflow-hidden">

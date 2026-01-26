@@ -11,6 +11,8 @@ import { generateBodyPartHubMetadata } from "@/lib/seo/metadata-factory";
 import {
   generateExerciseListSchema,
   generateHubBreadcrumbs,
+  generateFAQSchema,
+  generateBodyPartFAQs,
   SchemaScript,
 } from "@/lib/seo/schema-generators";
 import { ExerciseGrid } from "@/components/exercises";
@@ -96,10 +98,16 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
     bodyPartSlug
   );
 
+  // Generate FAQ schema for SEO
+  const topExercises = exercises.slice(0, 5).map((e) => e.name);
+  const faqs = generateBodyPartFAQs(bodyPart, exercises.length, topExercises);
+  const faqSchema = generateFAQSchema(faqs);
+
   return (
     <div className="min-h-screen bg-background">
       <SchemaScript schema={listSchema} />
       <SchemaScript schema={breadcrumbSchema} />
+      <SchemaScript schema={faqSchema} />
 
       {/* Hero Section */}
       <section className="pt-24 pb-12 md:pt-32 md:pb-16 bg-surface-0 relative overflow-hidden">
