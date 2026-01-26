@@ -5,12 +5,36 @@ import { slugify } from "@/lib/exercises";
 
 const BASE_URL = "https://forgetrainer.ai";
 
+// Max title length is 70 chars. Layout adds " | Forge" (9 chars), so page title max is 61 chars.
+const MAX_TITLE_LENGTH = 61;
+
+/**
+ * Generate a title that stays under the character limit
+ * Uses shorter suffixes for longer names
+ */
+function generateExerciseTitle(name: string): string {
+  const nameLength = name.length;
+
+  // Short names: full suffix
+  if (nameLength <= 35) {
+    return `${name}: Form & Tips`;
+  }
+
+  // Medium names: minimal suffix
+  if (nameLength <= 47) {
+    return `${name} Guide`;
+  }
+
+  // Long names: no suffix (name alone is close to limit)
+  return name;
+}
+
 /**
  * Generate metadata for an individual exercise page
  */
 export function generateExerciseMetadata(exercise: Exercise): Metadata {
   const slug = slugify(exercise.name);
-  const title = `${exercise.name}: How to Do It, Muscles Worked & Tips`;
+  const title = generateExerciseTitle(exercise.name);
   const description = `Learn proper ${exercise.name} form and technique. Targets ${exercise.target}${exercise.secondaryMuscles.length > 0 ? ` and ${exercise.secondaryMuscles.slice(0, 2).join(", ")}` : ""}. ${exercise.difficulty} level ${exercise.bodyPart.toLowerCase()} exercise using ${exercise.equipment.toLowerCase()}.`;
 
   return {
@@ -59,7 +83,7 @@ export function generateBodyPartHubMetadata(
   exerciseCount: number
 ): Metadata {
   const slug = slugify(bodyPart);
-  const title = `${bodyPart} Exercises: ${exerciseCount} Movements for Complete ${bodyPart} Training`;
+  const title = `${bodyPart} Exercises: ${exerciseCount}+ Workouts & Form Tips`;
   const description = `Browse ${exerciseCount} ${bodyPart.toLowerCase()} exercises with detailed instructions, form tips, and video demonstrations. Find the perfect exercises for your ${bodyPart.toLowerCase()} workout.`;
 
   return {
@@ -95,7 +119,7 @@ export function generateEquipmentHubMetadata(
   exerciseCount: number
 ): Metadata {
   const slug = EQUIPMENT_SLUGS[equipment];
-  const title = `${equipment} Exercises: ${exerciseCount} Workouts You Can Do with ${equipment}`;
+  const title = `${equipment} Exercises: ${exerciseCount}+ Workouts`;
   const description = `Discover ${exerciseCount} effective exercises using ${equipment.toLowerCase()}. Complete guide with proper form, muscles worked, and workout suggestions for all fitness levels.`;
 
   return {
@@ -130,7 +154,7 @@ export function generateMuscleHubMetadata(
   exerciseCount: number
 ): Metadata {
   const slug = TARGET_SLUGS[muscle];
-  const title = `${muscle} Exercises: ${exerciseCount} Movements to Build Your ${muscle}`;
+  const title = `${muscle} Exercises: ${exerciseCount}+ Workouts`;
   const description = `Target your ${muscle.toLowerCase()} with ${exerciseCount} effective exercises. Detailed instructions, form tips, and variations for all fitness levels.`;
 
   return {
@@ -210,7 +234,7 @@ export function generateComboMetadata(
 
   const bodyPartSlug = BODY_PART_SLUGS[bodyPart];
   const equipmentSlug = EQUIPMENT_SLUGS[equipment];
-  const title = `Best ${bodyPart} Exercises with ${equipment}: ${exerciseCount} Effective Movements`;
+  const title = `${bodyPart} ${equipment} Exercises (${exerciseCount}+)`;
   const description = `Discover ${exerciseCount} effective ${bodyPart.toLowerCase()} exercises using ${equipment.toLowerCase()}. Complete guide with form tips, muscles worked, and workout suggestions.`;
 
   return {
@@ -240,7 +264,7 @@ export function generateComboMetadata(
  * Generate metadata for the main exercises hub page
  */
 export function generateExercisesHubMetadata(totalCount: number): Metadata {
-  const title = `Exercise Library: ${totalCount}+ Exercises with Video Demos & Instructions`;
+  const title = `Exercise Library: ${totalCount}+ Exercises with Videos`;
   const description = `Browse our complete exercise database with ${totalCount}+ exercises. Filter by body part, equipment, muscle group, or difficulty. Video demonstrations and detailed form guides for every exercise.`;
 
   return {

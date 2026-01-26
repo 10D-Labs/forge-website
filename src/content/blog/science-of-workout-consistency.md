@@ -1,5 +1,5 @@
 ---
-title: "The Science of Workout Consistency: How to Finally Stick With Exercise"
+title: "The Science of Workout Consistency"
 date: "2025-12-21"
 excerpt: "Why consistency beats intensity, what the research says about habit formation, and practical strategies to finally make exercise stick."
 author: "The Forge Team"

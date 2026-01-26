@@ -80,7 +80,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "how-to-find-good-personal-trainer",
-    title: "How to Find a Good Personal Trainer: What to Look For & Red Flags to Avoid",
+    title: "How to Find a Good Personal Trainer (2026 Guide)",
     date: "2026-01-25",
     excerpt: "Not all personal trainers are created equal. Learn how to spot certified professionals, verify credentials online, ask the right questions, and avoid trainers who'll waste your money or injure you.",
     author: "The Forge Team",
@@ -125,7 +125,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "do-you-need-a-personal-trainer",
-    title: "Do You Need a Personal Trainer? 12 Signs You'd Benefit From One",
+    title: "Do You Need a Personal Trainer? 12 Signs to Consider",
     date: "2026-01-19",
     excerpt: "Not sure if personal training is worth it? This self-assessment guide reveals 12 signs you'd benefit from a trainer, plus affordable alternatives to fit any budget.",
     author: "The Forge Team",
@@ -134,7 +134,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "fitness-decision-paralysis-guide",
-    title: "Fitness Decision Paralysis: Why You Can't Choose a Workout Plan (And How to Finally Start)",
+    title: "Fitness Decision Paralysis: How to Finally Pick a Plan",
     date: "2026-01-17",
     excerpt: "Overwhelmed by workout options? Learn why fitness decision paralysis happens and use this 6-step framework to finally choose a program and start making progress.",
     author: "The Forge Team",
@@ -143,7 +143,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "program-hopping-guide",
-    title: "Program Hopping: Why You Keep Switching Workout Plans (And How to Finally Stick to One)",
+    title: "Program Hopping: Why You Can't Stick to One Plan",
     date: "2026-01-15",
     excerpt: "Discover why constantly switching workout programs sabotages your progress and learn science-backed strategies to finally commit to a plan long enough to see real results.",
     author: "The Forge Team",
@@ -161,7 +161,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "machines-vs-barbells-vs-dumbbells",
-    title: "Machines vs Barbells vs Dumbbells: The Science of What Actually Works",
+    title: "Machines vs Barbells vs Dumbbells: What Works Best",
     date: "2026-01-13",
     excerpt: "Every piece of gym equipment builds muscle differently. Here's what the research says about when to use machines, barbells, or dumbbells for your specific goals.",
     author: "The Forge Team",
@@ -170,7 +170,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "your-brain-sabotages-workouts",
-    title: "Your Brain Is Sabotaging Your Workouts (And How to Fight Back)",
+    title: "Your Brain Is Sabotaging Your Workouts: Fight Back",
     date: "2026-01-12",
     excerpt: "Science reveals your brain shuts you down long before your muscles actually fail. Learn evidence-based strategies to push past mental barriers and unlock real gains.",
     author: "The Forge Team",
@@ -188,7 +188,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "break-through-workout-plateau",
-    title: "How to Break Through a Workout Plateau: The Science of Training Variation",
+    title: "How to Break Through a Workout Plateau (2026)",
     date: "2026-01-08",
     excerpt: "Stuck at the same weights or seeing no progress? Learn the science-backed strategies to break through workout plateaus using smart training variation, deload weeks, and periodization.",
     author: "The Forge Team",
@@ -197,7 +197,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "muscle-growth-during-recovery",
-    title: "The Biology of Muscle Growth: Why Muscles Are Built During Rest, Not Workouts",
+    title: "Muscle Growth Biology: Why Rest Builds Muscle",
     date: "2026-01-06",
     excerpt: "Discover the cellular mechanisms that transform your workouts into muscle growth. Learn why muscle protein synthesis peaks 24 hours after training, how satellite cells build new muscle tissue, and why sleep is your most anabolic activity.",
     author: "The Forge Team",
@@ -206,7 +206,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "rep-tempo-explained",
-    title: "Rep Tempo Explained: Fast vs Slow Reps for Strength and Muscle Growth",
+    title: "Rep Tempo Explained: Fast vs Slow Reps for Gains",
     date: "2026-01-05",
     excerpt: "Does rep speed really matter for building muscle? Discover what science says about fast vs slow reps, time under tension, and how to match your tempo to your training goals.",
     author: "The Forge Team",
@@ -233,7 +233,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "bridging-the-fitness-gap",
-    title: "Bridging the Fitness Gap: How Millions Are Left Behind by Traditional Personal Training",
+    title: "Bridging the Fitness Gap in Personal Training",
     date: "2026-01-02",
     excerpt: "Personal trainers are invaluable for those who can access them. But cost, scheduling, anxiety, and geography leave millions without the fitness guidance they need. Here's how AI fitness technology is democratizing access.",
     author: "The Forge Team",
@@ -242,7 +242,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "rest-days-explained",
-    title: "Rest Days Explained: Why Recovery Is Your Secret Weapon for Faster Fitness Results",
+    title: "Rest Days Explained: Your Secret Weapon for Gains",
     date: "2026-01-01",
     excerpt: "Discover why rest days accelerate your fitness gains, how to spot overtraining, and the science-backed strategies that turn recovery into your competitive advantage.",
     author: "The Forge Team",
@@ -251,7 +251,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "progressive-overload-explained",
-    title: "Progressive Overload Explained: The Science-Backed Method to Build Muscle and Strength",
+    title: "Progressive Overload Explained: Build More Muscle",
     date: "2025-12-31",
     excerpt: "Learn how progressive overload drives muscle growth and strength gains. Discover 7 proven methods to apply progressive resistance training and avoid common mistakes.",
     author: "The Forge Team",
@@ -269,7 +269,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "how-to-track-fitness-progress",
-    title: "How to Track Fitness Progress: 7 Methods That Work Better Than the Scale",
+    title: "How to Track Fitness Progress: 7 Proven Methods",
     date: "2025-12-29",
     excerpt: "Learn how to track fitness progress with 7 proven methods. Why the scale fails, what to measure instead, and how technology makes tracking effortless.",
     author: "The Forge Team",
@@ -278,7 +278,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "best-ai-personal-trainer-apps-2026",
-    title: "Best AI Personal Trainer Apps & Services in 2026: Expert Reviews & Recommendations",
+    title: "Best AI Personal Trainer Apps in 2026: Reviews",
     date: "2025-12-24",
     excerpt: "Compare the top 11 AI personal trainer apps of 2026. Find the perfect AI fitness coach for your goals, budget, and experience level with our expert analysis and recommendations.",
     author: "The Forge Team",
@@ -287,7 +287,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "fitness-challenges-that-keep-you-motivated",
-    title: "5 Fitness Challenges That Actually Keep You Motivated (2025 Guide)",
+    title: "5 Fitness Challenges That Keep You Motivated",
     date: "2025-12-23",
     excerpt: "Proven fitness challenges that boost motivation and build lasting habits, plus how to design your own and make them stick.",
     author: "The Forge Team",
@@ -303,7 +303,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "science-of-workout-consistency",
-    title: "The Science of Workout Consistency: How to Finally Stick With Exercise",
+    title: "The Science of Workout Consistency",
     date: "2025-12-21",
     excerpt: "Why consistency beats intensity, what the research says about habit formation, and practical strategies to finally make exercise stick.",
     author: "The Forge Team",
@@ -311,7 +311,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "personalized-workout-plans-vs-generic",
-    title: "Why Personalized Workout Plans Beat Generic Programs Every Time",
+    title: "Personalized vs Generic Workout Plans: What Works",
     date: "2025-12-20",
     excerpt: "Generic fitness programs fail most people. Here's why personalization matters and how to finally get a workout plan that works for your body and goals.",
     author: "The Forge Team",
@@ -319,7 +319,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "ai-vs-traditional-personal-trainers",
-    title: "AI Personal Trainers vs. Traditional Personal Trainers in 2025",
+    title: "AI vs Traditional Personal Trainers (2026)",
     date: "2025-12-19",
     excerpt: "Comparing AI fitness coaches to traditional personal trainers: when each option makes sense and how to choose what's right for you.",
     author: "The Forge Team",

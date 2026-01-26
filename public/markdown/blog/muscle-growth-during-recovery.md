@@ -1,5 +1,5 @@
 ---
-title: "The Biology of Muscle Growth: Why Muscles Are Built During Rest, Not Workouts"
+title: "Muscle Growth Biology: Why Rest Builds Muscle"
 date: "2026-01-06"
 excerpt: "Discover the cellular mechanisms that transform your workouts into muscle growth. Learn why muscle protein synthesis peaks 24 hours after training, how satellite cells build new muscle tissue, and why sleep is your most anabolic activity."
 description: "Learn the science of muscle growth: how muscle protein synthesis peaks 24 hours post-workout, why satellite cells matter, and why sleep drives gains."

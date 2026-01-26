@@ -1,5 +1,5 @@
 ---
-title: "How to Track Fitness Progress: 7 Methods That Work Better Than the Scale"
+title: "How to Track Fitness Progress: 7 Proven Methods"
 date: "2025-12-29"
 excerpt: "Learn how to track fitness progress with 7 proven methods. Why the scale fails, what to measure instead, and how technology makes tracking effortless."
 author: "The Forge Team"

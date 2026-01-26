@@ -1,5 +1,5 @@
 ---
-title: "Your Brain Is Sabotaging Your Workouts (And How to Fight Back)"
+title: "Your Brain Is Sabotaging Your Workouts: Fight Back"
 excerpt: "Science reveals your brain shuts you down long before your muscles actually fail. Learn evidence-based strategies to push past mental barriers and unlock real gains."
 date: "2026-01-12"
 author: "The Forge Team"

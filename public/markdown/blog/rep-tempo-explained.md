@@ -1,5 +1,5 @@
 ---
-title: "Rep Tempo Explained: Fast vs Slow Reps for Strength and Muscle Growth"
+title: "Rep Tempo Explained: Fast vs Slow Reps for Gains"
 meta_title: "Rep Tempo Explained: Fast vs Slow Reps for Muscle Growth"
 meta_description: "Discover what science says about rep tempo, time under tension, and fast vs slow reps. Learn how to match your lifting speed to your strength and muscle goals."
 date: "2026-01-05"

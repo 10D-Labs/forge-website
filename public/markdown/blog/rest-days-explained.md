@@ -1,5 +1,5 @@
 ---
-title: "Rest Days Explained: Why Recovery Is Your Secret Weapon for Faster Fitness Results"
+title: "Rest Days Explained: Your Secret Weapon for Gains"
 date: "2026-01-01"
 excerpt: "Discover why rest days accelerate your fitness gains, how to spot overtraining, and the science-backed strategies that turn recovery into your competitive advantage."
 author: "The Forge Team"

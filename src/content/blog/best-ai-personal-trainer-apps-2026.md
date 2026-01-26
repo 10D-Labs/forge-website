@@ -1,5 +1,5 @@
 ---
-title: "Best AI Personal Trainer Apps & Services in 2026: Expert Reviews & Recommendations"
+title: "Best AI Personal Trainer Apps in 2026: Reviews"
 excerpt: "Compare the top 11 AI personal trainer apps of 2026. Find the perfect AI fitness coach for your goals, budget, and experience level with our expert analysis and recommendations."
 date: "2025-12-24"
 author: "The Forge Team"

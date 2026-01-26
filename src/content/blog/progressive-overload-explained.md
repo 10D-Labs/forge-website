@@ -1,5 +1,5 @@
 ---
-title: "Progressive Overload Explained: The Science-Backed Method to Build Muscle and Strength"
+title: "Progressive Overload Explained: Build More Muscle"
 date: "2025-12-30"
 excerpt: "Learn how progressive overload drives muscle growth and strength gains. Discover 7 proven methods to apply progressive resistance training and avoid common mistakes."
 author: "The Forge Team"

@@ -1,5 +1,5 @@
 ---
-title: "Bridging the Fitness Gap: How Millions Are Left Behind by Traditional Personal Training"
+title: "Bridging the Fitness Gap in Personal Training"
 date: "2026-01-02"
 excerpt: "Personal trainers are invaluable for those who can access them. But cost, scheduling, anxiety, and geography leave millions without the fitness guidance they need. Here's how AI fitness technology is democratizing access."
 author: "The Forge Team"

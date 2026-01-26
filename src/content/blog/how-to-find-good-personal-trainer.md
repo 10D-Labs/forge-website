@@ -1,5 +1,5 @@
 ---
-title: "How to Find a Good Personal Trainer: What to Look For & Red Flags to Avoid"
+title: "How to Find a Good Personal Trainer (2026 Guide)"
 date: "2026-01-25"
 excerpt: "Not all personal trainers are created equal. Learn how to spot certified professionals, verify credentials online, ask the right questions, and avoid trainers who'll waste your money or injure you."
 author: "The Forge Team"

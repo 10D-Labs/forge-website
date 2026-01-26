@@ -1,5 +1,5 @@
 ---
-title: "AI Personal Trainers vs. Traditional Personal Trainers in 2025"
+title: "AI vs Traditional Personal Trainers (2026)"
 date: "2025-12-19"
 excerpt: "Comparing AI fitness coaches to traditional personal trainers: when each option makes sense and how to choose what's right for you."
 author: "The Forge Team"

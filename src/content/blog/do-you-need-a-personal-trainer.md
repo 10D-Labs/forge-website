@@ -1,5 +1,5 @@
 ---
-title: "Do You Need a Personal Trainer? 12 Signs You'd Benefit From One"
+title: "Do You Need a Personal Trainer? 12 Signs to Consider"
 date: "2026-01-19"
 excerpt: "Not sure if personal training is worth it? This self-assessment guide reveals 12 signs you'd benefit from a trainer, plus affordable alternatives to fit any budget."
 author: "The Forge Team"

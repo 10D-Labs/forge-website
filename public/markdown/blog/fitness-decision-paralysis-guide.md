@@ -1,5 +1,5 @@
 ---
-title: "Fitness Decision Paralysis: Why You Can't Choose a Workout Plan (And How to Finally Start)"
+title: "Fitness Decision Paralysis: How to Finally Pick a Plan"
 date: "2026-01-17"
 excerpt: "Overwhelmed by workout options? Learn why fitness decision paralysis happens and use this 6-step framework to finally choose a program and start making progress."
 author: "The Forge Team"

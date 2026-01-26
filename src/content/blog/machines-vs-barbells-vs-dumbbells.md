@@ -1,5 +1,5 @@
 ---
-title: "Machines vs Barbells vs Dumbbells: The Science of What Actually Works"
+title: "Machines vs Barbells vs Dumbbells: What Works Best"
 excerpt: "Every piece of gym equipment builds muscle differently. Here's what the research says about when to use machines, barbells, or dumbbells for your specific goals."
 date: "2026-01-13"
 author: "The Forge Team"

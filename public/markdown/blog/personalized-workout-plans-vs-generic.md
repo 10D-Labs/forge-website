@@ -1,5 +1,5 @@
 ---
-title: "Why Personalized Workout Plans Beat Generic Programs Every Time"
+title: "Personalized vs Generic Workout Plans: What Works"
 date: "2025-12-20"
 excerpt: "Generic fitness programs fail most people. Here's why personalization matters and how to finally get a workout plan that works for your body and goals."
 author: "The Forge Team"

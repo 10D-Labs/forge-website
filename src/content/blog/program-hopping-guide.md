@@ -1,5 +1,5 @@
 ---
-title: "Program Hopping: Why You Keep Switching Workout Plans (And How to Finally Stick to One)"
+title: "Program Hopping: Why You Can't Stick to One Plan"
 date: "2026-01-15"
 excerpt: "Discover why constantly switching workout programs sabotages your progress and learn science-backed strategies to finally commit to a plan long enough to see real results."
 author: "The Forge Team"

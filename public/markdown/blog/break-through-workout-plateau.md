@@ -1,5 +1,5 @@
 ---
-title: "How to Break Through a Workout Plateau: The Science of Training Variation"
+title: "How to Break Through a Workout Plateau (2026)"
 description: "Stuck at the same weights? Learn proven strategies to break through workout plateaus: deload weeks, periodization, FITT principle, and smart training variation."
 date: "2026-01-08"
 author: "The Forge Team"
