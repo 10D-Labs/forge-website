@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-warm-up-before-lifting",
+    title: "How to Warm Up Before Lifting: Complete Guide",
+    date: "2026-01-26",
+    excerpt: "Learn the 3-phase warm-up protocol that reduces injury risk by 36%. Complete guide with specific sets, reps, and timing for every major lift.",
+    author: "The Forge Team",
+    keywords: ["warm up before lifting", "lifting warm up routine", "how to warm up for strength training", "exercise-specific warm up", "dynamic stretching", "warm up sets"],
+    category: "exercise-technique"
+  },
+  {
     slug: "how-to-find-good-personal-trainer",
     title: "How to Find a Good Personal Trainer: What to Look For & Red Flags to Avoid",
     date: "2026-01-25",
