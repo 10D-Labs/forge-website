@@ -99,7 +99,11 @@ export async function generateMetadata({
     return { title: "Not Found" };
   }
 
-  const title = `${exercise1.name} vs ${exercise2.name}: Which Is Better?`;
+  // Keep title under 61 chars (+ 9 for " | Forge" = 70 max)
+  const combinedLength = exercise1.name.length + exercise2.name.length;
+  const title = combinedLength <= 40
+    ? `${exercise1.name} vs ${exercise2.name}: Which Is Better?`
+    : `${exercise1.name} vs ${exercise2.name}`;
   const description = `Compare ${exercise1.name} and ${exercise2.name}. Learn the differences in muscles worked, equipment needed, difficulty level, and which exercise is best for your fitness goals.`;
 
   return {

@@ -21,7 +21,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${trainer.name} - ${trainer.role} | Forge AI Trainer`,
+    title: `${trainer.name} - ${trainer.role} AI Trainer`,
     description: `${trainer.description} ${trainer.fullDescription || ""}`.trim(),
     openGraph: {
       title: `${trainer.name} - ${trainer.role}`,
