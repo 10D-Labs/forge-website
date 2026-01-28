@@ -1,5 +1,5 @@
 # TERMS OF SERVICE
-Last updated January 08, 2026
+Last updated January 28, 2026
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -256,6 +256,10 @@ The following terms apply when you use the App obtained from either the Apple St
 4. you represent and warrant that (i) you are not located in a country that is subject to a US government embargo, or that has been designated by the US government as a "terrorist supporting" country and (ii) you are not listed on any US government list of prohibited or restricted parties;
 5. you must comply with applicable third-party terms of agreement when using the App, e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the App; and
 6. you acknowledge and agree that the App Distributors are third-party beneficiaries of the terms and conditions in this mobile application license contained in these Legal Terms, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the terms and conditions in this mobile application license contained in these Legal Terms against you as a third-party beneficiary thereof.
+
+### Consent to Share Consumption Data with Apple
+
+By using our App and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
 
 ## 12. THIRD-PARTY WEBSITES AND CONTENT
 
