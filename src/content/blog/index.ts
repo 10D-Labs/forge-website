@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "gym-etiquette-complete-guide",
+    title: "Gym Etiquette: The Complete Guide to Unspoken Rules",
+    date: "2026-01-28",
+    excerpt: "Learn the unwritten gym rules that 2,000 gym-goers say matter most. From reracking weights to handling equipment hogs, here's what you need to know.",
+    author: "The Forge Team",
+    keywords: ["gym etiquette", "gym etiquette rules", "unwritten gym rules", "gym manners", "gym behavior"],
+    category: "getting-started"
+  },
+  {
     slug: "how-to-warm-up-before-lifting",
     title: "How to Warm Up Before Lifting: Complete Guide",
     date: "2026-01-26",
