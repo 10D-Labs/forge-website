@@ -9,6 +9,7 @@ import HomeScrollHandler from "@/components/HomeScrollHandler";
 // Metadata with markdown discovery for LLM crawlers
 export const metadata: Metadata = {
   alternates: {
+    canonical: "https://forgetrainer.ai/",
     types: {
       "text/markdown": "/markdown/home.md",
     },
