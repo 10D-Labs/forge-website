@@ -9,7 +9,7 @@ const videoProperty = `    video: {
       description: \`Watch how to properly perform the \${exercise.name} exercise\`,
       thumbnailUrl: \`\${BASE_URL}\${getExerciseGifUrl(exercise)}\`,
       contentUrl: \`\${BASE_URL}\${getExerciseVideoUrl(exercise)}\`,
-      uploadDate: "2025-01-01",
+      uploadDate: "2025-01-01T00:00:00Z",
       duration: "PT30S",
     },`;
 
@@ -32,7 +32,7 @@ export function generateExerciseVideoSchema(exercise: Exercise): object {
     thumbnailUrl: \`\${BASE_URL}\${getExerciseGifUrl(exercise)}\`,
     contentUrl: \`\${BASE_URL}\${getExerciseVideoUrl(exercise)}\`,
     embedUrl: \`\${BASE_URL}/exercise/\${slugify(exercise.name)}\`,
-    uploadDate: "2025-01-01",
+    uploadDate: "2025-01-01T00:00:00Z",
     duration: "PT30S",
     publisher: {
       "@type": "Organization",
