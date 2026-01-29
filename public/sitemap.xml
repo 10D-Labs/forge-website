@@ -113,6 +113,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/how-to-spot-bad-fitness-advice</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/gym-etiquette-complete-guide</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>yearly</changefreq>

@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-spot-bad-fitness-advice",
+    title: "How to Spot Bad Fitness Advice (5-Step Framework & Red Flags)",
+    date: "2026-01-29",
+    excerpt: "More than 60% of fitness content is misleading. Learn the 5-step framework to spot red flags, evaluate trainers, and stop following bad advice.",
+    author: "The Forge Team",
+    keywords: ["fitness advice red flags", "how to spot bad fitness advice", "fitness influencer credibility", "evidence-based fitness", "personal trainer credentials"],
+    category: "getting-started"
+  },
+  {
     slug: "gym-etiquette-complete-guide",
     title: "Gym Etiquette: The Complete Guide to Unspoken Rules",
     date: "2026-01-28",
