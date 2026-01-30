@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "pull-up-progression-guide",
+    title: "How to Do Your First Pull-Up (And Progress to 20+)",
+    date: "2026-01-30",
+    excerpt: "Most people can't do a single pull-up. This complete progression guide takes you from zero to 20+ using proven training methods: negatives, GTG, and weighted variations.",
+    author: "The Forge Team",
+    keywords: ["pull-up progression", "first pull-up", "pull-up training", "chin-up vs pull-up", "negative pull-ups", "greasing the groove", "bodyweight strength"],
+    category: "exercise-technique"
+  },
+  {
     slug: "how-to-spot-bad-fitness-advice",
     title: "How to Spot Bad Fitness Advice (5-Step Framework & Red Flags)",
     date: "2026-01-29",
