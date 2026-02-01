@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "why-steroids-are-bad",
+    title: "Why Steroids Are Bad: Natural Muscle Building Works Better",
+    date: "2026-01-31",
+    excerpt: "Steroid users face 3x higher mortality risk. Natural training with proper programming builds impressive muscle safely. Here's what the research shows.",
+    author: "The Forge Team",
+    keywords: ["anabolic steroids", "steroid risks", "natural muscle building", "steroid side effects", "natural vs steroids"],
+    category: "fitness-psychology"
+  },
+  {
     slug: "pull-up-progression-guide",
     title: "How to Do Your First Pull-Up (And Progress to 20+)",
     date: "2026-01-30",
