@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "calorie-deficit-weight-loss",
+    title: "Calorie Deficit for Weight Loss: What Science Actually Says",
+    date: "2026-02-01",
+    excerpt: "Calorie deficits are required for weight loss, but food choices affect hunger, metabolism, and sustainability. Science-backed guide to energy balance, NEAT, TEF, and why both calories and food quality matter.",
+    author: "The Forge Team",
+    keywords: ["calorie deficit", "weight loss", "energy balance", "thermic effect of food", "NEAT", "food quality vs calories", "metabolic adaptation"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "why-steroids-are-bad",
     title: "Why Steroids Are Bad: Natural Muscle Building Works Better",
     date: "2026-01-31",
