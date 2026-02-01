@@ -110,14 +110,16 @@ Food quality doesn't change whether a deficit is required. It changes how easy o
 Your body burns calories digesting food. But not all macronutrients are created equal.
 
 **Protein:** [20-30% of calories](https://pmc.ncbi.nlm.nih.gov/articles/PMC4963285/) burned during digestion
+
 **Carbohydrates:** 5-10%
+
 **Fat:** 0-3%
 
 Eat 100 calories of protein, and your body uses 25-30 of those calories just processing it. Net absorbed: roughly 70-75 calories.
 
 Eat 100 calories of fat, and nearly all 100 calories get absorbed.
 
-This is why [high-protein diets](https://ajcn.nutrition.org/article/S0002-9165(23)29507-6/fulltext) lead to spontaneous reductions in calorie intake of 441-494 calories per day. More protein means higher total daily energy expenditure and greater fullness between meals.
+This is why [high-protein diets](https://ajcn.nutrition.org/article/S0002-9165(23)29507-6/fulltext) lead to spontaneous reductions in net calorie intake of 441-494 calories per day. More protein means higher total daily energy expenditure and greater fullness between meals.
 
 #### NEAT: the hidden variable
 
