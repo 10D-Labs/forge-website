@@ -56,6 +56,7 @@ There are exactly three ways to tip the energy balance in favor of fat loss.
 Reduce your intake through portion control, calorie tracking, or meal planning. Apps like MyFitnessPal have [220 million registered users](https://www.businessofapps.com/data/myfitnesspal-statistics/) for a reason. This approach works when executed properly.
 
 **Pros:** Precise, flexible, allows any foods in moderation, educational
+
 **Cons:** Requires consistent tracking, doesn't necessarily address hunger, can feel tedious
 
 ### Option 2: Move more
@@ -63,6 +64,7 @@ Reduce your intake through portion control, calorie tracking, or meal planning. 
 Increase expenditure through structured exercise or daily movement. Burn more calories than you consume.
 
 **Pros:** Health benefits beyond weight loss, builds muscle, improves cardiovascular fitness
+
 **Cons:** Hard to out-exercise poor food choices, time-intensive, easy to overestimate calorie burn
 
 ### Option 3: Eat differently
@@ -70,6 +72,7 @@ Increase expenditure through structured exercise or daily movement. Burn more ca
 Choose foods that naturally reduce intake AND increase expenditure without conscious restriction.
 
 **Pros:** Addresses hunger and satiety, sustainable long-term, improves overall health markers
+
 **Cons:** Less precise, requires nutrition knowledge, results vary individually
 
 Option 3 is where food quality enters the conversation. And this is where the "calories don't matter" crowd makes their strongest points.
