@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-long-to-see-gym-results",
+    title: "How Long Does It Take to See Gym Results? (Realistic Timeline)",
+    date: "2026-02-02",
+    excerpt: "Three weeks in and nothing visible yet? You're not doing it wrong. Learn what actually happens in your body week by week, when you'll see real changes, and how to avoid the comparison trap.",
+    author: "The Forge Team",
+    keywords: ["how long to see gym results", "when will I see muscle gains", "gym progress timeline", "beginner muscle growth", "how long to build muscle", "first workout results"],
+    category: "getting-started"
+  },
+  {
     slug: "calorie-deficit-weight-loss",
     title: "Calorie Deficit for Weight Loss: What Science Actually Says",
     date: "2026-02-01",
