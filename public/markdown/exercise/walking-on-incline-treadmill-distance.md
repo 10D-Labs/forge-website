@@ -1,4 +1,4 @@
-# Walking on Incline Treadmill - Forge Exercise Library
+# Walking on Incline Treadmill (Distance) - Forge Exercise Library
 
 ## Quick Answer
 
@@ -6,21 +6,22 @@ Walking on an incline treadmill is a cardiovascular exercise performed on a trea
 
 **Details:**
 - **Body Part:** Cardio
-- **Equipment:** Machine
+- **Equipment:** Treadmill
 - **Target Muscle:** Cardiovascular
 - **Secondary Muscles:** Quadriceps, Hamstrings, Calves
 - **Difficulty:** Beginner
 - **Category:** Cardio
+- **Tracking Type:** distance
 
 ---
 
-## How to Perform Walking on Incline Treadmill
+## How to Perform Walking on Incline Treadmill (Distance)
 
 1. Adjust the incline level on the treadmill to your desired intensity.
 2. Stand on the treadmill with your feet shoulder-width apart.
 3. Start walking at a comfortable pace, ensuring that you maintain proper form.
 4. Engage your core muscles and keep your back straight throughout the exercise.
-5. Continue walking on the incline treadmill for the desired duration of your cardio workout.
+5. Continue walking on the incline treadmill until you reach your target distance.
 6. Gradually decrease the incline and speed of the treadmill to cool down before stopping.
 
 ---
@@ -28,14 +29,14 @@ Walking on an incline treadmill is a cardiovascular exercise performed on a trea
 ## Browse Related Exercises
 
 - **[More Cardio Exercises](https://forgetrainer.ai/exercises/cardio)**
-- **[More Machine Exercises](https://forgetrainer.ai/exercises/equipment/machine)**
+- **[More Treadmill Exercises](https://forgetrainer.ai/exercises/equipment/treadmill)**
 - **[More Cardiovascular Exercises](https://forgetrainer.ai/exercises/muscle/cardiovascular)**
 
 ---
 
-## Master Walking on Incline Treadmill with Forge
+## Master Walking on Incline Treadmill (Distance) with Forge
 
-Get personalized coaching, form feedback, and workout plans featuring Walking on Incline Treadmill and other exercises tailored to your goals.
+Get personalized coaching, form feedback, and workout plans featuring Walking on Incline Treadmill (Distance) and other exercises tailored to your goals.
 
 **[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 

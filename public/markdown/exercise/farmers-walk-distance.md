@@ -1,4 +1,4 @@
-# Farmers Walk - Forge Exercise Library
+# Farmers Walk (Distance) - Forge Exercise Library
 
 ## Quick Answer
 
@@ -11,15 +11,16 @@ The farmer's walk is a functional strength exercise where you walk while holding
 - **Secondary Muscles:** Calves, Forearms, Core
 - **Difficulty:** Beginner
 - **Category:** Strength
+- **Tracking Type:** distance
 
 ---
 
-## How to Perform Farmers Walk
+## How to Perform Farmers Walk (Distance)
 
 1. Stand up straight with a dumbbell in each hand, palms facing your sides.
 2. Keep your back straight and your shoulders back.
 3. Take small, controlled steps forward, maintaining an upright posture.
-4. Continue walking for the desired distance or time.
+4. Continue walking until you reach your target distance.
 5. To finish, stop walking and carefully lower the dumbbells to your sides.
 
 ---
@@ -32,9 +33,9 @@ The farmer's walk is a functional strength exercise where you walk while holding
 
 ---
 
-## Master Farmers Walk with Forge
+## Master Farmers Walk (Distance) with Forge
 
-Get personalized coaching, form feedback, and workout plans featuring Farmers Walk and other exercises tailored to your goals.
+Get personalized coaching, form feedback, and workout plans featuring Farmers Walk (Distance) and other exercises tailored to your goals.
 
 **[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 

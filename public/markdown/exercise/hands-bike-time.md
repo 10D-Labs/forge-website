@@ -1,8 +1,8 @@
-# Hands Bike - Forge Exercise Library
+# Hands Bike (Time) - Forge Exercise Library
 
 ## Quick Answer
 
-The hands bike is a cardiovascular exercise that targets the pectorals, tricep, and shoulders by requiring the user to pedal with their hands, simulating a cycling motion for the upper body.
+The hands bike is a cardiovascular exercise that targets the pectorals, triceps, and shoulders by requiring the user to pedal with their hands, simulating a cycling motion for the upper body.
 
 **Details:**
 - **Body Part:** Cardio
@@ -11,16 +11,17 @@ The hands bike is a cardiovascular exercise that targets the pectorals, tricep, 
 - **Secondary Muscles:** Triceps, Shoulders
 - **Difficulty:** Beginner
 - **Category:** Cardio
+- **Tracking Type:** time
 
 ---
 
-## How to Perform Hands Bike
+## How to Perform Hands Bike (Time)
 
 1. Adjust the seat height and handlebar position to a comfortable level.
 2. Sit on the ergometer with your back straight and feet on the pedals.
 3. Grasp the handles with your hands and position your arms at a 90 degree angle.
 4. Start pedaling with your hands, pushing and pulling the handles in a controlled motion.
-5. Continue pedaling for the desired duration or number of repetitions.
+5. Continue pedaling for your target duration.
 
 ---
 
@@ -32,9 +33,9 @@ The hands bike is a cardiovascular exercise that targets the pectorals, tricep, 
 
 ---
 
-## Master Hands Bike with Forge
+## Master Hands Bike (Time) with Forge
 
-Get personalized coaching, form feedback, and workout plans featuring Hands Bike and other exercises tailored to your goals.
+Get personalized coaching, form feedback, and workout plans featuring Hands Bike (Time) and other exercises tailored to your goals.
 
 **[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
