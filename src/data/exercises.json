@@ -21619,7 +21619,7 @@
     "trackingType": "reps"
   },
   {
-    "id": "30001",
+    "id": "6000",
     "name": "Run (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
@@ -21646,7 +21646,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30002",
+    "id": "6001",
     "name": "Treadmill Run (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Treadmill",
@@ -21674,7 +21674,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30003",
+    "id": "6002",
     "name": "Short Stride Run (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
@@ -21698,7 +21698,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30004",
+    "id": "6003",
     "name": "Walking on Incline Treadmill (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Treadmill",
@@ -21723,7 +21723,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30005",
+    "id": "6004",
     "name": "Bear Crawl (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
@@ -21748,7 +21748,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30006",
+    "id": "6005",
     "name": "Farmers Walk (Distance)",
     "bodyPart": "Legs",
     "equipment": "Dumbbell",
@@ -21772,7 +21772,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30007",
+    "id": "6006",
     "name": "Stairmaster (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Cardio Machine",
@@ -21799,7 +21799,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30008",
+    "id": "6007",
     "name": "Elliptical (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Cardio Machine",
@@ -21826,7 +21826,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30009",
+    "id": "6008",
     "name": "Ski Ergometer (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Cardio Machine",
@@ -21851,7 +21851,7 @@
     "trackingType": "distance"
   },
   {
-    "id": "30010",
+    "id": "6009",
     "name": "Mountain Climber (Time)",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
@@ -21875,7 +21875,7 @@
     "trackingType": "time"
   },
   {
-    "id": "30011",
+    "id": "6010",
     "name": "Burpee (Time)",
     "bodyPart": "Cardio",
     "equipment": "Body Weight",
@@ -21904,7 +21904,7 @@
     "trackingType": "time"
   },
   {
-    "id": "30012",
+    "id": "6011",
     "name": "Dumbbell Burpee (Time)",
     "bodyPart": "Cardio",
     "equipment": "Dumbbell",
@@ -21935,7 +21935,7 @@
     "trackingType": "time"
   },
   {
-    "id": "30013",
+    "id": "6012",
     "name": "Jump Rope (Time)",
     "bodyPart": "Cardio",
     "equipment": "Jump Rope",
@@ -21960,7 +21960,7 @@
     "trackingType": "time"
   },
   {
-    "id": "30014",
+    "id": "6013",
     "name": "Hands Bike (Distance)",
     "bodyPart": "Cardio",
     "equipment": "Cardio Machine",
