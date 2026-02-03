@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "best-hypertrophy-programs-2026",
+    title: "Best Hypertrophy Programs 2026: PHUL, PHAT, nSuns & More",
+    date: "2026-02-03",
+    excerpt: "Compare 8 proven hypertrophy programs (PHUL, PHAT, nSuns, Reddit PPL). Science-based guide helps you match the right muscle-building program to your schedule.",
+    author: "The Forge Team",
+    keywords: ["best hypertrophy program", "best program for muscle growth", "PHUL vs PHAT", "hypertrophy workout program", "science based hypertrophy program", "best hypertrophy program for intermediate", "which hypertrophy program should I do"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-long-to-see-gym-results",
     title: "How Long Does It Take to See Gym Results? (Realistic Timeline)",
     date: "2026-02-02",
