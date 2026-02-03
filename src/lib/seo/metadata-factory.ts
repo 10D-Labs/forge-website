@@ -263,9 +263,9 @@ export function generateComboMetadata(
 /**
  * Generate metadata for the main exercises hub page
  */
-export function generateExercisesHubMetadata(totalCount: number): Metadata {
-  const title = `Exercise Library: ${totalCount}+ Exercises with Videos`;
-  const description = `Browse our complete exercise database with ${totalCount}+ exercises. Filter by body part, equipment, muscle group, or difficulty. Video demonstrations and detailed form guides for every exercise.`;
+export function generateExercisesHubMetadata(_totalCount: number): Metadata {
+  const title = "Exercise Library: 900+ Exercises with Videos";
+  const description = "Browse our complete exercise database with 900+ exercises. Filter by body part, equipment, muscle group, or difficulty. Video demonstrations and detailed form guides for every exercise.";
 
   return {
     title,
