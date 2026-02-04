@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-ai-personalizes-workouts",
+    title: "How AI Actually Personalizes Your Workouts (The Science Behind Smart Fitness Apps)",
+    date: "2026-02-04",
+    excerpt: "Every fitness app claims to 'personalize' workouts. Most are lying. Here's the science behind apps that actually adapt to you, and how to spot the difference.",
+    author: "The Forge Team",
+    keywords: ["AI workout personalization", "fitness app technology", "machine learning fitness", "smart workout apps", "AI fitness apps"],
+    category: "fitness-technology"
+  },
+  {
     slug: "best-hypertrophy-programs-2026",
     title: "Best Hypertrophy Programs 2026: PHUL, PHAT, nSuns & More",
     date: "2026-02-03",
