@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "pre-workout-post-workout-nutrition",
+    title: "Pre-workout and post-workout nutrition: What science actually says",
+    date: "2026-02-05",
+    excerpt: "Cut through nutrition myths with evidence-based answers on pre-workout and post-workout meals. Learn why timing matters less than total daily intake.",
+    author: "The Forge Team",
+    keywords: ["pre workout nutrition", "post workout nutrition", "anabolic window myth", "workout meal timing", "what to eat before workout"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-ai-personalizes-workouts",
     title: "How AI Actually Personalizes Your Workouts (The Science Behind Smart Fitness Apps)",
     date: "2026-02-04",
