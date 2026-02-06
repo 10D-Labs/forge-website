@@ -51,6 +51,7 @@ const EQUIPMENT_CTA_TEXT: Record<Equipment, string> = {
   "Cardio Machine": "Cardio Machines",
   Dumbbell: "Dumbbells",
   "EZ Bar": "an EZ Bar",
+  "Jump Rope": "a Jump Rope",
   Kettlebell: "Kettlebells",
   Machine: "Machines",
   "Medicine Ball": "Medicine Balls",
@@ -58,6 +59,8 @@ const EQUIPMENT_CTA_TEXT: Record<Equipment, string> = {
   Rings: "Rings",
   "Smith Machine": "a Smith Machine",
   "Trap Bar": "a Trap Bar",
+  Treadmill: "a Treadmill",
+  "Weight Plate": "Weight Plates",
 };
 
 // Equipment names for description text (lowercase, with article)
@@ -69,6 +72,7 @@ const EQUIPMENT_DESC_TEXT: Record<Equipment, string> = {
   "Cardio Machine": "cardio machines",
   Dumbbell: "dumbbells",
   "EZ Bar": "an EZ bar",
+  "Jump Rope": "a jump rope",
   Kettlebell: "kettlebells",
   Machine: "gym machines",
   "Medicine Ball": "a medicine ball",
@@ -76,6 +80,8 @@ const EQUIPMENT_DESC_TEXT: Record<Equipment, string> = {
   Rings: "gymnastic rings",
   "Smith Machine": "a Smith machine",
   "Trap Bar": "a trap bar",
+  Treadmill: "a treadmill",
+  "Weight Plate": "weight plates",
 };
 
 // Equipment names for page headlines (Title Case, with articles where needed)
@@ -87,6 +93,7 @@ const EQUIPMENT_HEADLINE_TEXT: Record<Equipment, string> = {
   "Cardio Machine": "a Cardio Machine",
   Dumbbell: "Dumbbells",
   "EZ Bar": "an EZ Bar",
+  "Jump Rope": "a Jump Rope",
   Kettlebell: "Kettlebells",
   Machine: "Machines",
   "Medicine Ball": "a Medicine Ball",
@@ -94,6 +101,8 @@ const EQUIPMENT_HEADLINE_TEXT: Record<Equipment, string> = {
   Rings: "Rings",
   "Smith Machine": "a Smith Machine",
   "Trap Bar": "a Trap Bar",
+  Treadmill: "a Treadmill",
+  "Weight Plate": "Weight Plates",
 };
 
 interface ComboPageProps {

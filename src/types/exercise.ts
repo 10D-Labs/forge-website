@@ -18,13 +18,16 @@ export type Equipment =
   | "Cardio Machine"
   | "Dumbbell"
   | "EZ Bar"
+  | "Jump Rope"
   | "Kettlebell"
   | "Machine"
   | "Medicine Ball"
   | "Resistance Band"
   | "Rings"
   | "Smith Machine"
-  | "Trap Bar";
+  | "Trap Bar"
+  | "Treadmill"
+  | "Weight Plate";
 
 export type TargetMuscle =
   | "Abductors"
@@ -93,6 +96,7 @@ export const EQUIPMENT_SLUGS: Record<Equipment, string> = {
   "Cardio Machine": "cardio-machine",
   Dumbbell: "dumbbell",
   "EZ Bar": "ez-bar",
+  "Jump Rope": "jump-rope",
   Kettlebell: "kettlebell",
   Machine: "machine",
   "Medicine Ball": "medicine-ball",
@@ -100,6 +104,8 @@ export const EQUIPMENT_SLUGS: Record<Equipment, string> = {
   Rings: "rings",
   "Smith Machine": "smith-machine",
   "Trap Bar": "trap-bar",
+  Treadmill: "treadmill",
+  "Weight Plate": "weight-plate",
 };
 
 // URL-friendly slug versions of target muscles

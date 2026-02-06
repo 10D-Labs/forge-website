@@ -33,6 +33,7 @@ const EQUIPMENT_CTA_TEXT: Record<Equipment, string> = {
   "Cardio Machine": "Cardio Machine",
   Dumbbell: "Dumbbells",
   "EZ Bar": "EZ Bar",
+  "Jump Rope": "Jump Rope",
   Kettlebell: "Kettlebells",
   Machine: "Gym Machines",
   "Medicine Ball": "Medicine Ball",
@@ -40,6 +41,8 @@ const EQUIPMENT_CTA_TEXT: Record<Equipment, string> = {
   Rings: "Rings",
   "Smith Machine": "Smith Machine",
   "Trap Bar": "Trap Bar",
+  Treadmill: "Treadmill",
+  "Weight Plate": "Weight Plates",
 };
 
 // Helper for singular/plural
@@ -75,6 +78,12 @@ const EQUIPMENT_HERO_DESC: Record<Equipment, (count: number) => string> = {
     `${count} Smith machine ${plural(count, "exercise")} for controlled, stable lifting. Great for solo training when you need a spotter-free setup.`,
   "Trap Bar": (count) =>
     `${count} trap bar ${plural(count, "exercise")} for powerful hip-hinge movements. A joint-friendly alternative for deadlifts and carries that reduces lower back strain.`,
+  "Jump Rope": (count) =>
+    `${count} jump rope ${plural(count, "exercise")} for cardio and coordination. A simple, portable tool for burning calories and improving footwork.`,
+  Treadmill: (count) =>
+    `${count} treadmill ${plural(count, "exercise")} for running, walking, and interval training. Control your pace and incline for targeted cardio sessions.`,
+  "Weight Plate": (count) =>
+    `${count} weight plate ${plural(count, "exercise")} for functional strength training. A versatile tool for carries, presses, and rotational movements.`,
 };
 
 export async function generateStaticParams() {
