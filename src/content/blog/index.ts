@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "muscle-soreness-after-workout-guide",
+    title: "Muscle soreness after a workout: what your body is actually telling you",
+    date: "2026-02-06",
+    excerpt: "Learn what DOMS really means, how to tell muscle soreness from injury, when to train through it, and recovery methods backed by research.",
+    author: "The Forge Team",
+    keywords: ["muscle soreness after workout", "DOMS", "delayed onset muscle soreness", "should I workout when sore", "muscle soreness vs injury"],
+    category: "workout-recovery"
+  },
+  {
     slug: "pre-workout-post-workout-nutrition",
     title: "Pre-workout and post-workout nutrition: What science actually says",
     date: "2026-02-05",
