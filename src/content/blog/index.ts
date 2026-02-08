@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "junk-volume-explained",
+    title: "Junk volume: why more sets don't always mean more gains",
+    date: "2026-02-08",
+    excerpt: "Junk volume wastes recovery without building muscle. Learn the science-backed sweet spot between too little and too much training volume for maximum gains.",
+    author: "The Forge Team",
+    keywords: ["junk volume", "training volume", "muscle growth", "maximum recoverable volume", "hypertrophy training", "optimal training volume"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "gym-intimidation-guide",
     title: "Gym intimidation: why it happens and how to overcome it",
     date: "2026-02-07",
