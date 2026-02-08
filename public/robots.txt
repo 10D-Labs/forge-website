@@ -6,6 +6,7 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /*.json$
+Disallow: /exercises/videos/
 
 # Google
 User-agent: Googlebot
