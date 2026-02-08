@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "gym-intimidation-guide",
+    title: "Gym intimidation: why it happens and how to overcome it",
+    date: "2026-02-07",
+    excerpt: "40% of Americans avoid gyms due to intimidation. Learn the psychology behind gym anxiety and a proven 30-day framework to build confidence at the gym.",
+    author: "The Forge Team",
+    keywords: ["gym intimidation", "gym anxiety", "gymtimidation", "first time gym", "overcome gym anxiety", "gym confidence"],
+    category: "getting-started"
+  },
+  {
     slug: "muscle-soreness-after-workout-guide",
     title: "Muscle soreness after a workout: what your body is actually telling you",
     date: "2026-02-06",
