@@ -82,19 +82,18 @@ export default function IntermediateExercisesPage() {
           <div className="flex gap-2">
             <Link
               href="/exercises/beginner"
-              className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide angular-border hover:text-success hover:[--angular-bg:hsl(var(--success)/0.1)] transition-colors"
+              className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide rounded-[20px] border border-border bg-surface-2 hover:text-success hover:bg-success/10 transition-colors"
             >
               <span>Beginner</span>
             </Link>
             <span
-              className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide angular-border text-primary"
-              style={{ "--angular-bg": "hsl(var(--primary) / 0.2)", "--angular-border-color": "hsl(var(--primary) / 0.4)" } as React.CSSProperties}
+              className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide rounded-[20px] border border-primary/40 bg-primary/20 text-primary"
             >
               <span>Intermediate</span>
             </span>
             <Link
               href="/exercises/advanced"
-              className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide angular-border hover:text-error hover:[--angular-bg:hsl(var(--destructive)/0.1)] transition-colors"
+              className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide rounded-[20px] border border-border bg-surface-2 hover:text-error hover:bg-destructive/10 transition-colors"
             >
               <span>Advanced</span>
             </Link>
@@ -121,8 +120,7 @@ export default function IntermediateExercisesPage() {
           </p>
           <Link
             href="/?scrollTo=waitlist"
-            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground angular-border hover:[--angular-bg:hsl(var(--forge-orange-dark))] transition-colors"
-            style={{ "--angular-bg": "hsl(var(--primary))", "--angular-border-color": "hsl(var(--primary))" } as React.CSSProperties}
+            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground rounded-[14px] bg-primary border border-primary hover:bg-forge-orange-dark transition-colors"
           >
             <span>Join the Waitlist</span>
           </Link>

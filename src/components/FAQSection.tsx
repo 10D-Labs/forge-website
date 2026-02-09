@@ -76,7 +76,7 @@ const FAQSection = ({
             <motion.div
               key={index}
               variants={fadeInUp}
-              className="angular-border [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--border))]"
+              className="rounded-[20px] border border-border bg-surface-2"
             >
               <button
                 onClick={() => toggleQuestion(index)}

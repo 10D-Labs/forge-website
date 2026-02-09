@@ -88,9 +88,9 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                 </motion.p>
                 <motion.div
                   variants={fadeInUp}
-                  className="inline-flex items-center px-4 py-2 angular-border-sm [--angular-bg:hsl(var(--primary)/0.1)] [--angular-border-color:hsl(var(--primary)/0.3)]"
+                  className="inline-flex items-center px-4 py-2 rounded-[10px] border border-primary/30 bg-primary/10"
                 >
-                  <span className="text-sm font-barlow-condensed font-semibold text-primary uppercase tracking-wide relative z-10">
+                  <span className="text-sm font-barlow-condensed font-semibold text-primary uppercase tracking-wide">
                     {trainer.vibe}
                   </span>
                 </motion.div>
@@ -112,11 +112,9 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                     }}
                   />
                   <div
-                    className="relative p-1"
+                    className="relative p-1 rounded-[20px]"
                     style={{
                       background: "hsl(24 100% 50% / 0.4)",
-                      clipPath:
-                        "polygon(0 0, calc(100% - 24px) 0, 100% 24px, 100% 100%, 24px 100%, 0 calc(100% - 24px))",
                     }}
                   >
                     <Image
@@ -124,11 +122,7 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                       alt={trainer.name}
                       width={280}
                       height={280}
-                      className="w-56 h-56 md:w-72 md:h-72 object-cover"
-                      style={{
-                        clipPath:
-                          "polygon(0 0, calc(100% - 22px) 0, 100% 22px, 100% 100%, 22px 100%, 0 calc(100% - 22px))",
-                      }}
+                      className="w-56 h-56 md:w-72 md:h-72 object-cover rounded-[18px]"
                     />
                   </div>
                 </div>
@@ -224,7 +218,7 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                     <motion.blockquote
                       key={index}
                       variants={fadeInUp}
-                      className="p-5 angular-border [--angular-bg:hsl(var(--surface-2))]"
+                      className="p-5 rounded-[20px] border border-border bg-surface-2"
                     >
                       <p className="text-text-secondary font-barlow italic relative z-10">
                         "{phrase}"
@@ -267,11 +261,7 @@ export default function TrainerPage({ params }: TrainerPageProps) {
               <motion.div variants={fadeInUp}>
                 <Link
                   href="/?scrollTo=waitlist"
-                  className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed text-base font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all btn-neon"
-                  style={{
-                    clipPath:
-                      "polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px))",
-                  }}
+                  className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed text-base font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all btn-neon rounded-[14px]"
                 >
                   Join the Waitlist
                 </Link>
@@ -293,15 +283,13 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                   <Link
                     key={t.slug}
                     href={`/trainers/${t.slug}`}
-                    className="group p-5 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50"
+                    className="group p-5 rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300"
                   >
                     <div className="flex items-center gap-4 mb-3">
                       <div
-                        className="w-12 h-12 p-[1px]"
+                        className="w-12 h-12 p-[1px] rounded-[8px]"
                         style={{
                           background: "hsl(24 100% 50% / 0.4)",
-                          clipPath:
-                            "polygon(0 0, calc(100% - 6px) 0, 100% 6px, 100% 100%, 6px 100%, 0 calc(100% - 6px))",
                         }}
                       >
                         <Image
@@ -309,11 +297,7 @@ export default function TrainerPage({ params }: TrainerPageProps) {
                           alt={t.name}
                           width={48}
                           height={48}
-                          className="w-full h-full object-cover"
-                          style={{
-                            clipPath:
-                              "polygon(0 0, calc(100% - 5px) 0, 100% 5px, 100% 100%, 5px 100%, 0 calc(100% - 5px))",
-                          }}
+                          className="w-full h-full object-cover rounded-[7px]"
                         />
                       </div>
                       <div>

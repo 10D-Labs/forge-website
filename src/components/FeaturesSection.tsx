@@ -77,9 +77,8 @@ const FeatureCard = ({ feature, index }: FeatureCardProps) => {
       onHoverEnd={() => setIsHovered(false)}
       className={cn(
         "relative p-6 md:p-8 overflow-hidden",
-        "angular-border card-neon",
-        "transition-all duration-300",
-        "hover:[&::before]:bg-primary/50"
+        "rounded-[20px] border border-border bg-surface-2 card-neon",
+        "transition-all duration-300"
       )}
     >
       {/* Background glow on hover */}
@@ -108,12 +107,11 @@ const FeatureCard = ({ feature, index }: FeatureCardProps) => {
         {/* Icon */}
         <div className="relative w-14 h-14 mb-6">
           <motion.div
-            className="absolute inset-0 bg-primary/20 blur-xl"
+            className="absolute inset-0 bg-primary/20 blur-xl rounded-[10px]"
             animate={{ scale: isHovered ? 1.3 : 1, opacity: isHovered ? 0.8 : 0.5 }}
             transition={{ duration: 0.3 }}
-            style={{ clipPath: "polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px))" }}
           />
-          <div className="relative w-full h-full angular-border-sm [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--primary)/0.3)] flex items-center justify-center" aria-hidden="true">
+          <div className="relative w-full h-full rounded-[10px] border border-primary/30 bg-surface-2 flex items-center justify-center" aria-hidden="true">
             <Icon className="w-7 h-7 text-primary relative z-10 icon-neon" />
           </div>
         </div>

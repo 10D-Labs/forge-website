@@ -1,6 +1,6 @@
 # Forge Brand Guidelines
 
-> Last updated: January 2026
+> Last updated: February 2026 (Design 4.0 - The Warmth Update)
 
 ---
 
@@ -28,14 +28,14 @@
 | Electric Orange | `#FF6600` | Primary brand color, CTAs, highlights |
 | Electric Orange Dark | `#E65C00` | Hover states, pressed states |
 
-### Neutrals
+### Neutrals (Warm Brown-Black)
 
 | Name | Hex | Usage |
 |------|-----|-------|
-| True Black | `#000000` | Primary background (OLED-optimized) |
-| Black 900 | `#0A0A0A` | Elevated surfaces |
-| Black 800 | `#111111` | Cards, secondary surfaces |
-| Black 700 | `#1A1A1A` | Tertiary surfaces |
+| Warm Black | `#0d0a07` | Primary background (surface-0) |
+| Warm 900 | `#120d06` | Elevated surfaces (surface-1) |
+| Warm 800 | `#1e140a` | Cards, secondary surfaces (surface-2) |
+| Warm 700 | `#23190e` | Tertiary surfaces (surface-3) |
 | Gray 500 | `#71717A` | Secondary text |
 | Gray 400 | `#A1A1AA` | Muted text, placeholders |
 | White | `#FFFFFF` | Primary text, icons |
@@ -58,9 +58,9 @@
 
 ### Color Rules
 
-- **No secondary accent color** - Orange + neutrals only
+- **No secondary accent color** - Orange + warm neutrals only
 - Orange is reserved for brand use - never use it for errors/warnings
-- True black (`#000000`) is required for backgrounds to support OLED displays
+- Warm brown-black backgrounds (`hsl(30 30% 3%)`) replace pure black for warmth while staying dark
 - Gradients are allowed but keep them subtle/low-key
 
 ---
@@ -96,18 +96,29 @@
 
 ## Design Elements
 
+### Corners & Radius
+
+| Element | Radius |
+|---------|--------|
+| Cards | `20px` |
+| Buttons | `14px` |
+| Inputs | `10px` |
+| Chips / Tags | `10px` |
+| Badges | `8px` |
+
 ### Buttons
 
 | Type | Style |
 |------|-------|
-| Primary CTA | Angular clip-path corners: `clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px))` |
-| Secondary / Other | Standard corners (small border-radius or none) |
+| Primary CTA | `border-radius: 14px`, orange glow shadow |
+| Secondary / Other | `border-radius: 14px` |
 
 ### Cards
 
-- Angular clip-path corners (same as primary CTA)
+- Rounded corners (`border-radius: 20px`)
 - Orange-tinted border: `rgba(255, 102, 0, 0.25)`
-- Background: `#111111` or `#1A1A1A`
+- Background: warm surface colors (surface-2 or surface-1)
+- Subtle box-shadow: `0 8px 16px rgba(0,0,0,0.25)`
 
 ### Staggered Headlines
 
@@ -164,7 +175,7 @@ Reserved for **hero sections** and **CTA sections** only.
 
 - **Outlined** with slightly thick strokes
 - Consistent stroke width across all icons
-- Angular feel preferred over rounded
+- Clean, modern style
 
 ### Recommended Sets
 
@@ -195,9 +206,9 @@ Reserved for **hero sections** and **CTA sections** only.
 
 Dark mode is the **primary** experience. All designs should be created dark-first.
 
-- Background: True Black `#000000`
+- Background: Warm Black `#0d0a07` (hsl 30 30% 3%)
 - Text: White `#FFFFFF`
-- Cards: `#111111` with orange-tinted borders
+- Cards: Warm surface colors with orange-tinted borders and rounded corners
 
 ### Light Mode
 
@@ -214,7 +225,6 @@ Light mode is secondary and should maintain the same bold energy.
 
 These are strictly off-brand:
 
-- **Rounded/bubbly shapes** - contradicts angular aesthetic
 - **Pastel colors** - too soft, lacks intensity
 - **Stock photos of people lifting weights** - generic and cheesy
 - **Cursive or script fonts** - doesn't match bold typography
@@ -234,11 +244,11 @@ These are strictly off-brand:
   --orange: #FF6600;
   --orange-dark: #E65C00;
 
-  /* Neutrals */
-  --black: #000000;
-  --black-900: #0A0A0A;
-  --black-800: #111111;
-  --black-700: #1A1A1A;
+  /* Neutrals (warm brown-black) */
+  --surface-0: hsl(30 30% 3%);     /* #0d0a07 */
+  --surface-1: hsl(30 40% 5%);     /* #120d06 */
+  --surface-2: hsl(30 35% 8%);     /* #1e140a */
+  --surface-3: hsl(30 35% 10%);    /* #23190e */
   --gray-500: #71717A;
   --gray-400: #A1A1AA;
   --white: #FFFFFF;
@@ -252,6 +262,13 @@ These are strictly off-brand:
   --border-card: rgba(255, 102, 0, 0.25);
   --border-nav: rgba(255, 102, 0, 0.20);
   --border-section: rgba(255, 102, 0, 0.15);
+
+  /* Radius */
+  --radius-card: 20px;
+  --radius-button: 14px;
+  --radius-input: 10px;
+  --radius-chip: 10px;
+  --radius-badge: 8px;
 }
 ```
 

@@ -140,7 +140,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               {post.category && (
                 <Link
                   href={`/topics/${post.category}`}
-                  className="inline-block px-3 py-1.5 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider angular-border-sm [--angular-bg:hsl(var(--primary)/0.1)] [--angular-border-color:hsl(var(--primary)/0.3)] hover:[--angular-border-color:hsl(var(--primary))] transition-colors mb-4"
+                  className="inline-block px-3 py-1.5 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider rounded-[10px] border border-primary/30 bg-primary/10 hover:border-primary transition-colors mb-4"
                 >
                   <span className="relative z-10">
                     {topics.find((t) => t.slug === post.category)?.name ||
@@ -201,7 +201,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                       <article key={relatedPost.slug}>
                         <Link
                           href={`/blog/${relatedPost.slug}`}
-                          className="group block p-5 angular-border card-neon transition-all duration-300 hover:[--angular-border-color:hsl(var(--primary)/0.5)] h-full"
+                          className="group block p-5 rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 hover:border-primary/50 h-full"
                         >
                           <time
                             dateTime={relatedPost.date}

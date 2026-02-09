@@ -146,10 +146,10 @@ category: "training-fundamentals"
 | Element | Value |
 |---------|-------|
 | Primary Color | `#FF6600` (Electric Orange) |
-| Background | `#000000` (True Black) |
+| Background | `#0d0a07` (Warm Brown-Black, hsl 30 30% 3%) |
 | Headlines | Barlow Condensed, uppercase, 700-900 weight |
 | Body | Barlow, normal case, 400-500 weight |
-| Corners | Angular clip-path on buttons/cards |
+| Corners | Rounded (cards 20px, buttons 14px, inputs/chips 10px, badges 8px) |
 
 Full guidelines: `brand-guidelines.md`
 

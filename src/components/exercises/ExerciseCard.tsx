@@ -48,7 +48,7 @@ export default function ExerciseCard({
     >
       <Link
         href={`/exercise/${slug}`}
-        className="block h-full angular-border card-neon transition-all duration-300 hover:[--angular-border-color:hsl(var(--primary)/0.5)] overflow-hidden"
+        className="block h-full rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 hover:border-primary/50 overflow-hidden"
       >
         {/* Video Preview */}
         <div className="relative aspect-square bg-surface-2 overflow-hidden">

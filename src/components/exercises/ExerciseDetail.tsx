@@ -24,7 +24,7 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
             className="relative"
           >
             <div className="sticky top-24">
-              <div className="relative aspect-square rounded-lg overflow-hidden bg-surface-2 angular-border">
+              <div className="relative aspect-square rounded-[20px] overflow-hidden bg-surface-2 border border-border">
                 <video
                   autoPlay
                   loop
@@ -40,7 +40,7 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
 
               {/* Quick Info Cards */}
               <div className="grid grid-cols-2 gap-4 mt-4">
-                <div className="angular-border p-4 bg-surface-1">
+                <div className="rounded-[20px] border border-border p-4 bg-surface-1">
                   <p className="text-xs font-barlow text-text-tertiary uppercase tracking-wide mb-1">
                     Target Muscle
                   </p>
@@ -48,7 +48,7 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
                     {exercise.target}
                   </p>
                 </div>
-                <div className="angular-border p-4 bg-surface-1">
+                <div className="rounded-[20px] border border-border p-4 bg-surface-1">
                   <p className="text-xs font-barlow text-text-tertiary uppercase tracking-wide mb-1">
                     Equipment
                   </p>
@@ -56,7 +56,7 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
                     {exercise.equipment}
                   </p>
                 </div>
-                <div className="angular-border p-4 bg-surface-1">
+                <div className="rounded-[20px] border border-border p-4 bg-surface-1">
                   <p className="text-xs font-barlow text-text-tertiary uppercase tracking-wide mb-1">
                     Difficulty
                   </p>
@@ -72,7 +72,7 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
                     {exercise.difficulty}
                   </p>
                 </div>
-                <div className="angular-border p-4 bg-surface-1">
+                <div className="rounded-[20px] border border-border p-4 bg-surface-1">
                   <p className="text-xs font-barlow text-text-tertiary uppercase tracking-wide mb-1">
                     Category
                   </p>
@@ -94,13 +94,13 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
             <div className="flex flex-wrap gap-2 mb-4">
               <Link
                 href={`/exercises/${slugify(exercise.bodyPart)}`}
-                className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider angular-border-sm [--angular-bg:hsl(var(--primary)/0.1)] [--angular-border-color:hsl(var(--primary)/0.3)] hover:[--angular-border-color:hsl(var(--primary))] transition-colors"
+                className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider rounded-[10px] border border-primary/30 bg-primary/10 hover:border-primary transition-colors"
               >
                 {exercise.bodyPart}
               </Link>
               <Link
                 href={`/exercises/equipment/${EQUIPMENT_SLUGS[exercise.equipment]}`}
-                className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-text-secondary uppercase tracking-wider angular-border-sm [--angular-bg:hsl(var(--text-secondary)/0.1)] [--angular-border-color:hsl(var(--text-secondary)/0.3)] hover:[--angular-border-color:hsl(var(--text-secondary))] transition-colors"
+                className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-text-secondary uppercase tracking-wider rounded-[10px] border border-text-secondary/30 bg-text-secondary/10 hover:border-text-secondary transition-colors"
               >
                 {exercise.equipment}
               </Link>
@@ -144,7 +144,7 @@ export default function ExerciseDetail({ exercise }: ExerciseDetailProps) {
             </div>
 
             {/* Pro Tips */}
-            <div className="angular-border p-6 bg-primary/5 border-primary/20">
+            <div className="rounded-[20px] border border-primary/20 p-6 bg-primary/5">
               <h3 className="font-barlow-condensed text-lg font-bold uppercase tracking-wide text-primary mb-3">
                 Pro Tips
               </h3>

@@ -220,13 +220,13 @@ export default async function ComboPage({ params }: ComboPageProps) {
           <div className="flex flex-wrap gap-2 mb-4">
             <Link
               href={`/exercises/${bodyPartSlug}`}
-              className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider angular-border-sm [--angular-bg:hsl(var(--primary)/0.1)] [--angular-border-color:hsl(var(--primary)/0.3)] hover:[--angular-border-color:hsl(var(--primary))] transition-colors"
+              className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider rounded-[10px] border border-primary/30 bg-primary/10 hover:border-primary transition-colors"
             >
               {bodyPart}
             </Link>
             <Link
               href={`/exercises/equipment/${equipmentSlug}`}
-              className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-text-secondary uppercase tracking-wider angular-border-sm [--angular-bg:hsl(var(--text-secondary)/0.1)] [--angular-border-color:hsl(var(--text-secondary)/0.3)] hover:[--angular-border-color:hsl(var(--text-secondary))] transition-colors"
+              className="px-3 py-1 text-xs font-barlow-condensed font-semibold text-text-secondary uppercase tracking-wider rounded-[10px] border border-text-secondary/30 bg-text-secondary/10 hover:border-text-secondary transition-colors"
             >
               {equipment}
             </Link>
@@ -296,8 +296,7 @@ export default async function ComboPage({ params }: ComboPageProps) {
           </p>
           <Link
             href="/?scrollTo=waitlist"
-            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground angular-border hover:[--angular-bg:hsl(var(--forge-orange-dark))] transition-colors"
-            style={{ "--angular-bg": "hsl(var(--primary))", "--angular-border-color": "hsl(var(--primary))" } as React.CSSProperties}
+            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground rounded-[14px] bg-primary border border-primary hover:bg-forge-orange-dark transition-colors"
           >
             <span>Join the Waitlist</span>
           </Link>

@@ -78,22 +78,19 @@ export default function ExercisesPage() {
             <div className="flex gap-2">
               <Link
                 href="/exercises/beginner"
-                className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide angular-border text-success hover:[--angular-bg:hsl(var(--success)/0.2)] transition-colors"
-                style={{ "--angular-bg": "hsl(var(--success) / 0.1)", "--angular-border-color": "hsl(var(--success) / 0.3)" } as React.CSSProperties}
+                className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide rounded-[20px] border border-success/30 bg-success/10 text-success hover:bg-success/20 transition-colors"
               >
                 <span>Beginner</span>
               </Link>
               <Link
                 href="/exercises/intermediate"
-                className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide angular-border text-primary hover:[--angular-bg:hsl(var(--primary)/0.2)] transition-colors"
-                style={{ "--angular-bg": "hsl(var(--primary) / 0.1)", "--angular-border-color": "hsl(var(--primary) / 0.3)" } as React.CSSProperties}
+                className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide rounded-[20px] border border-primary/30 bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
               >
                 <span>Intermediate</span>
               </Link>
               <Link
                 href="/exercises/advanced"
-                className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide angular-border text-error hover:[--angular-bg:hsl(var(--destructive)/0.2)] transition-colors"
-                style={{ "--angular-bg": "hsl(var(--destructive) / 0.1)", "--angular-border-color": "hsl(var(--destructive) / 0.3)" } as React.CSSProperties}
+                className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide rounded-[20px] border border-destructive/30 bg-destructive/10 text-error hover:bg-destructive/20 transition-colors"
               >
                 <span>Advanced</span>
               </Link>
@@ -114,7 +111,7 @@ export default function ExercisesPage() {
               <Link
                 key={hub.bodyPart}
                 href={`/exercises/${hub.slug}`}
-                className="group angular-border card-neon p-6 transition-all duration-300 hover:[--angular-border-color:hsl(var(--primary)/0.5)]"
+                className="group rounded-[20px] border border-border bg-surface-2 card-neon p-6 transition-all duration-300 hover:border-primary/50"
               >
                 <h3 className="font-barlow-condensed text-xl font-bold uppercase tracking-wide mb-2 group-hover:text-primary transition-colors">
                   {hub.bodyPart}
@@ -140,7 +137,7 @@ export default function ExercisesPage() {
               <Link
                 key={hub.equipment}
                 href={`/exercises/equipment/${hub.slug}`}
-                className="group angular-border card-neon p-4 transition-all duration-300 hover:[--angular-border-color:hsl(var(--primary)/0.5)]"
+                className="group rounded-[20px] border border-border bg-surface-2 card-neon p-4 transition-all duration-300 hover:border-primary/50"
               >
                 <h3 className="font-barlow-condensed text-base font-bold uppercase tracking-wide mb-1 group-hover:text-primary transition-colors">
                   {hub.equipment}
@@ -166,8 +163,7 @@ export default function ExercisesPage() {
           </p>
           <Link
             href="/?scrollTo=waitlist"
-            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground angular-border hover:[--angular-bg:hsl(var(--forge-orange-dark))] transition-colors"
-            style={{ "--angular-bg": "hsl(var(--primary))", "--angular-border-color": "hsl(var(--primary))" } as React.CSSProperties}
+            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground rounded-[14px] bg-primary border border-primary hover:bg-forge-orange-dark transition-colors"
           >
             <span>Join the Waitlist</span>
           </Link>

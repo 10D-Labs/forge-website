@@ -113,7 +113,7 @@ const MeetTheTrainersSection = () => {
           {canScrollLeft && (
             <button
               onClick={() => scroll("left")}
-              className="hidden md:flex absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 z-20 w-12 h-12 angular-border-sm items-center justify-center hover:[&::before]:bg-primary/50"
+              className="hidden md:flex absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 z-20 w-12 h-12 rounded-[10px] border border-border bg-surface-2 items-center justify-center hover:border-primary/50"
               aria-label="Scroll left"
             >
               <ChevronLeft className="w-6 h-6 relative z-10" />
@@ -122,7 +122,7 @@ const MeetTheTrainersSection = () => {
           {canScrollRight && (
             <button
               onClick={() => scroll("right")}
-              className="hidden md:flex absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 z-20 w-12 h-12 angular-border-sm items-center justify-center hover:[&::before]:bg-primary/50"
+              className="hidden md:flex absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 z-20 w-12 h-12 rounded-[10px] border border-border bg-surface-2 items-center justify-center hover:border-primary/50"
               aria-label="Scroll right"
             >
               <ChevronRight className="w-6 h-6 relative z-10" />
@@ -147,15 +147,14 @@ const MeetTheTrainersSection = () => {
               >
                 <Link
                   href={`/trainers/${trainer.slug}`}
-                  className="group block relative p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
+                  className="group block relative p-6 rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 h-full"
                 >
                   {/* Avatar */}
                   <div className="flex items-center gap-4 mb-4">
                     <div
-                      className="w-14 h-14 p-[1px]"
+                      className="w-14 h-14 p-[1px] rounded-[10px]"
                       style={{
                         background: "hsl(24 100% 50% / 0.4)",
-                        clipPath: "polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px))"
                       }}
                     >
                       <Image
@@ -163,8 +162,7 @@ const MeetTheTrainersSection = () => {
                         alt={trainer.name}
                         width={56}
                         height={56}
-                        className="w-full h-full object-cover"
-                        style={{ clipPath: "polygon(0 0, calc(100% - 7px) 0, 100% 7px, 100% 100%, 7px 100%, 0 calc(100% - 7px))" }}
+                        className="w-full h-full object-cover rounded-[9px]"
                       />
                     </div>
                     <div>
@@ -178,9 +176,9 @@ const MeetTheTrainersSection = () => {
 
                   {/* Vibe tag */}
                   <div
-                    className="inline-flex items-center px-3 py-1.5 angular-border-sm [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--primary)/0.3)]"
+                    className="inline-flex items-center px-3 py-1.5 rounded-[10px] border border-primary/30 bg-surface-2"
                   >
-                    <span className="text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wide relative z-10">{trainer.vibe}</span>
+                    <span className="text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wide">{trainer.vibe}</span>
                   </div>
 
                   {/* Click indicator */}

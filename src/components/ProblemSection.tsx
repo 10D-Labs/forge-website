@@ -69,7 +69,7 @@ const ProblemSection = () => {
         <div className="hidden md:grid md:grid-cols-2 gap-6 md:gap-8 max-w-4xl mx-auto">
           {/* Problem Card */}
           <motion.article
-            className="relative p-8 angular-border [--angular-bg:hsl(var(--surface-0))] [--angular-border-color:hsl(var(--destructive)/0.3)] overflow-hidden"
+            className="relative p-8 rounded-[20px] border border-destructive/30 bg-surface-0 overflow-hidden"
             initial={{ opacity: 0, x: -30 }}
             animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -30 }}
             transition={{ duration: 0.6, delay: 0.2 }}
@@ -108,7 +108,7 @@ const ProblemSection = () => {
 
           {/* Solution Card */}
           <motion.article
-            className="relative p-8 angular-border card-neon [--angular-bg:hsl(var(--surface-0))] [--angular-border-color:hsl(var(--primary)/0.3)] overflow-hidden"
+            className="relative p-8 rounded-[20px] border border-primary/30 bg-surface-0 card-neon overflow-hidden"
             initial={{ opacity: 0, x: 30 }}
             animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 30 }}
             transition={{ duration: 0.6, delay: 0.3 }}
@@ -162,7 +162,7 @@ const ProblemSection = () => {
               {problems.map((problem, index) => (
                 <motion.div
                   key={index}
-                  className="p-2.5 rounded-lg bg-black/30 flex items-start gap-2"
+                  className="p-2.5 rounded-lg bg-surface-0/50 flex items-start gap-2"
                   initial={{ opacity: 0 }}
                   animate={isInView ? { opacity: 1 } : { opacity: 0 }}
                   transition={{ delay: 0.4 + index * 0.08 }}
@@ -188,7 +188,7 @@ const ProblemSection = () => {
               {solutions.map((solution, index) => (
                 <motion.div
                   key={index}
-                  className="p-2.5 rounded-lg bg-black/30 flex items-start gap-2"
+                  className="p-2.5 rounded-lg bg-surface-0/50 flex items-start gap-2"
                   initial={{ opacity: 0 }}
                   animate={isInView ? { opacity: 1 } : { opacity: 0 }}
                   transition={{ delay: 0.5 + index * 0.08 }}

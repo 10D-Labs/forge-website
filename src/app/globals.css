@@ -8,22 +8,22 @@
 @layer base {
   :root {
     /* === CORE COLORS (shadcn tokens) === */
-    --background: 0 0% 0%;
+    --background: 30 30% 3%;              /* #0d0a07 warm brown-black */
     --foreground: 0 0% 100%;
 
-    --card: 0 0% 7%;
+    --card: 30 35% 8%;                    /* warm surface-2 */
     --card-foreground: 0 0% 100%;
 
-    --popover: 0 0% 7%;
+    --popover: 30 35% 8%;
     --popover-foreground: 0 0% 100%;
 
     --primary: 24 100% 50%;               /* #FF6600 Electric Orange */
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 0 0% 10%;
+    --secondary: 30 35% 10%;              /* warm surface-3 */
     --secondary-foreground: 0 0% 100%;
 
-    --muted: 0 0% 15%;
+    --muted: 30 30% 14%;                  /* warm muted */
     --muted-foreground: 0 0% 65%;
 
     --accent: 24 100% 50%;                /* #FF6600 Electric Orange */
@@ -41,26 +41,33 @@
     --border: 24 100% 50% / 0.25;         /* Orange tint for cards */
     --border-subtle: 24 100% 50% / 0.15;  /* Orange tint for sections */
     --border-nav: 24 100% 50% / 0.20;     /* Orange tint for nav */
-    --input: 0 0% 10%;
+    --input: 30 35% 10%;
     --ring: 24 100% 50%;
 
-    --radius: 0rem;                        /* Angular design - no border radius by default */
+    --radius: 0.875rem;                    /* 14px - button default */
+
+    /* === RADIUS TOKENS === */
+    --radius-card: 20px;
+    --radius-button: 14px;
+    --radius-input: 10px;
+    --radius-chip: 10px;
+    --radius-badge: 8px;
 
     /* === BRAND COLORS === */
     --forge-orange: 24 100% 50%;          /* #FF6600 Electric Orange */
     --forge-orange-dark: 24 100% 45%;     /* #E65C00 */
     --forge-orange-glow: 24 100% 55%;
-    --forge-dark: 0 0% 0%;                /* True black for OLED */
+    --forge-dark: 30 30% 3%;              /* warm brown-black */
     --forge-gray: 0 0% 44%;               /* #71717A */
     --forge-gray-light: 0 0% 63%;         /* #A1A1AA */
-    --forge-gray-dark: 0 0% 10%;          /* #1A1A1A */
+    --forge-gray-dark: 30 35% 10%;        /* warm dark gray */
 
-    /* === SURFACE SYSTEM (depth layers) === */
-    --surface-0: 0 0% 0%;                 /* #000000 True black */
-    --surface-1: 0 0% 4%;                 /* #0A0A0A */
-    --surface-2: 0 0% 7%;                 /* #111111 */
-    --surface-3: 0 0% 10%;                /* #1A1A1A */
-    --surface-4: 0 0% 16%;
+    /* === SURFACE SYSTEM (depth layers - warm brown-black) === */
+    --surface-0: 30 30% 3%;               /* #0d0a07 */
+    --surface-1: 30 40% 5%;               /* #120d06 */
+    --surface-2: 30 35% 8%;               /* #1e140a */
+    --surface-3: 30 35% 10%;              /* #23190e */
+    --surface-4: 30 30% 14%;
 
     /* === TEXT HIERARCHY === */
     --text-primary: 0 0% 100%;
@@ -69,8 +76,8 @@
     --text-quaternary: 0 0% 35%;
 
     /* === GRADIENTS === */
-    --gradient-hero: linear-gradient(135deg, hsl(0 0% 0%) 0%, hsl(24 30% 4%) 100%);
-    --gradient-card: linear-gradient(180deg, hsl(0 0% 7%) 0%, hsl(0 0% 4%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(30 30% 3%) 0%, hsl(24 30% 5%) 100%);
+    --gradient-card: linear-gradient(180deg, hsl(30 35% 8%) 0%, hsl(30 40% 5%) 100%);
     --gradient-orange-glow: radial-gradient(ellipse at center, hsl(24 100% 50% / 0.15) 0%, transparent 70%);
     --gradient-text: linear-gradient(135deg, hsl(0 0% 100%) 0%, hsl(24 100% 60%) 100%);
     --gradient-radial-hero: radial-gradient(ellipse 80% 50% at 50% -20%, hsl(24 100% 50% / 0.2) 0%, transparent 70%);
@@ -81,17 +88,14 @@
     /* === SHADOWS === */
     --shadow-glow: 0 0 60px hsl(24 100% 50% / 0.25);
     --shadow-glow-lg: 0 0 100px hsl(24 100% 50% / 0.35);
-    --shadow-card: 0 4px 24px hsl(0 0% 0% / 0.5);
-    --shadow-card-hover: 0 8px 40px hsl(0 0% 0% / 0.6);
+    --shadow-card: 0 8px 16px rgba(0,0,0,0.25);
+    --shadow-card-hover: 0 12px 24px rgba(0,0,0,0.35);
+    --shadow-btn-primary: 0 4px 12px rgba(255,102,0,0.3);
+    --shadow-btn-success: 0 4px 16px rgba(16,185,129,0.3);
 
     /* === SPACING === */
     --space-section: 6rem;
     --space-section-mobile: 4rem;
-
-    /* === ANGULAR CLIP PATHS === */
-    --clip-angular: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
-    --clip-angular-sm: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
-    --clip-angular-lg: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px));
   }
 
   .light {
@@ -142,7 +146,7 @@
 
     /* Surface system - light mode */
     --surface-0: 0 0% 100%;
-    --surface-1: 0 0% 98%;
+    --surface-1: 0 0% 96%;             /* #F5F5F5 backgroundElevated */
     --surface-2: 0 0% 96%;
     --surface-3: 0 0% 94%;
     --surface-4: 0 0% 90%;
@@ -171,7 +175,7 @@
   }
 
   .dark {
-    --background: 0 0% 0%;
+    --background: 30 30% 3%;
     --foreground: 0 0% 100%;
   }
 }
@@ -258,14 +262,15 @@
     text-shadow: 0 0 20px hsl(24 100% 50% / 0.15), 0 0 40px hsl(24 100% 50% / 0.05);
   }
 
-  /* Button neon glow with subtle pulse - uses filter for clip-path compatibility */
+  /* Button neon glow with subtle pulse */
   .btn-neon {
-    filter: drop-shadow(0 0 10px hsl(24 100% 50% / 0.2));
-    animation: neonPulseFilter 3s ease-in-out infinite;
+    box-shadow: 0 0 10px hsl(24 100% 50% / 0.2);
+    border-radius: var(--radius-button);
+    animation: neonPulse 3s ease-in-out infinite;
   }
 
   .btn-neon:hover {
-    filter: drop-shadow(0 0 15px hsl(24 100% 50% / 0.35));
+    box-shadow: 0 0 20px hsl(24 100% 50% / 0.35);
   }
 
   /* Card hover glow */
@@ -274,7 +279,7 @@
   }
 
   .card-neon:hover {
-    box-shadow: 0 0 30px hsl(24 100% 50% / 0.08), 0 0 60px hsl(24 100% 50% / 0.04);
+    box-shadow: 0 0 30px hsl(24 100% 50% / 0.1), 0 0 60px hsl(24 100% 50% / 0.05);
   }
 
   /* Border glow - soft glow behind angular borders */
@@ -342,100 +347,36 @@
     mask-image: linear-gradient(to bottom, black 0%, transparent 100%);
   }
 
-  /* === ANGULAR CARD STYLES WITH PROPER BORDERS === */
+  /* === ROUNDED CARD STYLES (Design 4.0) === */
   .angular-border {
     --angular-bg: hsl(var(--surface-2));
     --angular-border-color: hsl(var(--border));
-    position: relative;
-    background: transparent;
-    border: none;
-  }
-
-  .angular-border::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: var(--angular-border-color);
-    clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px));
-    z-index: 0;
-  }
-
-  .angular-border::after {
-    content: '';
-    position: absolute;
-    inset: 1px;
     background: var(--angular-bg);
-    clip-path: polygon(0 0, calc(100% - 15px) 0, 100% 15px, 100% 100%, 15px 100%, 0 calc(100% - 15px));
-    z-index: 0;
+    border: 1px solid var(--angular-border-color);
+    border-radius: var(--radius-card);
+    box-shadow: var(--shadow-card);
   }
 
-  .angular-border > * {
-    position: relative;
-    z-index: 1;
+  .angular-border:hover {
+    box-shadow: var(--shadow-card-hover);
   }
 
-  /* Small angular border (8px corners) */
+  /* Small rounded border (10px corners) */
   .angular-border-sm {
     --angular-bg: hsl(var(--surface-2));
     --angular-border-color: hsl(var(--border));
-    position: relative;
-    background: transparent;
-    border: none;
-  }
-
-  .angular-border-sm::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: var(--angular-border-color);
-    clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
-    z-index: 0;
-  }
-
-  .angular-border-sm::after {
-    content: '';
-    position: absolute;
-    inset: 1px;
     background: var(--angular-bg);
-    clip-path: polygon(0 0, calc(100% - 7px) 0, 100% 7px, 100% 100%, 7px 100%, 0 calc(100% - 7px));
-    z-index: 0;
+    border: 1px solid var(--angular-border-color);
+    border-radius: var(--radius-chip);
   }
 
-  .angular-border-sm > * {
-    position: relative;
-    z-index: 1;
-  }
-
-  /* Medium angular border (12px corners) */
+  /* Medium rounded border (14px corners) */
   .angular-border-md {
     --angular-bg: hsl(var(--surface-2));
     --angular-border-color: hsl(var(--border));
-    position: relative;
-    background: transparent;
-    border: none;
-  }
-
-  .angular-border-md::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: var(--angular-border-color);
-    clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
-    z-index: 0;
-  }
-
-  .angular-border-md::after {
-    content: '';
-    position: absolute;
-    inset: 1px;
     background: var(--angular-bg);
-    clip-path: polygon(0 0, calc(100% - 11px) 0, 100% 11px, 100% 100%, 11px 100%, 0 calc(100% - 11px));
-    z-index: 0;
-  }
-
-  .angular-border-md > * {
-    position: relative;
-    z-index: 1;
+    border: 1px solid var(--angular-border-color);
+    border-radius: var(--radius-button);
   }
 
   /* Background variants */
@@ -461,59 +402,6 @@
   .angular-bg-primary-5 {
     --angular-bg: hsl(var(--primary) / 0.05);
     --angular-border-color: hsl(var(--primary) / 0.2);
-  }
-
-  /* Legacy classes for backward compatibility */
-  .card-angular {
-    clip-path: var(--clip-angular);
-    background: hsl(var(--surface-2));
-    border: 1px solid hsl(var(--border));
-  }
-
-  .card-angular-sm {
-    clip-path: var(--clip-angular-sm);
-  }
-
-  .card-angular-lg {
-    clip-path: var(--clip-angular-lg);
-  }
-
-  /* Gradient border effect on hover */
-  .card-glow-border {
-    position: relative;
-  }
-
-  .card-glow-border::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    padding: 1px;
-    background: linear-gradient(135deg, hsl(var(--primary) / 0.6), hsl(var(--primary) / 0.2));
-    clip-path: inherit;
-    -webkit-mask:
-      linear-gradient(#fff 0 0) content-box,
-      linear-gradient(#fff 0 0);
-    mask:
-      linear-gradient(#fff 0 0) content-box,
-      linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask-composite: exclude;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    pointer-events: none;
-  }
-
-  .card-glow-border:hover::before {
-    opacity: 1;
-  }
-
-  /* === BUTTON STYLES === */
-  .btn-angular {
-    clip-path: var(--clip-angular);
-  }
-
-  .btn-angular-sm {
-    clip-path: var(--clip-angular-sm);
   }
 
   /* === SECTION SPACING === */
@@ -778,14 +666,7 @@
   }
 }
 
-@keyframes neonPulseFilter {
-  0%, 100% {
-    filter: drop-shadow(0 0 10px hsl(24 100% 50% / 0.2));
-  }
-  50% {
-    filter: drop-shadow(0 0 15px hsl(24 100% 50% / 0.3));
-  }
-}
+/* neonPulseFilter removed - using box-shadow neonPulse instead */
 
 @keyframes gradientShift {
   0%, 100% {

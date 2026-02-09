@@ -93,7 +93,7 @@ export default function TopicPage({ params }: TopicPageProps) {
                 <motion.article key={post.slug} variants={fadeInUp}>
                   <Link
                     href={`/blog/${post.slug}`}
-                    className="group block p-6 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
+                    className="group block p-6 rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 hover:border-primary/50 h-full"
                   >
                     <time
                       dateTime={post.date}
@@ -159,7 +159,7 @@ export default function TopicPage({ params }: TopicPageProps) {
                   <Link
                     key={t.slug}
                     href={`/topics/${t.slug}`}
-                    className="px-4 py-2 angular-border-sm [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--primary)/0.3)] font-barlow-condensed text-sm font-semibold uppercase tracking-wide text-text-secondary hover:text-primary transition-colors"
+                    className="px-4 py-2 rounded-[10px] border border-primary/30 bg-surface-2 font-barlow-condensed text-sm font-semibold uppercase tracking-wide text-text-secondary hover:text-primary transition-colors"
                   >
                     <span className="relative z-10">{t.name}</span>
                   </Link>

@@ -42,10 +42,10 @@ const CTASection = () => {
           {/* Badge */}
           <motion.div variants={fadeInUp}>
             <span
-              className="inline-flex items-center gap-2 px-4 py-2 angular-border-sm [--angular-bg:hsl(var(--surface-1))] [--angular-border-color:hsl(var(--primary)/0.3)] font-barlow-condensed text-sm font-semibold text-primary uppercase tracking-wider mb-8"
+              className="inline-flex items-center gap-2 px-4 py-2 rounded-[10px] border border-border bg-surface-1 font-barlow-condensed text-sm font-semibold text-primary uppercase tracking-wider mb-8"
             >
-              <span className="w-2 h-2 bg-primary animate-pulse relative z-10" style={{ clipPath: "polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%)" }} />
-              <span className="relative z-10">Launching Soon</span>
+              <span className="w-2 h-2 bg-primary animate-pulse rounded-full" />
+              <span>Launching Soon</span>
             </span>
           </motion.div>
 

@@ -159,7 +159,7 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
                 <Link
                   key={equipment}
                   href={`/exercises/${bodyPartSlug}/${EQUIPMENT_SLUGS[equipment]}`}
-                  className="px-3 py-1.5 text-sm font-barlow-condensed uppercase tracking-wide angular-border hover:text-primary hover:[--angular-bg:hsl(var(--primary)/0.1)] transition-colors"
+                  className="px-3 py-1.5 text-sm font-barlow-condensed uppercase tracking-wide rounded-[10px] border border-border bg-surface-2 hover:text-primary hover:bg-primary/10 transition-colors"
                 >
                   <span>{equipment} ({count})</span>
                 </Link>
@@ -188,8 +188,7 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
           </p>
           <Link
             href="/?scrollTo=waitlist"
-            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground angular-border hover:[--angular-bg:hsl(var(--forge-orange-dark))] transition-colors"
-            style={{ "--angular-bg": "hsl(var(--primary))", "--angular-border-color": "hsl(var(--primary))" } as React.CSSProperties}
+            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground rounded-[14px] bg-primary border border-primary hover:bg-forge-orange-dark transition-colors"
           >
             <span>Join the Waitlist</span>
           </Link>

@@ -113,6 +113,8 @@ export default {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
         none: "0",
+        card: "20px",
+        badge: "8px",
       },
       keyframes: {
         "accordion-down": {

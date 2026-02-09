@@ -132,7 +132,7 @@ function ComparisonCard({ exercise, label }: { exercise: Exercise; label: string
   const slug = slugify(exercise.name);
 
   return (
-    <div className="angular-border bg-surface-1 overflow-hidden">
+    <div className="rounded-[20px] border border-border bg-surface-1 overflow-hidden">
       <div className="p-4 bg-surface-2 border-b border-border-subtle">
         <span className="text-xs font-barlow uppercase tracking-wider text-text-tertiary">
           {label}
@@ -332,7 +332,7 @@ export default async function ComparisonPage({ params }: ComparisonPageProps) {
           <h2 className="font-barlow-condensed text-2xl md:text-3xl font-bold uppercase mb-6">
             Quick Comparison
           </h2>
-          <div className="angular-border bg-surface-0 overflow-hidden">
+          <div className="rounded-[20px] border border-border bg-surface-0 overflow-hidden">
             <ComparisonTable exercise1={exercise1} exercise2={exercise2} />
           </div>
         </div>
@@ -346,7 +346,7 @@ export default async function ComparisonPage({ params }: ComparisonPageProps) {
           </h2>
           <div className="space-y-6 max-w-3xl">
             {faqs.map((faq, i) => (
-              <div key={i} className="angular-border bg-surface-1 p-6">
+              <div key={i} className="rounded-[20px] border border-border bg-surface-1 p-6">
                 <h3 className="font-barlow-condensed text-lg font-bold mb-3">{faq.question}</h3>
                 <p className="font-barlow text-text-secondary">{faq.answer}</p>
               </div>
@@ -367,13 +367,7 @@ export default async function ComparisonPage({ params }: ComparisonPageProps) {
           </p>
           <Link
             href="/?scrollTo=waitlist"
-            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground angular-border hover:[--angular-bg:hsl(var(--forge-orange-dark))] transition-colors"
-            style={
-              {
-                "--angular-bg": "hsl(var(--primary))",
-                "--angular-border-color": "hsl(var(--primary))",
-              } as React.CSSProperties
-            }
+            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground rounded-[14px] bg-primary border border-primary hover:bg-forge-orange-dark transition-colors"
           >
             <span>Join the Waitlist</span>
           </Link>

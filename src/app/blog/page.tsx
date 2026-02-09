@@ -84,7 +84,7 @@ export default function BlogPage() {
                 <Link
                   key={topic.slug}
                   href={`/topics/${topic.slug}`}
-                  className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide text-text-secondary hover:text-primary angular-border-sm [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--border))] hover:[--angular-border-color:hsl(var(--primary))] transition-colors"
+                  className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide text-text-secondary hover:text-primary rounded-[10px] border border-border bg-surface-2 hover:border-primary transition-colors"
                 >
                   <span className="relative z-10">{topic.name}</span>
                 </Link>
@@ -100,11 +100,11 @@ export default function BlogPage() {
               {posts.map((post) => (
                 <article
                   key={post.slug}
-                  className="group angular-border [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--border))] card-neon transition-all duration-300 hover:[--angular-border-color:hsl(var(--primary)/0.5)]"
+                  className="group rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 hover:border-primary/50"
                 >
                   <Link href={`/blog/${post.slug}`} className="block p-6">
                     {post.category && (
-                      <span className="inline-block px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider angular-border-sm [--angular-bg:hsl(var(--primary)/0.1)] [--angular-border-color:hsl(var(--primary)/0.3)] mb-4">
+                      <span className="inline-block px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider rounded-[10px] border border-primary/30 bg-primary/10 mb-4">
                         <span className="relative z-10">
                           {topics.find((t) => t.relatedCategories.includes(post.category!))?.name ||
                             post.category}

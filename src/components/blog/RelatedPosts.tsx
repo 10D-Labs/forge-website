@@ -54,7 +54,7 @@ const RelatedPostCard = ({ post }: RelatedPostCardProps) => {
     <motion.article variants={fadeInUp}>
       <Link
         href={`/blog/${post.slug}`}
-        className="group block p-5 angular-border card-neon transition-all duration-300 hover:[&::before]:bg-primary/50 h-full"
+        className="group block p-5 rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 h-full"
       >
         <time
           dateTime={post.date}

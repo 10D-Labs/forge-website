@@ -168,27 +168,21 @@ export default function AboutPage() {
               {founders.map((founder) => (
                 <article
                   key={founder.name}
-                  className="p-8 angular-border [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--primary)/0.25)] text-center"
+                  className="p-8 rounded-[20px] border border-primary/25 bg-surface-2 text-center"
                   itemScope
                   itemType="https://schema.org/Person"
                   itemProp="employee"
                 >
                   <div
-                    className="w-32 h-32 mx-auto mb-6 p-[1px]"
+                    className="w-32 h-32 mx-auto mb-6 p-[1px] rounded-[20px]"
                     style={{
                       background: "hsl(24 100% 50% / 0.4)",
-                      clipPath:
-                        "polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px))",
                     }}
                   >
                     <Image
                       src={founder.image}
                       alt={`${founder.name} - ${founder.role} at Forge AI Fitness`}
-                      className="w-full h-full object-cover"
-                      style={{
-                        clipPath:
-                          "polygon(0 0, calc(100% - 15px) 0, 100% 15px, 100% 100%, 15px 100%, 0 calc(100% - 15px))",
-                      }}
+                      className="w-full h-full object-cover rounded-[19px]"
                       width={128}
                       height={128}
                       itemProp="image"
@@ -240,7 +234,7 @@ export default function AboutPage() {
                 {values.map((value) => (
                   <article key={value.title} role="listitem">
                     <div
-                      className="w-14 h-14 mx-auto mb-4 angular-border-sm [--angular-bg:hsl(var(--surface-2))] [--angular-border-color:hsl(var(--primary)/0.3)] flex items-center justify-center"
+                      className="w-14 h-14 mx-auto mb-4 rounded-[10px] border border-primary/30 bg-surface-2 flex items-center justify-center"
                       aria-hidden="true"
                     >
                       <value.icon className="w-7 h-7 text-primary relative z-10 icon-neon" />
