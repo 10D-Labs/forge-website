@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "fix-muscle-imbalances-complete-guide",
+    title: "How to fix muscle imbalances: complete guide",
+    date: "2026-02-09",
+    excerpt: "One side stronger than the other? Learn what causes muscle imbalances, when they become a problem, and the exact training protocol to fix them.",
+    author: "The Forge Team",
+    keywords: ["muscle imbalance", "unilateral training", "muscle asymmetry", "fix muscle imbalance", "one arm stronger than the other"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "junk-volume-explained",
     title: "Junk volume: why more sets don't always mean more gains",
     date: "2026-02-08",
