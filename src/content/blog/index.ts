@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-breathe-during-weightlifting",
+    title: "How to Breathe During Weightlifting: Complete Guide",
+    date: "2026-02-10",
+    excerpt: "Master breathing techniques for lifting: Learn the Valsalva maneuver, when to breathe during squats and deadlifts, and how proper breathing boosts performance and protects your spine.",
+    author: "The Forge Team",
+    keywords: ["breathing during weightlifting", "valsalva maneuver", "how to breathe while lifting", "breathing technique squats", "breathing technique deadlift"],
+    category: "exercise-technique"
+  },
+  {
     slug: "fix-muscle-imbalances-complete-guide",
     title: "How to fix muscle imbalances: complete guide",
     date: "2026-02-09",
