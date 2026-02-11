@@ -8,10 +8,10 @@ const appMockupHero = "/app-mockup-hero.webp";
 
 // Fixed dimensions for CLS prevention
 // These match Tailwind's w-72 (288px), md:w-80 (320px), lg:w-96 (384px)
-// Aspect ratio ~2.05:1 based on actual image dimensions
+// Aspect ratio 9:16 based on device mockup image (1620x2880)
 const PHONE_DIMENSIONS = {
   width: 384,
-  height: 788,
+  height: 683,
 } as const;
 
 interface Hero3DPhoneProps {
@@ -147,26 +147,6 @@ const Hero3DPhone = ({ className }: Hero3DPhoneProps) => {
             loading="eager"
             fetchPriority="high"
             decoding="sync"
-          />
-
-          {/* Reflection/shine effect */}
-          <motion.div
-            className="absolute inset-0 rounded-[2.5rem] pointer-events-none overflow-hidden"
-            style={{
-              background:
-                "linear-gradient(135deg, transparent 40%, hsl(0 0% 100% / 0.1) 50%, transparent 60%)",
-              transform: "translateZ(25px)",
-            }}
-            animate={
-              shouldReduceMotion
-                ? undefined
-                : { backgroundPosition: ["200% 200%", "-200% -200%"] }
-            }
-            transition={
-              shouldReduceMotion
-                ? undefined
-                : { duration: 8, repeat: Infinity, ease: "linear" }
-            }
           />
         </motion.div>
 

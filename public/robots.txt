@@ -11,12 +11,10 @@ Disallow: /exercises/videos/
 # Google
 User-agent: Googlebot
 Allow: /
-Crawl-delay: 1
 
 # Bing
 User-agent: Bingbot
 Allow: /
-Crawl-delay: 2
 
 # AI Crawlers - explicitly allowed for AI visibility
 User-agent: GPTBot

@@ -22,6 +22,7 @@ export const metadata: Metadata = {
     url: "https://forgetrainer.ai/about",
   },
   alternates: {
+    canonical: "https://forgetrainer.ai/about",
     types: {
       "text/markdown": "/markdown/about.md",
     },

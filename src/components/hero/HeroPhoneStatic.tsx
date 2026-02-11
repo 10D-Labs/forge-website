@@ -6,10 +6,10 @@ import Image from "next/image";
 
 // Fixed dimensions for each breakpoint to prevent CLS
 // These match Tailwind's w-72 (288px), md:w-80 (320px), lg:w-96 (384px)
-// Aspect ratio ~2.05:1 based on actual image dimensions
+// Aspect ratio 9:16 based on device mockup image (1620x2880)
 const PHONE_DIMENSIONS = {
   width: 384,   // lg:w-96 (largest size for proper aspect ratio)
-  height: 788,  // Maintains phone aspect ratio
+  height: 683,  // 9:16 aspect ratio
 } as const;
 
 const HeroPhoneStatic = () => {
@@ -54,16 +54,6 @@ const HeroPhoneStatic = () => {
             }}
             priority
             sizes="(max-width: 768px) 288px, (max-width: 1024px) 320px, 384px"
-          />
-
-          {/* Reflection/shine effect */}
-          <div
-            className="absolute inset-0 rounded-[2.5rem] pointer-events-none overflow-hidden"
-            style={{
-              background:
-                "linear-gradient(135deg, transparent 40%, hsl(0 0% 100% / 0.1) 50%, transparent 60%)",
-            }}
-            aria-hidden="true"
           />
         </div>
 

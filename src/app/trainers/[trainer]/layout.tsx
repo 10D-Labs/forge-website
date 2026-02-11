@@ -35,6 +35,7 @@ export async function generateMetadata({
       ],
     },
     alternates: {
+      canonical: `https://forgetrainer.ai/trainers/${trainerSlug}`,
       types: {
         "text/markdown": `/markdown/trainers/${trainerSlug}.md`,
       },
