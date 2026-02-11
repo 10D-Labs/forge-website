@@ -54,12 +54,6 @@ export function generateExerciseMetadata(exercise: Exercise): Metadata {
       description,
       url: `${BASE_URL}/exercise/${slug}`,
       type: "article",
-      images: [
-        {
-          url: `${BASE_URL}/exercises/gifs/${exercise.id}.gif`,
-          alt: `${exercise.name} demonstration`,
-        },
-      ],
     },
     twitter: {
       card: "summary_large_image",

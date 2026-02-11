@@ -52,21 +52,12 @@ export const metadata: Metadata = {
     title: "Forge - Build The Body You've Always Wanted",
     description:
       "Ready to transform? Forge combines AI coaching with expert guidance to help you build strength, confidence, and the body you've always wanted.",
-    images: [
-      {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
-        alt: "Forge - AI Personal Trainer",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Forge - Build The Body You've Always Wanted",
     description:
       "Ready to transform? Forge combines AI coaching with expert guidance to help you build strength, confidence, and the body you've always wanted.",
-    images: ["/og-image.png"],
   },
   robots: {
     index: true,
