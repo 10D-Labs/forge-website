@@ -1,10 +1,9 @@
-# Smith Low Bar Squat - Forge Exercise Library
+# Smith Low Bar Squat
 
-## Quick Answer
+## Quick answer
 
-The smith low bar squat is a compound lower body exercise performed on a smith machine, targeting the glutes as the primary muscle group, with secondary emphasis on the quadriceps, hamstrings, and calves. The smith machine provides stability, making it accessible for those learning squat mechanics while still offering a challenging strength workout.
+The smith low bar squat is a compound lower body exercise performed on a smith machine, targeting the glutes as the primary muscle group, with secondary emphasis on the quadriceps, hamstrings, and calves. The smith machine provides stability, making it accessible for those learning squat mechanics while still offering a challenging strength workout. Intermediate legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
-**Details:**
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
 - **Target Muscle:** Glutes
@@ -14,7 +13,7 @@ The smith low bar squat is a compound lower body exercise performed on a smith m
 
 ---
 
-## How to Perform Smith Low Bar Squat
+## How to perform
 
 1. Set up the smith machine with the barbell at a height that allows you to comfortably rest it on your upper back.
 2. Stand with your feet shoulder-width apart, toes slightly turned outwards.
@@ -28,23 +27,46 @@ The smith low bar squat is a compound lower body exercise performed on a smith m
 10. Drive through your heels to stand back up, extending your hips and knees.
 11. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Position the bar lower across your rear deltoids and upper back, not on top of your traps like a high bar squat.
+- Create a wider stance (slightly outside shoulder width) and push your hips back more than you would with a high bar position.
+- Lean your torso forward slightly more than a high bar squat to keep the bar over your midfoot.
+
+## Common mistakes
+
+- Placing the bar too high on the traps, which negates the benefits of the low bar position.
+- Keeping the torso too upright, which forces the knees too far forward and reduces posterior chain engagement.
+- Not pushing the hips back enough, missing the increased glute and hamstring activation that low bar provides.
+
+## FAQ
+
+### What is the advantage of low bar vs high bar squat?
+
+Low bar positions the bar lower on the back, which allows you to lean forward more and engage more glutes and hamstrings. Most people can lift more weight with low bar.
+
+### Is the Smith machine low bar squat good for building glutes?
+
+Yes. The hip-dominant movement pattern of low bar combined with the Smith machine's stability makes it effective for loading the glutes safely.
+
+### How do I find the right bar position on my back?
+
+Squeeze your shoulder blades together to create a muscular shelf on your rear delts. The bar should sit on this shelf, about 2-3 inches below where a high bar squat would place it.
+
+### What muscles does the Smith Low Bar Squat work?
+
+The Smith Low Bar Squat primarily targets the glutes, with secondary activation in the quadriceps, hamstrings, calves. It's classified as a strength exercise for the legs.
+
+### Is the Smith Low Bar Squat good for beginners?
+
+The Smith Low Bar Squat is rated as intermediate. Beginners should build a base of glutes strength with easier variations first.
+
+## Related exercises
+
+- [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
+- [More Smith Machine Exercises](https://forgetrainer.ai/exercises/equipment/smith-machine)
+- [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Legs Exercises](https://forgetrainer.ai/exercises/legs)**
-- **[More Smith Machine Exercises](https://forgetrainer.ai/exercises/equipment/smith-machine)**
-- **[More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)**
-
----
-
-## Master Smith Low Bar Squat with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Smith Low Bar Squat and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

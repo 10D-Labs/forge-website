@@ -23,7 +23,7 @@
 - **Barbell Standing Twist** — Beginner | Body Part: Core
 - **Landmine 180** — Intermediate | Body Part: Core
 
-### Body Weight (81 exercises)
+### Body Weight (80 exercises)
 
 - **Crunch Floor** — Beginner | Body Part: Core
 - **Three Quarter Situp** — Beginner | Body Part: Core
@@ -42,7 +42,6 @@
 - **Weighted Russian Twist** — Intermediate | Body Part: Core
 - **Weighted Hanging Leg Hip Raise** — Advanced | Body Part: Core
 - **Reverse Crunch** — Beginner | Body Part: Core
-- **Weighted Front Plank** — Intermediate | Body Part: Core
 - **Potty Squat** — Beginner | Body Part: Core
 - **Quarter Situp** — Beginner | Body Part: Core
 - **Half Situp** — Beginner | Body Part: Core
@@ -155,6 +154,10 @@
 - **Band Seated Twist** — Beginner | Body Part: Core
 - **Band V-up** — Intermediate | Body Part: Core
 - **Band Vertical Pallof Press** — Beginner | Body Part: Core
+
+### Weight Plate (1 exercise)
+
+- **Weighted Front Plank** — Intermediate | Body Part: Core
 
 ---
 

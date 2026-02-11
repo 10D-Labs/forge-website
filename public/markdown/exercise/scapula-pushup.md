@@ -1,10 +1,9 @@
-# Scapula Pushup - Forge Exercise Library
+# Scapula Pushup
 
-## Quick Answer
+## Quick answer
 
-The scapula pushup is a bodyweight exercise that targets the serratus anterior and helps improve scapular mobility and stability. It is performed in a high plank position, focusing on the movement of the shoulder blades rather than the elbows.
+The scapula pushup is a bodyweight exercise that targets the serratus anterior and helps improve scapular mobility and stability. It is performed in a high plank position, focusing on the movement of the shoulder blades rather than the elbows. Beginner core exercise using body weight. Targets serratus, also works triceps, shoulders.
 
-**Details:**
 - **Body Part:** Core
 - **Equipment:** Body Weight
 - **Target Muscle:** Serratus
@@ -14,7 +13,7 @@ The scapula pushup is a bodyweight exercise that targets the serratus anterior a
 
 ---
 
-## How to Perform Scapula Pushup
+## How to perform
 
 1. Start in a high plank position with your hands directly under your shoulders and your body in a straight line.
 2. Lower your chest towards the ground, keeping your elbows close to your body.
@@ -22,23 +21,46 @@ The scapula pushup is a bodyweight exercise that targets the serratus anterior a
 4. Pause for a moment at the bottom, then push back up to the starting position.
 5. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Keep your arms completely straight; the movement comes only from your shoulder blades, not elbow bending.
+- At the top, push the floor away aggressively to protract your scapulae and round your upper back.
+- At the bottom, let your chest sink between your shoulder blades to achieve full retraction.
+
+## Common mistakes
+
+- Bending the elbows and performing a regular Pushup instead of keeping arms locked and moving only the scapulae.
+- Not achieving full range of protraction and retraction, which limits serratus anterior and rhomboid activation.
+- Rushing through reps. Each rep should take 3-4 seconds to move through the full scapular range.
+
+## FAQ
+
+### What is the difference between a Scapula Pushup and a regular Pushup?
+
+In a Scapula Pushup, the arms never bend. The entire movement is the shoulder blades spreading apart (protraction) and squeezing together (retraction), targeting the serratus anterior.
+
+### Why should I do Scapula Pushups?
+
+They strengthen the serratus anterior and improve scapular stability, which is essential for healthy shoulders and better performance in all pressing and overhead movements.
+
+### How many Scapula Pushups should I do?
+
+Aim for 3 sets of 15-20 reps. These work well as part of a warm-up before upper body training.
+
+### What muscles does the Scapula Pushup work?
+
+The Scapula Pushup primarily targets the serratus, with secondary activation in the triceps, shoulders. It's classified as a mobility exercise for the core.
+
+### Is the Scapula Pushup good for beginners?
+
+Yes, the Scapula Pushup is rated as a beginner-level exercise. It's a great starting point for building serratus strength.
+
+## Related exercises
+
+- [More Core Exercises](https://forgetrainer.ai/exercises/core)
+- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Serratus Exercises](https://forgetrainer.ai/exercises/muscle/serratus)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Core Exercises](https://forgetrainer.ai/exercises/core)**
-- **[More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)**
-- **[More Serratus Exercises](https://forgetrainer.ai/exercises/muscle/serratus)**
-
----
-
-## Master Scapula Pushup with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Scapula Pushup and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

@@ -2,6 +2,8 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import type { BlogCategory } from "@/types/content";
+import type { Exercise } from "@/types/exercise";
+import { getAllExercises, slugify } from "@/lib/exercises";
 
 export interface BlogPostMeta {
   slug: string;
@@ -135,4 +137,63 @@ export function getAllCategories(): string[] {
     }
   });
   return Array.from(categories);
+}
+
+/**
+ * Get exercises related to a blog post based on keyword matching
+ */
+export function getRelatedExercisesForPost(
+  post: BlogPostMeta,
+  limit: number = 6
+): Exercise[] {
+  const allExercises = getAllExercises();
+
+  const postText = [
+    post.title.toLowerCase(),
+    post.excerpt?.toLowerCase() ?? "",
+    ...(post.keywords?.map((k) => k.toLowerCase()) ?? []),
+  ].join(" ");
+
+  const scored = allExercises.map((exercise) => {
+    let score = 0;
+
+    // Exercise name words found in post text
+    const nameWords = exercise.name.toLowerCase().split(/\s+/);
+    for (const word of nameWords) {
+      if (word.length > 3 && postText.includes(word)) {
+        score += 3;
+      }
+    }
+
+    // Target muscle mentioned in post
+    if (postText.includes(exercise.target.toLowerCase())) {
+      score += 4;
+    }
+
+    // Body part mentioned in post
+    if (postText.includes(exercise.bodyPart.toLowerCase())) {
+      score += 2;
+    }
+
+    // Equipment mentioned in post
+    if (postText.includes(exercise.equipment.toLowerCase())) {
+      score += 2;
+    }
+
+    // Category relevance
+    if (post.category === "exercise-technique" && exercise.category === "Strength") {
+      score += 1;
+    }
+
+    // Boost popular exercises so we show the most useful ones
+    score += (exercise.popularity - 1) * 0.5;
+
+    return { exercise, score };
+  });
+
+  return scored
+    .filter((s) => s.score >= 4)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map((s) => s.exercise);
 }

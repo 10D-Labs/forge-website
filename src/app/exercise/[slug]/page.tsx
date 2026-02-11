@@ -5,13 +5,18 @@ import {
   getAllExercises,
   getExerciseBySlug,
   getRelatedExercises,
+  getRelatedBlogPosts,
+  generateDynamicFAQs,
   slugify,
   getExerciseVideoUrl,
 } from "@/lib/exercises";
+import { getAllPosts } from "@/lib/blog";
+import { getExerciseEnrichment } from "@/data/exercise-enrichment";
 import { generateExerciseMetadata } from "@/lib/seo/metadata-factory";
 import {
   generateExerciseHowToSchema,
   generateExerciseBreadcrumbs,
+  generateFAQSchema,
   SchemaScript,
 } from "@/lib/seo/schema-generators";
 import { ExerciseDetail, RelatedExercises } from "@/components/exercises";
@@ -53,6 +58,20 @@ export default async function ExercisePage({ params }: ExercisePageProps) {
   const howToSchema = generateExerciseHowToSchema(exercise);
   const breadcrumbSchema = generateExerciseBreadcrumbs(exercise);
 
+  // Enrichment data
+  const enrichment = getExerciseEnrichment(slug);
+  const dynamicFaqs = generateDynamicFAQs(exercise);
+
+  // FAQ schema uses only enrichment FAQs (unique per exercise).
+  // Dynamic FAQs are shown on the page but excluded from schema
+  // to avoid templated-content signals across 923 pages.
+  const enrichmentFaqItems = (enrichment?.faqs ?? []).map((f) => ({ question: f.q, answer: f.a }));
+  const faqSchema = enrichmentFaqItems.length > 0 ? generateFAQSchema(enrichmentFaqItems) : null;
+
+  // Related blog posts
+  const allPosts = getAllPosts();
+  const relatedArticles = getRelatedBlogPosts(exercise, allPosts, 3);
+
   const videoUrl = getExerciseVideoUrl(exercise);
 
   return (
@@ -61,6 +80,7 @@ export default async function ExercisePage({ params }: ExercisePageProps) {
       <link rel="preload" as="video" href={videoUrl} />
       <SchemaScript schema={howToSchema} />
       <SchemaScript schema={breadcrumbSchema} />
+      {faqSchema && <SchemaScript schema={faqSchema} />}
 
       <main className="pt-20">
         {/* Header */}
@@ -105,7 +125,12 @@ export default async function ExercisePage({ params }: ExercisePageProps) {
         </header>
 
         {/* Exercise Detail */}
-        <ExerciseDetail exercise={exercise} />
+        <ExerciseDetail
+          exercise={exercise}
+          enrichment={enrichment}
+          dynamicFaqs={dynamicFaqs}
+          relatedArticles={relatedArticles}
+        />
 
         {/* Related Exercises */}
         <RelatedExercises

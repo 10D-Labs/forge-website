@@ -1,10 +1,9 @@
-# Cable Standing Twist Row - Forge Exercise Library
+# Cable Standing Twist Row
 
-## Quick Answer
+## Quick answer
 
-The cable standing twist row is a compound exercise that targets the upper back while also engaging the bicep and shoulders. It incorporates a twisting motion, which adds a rotational component to the traditional row, enhancing core engagement and coordination.
+The cable standing twist row is a compound exercise that targets the upper back while also engaging the bicep and shoulders. It incorporates a twisting motion, which adds a rotational component to the traditional row, enhancing core engagement and coordination. Intermediate back exercise using cable. Targets upper back, also works biceps, shoulders.
 
-**Details:**
 - **Body Part:** Back
 - **Equipment:** Cable
 - **Target Muscle:** Upper Back
@@ -14,7 +13,7 @@ The cable standing twist row is a compound exercise that targets the upper back 
 
 ---
 
-## How to Perform Cable Standing Twist Row
+## How to perform
 
 1. Attach a V bar attachment to a cable machine at chest height.
 2. Stand facing the cable machine with your feet shoulder-width apart.
@@ -27,23 +26,42 @@ The cable standing twist row is a compound exercise that targets the upper back 
 9. Slowly release the tension and return to the starting position, untwisting your torso.
 10. Repeat the movement for the desired number of repetitions, alternating the twisting direction with each rep.
 
+## Pro tips
+
+- Pull the V-bar toward your torso while rotating to one side, squeezing the shoulder blade on the rotating side for a combined row and twist movement.
+- Keep your feet firmly planted and generate the rotation from your thoracic spine, not your lumbar spine or hips.
+- Alternate the twist direction each rep to work both sides of the upper back and obliques evenly.
+
+## Common mistakes
+
+- Twisting at the lower back instead of the thoracic spine, which can cause lumbar strain and reduces upper back engagement.
+- Using too much weight and losing the twist component, turning this into a standard cable row.
+- Not alternating sides, which creates an imbalance between your left and right upper back.
+
+## FAQ
+
+### What does the Cable Standing Twist Row work?
+
+The upper back muscles (rhomboids, middle traps, rear delts) through the row, and the obliques and core through the twist. It is a compound movement that trains multiple functions simultaneously.
+
+### Is the Cable Standing Twist Row good for core training?
+
+Yes, the rotational component engages the obliques and deep core stabilizers alongside the upper back. It is a time-efficient exercise that trains both pulling and rotation.
+
+### What muscles does the Cable Standing Twist Row work?
+
+The Cable Standing Twist Row primarily targets the upper back, with secondary activation in the biceps, shoulders. It's classified as a strength exercise for the back.
+
+### Is the Cable Standing Twist Row good for beginners?
+
+The Cable Standing Twist Row is rated as intermediate. Beginners should build a base of upper back strength with easier variations first.
+
+## Related exercises
+
+- [More Back Exercises](https://forgetrainer.ai/exercises/back)
+- [More Cable Exercises](https://forgetrainer.ai/exercises/equipment/cable)
+- [More Upper Back Exercises](https://forgetrainer.ai/exercises/muscle/upper-back)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Back Exercises](https://forgetrainer.ai/exercises/back)**
-- **[More Cable Exercises](https://forgetrainer.ai/exercises/equipment/cable)**
-- **[More Upper Back Exercises](https://forgetrainer.ai/exercises/muscle/upper-back)**
-
----
-
-## Master Cable Standing Twist Row with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Cable Standing Twist Row and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

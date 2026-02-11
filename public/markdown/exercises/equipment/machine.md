@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-79 machine exercises. Guided, safe resistance training. Ideal for beginners learning movement patterns or advanced lifters isolating muscles.
+77 machine exercises. Guided, safe resistance training. Ideal for beginners learning movement patterns or advanced lifters isolating muscles.
 
 ---
 
@@ -43,11 +43,6 @@
 - **Unilateral Row** — Beginner | Target: Upper Back
 - **Single Arm Lateral High Row** — Intermediate | Target: Upper Back
 - **Pullover** — Beginner | Target: Lats
-
-### Cardio (2 exercises)
-
-- **Walking on Incline Treadmill** — Beginner | Target: Cardiovascular
-- **Stationary Bike Walk** — Beginner | Target: Cardiovascular
 
 ### Chest (7 exercises)
 

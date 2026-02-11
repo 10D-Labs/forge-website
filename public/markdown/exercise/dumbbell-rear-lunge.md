@@ -1,10 +1,9 @@
-# Dumbbell Rear Lunge - Forge Exercise Library
+# Dumbbell Rear Lunge
 
-## Quick Answer
+## Quick answer
 
-The dumbbell rear lunge is a lower body exercise that targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves stepping backward into a lunge while holding dumbbells, challenging balance and unilateral leg strength.
+The dumbbell rear lunge is a lower body exercise that targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves stepping backward into a lunge while holding dumbbells, challenging balance and unilateral leg strength. Intermediate legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
-**Details:**
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
 - **Target Muscle:** Glutes
@@ -14,7 +13,7 @@ The dumbbell rear lunge is a lower body exercise that targets the glutes, with s
 
 ---
 
-## How to Perform Dumbbell Rear Lunge
+## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
 2. Take a step backward with your right foot, lowering your body into a lunge position.
@@ -22,23 +21,46 @@ The dumbbell rear lunge is a lower body exercise that targets the glutes, with s
 4. Pause for a moment, then push through your left heel to return to the starting position.
 5. Repeat on the other side, stepping back with your left foot.
 
+## Pro tips
+
+- Step straight back, not diagonally, and lower until your back knee nearly touches the floor for full glute and quad activation.
+- Keep your front shin relatively vertical with the knee stacked over the ankle to protect the knee joint.
+- Push through the heel of your front foot to return to standing, which emphasizes the glutes.
+
+## Common mistakes
+
+- Stepping back too short a distance, which forces the front knee past the toes and increases knee stress.
+- Leaning the torso forward excessively during the lunge, which shifts load off the glutes and onto the lower back.
+- Letting the front knee collapse inward, which stresses the MCL and meniscus.
+
+## FAQ
+
+### Are reverse lunges better than Forward Lunges?
+
+Reverse lunges are generally easier to balance and put less stress on the front knee because you decelerate with the back leg. They are often recommended for beginners or those with knee issues.
+
+### What muscles does the Dumbbell Rear Lunge target?
+
+Primarily the glutes and quadriceps, with secondary work from the hamstrings, calves, and core stabilizers.
+
+### Should I alternate legs or do all reps on one side?
+
+Both work. Alternating is more balanced for coordination. Doing all reps on one side creates more metabolic fatigue in that leg, which can be better for muscle growth.
+
+### What muscles does the Dumbbell Rear Lunge work?
+
+The Dumbbell Rear Lunge primarily targets the glutes, with secondary activation in the quadriceps, hamstrings, calves. It's classified as a strength exercise for the legs.
+
+### Is the Dumbbell Rear Lunge good for beginners?
+
+The Dumbbell Rear Lunge is rated as intermediate. Beginners should build a base of glutes strength with easier variations first.
+
+## Related exercises
+
+- [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
+- [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
+- [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Legs Exercises](https://forgetrainer.ai/exercises/legs)**
-- **[More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)**
-- **[More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)**
-
----
-
-## Master Dumbbell Rear Lunge with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Dumbbell Rear Lunge and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

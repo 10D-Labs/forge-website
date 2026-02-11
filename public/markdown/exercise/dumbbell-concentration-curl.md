@@ -1,10 +1,9 @@
-# Dumbbell Concentration Curl - Forge Exercise Library
+# Dumbbell Concentration Curl
 
-## Quick Answer
+## Quick answer
 
-The dumbbell concentration curl is an isolation exercise targeting the bicep, performed while seated with the working arm braced against the inner thigh for strict form.
+The dumbbell concentration curl is an isolation exercise targeting the bicep, performed while seated with the working arm braced against the inner thigh for strict form. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
-**Details:**
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
 - **Target Muscle:** Biceps
@@ -14,7 +13,7 @@ The dumbbell concentration curl is an isolation exercise targeting the bicep, pe
 
 ---
 
-## How to Perform Dumbbell Concentration Curl
+## How to perform
 
 1. Sit on a bench with your legs spread apart and a dumbbell in one hand, resting your elbow on the inside of your thigh.
 2. Fully extend your arm and hold the dumbbell with an underhand grip.
@@ -24,23 +23,42 @@ The dumbbell concentration curl is an isolation exercise targeting the bicep, pe
 6. Inhale and slowly lower the dumbbell back to the starting position.
 7. Repeat for the desired number of repetitions, then switch arms.
 
+## Pro tips
+
+- Sit on a bench with your legs spread, and brace the back of your working arm against your inner thigh. This eliminates all body momentum.
+- Curl the dumbbell slowly and squeeze at the top for 2 seconds. The braced position makes this one of the best exercises for bicep peak isolation.
+- Lower the dumbbell all the way to full arm extension. The full stretch at the bottom under load is where the bicep grows.
+
+## Common mistakes
+
+- Leaning the torso forward and using the shoulder to swing the dumbbell up, rather than isolating the bicep.
+- Not bracing the arm firmly against the thigh, which allows the elbow to move and reduces isolation.
+- Using too much weight, which forces compensating movements and defeats the isolation purpose of this exercise.
+
+## FAQ
+
+### Are concentration curls good for bicep peak?
+
+Yes, EMG research shows concentration curls produce the highest bicep activation of any curl variation. The braced position eliminates all cheating, forcing the bicep to do 100% of the work.
+
+### Should I do concentration curls heavy or light?
+
+Use moderate weight with strict form. This is an isolation exercise, not a strength movement. If you cannot control the weight through the full range of motion without moving your body, it is too heavy.
+
+### What muscles does the Dumbbell Concentration Curl work?
+
+The Dumbbell Concentration Curl primarily targets the biceps, with secondary activation in the forearms. It's classified as a strength exercise for the arms.
+
+### Is the Dumbbell Concentration Curl good for beginners?
+
+Yes, the Dumbbell Concentration Curl is rated as a beginner-level exercise. It's a great starting point for building biceps strength.
+
+## Related exercises
+
+- [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
+- [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
+- [More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Arms Exercises](https://forgetrainer.ai/exercises/arms)**
-- **[More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)**
-- **[More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)**
-
----
-
-## Master Dumbbell Concentration Curl with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Dumbbell Concentration Curl and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

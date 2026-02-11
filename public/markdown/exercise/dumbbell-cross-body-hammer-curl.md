@@ -1,10 +1,9 @@
-# Dumbbell Cross Body Hammer Curl - Forge Exercise Library
+# Dumbbell Cross Body Hammer Curl
 
-## Quick Answer
+## Quick answer
 
-The dumbbell cross body hammer curl is an isolation exercise targeting the bicep and forearms, performed by curling dumbbells across the body toward the opposite shoulder.
+The dumbbell cross body hammer curl is an isolation exercise targeting the bicep and forearms, performed by curling dumbbells across the body toward the opposite shoulder. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
-**Details:**
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
 - **Target Muscle:** Biceps
@@ -14,7 +13,7 @@ The dumbbell cross body hammer curl is an isolation exercise targeting the bicep
 
 ---
 
-## How to Perform Dumbbell Cross Body Hammer Curl
+## How to perform
 
 1. Stand up straight with a dumbbell in each hand, palms facing your body.
 2. Keep your elbows close to your torso and your upper arms stationary.
@@ -24,23 +23,42 @@ The dumbbell cross body hammer curl is an isolation exercise targeting the bicep
 6. Inhale and slowly begin to lower the dumbbells back to the starting position.
 7. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Curl the dumbbell across your body toward the opposite shoulder rather than straight up. This cross-body path targets the brachialis more than a standard hammer curl.
+- Keep your elbow pinned at your side and do not let it drift forward. Only the forearm should move.
+- Use a neutral grip (palms facing your body) throughout the entire movement. Do not rotate the wrist.
+
+## Common mistakes
+
+- Curling straight up instead of across the body, which turns this into a standard hammer curl and misses the brachialis emphasis.
+- Swinging the body to generate momentum for the cross-body motion.
+- Letting the elbow move forward, which uses the front delt to assist the curl.
+
+## FAQ
+
+### What is the difference between cross body hammer curls and regular hammer curls?
+
+Cross body hammer curls bring the dumbbell across the body, which places more emphasis on the brachialis (the muscle under the bicep that pushes it up). Regular hammer curls target the brachioradialis and outer bicep more.
+
+### Do cross body hammer curls build bigger arms?
+
+Yes, by targeting the brachialis, which sits between the bicep and tricep, cross body hammer curls add width to the upper arm. The brachialis also pushes the bicep peak up, making the arm appear larger.
+
+### What muscles does the Dumbbell Cross Body Hammer Curl work?
+
+The Dumbbell Cross Body Hammer Curl primarily targets the biceps, with secondary activation in the forearms. It's classified as a strength exercise for the arms.
+
+### Is the Dumbbell Cross Body Hammer Curl good for beginners?
+
+Yes, the Dumbbell Cross Body Hammer Curl is rated as a beginner-level exercise. It's a great starting point for building biceps strength.
+
+## Related exercises
+
+- [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
+- [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
+- [More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Arms Exercises](https://forgetrainer.ai/exercises/arms)**
-- **[More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)**
-- **[More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)**
-
----
-
-## Master Dumbbell Cross Body Hammer Curl with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Dumbbell Cross Body Hammer Curl and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

@@ -1,10 +1,9 @@
-# Standing Archer - Forge Exercise Library
+# Standing Archer
 
-## Quick Answer
+## Quick answer
 
-The standing archer is a bodyweight exercise that targets the upper back and involves rotational movement of the torso, mimicking the motion of drawing a bowstring. It also engages the shoulders, bicep, and forearms.
+The standing archer is a bodyweight exercise that targets the upper back and involves rotational movement of the torso, mimicking the motion of drawing a bowstring. It also engages the shoulders, bicep, and forearms. Beginner back exercise using body weight. Targets upper back, also works shoulders, biceps, forearms.
 
-**Details:**
 - **Body Part:** Back
 - **Equipment:** Body Weight
 - **Target Muscle:** Upper Back
@@ -14,7 +13,7 @@ The standing archer is a bodyweight exercise that targets the upper back and inv
 
 ---
 
-## How to Perform Standing Archer
+## How to perform
 
 1. Stand with your feet shoulder-width apart and your knees slightly bent.
 2. Extend your arms straight out in front of you at shoulder height, parallel to the ground.
@@ -24,23 +23,46 @@ The standing archer is a bodyweight exercise that targets the upper back and inv
 6. Repeat the motion, this time rotating your torso to the left and extending your left arm forward and your right arm back.
 7. Continue alternating sides for the desired number of repetitions.
 
+## Pro tips
+
+- Focus on rotating through your thoracic spine (upper back) while keeping your hips square and facing forward.
+- Pull the trailing arm back as if drawing a bow to fully engage the rear deltoid and rhomboids.
+- Move slowly and deliberately, holding the end position for 1-2 seconds before returning to center.
+
+## Common mistakes
+
+- Rotating from the hips and lower back instead of isolating the rotation to the thoracic spine.
+- Not pulling the trailing arm back far enough, missing the scapular retraction benefit.
+- Straightening the knees and standing rigidly instead of maintaining a slight knee bend for stability.
+
+## FAQ
+
+### What is the Standing Archer exercise good for?
+
+It improves thoracic spine rotation, shoulder mobility, and upper back activation. It's especially useful for people who sit at desks all day and have limited spinal rotation.
+
+### When should I do this exercise?
+
+It works well as a warm-up before upper body workouts, as a movement break during desk work, or as part of a mobility routine.
+
+### How many reps should I do?
+
+8-12 per side, moving slowly. This is a mobility exercise, not a strength exercise, so quality of movement matters more than rep count.
+
+### What muscles does the Standing Archer work?
+
+The Standing Archer primarily targets the upper back, with secondary activation in the shoulders, biceps, forearms. It's classified as a mobility exercise for the back.
+
+### Is the Standing Archer good for beginners?
+
+Yes, the Standing Archer is rated as a beginner-level exercise. It's a great starting point for building upper back strength.
+
+## Related exercises
+
+- [More Back Exercises](https://forgetrainer.ai/exercises/back)
+- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Upper Back Exercises](https://forgetrainer.ai/exercises/muscle/upper-back)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Back Exercises](https://forgetrainer.ai/exercises/back)**
-- **[More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)**
-- **[More Upper Back Exercises](https://forgetrainer.ai/exercises/muscle/upper-back)**
-
----
-
-## Master Standing Archer with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Standing Archer and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

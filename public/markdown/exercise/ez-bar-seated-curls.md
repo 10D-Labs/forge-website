@@ -1,10 +1,9 @@
-# EZ Bar Seated Curls - Forge Exercise Library
+# EZ Bar Seated Curls
 
-## Quick Answer
+## Quick answer
 
-The EZ bar seated curl is an isolation exercise targeting the bicep, performed while seated to minimize body movement and focus on the arms. It uses an EZ bar, which is easier on the wrists than a straight bar.
+The EZ bar seated curl is an isolation exercise targeting the bicep, performed while seated to minimize body movement and focus on the arms. It uses an EZ bar, which is easier on the wrists than a straight bar. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
-**Details:**
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
 - **Target Muscle:** Biceps
@@ -14,7 +13,7 @@ The EZ bar seated curl is an isolation exercise targeting the bicep, performed w
 
 ---
 
-## How to Perform EZ Bar Seated Curls
+## How to perform
 
 1. Sit on a bench with your feet flat on the ground and your back straight.
 2. Hold the ez barbell with an underhand grip, palms facing up, and your hands shoulder-width apart.
@@ -24,23 +23,46 @@ The EZ bar seated curl is an isolation exercise targeting the bicep, performed w
 6. Inhale and slowly lower the ez barbell back to the starting position.
 7. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Sit upright with your back flat against the bench to eliminate momentum and keep all the tension on your biceps.
+- Use the inner angled grips of the EZ bar to reduce wrist strain while still getting full bicep contraction.
+- Lower the bar slowly for a 3-second eccentric to maximize muscle fiber recruitment on every rep.
+
+## Common mistakes
+
+- Leaning back and using your torso to swing the bar up, which takes tension off the biceps.
+- Letting the elbows drift forward during the curl, which shifts work to the front deltoids.
+- Cutting the range of motion short by not fully extending the arms at the bottom of each rep.
+
+## FAQ
+
+### Why use an EZ bar instead of a straight bar for seated curls?
+
+The angled grips of the EZ bar place your wrists in a more natural semi-supinated position, reducing strain on the wrists and forearms while still effectively targeting the biceps.
+
+### Should I rest my arms on my thighs during seated EZ Bar Curls?
+
+Yes, resting your upper arms on your thighs acts like a preacher pad, stabilizing your arms and preventing cheating. This isolates the biceps more effectively.
+
+### How heavy should I go on EZ Bar Seated Curls?
+
+Choose a weight where you can complete 8-12 reps with strict form. Since the seated position removes momentum, you'll likely use less weight than standing curls.
+
+### What muscles does the EZ Bar Seated Curls work?
+
+The EZ Bar Seated Curls primarily targets the biceps, with secondary activation in the forearms. It's classified as a strength exercise for the arms.
+
+### Is the EZ Bar Seated Curls good for beginners?
+
+Yes, the EZ Bar Seated Curls is rated as a beginner-level exercise. It's a great starting point for building biceps strength.
+
+## Related exercises
+
+- [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
+- [More EZ Bar Exercises](https://forgetrainer.ai/exercises/equipment/ez-bar)
+- [More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Arms Exercises](https://forgetrainer.ai/exercises/arms)**
-- **[More EZ Bar Exercises](https://forgetrainer.ai/exercises/equipment/ez-bar)**
-- **[More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)**
-
----
-
-## Master EZ Bar Seated Curls with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring EZ Bar Seated Curls and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

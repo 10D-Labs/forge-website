@@ -2,19 +2,24 @@
 
 ## Quick Answer
 
-5 cardio machine exercises. Boost your endurance and burn calories. Build cardiovascular fitness with treadmills, bikes, and more.
+10 cardio machine exercises. Boost your endurance and burn calories. Build cardiovascular fitness with treadmills, bikes, and more.
 
 ---
 
 ## All Cardio Machine Exercises by Body Part
 
-### Cardio (5 exercises)
+### Cardio (10 exercises)
 
+- **Stationary Bike Walk** — Beginner | Target: Cardiovascular
 - **Assault Bike** — Beginner | Target: Cardiovascular
-- **Hands Bike** — Beginner | Target: Cardiovascular
-- **Elliptical** — Beginner | Target: Cardiovascular
-- **Ski Ergometer** — Beginner | Target: Cardiovascular
-- **Stairmaster** — Beginner | Target: Cardiovascular
+- **Hands Bike (Time)** — Beginner | Target: Cardiovascular
+- **Elliptical (Time)** — Beginner | Target: Cardiovascular
+- **Ski Ergometer (Time)** — Beginner | Target: Cardiovascular
+- **Stairmaster (Time)** — Beginner | Target: Cardiovascular
+- **Stairmaster (Distance)** — Beginner | Target: Cardiovascular
+- **Elliptical (Distance)** — Beginner | Target: Cardiovascular
+- **Ski Ergometer (Distance)** — Beginner | Target: Cardiovascular
+- **Hands Bike (Distance)** — Beginner | Target: Cardiovascular
 
 ---
 

@@ -24,7 +24,7 @@
 - **Barbell Standing Twist** — Beginner | Target: Abs
 - **Landmine 180** — Intermediate | Target: Abs
 
-### Body Weight (83 exercises)
+### Body Weight (82 exercises)
 
 - **Crunch Floor** — Beginner | Target: Abs
 - **Three Quarter Situp** — Beginner | Target: Abs
@@ -43,7 +43,6 @@
 - **Weighted Russian Twist** — Intermediate | Target: Abs
 - **Weighted Hanging Leg Hip Raise** — Advanced | Target: Abs
 - **Reverse Crunch** — Beginner | Target: Abs
-- **Weighted Front Plank** — Intermediate | Target: Abs
 - **Decline Scapula Push Up** — Beginner | Target: Serratus
 - **Scapula Pushup** — Beginner | Target: Serratus
 - **Potty Squat** — Beginner | Target: Abs
@@ -163,6 +162,10 @@
 ### Smith Machine (1 exercise)
 
 - **Smith Incline Shoulder Raises** — Intermediate | Target: Serratus
+
+### Weight Plate (1 exercise)
+
+- **Weighted Front Plank** — Intermediate | Target: Abs
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-197 dumbbell exercises. Versatile strength training for balanced muscle. Fix imbalances and train anywhere from home to the gym.
+199 dumbbell exercises. Versatile strength training for balanced muscle. Fix imbalances and train anywhere from home to the gym.
 
 ---
 
@@ -105,9 +105,10 @@
 - **Dumbbell Reverse Grip Incline Bench Arm Row** — Intermediate | Target: Upper Back
 - **Dumbbell Side Plank with Rear Fly** — Advanced | Target: Upper Back
 
-### Cardio (1 exercise)
+### Cardio (2 exercises)
 
 - **Dumbbell Burpee** — Advanced | Target: Cardiovascular
+- **Dumbbell Burpee (Time)** — Advanced | Target: Cardiovascular
 
 ### Chest (25 exercises)
 
@@ -142,7 +143,7 @@
 - **Dumbbell Incline Shoulder Raise** — Intermediate | Target: Serratus
 - **Dumbbell Side Bend** — Beginner | Target: Abs
 
-### Legs (27 exercises)
+### Legs (28 exercises)
 
 - **Dumbbell Lunge** — Intermediate | Target: Glutes
 - **Dumbbell Bench Squat** — Beginner | Target: Glutes
@@ -156,10 +157,11 @@
 - **Dumbbell Seated Calf Raise** — Beginner | Target: Calves
 - **Dumbbell Romanian Deadlift** — Intermediate | Target: Glutes
 - **Dumbbell Goblet Squat** — Beginner | Target: Quads
-- **Farmers Walk** — Beginner | Target: Quads
+- **Farmers Walk (Time)** — Beginner | Target: Quads
 - **Dumbbell Stepup Lunge** — Intermediate | Target: Quads
 - **Dumbbell Supported Squat** — Beginner | Target: Quads
 - **Dumbbell Contralateral Forward Lunge** — Intermediate | Target: Glutes
+- **Farmers Walk (Distance)** — Beginner | Target: Quads
 - **Dumbbell Clean** — Intermediate | Target: Glutes
 - **Dumbbell Lying Hamstring Curl** — Beginner | Target: Hamstrings
 - **Dumbbell Plyo Squat** — Advanced | Target: Glutes

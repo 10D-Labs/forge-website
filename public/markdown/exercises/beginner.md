@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-437 beginner-level exercises. Perfect for those new to fitness or returning after a break. These exercises focus on fundamental movement patterns with lower complexity.
+448 beginner-level exercises. Perfect for those new to fitness or returning after a break. These exercises focus on fundamental movement patterns with lower complexity.
 
 ---
 
@@ -205,25 +205,35 @@
 - **Bodyweight Standing Single Arm Row** — Body Weight | Target: Upper Back
 - **Bodyweight Towel Standing Row** — Body Weight | Target: Upper Back
 
-### Cardio (17 exercises)
+### Cardio (27 exercises)
 
+- **Run (Time)** — Body Weight | Target: Cardiovascular
+- **Run (Distance)** — Body Weight | Target: Cardiovascular
 - **Mountain Climber** — Body Weight | Target: Cardiovascular
-- **Jump Rope** — Body Weight | Target: Cardiovascular
+- **Treadmill Run (Time)** — Treadmill | Target: Cardiovascular
+- **Jump Rope** — Jump Rope | Target: Cardiovascular
 - **Walking High Knees Lunge** — Body Weight | Target: Cardiovascular
-- **Walking on Incline Treadmill** — Machine | Target: Cardiovascular
-- **Treadmill Run** — Body Weight | Target: Cardiovascular
-- **Run** — Body Weight | Target: Cardiovascular
-- **Stationary Bike Walk** — Machine | Target: Cardiovascular
+- **Walking on Incline Treadmill (Time)** — Treadmill | Target: Cardiovascular
+- **Treadmill Run (Distance)** — Treadmill | Target: Cardiovascular
+- **Walking on Incline Treadmill (Distance)** — Treadmill | Target: Cardiovascular
+- **Mountain Climber (Time)** — Body Weight | Target: Cardiovascular
+- **Jump Rope (Time)** — Jump Rope | Target: Cardiovascular
+- **Stationary Bike Walk** — Cardio Machine | Target: Cardiovascular
 - **Assault Bike** — Cardio Machine | Target: Cardiovascular
 - **Half Knee Bends** — Body Weight | Target: Cardiovascular
 - **High Knee Against Wall** — Body Weight | Target: Cardiovascular
-- **Short Stride Run** — Body Weight | Target: Cardiovascular
+- **Short Stride Run (Time)** — Body Weight | Target: Cardiovascular
 - **Ski Step** — Body Weight | Target: Cardiovascular
 - **Back and Forth Step** — Body Weight | Target: Cardiovascular
-- **Hands Bike** — Cardio Machine | Target: Cardiovascular
-- **Elliptical** — Cardio Machine | Target: Cardiovascular
-- **Ski Ergometer** — Cardio Machine | Target: Cardiovascular
-- **Stairmaster** — Cardio Machine | Target: Cardiovascular
+- **Short Stride Run (Distance)** — Body Weight | Target: Cardiovascular
+- **Hands Bike (Time)** — Cardio Machine | Target: Cardiovascular
+- **Elliptical (Time)** — Cardio Machine | Target: Cardiovascular
+- **Ski Ergometer (Time)** — Cardio Machine | Target: Cardiovascular
+- **Stairmaster (Time)** — Cardio Machine | Target: Cardiovascular
+- **Stairmaster (Distance)** — Cardio Machine | Target: Cardiovascular
+- **Elliptical (Distance)** — Cardio Machine | Target: Cardiovascular
+- **Ski Ergometer (Distance)** — Cardio Machine | Target: Cardiovascular
+- **Hands Bike (Distance)** — Cardio Machine | Target: Cardiovascular
 
 ### Chest (23 exercises)
 
@@ -300,7 +310,7 @@
 - **Band Seated Twist** — Resistance Band | Target: Abs
 - **Band Vertical Pallof Press** — Resistance Band | Target: Abs
 
-### Legs (114 exercises)
+### Legs (115 exercises)
 
 - **Leg Extension** — Machine | Target: Quads
 - **Lying Leg Curl** — Machine | Target: Hamstrings
@@ -338,7 +348,7 @@
 - **Staircase Calf Raise** — Body Weight | Target: Calves
 - **Squat to Overhead Reach** — Body Weight | Target: Quads
 - **Dumbbell Goblet Squat** — Dumbbell | Target: Quads
-- **Farmers Walk** — Dumbbell | Target: Quads
+- **Farmers Walk (Time)** — Dumbbell | Target: Quads
 - **Split Squats** — Body Weight | Target: Quads
 - **Dumbbell Supported Squat** — Dumbbell | Target: Quads
 - **Low Glute Bridge on Floor** — Body Weight | Target: Glutes
@@ -349,6 +359,7 @@
 - **Glute Bridge Two Legs on Bench** — Body Weight | Target: Glutes
 - **Bodyweight Squat** — Body Weight | Target: Quads
 - **Curtsey Squat** — Body Weight | Target: Glutes
+- **Farmers Walk (Distance)** — Dumbbell | Target: Quads
 - **Barbell Hip Thrust** — Barbell | Target: Glutes
 - **Bench Kickback** — Body Weight | Target: Glutes
 - **Circles Knee Stretch** — Body Weight | Target: Calves

@@ -4,7 +4,8 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeSlug from "rehype-slug";
 import Link from "next/link";
-import { getAllPosts, getPostBySlug, getRelatedPosts } from "@/lib/blog";
+import { getAllPosts, getPostBySlug, getRelatedPosts, getRelatedExercisesForPost } from "@/lib/blog";
+import { slugify } from "@/lib/exercises";
 import StructuredData from "@/components/StructuredData";
 import { topics } from "@/content/topics";
 
@@ -66,6 +67,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
   }
 
   const relatedPosts = getRelatedPosts(slug, 3);
+  const relatedExercises = getRelatedExercisesForPost(post, 6);
   const wordCount = post.content.split(/\s+/).length;
 
   return (
@@ -244,6 +246,52 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                           </span>
                         </Link>
                       </article>
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {/* Related Exercises */}
+              {relatedExercises.length > 0 && (
+                <section
+                  className="mt-12 pt-12 border-t border-border-subtle"
+                  aria-labelledby="related-exercises-heading"
+                >
+                  <h2
+                    id="related-exercises-heading"
+                    className="font-barlow-condensed text-2xl font-bold uppercase tracking-wide mb-8"
+                  >
+                    Related Exercises
+                  </h2>
+
+                  <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+                    {relatedExercises.map((exercise) => (
+                      <Link
+                        key={exercise.id}
+                        href={`/exercise/${slugify(exercise.name)}`}
+                        className="group block p-4 rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 hover:border-primary/50"
+                      >
+                        <h3 className="font-barlow-condensed text-base font-bold uppercase tracking-wide group-hover:text-primary transition-colors line-clamp-1">
+                          {exercise.name}
+                        </h3>
+                        <div className="flex items-center gap-3 mt-2 text-xs font-barlow text-text-tertiary">
+                          <span className="text-primary">{exercise.target}</span>
+                          <span className="w-1 h-1 rounded-full bg-text-quaternary" />
+                          <span>{exercise.equipment}</span>
+                          <span className="w-1 h-1 rounded-full bg-text-quaternary" />
+                          <span
+                            className={
+                              exercise.difficulty === "Beginner"
+                                ? "text-success"
+                                : exercise.difficulty === "Advanced"
+                                ? "text-error"
+                                : ""
+                            }
+                          >
+                            {exercise.difficulty}
+                          </span>
+                        </div>
+                      </Link>
                     ))}
                   </div>
                 </section>

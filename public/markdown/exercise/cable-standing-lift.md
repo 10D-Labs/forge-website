@@ -1,10 +1,9 @@
-# Cable Standing Lift - Forge Exercise Library
+# Cable Standing Lift
 
-## Quick Answer
+## Quick answer
 
-The cable standing lift is an exercise targeting the abdominal muscles, especially the obliques and lower back, by using a cable machine to perform a rotational lifting movement.
+The cable standing lift is an exercise targeting the abdominal muscles, especially the obliques and lower back, by using a cable machine to perform a rotational lifting movement. Intermediate core exercise using cable. Targets abs, also works obliques, lower back.
 
-**Details:**
 - **Body Part:** Core
 - **Equipment:** Cable
 - **Target Muscle:** Abs
@@ -14,7 +13,7 @@ The cable standing lift is an exercise targeting the abdominal muscles, especial
 
 ---
 
-## How to Perform Cable Standing Lift
+## How to perform
 
 1. Stand facing the cable machine with your feet shoulder-width apart.
 2. Hold the cable handle with both hands and position it at waist height.
@@ -23,23 +22,42 @@ The cable standing lift is an exercise targeting the abdominal muscles, especial
 5. Pause for a moment at the top, then inhale and slowly lower the cable handle back to the starting position.
 6. Repeat for the desired number of repetitions, then switch sides.
 
+## Pro tips
+
+- Start with the cable at a low position and lift diagonally across your body to the opposite shoulder. This is essentially a reverse wood chop pattern.
+- Rotate through your hips and core, not just your arms. Your arms should stay relatively straight and act as levers for the trunk rotation.
+- Pivot your back foot as you rotate upward to allow full hip rotation and protect your knees.
+
+## Common mistakes
+
+- Lifting with the arms and shoulders instead of rotating through the core, which defeats the purpose of this rotational ab exercise.
+- Keeping the feet planted flat, which limits rotational range and can stress the knees and lower back.
+- Rounding the back during the lift instead of maintaining a tall, neutral spine throughout.
+
+## FAQ
+
+### What is the difference between a Cable Standing Lift and a cable wood chop?
+
+A standing lift moves from low to high (lifting pattern), while a wood chop moves from high to low (chopping pattern). They target the same muscles (obliques, abs, and core) but from opposite directions.
+
+### What muscles does the Cable Standing Lift work?
+
+Primarily the obliques and rectus abdominis through the rotational lifting pattern. Secondary muscles include the hip rotators, lower back, and shoulders as stabilizers.
+
+### What muscles does the Cable Standing Lift work?
+
+The Cable Standing Lift primarily targets the abs, with secondary activation in the obliques, lower back. It's classified as a strength exercise for the core.
+
+### Is the Cable Standing Lift good for beginners?
+
+The Cable Standing Lift is rated as intermediate. Beginners should build a base of abs strength with easier variations first.
+
+## Related exercises
+
+- [More Core Exercises](https://forgetrainer.ai/exercises/core)
+- [More Cable Exercises](https://forgetrainer.ai/exercises/equipment/cable)
+- [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Core Exercises](https://forgetrainer.ai/exercises/core)**
-- **[More Cable Exercises](https://forgetrainer.ai/exercises/equipment/cable)**
-- **[More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)**
-
----
-
-## Master Cable Standing Lift with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Cable Standing Lift and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

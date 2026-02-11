@@ -2,15 +2,15 @@
 
 ## Quick Answer
 
-27 effective leg exercises you can do with dumbbell. Complete instructions and form tips included.
+28 effective leg exercises you can do with dumbbell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 11 Beginner | 13 Intermediate | 3 Advanced
+**Difficulty breakdown:** 12 Beginner | 13 Intermediate | 3 Advanced
 
 ---
 
 ## All Leg Dumbbell Exercises
 
-### Beginner (11 exercises)
+### Beginner (12 exercises)
 
 - **Dumbbell Bench Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Dumbbell Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
@@ -18,8 +18,9 @@
 - **Dumbbell Standing Calf Raise** — Target: Calves | Secondary: Ankles
 - **Dumbbell Seated Calf Raise** — Target: Calves | Secondary: Hamstrings
 - **Dumbbell Goblet Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
-- **Farmers Walk** — Target: Quads | Secondary: Calves, Forearms, Core
+- **Farmers Walk (Time)** — Target: Quads | Secondary: Calves, Forearms, Core
 - **Dumbbell Supported Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
+- **Farmers Walk (Distance)** — Target: Quads | Secondary: Calves, Forearms, Core
 - **Dumbbell Lying Hamstring Curl** — Target: Hamstrings | Secondary: Glutes
 - **Dumbbell Seated Single Leg Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
 - **Dumbbell Sumo Pull Through** — Target: Glutes | Secondary: Hamstrings, Quadriceps, Core

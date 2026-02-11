@@ -1,4 +1,5 @@
 import exercisesData from "@/data/exercises.json";
+import type { BlogPostMeta } from "@/lib/blog";
 import type {
   Exercise,
   BodyPart,
@@ -388,4 +389,119 @@ export function getExerciseCountsByTarget(): Record<TargetMuscle, number> {
     counts[e.target] = (counts[e.target] || 0) + 1;
   });
   return counts as Record<TargetMuscle, number>;
+}
+
+/**
+ * Get related blog posts for an exercise based on matching keywords
+ * against bodyPart, target, equipment, and exercise name
+ */
+export function getRelatedBlogPosts(
+  exercise: Exercise,
+  allPosts: BlogPostMeta[],
+  limit: number = 3
+): BlogPostMeta[] {
+  const exerciseTerms = [
+    exercise.bodyPart.toLowerCase(),
+    exercise.target.toLowerCase(),
+    exercise.equipment.toLowerCase(),
+    exercise.name.toLowerCase(),
+    exercise.category.toLowerCase(),
+    exercise.difficulty.toLowerCase(),
+    ...exercise.secondaryMuscles.map((m) => m.toLowerCase()),
+  ];
+
+  // Map general terms to exercise-relevant synonyms
+  const termExpansions: Record<string, string[]> = {
+    "chest": ["bench press", "push", "pec", "fly"],
+    "back": ["row", "pull", "lat", "deadlift"],
+    "legs": ["squat", "lunge", "leg", "quad", "hamstring", "glute"],
+    "shoulders": ["press", "raise", "delt", "overhead"],
+    "arms": ["curl", "tricep", "bicep", "extension"],
+    "core": ["ab", "crunch", "plank", "situp"],
+    "strength": ["strength training", "progressive overload", "hypertrophy"],
+    "beginner": ["beginner", "getting started", "first time"],
+  };
+
+  const scored = allPosts.map((post) => {
+    let score = 0;
+    const postText = [
+      post.title.toLowerCase(),
+      post.excerpt?.toLowerCase() ?? "",
+      ...(post.keywords?.map((k) => k.toLowerCase()) ?? []),
+      post.category?.toLowerCase() ?? "",
+    ].join(" ");
+
+    // Direct term matches
+    for (const term of exerciseTerms) {
+      if (postText.includes(term)) {
+        score += 3;
+      }
+    }
+
+    // Keyword overlap with exercise name words
+    const nameWords = exercise.name.toLowerCase().split(/\s+/);
+    for (const word of nameWords) {
+      if (word.length > 3 && postText.includes(word)) {
+        score += 2;
+      }
+    }
+
+    // Term expansion matches
+    for (const term of exerciseTerms) {
+      const expansions = termExpansions[term];
+      if (expansions) {
+        for (const expanded of expansions) {
+          if (postText.includes(expanded)) {
+            score += 1;
+          }
+        }
+      }
+    }
+
+    // Category affinity
+    if (post.category === "exercise-technique") score += 2;
+    if (post.category === "training-fundamentals") score += 1;
+
+    return { post, score };
+  });
+
+  return scored
+    .filter((s) => s.score >= 3)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map((s) => s.post);
+}
+
+/**
+ * Generate dynamic FAQ entries based on exercise data
+ */
+export function generateDynamicFAQs(
+  exercise: Exercise
+): { q: string; a: string }[] {
+  const faqs: { q: string; a: string }[] = [];
+
+  // What muscles does this exercise work?
+  const muscleList = [exercise.target, ...exercise.secondaryMuscles];
+  faqs.push({
+    q: `What muscles does the ${exercise.name} work?`,
+    a: `The ${exercise.name} primarily targets the ${exercise.target.toLowerCase()}${exercise.secondaryMuscles.length > 0 ? `, with secondary activation in the ${exercise.secondaryMuscles.join(", ").toLowerCase()}` : ""}. It's classified as a ${exercise.category.toLowerCase()} exercise for the ${exercise.bodyPart.toLowerCase()}.`,
+  });
+
+  // Beginner suitability
+  faqs.push({
+    q: `Is the ${exercise.name} good for beginners?`,
+    a: exercise.difficulty === "Beginner"
+      ? `Yes, the ${exercise.name} is rated as a beginner-level exercise. It's a great starting point for building ${exercise.target.toLowerCase()} strength${exercise.equipment !== "Body Weight" ? ` using ${exercise.equipment.toLowerCase()}` : ""}.`
+      : exercise.difficulty === "Intermediate"
+      ? `The ${exercise.name} is rated as intermediate. Beginners should build a base of ${exercise.target.toLowerCase()} strength with easier variations first before attempting this exercise.`
+      : `The ${exercise.name} is an advanced exercise. Beginners should master fundamental ${exercise.bodyPart.toLowerCase()} movements and build adequate ${exercise.target.toLowerCase()} strength before progressing to this exercise.`,
+  });
+
+  // Alternative exercises
+  faqs.push({
+    q: `What can I do instead of the ${exercise.name}?`,
+    a: `Look for other ${exercise.target.toLowerCase()} exercises${exercise.equipment !== "Body Weight" ? ` that use different equipment if ${exercise.equipment.toLowerCase()} isn't available` : ""}. Exercises targeting the same muscle group with similar movement patterns will provide comparable benefits. Check our related exercises section below for specific alternatives.`,
+  });
+
+  return faqs;
 }

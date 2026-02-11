@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-288 body weight exercises. Train anywhere, anytime. No gym required — build strength, endurance, and flexibility using just your body.
+290 body weight exercises. Train anywhere, anytime. No gym required — build strength, endurance, and flexibility using just your body.
 
 ---
 
@@ -87,23 +87,26 @@
 - **Bodyweight Standing Single Arm Row** — Beginner | Target: Upper Back
 - **Bodyweight Towel Standing Row** — Beginner | Target: Upper Back
 
-### Cardio (15 exercises)
+### Cardio (18 exercises)
 
+- **Run (Time)** — Beginner | Target: Cardiovascular
+- **Run (Distance)** — Beginner | Target: Cardiovascular
 - **Mountain Climber** — Beginner | Target: Cardiovascular
 - **Burpee** — Intermediate | Target: Cardiovascular
-- **Jump Rope** — Beginner | Target: Cardiovascular
 - **Semi Squat Jump** — Intermediate | Target: Cardiovascular
 - **Walking High Knees Lunge** — Beginner | Target: Cardiovascular
-- **Treadmill Run** — Beginner | Target: Cardiovascular
-- **Run** — Beginner | Target: Cardiovascular
+- **Mountain Climber (Time)** — Beginner | Target: Cardiovascular
+- **Burpee (Time)** — Intermediate | Target: Cardiovascular
 - **Scissor Jumps** — Intermediate | Target: Cardiovascular
 - **Half Knee Bends** — Beginner | Target: Cardiovascular
-- **Bear Crawl** — Intermediate | Target: Cardiovascular
+- **Bear Crawl (Time)** — Intermediate | Target: Cardiovascular
 - **Skater Hops** — Intermediate | Target: Cardiovascular
 - **High Knee Against Wall** — Beginner | Target: Cardiovascular
-- **Short Stride Run** — Beginner | Target: Cardiovascular
+- **Short Stride Run (Time)** — Beginner | Target: Cardiovascular
 - **Ski Step** — Beginner | Target: Cardiovascular
 - **Back and Forth Step** — Beginner | Target: Cardiovascular
+- **Short Stride Run (Distance)** — Beginner | Target: Cardiovascular
+- **Bear Crawl (Distance)** — Intermediate | Target: Cardiovascular
 
 ### Chest (31 exercises)
 
@@ -139,7 +142,7 @@
 - **Isometric Wipers** — Advanced | Target: Chest
 - **Isometric Chest Squeeze** — Beginner | Target: Chest
 
-### Core (83 exercises)
+### Core (82 exercises)
 
 - **Crunch Floor** — Beginner | Target: Abs
 - **Three Quarter Situp** — Beginner | Target: Abs
@@ -158,7 +161,6 @@
 - **Weighted Russian Twist** — Intermediate | Target: Abs
 - **Weighted Hanging Leg Hip Raise** — Advanced | Target: Abs
 - **Reverse Crunch** — Beginner | Target: Abs
-- **Weighted Front Plank** — Intermediate | Target: Abs
 - **Decline Scapula Push Up** — Beginner | Target: Serratus
 - **Scapula Pushup** — Beginner | Target: Serratus
 - **Potty Squat** — Beginner | Target: Abs

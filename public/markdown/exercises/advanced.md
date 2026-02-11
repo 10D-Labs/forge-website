@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-116 advanced-level exercises. Challenging exercises for experienced lifters. These require significant strength, mobility, or skill to perform safely.
+117 advanced-level exercises. Challenging exercises for experienced lifters. These require significant strength, mobility, or skill to perform safely.
 
 ---
 
@@ -41,9 +41,10 @@
 - **Dumbbell Side Plank with Rear Fly** — Dumbbell | Target: Upper Back
 - **Kettlebell Alternating Renegade Row** — Kettlebell | Target: Upper Back
 
-### Cardio (1 exercise)
+### Cardio (2 exercises)
 
 - **Dumbbell Burpee** — Dumbbell | Target: Cardiovascular
+- **Dumbbell Burpee (Time)** — Dumbbell | Target: Cardiovascular
 
 ### Chest (20 exercises)
 

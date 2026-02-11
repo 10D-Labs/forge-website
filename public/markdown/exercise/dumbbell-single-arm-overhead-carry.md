@@ -1,10 +1,9 @@
-# Dumbbell Single Arm Overhead Carry - Forge Exercise Library
+# Dumbbell Single Arm Overhead Carry
 
-## Quick Answer
+## Quick answer
 
-The dumbbell single arm overhead carry is a functional exercise that targets the deltoids while also engaging the traps and core. It challenges shoulder stability, core strength, and coordination as you walk while holding a dumbbell overhead.
+The dumbbell single arm overhead carry is a functional exercise that targets the deltoids while also engaging the traps and core. It challenges shoulder stability, core strength, and coordination as you walk while holding a dumbbell overhead. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, core.
 
-**Details:**
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
 - **Target Muscle:** Shoulders
@@ -14,7 +13,7 @@ The dumbbell single arm overhead carry is a functional exercise that targets the
 
 ---
 
-## How to Perform Dumbbell Single Arm Overhead Carry
+## How to perform
 
 1. Stand tall with your feet shoulder-width apart, holding a dumbbell in one hand.
 2. Raise the dumbbell overhead, fully extending your arm.
@@ -22,23 +21,46 @@ The dumbbell single arm overhead carry is a functional exercise that targets the
 4. Continue walking for the desired distance or time.
 5. Switch hands and repeat the exercise.
 
+## Pro tips
+
+- Lock out your arm fully overhead and keep your bicep close to your ear throughout the walk.
+- Resist the urge to lean away from the loaded side; stay completely upright by bracing your obliques.
+- Take short, controlled steps to maintain stability rather than long strides.
+
+## Common mistakes
+
+- Bending the arm or letting the elbow drift forward, which turns it into a more of a waiter carry.
+- Leaning the torso away from the weight to compensate, which defeats the core stability benefit.
+- Looking up at the dumbbell, which compromises neck position and walking mechanics.
+
+## FAQ
+
+### What muscles does the single-arm overhead carry work?
+
+It targets the shoulder stabilizers (rotator cuff, deltoids), the core (especially the obliques on the opposite side), and the traps. It's a full-body stability exercise.
+
+### How far should I walk with an overhead carry?
+
+Start with 20-30 yards per side. As you get stronger, increase to 40-50 yards or increase the weight.
+
+### Why carry with one arm instead of two?
+
+The asymmetric load forces your core to fight lateral flexion, building anti-lateral flexion strength that directly transfers to athletic performance and injury prevention.
+
+### What muscles does the Dumbbell Single Arm Overhead Carry work?
+
+The Dumbbell Single Arm Overhead Carry primarily targets the shoulders, with secondary activation in the traps, core. It's classified as a strength exercise for the shoulders.
+
+### Is the Dumbbell Single Arm Overhead Carry good for beginners?
+
+The Dumbbell Single Arm Overhead Carry is rated as intermediate. Beginners should build a base of shoulders strength with easier variations first.
+
+## Related exercises
+
+- [More Shoulders Exercises](https://forgetrainer.ai/exercises/shoulders)
+- [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
+- [More Shoulders Exercises](https://forgetrainer.ai/exercises/muscle/shoulders)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Shoulders Exercises](https://forgetrainer.ai/exercises/shoulders)**
-- **[More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)**
-- **[More Shoulders Exercises](https://forgetrainer.ai/exercises/muscle/shoulders)**
-
----
-
-## Master Dumbbell Single Arm Overhead Carry with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Dumbbell Single Arm Overhead Carry and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

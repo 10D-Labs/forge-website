@@ -1,10 +1,9 @@
-# Muscle Up - Forge Exercise Library
+# Muscle Up
 
-## Quick Answer
+## Quick answer
 
-The muscle up on a bar is a challenging bodyweight exercise that combines a pullup with a dip, requiring significant upper body strength, coordination, and technique. It primarily targets the lats, with secondary emphasis on the bicep, tricep, and forearms.
+The muscle up on a bar is a challenging bodyweight exercise that combines a pullup with a dip, requiring significant upper body strength, coordination, and technique. It primarily targets the lats, with secondary emphasis on the bicep, tricep, and forearms. Advanced back exercise using body weight. Targets lats, also works biceps, triceps, forearms.
 
-**Details:**
 - **Body Part:** Back
 - **Equipment:** Body Weight
 - **Target Muscle:** Lats
@@ -14,7 +13,7 @@ The muscle up on a bar is a challenging bodyweight exercise that combines a pull
 
 ---
 
-## How to Perform Muscle Up
+## How to perform
 
 1. Start by hanging from a bar with your palms facing away from you and your arms fully extended.
 2. Engage your core and pull your body up towards the bar, leading with your chest.
@@ -23,23 +22,46 @@ The muscle up on a bar is a challenging bodyweight exercise that combines a pull
 5. Pause for a moment at the top, then slowly lower yourself back down to the starting position.
 6. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Use a strong kipping or swinging motion to generate momentum for the transition phase until you build the strict pulling strength.
+- Practice the transition (getting from below the bar to above it) separately by starting from a high Pullup position on a low bar.
+- Lean slightly over the bar during the transition by pulling it toward your hips rather than your chin.
+
+## Common mistakes
+
+- Trying to pull the chin over the bar and then Pushup, instead of pulling the bar to the waist in one fluid arc.
+- Keeping the body vertical during the pull instead of leaning back slightly to create the arc needed for the transition.
+- Attempting Muscle Ups without sufficient Pullup and dip strength (you need roughly 15 strict Pullups before attempting).
+
+## FAQ
+
+### How many Pullups do I need before attempting a Muscle Up?
+
+Most coaches recommend 15 strict Pullups and 20 dips as the minimum strength base. You also need to be able to do a chest-to-bar Pullup.
+
+### What is the hardest part of a Muscle Up?
+
+The transition phase where you move from below the bar to above it. This requires pulling the bar to your hips and rotating your wrists over the bar simultaneously.
+
+### Should I learn kipping or strict Muscle Ups first?
+
+Most people learn the kipping version first since it requires less absolute strength. Once you can do 3-5 kipping Muscle Ups, work toward the strict version.
+
+### What muscles does the Muscle Up work?
+
+The Muscle Up primarily targets the lats, with secondary activation in the biceps, triceps, forearms. It's classified as a strength exercise for the back.
+
+### Is the Muscle Up good for beginners?
+
+The Muscle Up is an advanced exercise. Beginners should master fundamental back movements first.
+
+## Related exercises
+
+- [More Back Exercises](https://forgetrainer.ai/exercises/back)
+- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Back Exercises](https://forgetrainer.ai/exercises/back)**
-- **[More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)**
-- **[More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)**
-
----
-
-## Master Muscle Up with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Muscle Up and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

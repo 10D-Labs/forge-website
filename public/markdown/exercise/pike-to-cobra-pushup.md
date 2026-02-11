@@ -1,10 +1,9 @@
-# Pike to Cobra Pushup - Forge Exercise Library
+# Pike to Cobra Pushup
 
-## Quick Answer
+## Quick answer
 
-The pike to cobra pushup is a dynamic bodyweight exercise that combines elements of a pushup, pike, and cobra pose. It targets the glutes primarily, while also engaging the core, shoulders, and tricep. The movement requires transitioning between an inverted V (pike) position and a cobra pose, demanding strength, flexibility, and coordination.
+The pike to cobra pushup is a dynamic bodyweight exercise that combines elements of a pushup, pike, and cobra pose. It targets the glutes primarily, while also engaging the core, shoulders, and tricep. The movement requires transitioning between an inverted V (pike) position and a cobra pose, demanding strength, flexibility, and coordination. Advanced legs exercise using body weight. Targets glutes, also works core, shoulders, triceps.
 
-**Details:**
 - **Body Part:** Legs
 - **Equipment:** Body Weight
 - **Target Muscle:** Glutes
@@ -14,7 +13,7 @@ The pike to cobra pushup is a dynamic bodyweight exercise that combines elements
 
 ---
 
-## How to Perform Pike to Cobra Pushup
+## How to perform
 
 1. Start in a pushup position with your hands slightly wider than shoulder-width apart and your feet together.
 2. Engage your core and lift your hips up towards the ceiling, forming an inverted V shape with your body.
@@ -25,23 +24,46 @@ The pike to cobra pushup is a dynamic bodyweight exercise that combines elements
 7. Continue the movement by lowering your hips back down towards the ground, returning to the starting pushup position.
 8. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Flow smoothly from the pike (inverted V) position down into the cobra by scooping your chest close to the ground.
+- In the cobra position, press through your hands and open your chest while keeping your hips low.
+- Reverse the movement by pushing your hips up and back to return to the pike position.
+
+## Common mistakes
+
+- Keeping the hips at the same height throughout instead of truly transitioning between pike (hips high) and cobra (hips low).
+- Moving too quickly and missing the stretch benefit of both the pike and cobra positions.
+- Collapsing the lower back in the cobra position instead of actively pressing through the palms.
+
+## FAQ
+
+### What muscles does the Pike to Cobra Pushup work?
+
+It targets the shoulders and triceps in the pike phase, the chest during the scooping transition, and the lower back and hip flexors in the cobra stretch. It's a complete upper body and mobility exercise.
+
+### Is this the same as a Hindu Pushup?
+
+Very similar. The Pike to Cobra Pushup and Hindu Pushup follow the same movement pattern. Some variations differ in whether you reverse the motion or push back directly to pike.
+
+### How many reps should I do?
+
+8-12 reps for 2-3 sets. Move slowly and deliberately to get the full benefit of each position.
+
+### What muscles does the Pike to Cobra Pushup work?
+
+The Pike to Cobra Pushup primarily targets the glutes, with secondary activation in the core, shoulders, triceps. It's classified as a strength exercise for the legs.
+
+### Is the Pike to Cobra Pushup good for beginners?
+
+The Pike to Cobra Pushup is an advanced exercise. Beginners should master fundamental legs movements first.
+
+## Related exercises
+
+- [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
+- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Legs Exercises](https://forgetrainer.ai/exercises/legs)**
-- **[More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)**
-- **[More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)**
-
----
-
-## Master Pike to Cobra Pushup with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Pike to Cobra Pushup and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

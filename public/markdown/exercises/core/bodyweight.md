@@ -2,9 +2,9 @@
 
 ## Quick Answer
 
-83 effective core exercises you can do with no equipment. Complete instructions and form tips included.
+82 effective core exercises you can do with no equipment. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 36 Beginner | 24 Intermediate | 23 Advanced
+**Difficulty breakdown:** 36 Beginner | 23 Intermediate | 23 Advanced
 
 ---
 
@@ -49,7 +49,7 @@
 - **Bodyweight Incline Side Plank** — Target: Abs | Secondary: Obliques, Shoulders
 - **Alternate Heel Touchers** — Target: Abs | Secondary: Obliques
 
-### Intermediate (24 exercises)
+### Intermediate (23 exercises)
 
 - **Overhead Crunch** — Target: Abs | Secondary: Hip Flexors
 - **Decline Crunch** — Target: Abs | Secondary: Hip Flexors
@@ -59,7 +59,6 @@
 - **Weighted Crunch** — Target: Abs | Secondary: Obliques
 - **Legs Up Weighted Russian Twist** — Target: Abs | Secondary: Obliques, Hip Flexors
 - **Weighted Russian Twist** — Target: Abs | Secondary: Obliques, Lower Back
-- **Weighted Front Plank** — Target: Abs | Secondary: Shoulders, Lower Back
 - **Arms Overhead Full Situp** — Target: Abs | Secondary: Hip Flexors, Lower Back
 - **Power Point Plank** — Target: Abs | Secondary: Shoulders, Triceps, Glutes
 - **Weighted Decline Situp** — Target: Abs | Secondary: Hip Flexors, Lower Back

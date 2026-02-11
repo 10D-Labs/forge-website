@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-356 intermediate-level exercises. For regular gym-goers ready to progress. These exercises require good form and moderate strength or coordination.
+358 intermediate-level exercises. For regular gym-goers ready to progress. These exercises require good form and moderate strength or coordination.
 
 ---
 
@@ -117,13 +117,15 @@
 - **Kettlebell Alternating Row** — Kettlebell | Target: Upper Back
 - **Kettlebell Single Arm Row** — Kettlebell | Target: Upper Back
 
-### Cardio (5 exercises)
+### Cardio (7 exercises)
 
 - **Burpee** — Body Weight | Target: Cardiovascular
 - **Semi Squat Jump** — Body Weight | Target: Cardiovascular
+- **Burpee (Time)** — Body Weight | Target: Cardiovascular
 - **Scissor Jumps** — Body Weight | Target: Cardiovascular
-- **Bear Crawl** — Body Weight | Target: Cardiovascular
+- **Bear Crawl (Time)** — Body Weight | Target: Cardiovascular
 - **Skater Hops** — Body Weight | Target: Cardiovascular
+- **Bear Crawl (Distance)** — Body Weight | Target: Cardiovascular
 
 ### Chest (44 exercises)
 
@@ -192,7 +194,7 @@
 - **Weighted Russian Twist** — Body Weight | Target: Abs
 - **Cable Up Down Twist** — Cable | Target: Abs
 - **Cable Reverse Crunch** — Cable | Target: Abs
-- **Weighted Front Plank** — Body Weight | Target: Abs
+- **Weighted Front Plank** — Weight Plate | Target: Abs
 - **Cable Seated Twist** — Cable | Target: Abs
 - **Arms Overhead Full Situp** — Body Weight | Target: Abs
 - **Power Point Plank** — Body Weight | Target: Abs

@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-237 exercises targeting your legs. Build strength and muscle with exercises organized by equipment type.
+238 exercises targeting your legs. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
@@ -148,7 +148,7 @@
 - **Cable Standing Calf Raise** — Beginner | Target: Calves
 - **Cable Pull Through** — Intermediate | Target: Glutes
 
-### Dumbbell (27 exercises)
+### Dumbbell (28 exercises)
 
 - **Dumbbell Lunge** — Intermediate | Target: Glutes
 - **Dumbbell Bench Squat** — Beginner | Target: Glutes
@@ -162,10 +162,11 @@
 - **Dumbbell Seated Calf Raise** — Beginner | Target: Calves
 - **Dumbbell Romanian Deadlift** — Intermediate | Target: Glutes
 - **Dumbbell Goblet Squat** — Beginner | Target: Quads
-- **Farmers Walk** — Beginner | Target: Quads
+- **Farmers Walk (Time)** — Beginner | Target: Quads
 - **Dumbbell Stepup Lunge** — Intermediate | Target: Quads
 - **Dumbbell Supported Squat** — Beginner | Target: Quads
 - **Dumbbell Contralateral Forward Lunge** — Intermediate | Target: Glutes
+- **Farmers Walk (Distance)** — Beginner | Target: Quads
 - **Dumbbell Clean** — Intermediate | Target: Glutes
 - **Dumbbell Lying Hamstring Curl** — Beginner | Target: Hamstrings
 - **Dumbbell Plyo Squat** — Advanced | Target: Glutes

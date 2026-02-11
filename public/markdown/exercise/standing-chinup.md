@@ -1,10 +1,9 @@
-# Standing Chinup - Forge Exercise Library
+# Standing Chinup
 
-## Quick Answer
+## Quick answer
 
-The assisted standing chinup is a machine-based exercise that helps users perform chinup with added support, making it easier to build strength in the lats, bicep, and forearms. The machine reduces the amount of body weight lifted, allowing for proper form and gradual progression.
+The assisted standing chinup is a machine-based exercise that helps users perform chinup with added support, making it easier to build strength in the lats, bicep, and forearms. The machine reduces the amount of body weight lifted, allowing for proper form and gradual progression. Beginner back exercise using machine. Targets lats, also works biceps, forearms.
 
-**Details:**
 - **Body Part:** Back
 - **Equipment:** Machine
 - **Target Muscle:** Lats
@@ -14,7 +13,7 @@ The assisted standing chinup is a machine-based exercise that helps users perfor
 
 ---
 
-## How to Perform Standing Chinup
+## How to perform
 
 1. Adjust the machine to your desired assistance level.
 2. Stand on the foot platform and grip the handles with an overhand grip, slightly wider than shoulder-width apart.
@@ -24,23 +23,46 @@ The assisted standing chinup is a machine-based exercise that helps users perfor
 6. Pause for a moment at the top, then slowly lower your body back down to the starting position.
 7. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Adjust the assistance to a level where you can complete 8-12 reps with good form but the last 2-3 reps are challenging.
+- Use a supinated (palms toward you) grip and pull your elbows down toward your ribs to maximize lat and biceps engagement.
+- Control the lowering phase for 2-3 seconds rather than just dropping back to the start position.
+
+## Common mistakes
+
+- Setting the assistance too high, making the exercise too easy to stimulate muscle growth.
+- Leaning back excessively instead of pulling vertically, which turns it into a row-like movement.
+- Not going through a full range of motion by stopping short of getting the chin above the handles.
+
+## FAQ
+
+### What is a Standing Chinup machine?
+
+It is an Assisted Pullup/Chinup machine where you stand on a platform that provides counterweight assistance, making the exercise accessible for people who cannot yet do unassisted Chinups.
+
+### How do I progress from the assisted machine to unassisted Chinups?
+
+Gradually reduce the assistance weight by 5-10 pounds each week. Once you are using less than 20% of your bodyweight in assistance, try unassisted Chinups.
+
+### Is the standing version different from the kneeling version?
+
+The mechanics are the same. Standing machines use a foot platform while kneeling machines use a knee pad. Both provide counterweight assistance. Use whichever your gym has.
+
+### What muscles does the Standing Chinup work?
+
+The Standing Chinup primarily targets the lats, with secondary activation in the biceps, forearms. It's classified as a strength exercise for the back.
+
+### Is the Standing Chinup good for beginners?
+
+Yes, the Standing Chinup is rated as a beginner-level exercise. It's a great starting point for building lats strength.
+
+## Related exercises
+
+- [More Back Exercises](https://forgetrainer.ai/exercises/back)
+- [More Machine Exercises](https://forgetrainer.ai/exercises/equipment/machine)
+- [More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Back Exercises](https://forgetrainer.ai/exercises/back)**
-- **[More Machine Exercises](https://forgetrainer.ai/exercises/equipment/machine)**
-- **[More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)**
-
----
-
-## Master Standing Chinup with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Standing Chinup and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

@@ -1,10 +1,9 @@
-# Dumbbell Incline Shoulder Raise - Forge Exercise Library
+# Dumbbell Incline Shoulder Raise
 
-## Quick Answer
+## Quick answer
 
-The dumbbell incline shoulder raise targets the serratus anterior and also works the deltoids and trapezius. It is performed on an incline bench and involves raising dumbbells above the head while maintaining control and proper form.
+The dumbbell incline shoulder raise targets the serratus anterior and also works the deltoids and trapezius. It is performed on an incline bench and involves raising dumbbells above the head while maintaining control and proper form. Intermediate core exercise using dumbbell. Targets serratus, also works shoulders, trapezius.
 
-**Details:**
 - **Body Part:** Core
 - **Equipment:** Dumbbell
 - **Target Muscle:** Serratus
@@ -14,32 +13,55 @@ The dumbbell incline shoulder raise targets the serratus anterior and also works
 
 ---
 
-## How to Perform Dumbbell Incline Shoulder Raise
+## How to perform
 
 1. Set an incline bench to a 45 degree angle and sit on it with a dumbbell in each hand, palms facing down.
 2. Rest the dumbbells on your thighs and lean back onto the bench.
 3. Use your thighs to help raise the dumbbells to shoulder height, then rotate your wrists so that your palms are facing forward.
 4. Exhale and slowly raise the dumbbells above your head, keeping a slight bend in your elbows.
-5. Pause for a moment at the top, then inhale and slowly lower the dumbbells back to shoulder height.
+5. Move the dumbbells up and down by moving only your shoulders.
 6. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Focus on moving through the shoulder joint only, keeping the arms relatively fixed, to target the serratus anterior effectively.
+- Push your shoulder blades forward (protract) at the top of the movement to fully engage the serratus muscle.
+- Use light weight and prioritize the mind-muscle connection with the serratus rather than chasing heavy loads.
+
+## Common mistakes
+
+- Turning this into a standard overhead press by bending and extending the elbows, which shifts work to the deltoids and triceps.
+- Using too heavy a weight, making it impossible to isolate the scapular movement that targets the serratus anterior.
+- Failing to protract the shoulder blades at the top, which is the key action that activates the serratus.
+
+## FAQ
+
+### What does the Dumbbell Incline Shoulder Raise work?
+
+It primarily targets the serratus anterior, the muscle along your ribs that stabilizes your shoulder blade. Secondary work hits the shoulders and upper traps.
+
+### Why is the serratus anterior important to train?
+
+A strong serratus prevents shoulder blade winging, improves overhead pressing stability, and reduces the risk of shoulder impingement injuries.
+
+### How much weight should I use for incline shoulder raises?
+
+Start very light, around 5-10 lbs per hand. This is an isolation movement for a small stabilizer muscle, not a strength exercise.
+
+### What muscles does the Dumbbell Incline Shoulder Raise work?
+
+The Dumbbell Incline Shoulder Raise primarily targets the serratus, with secondary activation in the shoulders, trapezius. It's classified as a strength exercise for the core.
+
+### Is the Dumbbell Incline Shoulder Raise good for beginners?
+
+The Dumbbell Incline Shoulder Raise is rated as intermediate. Beginners should build a base of serratus strength with easier variations first.
+
+## Related exercises
+
+- [More Core Exercises](https://forgetrainer.ai/exercises/core)
+- [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
+- [More Serratus Exercises](https://forgetrainer.ai/exercises/muscle/serratus)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Core Exercises](https://forgetrainer.ai/exercises/core)**
-- **[More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)**
-- **[More Serratus Exercises](https://forgetrainer.ai/exercises/muscle/serratus)**
-
----
-
-## Master Dumbbell Incline Shoulder Raise with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Dumbbell Incline Shoulder Raise and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

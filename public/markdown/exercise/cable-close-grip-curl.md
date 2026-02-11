@@ -1,10 +1,9 @@
-# Cable Close Grip Curl - Forge Exercise Library
+# Cable Close Grip Curl
 
-## Quick Answer
+## Quick answer
 
-The cable close grip curl is an isolation exercise targeting the bicep using a cable machine. It involves curling a straight bar attached to a low pulley with a close grip, emphasizing the bicep and forearms.
+The cable close grip curl is an isolation exercise targeting the bicep using a cable machine. It involves curling a straight bar attached to a low pulley with a close grip, emphasizing the bicep and forearms. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
-**Details:**
 - **Body Part:** Arms
 - **Equipment:** Cable
 - **Target Muscle:** Biceps
@@ -14,7 +13,7 @@ The cable close grip curl is an isolation exercise targeting the bicep using a c
 
 ---
 
-## How to Perform Cable Close Grip Curl
+## How to perform
 
 1. Attach a straight bar to a low pulley cable machine.
 2. Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.
@@ -25,23 +24,46 @@ The cable close grip curl is an isolation exercise targeting the bicep using a c
 7. Inhale and slowly lower the bar back to the starting position, fully extending your arms.
 8. Repeat for the desired number of repetitions.
 
+## Pro tips
+
+- Stand about 12 inches from the cable stack to keep constant tension on the biceps throughout the entire range of motion.
+- Use a shoulder-width or slightly narrower grip on the straight bar for the close-grip variation.
+- Lean forward slightly at the start to prevent the weight stack from bottoming out at the bottom of the rep.
+
+## Common mistakes
+
+- Standing too close to the machine, which causes the cable to lose tension at the bottom of each rep.
+- Using the shoulders to lift the bar by letting the elbows swing forward.
+- Leaning back excessively at the top of the curl, using body English instead of bicep contraction.
+
+## FAQ
+
+### Are Cable Curls better than dumbbell curls?
+
+Cables provide constant tension throughout the range of motion, while dumbbells have a dead spot at the top and bottom. Both are effective, and combining them covers all angles.
+
+### What bar attachment is best for Cable Close Grip Curls?
+
+A straight bar or short EZ bar attachment works best for close-grip curls. The straight bar gives maximum supination; the EZ bar is easier on the wrists.
+
+### Should I do Cable Curls at the beginning or end of my arm workout?
+
+Cables work great as a finishing exercise after heavy barbell or dumbbell curls, as the constant tension provides an intense pump for the final sets.
+
+### What muscles does the Cable Close Grip Curl work?
+
+The Cable Close Grip Curl primarily targets the biceps, with secondary activation in the forearms. It's classified as a strength exercise for the arms.
+
+### Is the Cable Close Grip Curl good for beginners?
+
+Yes, the Cable Close Grip Curl is rated as a beginner-level exercise. It's a great starting point for building biceps strength.
+
+## Related exercises
+
+- [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
+- [More Cable Exercises](https://forgetrainer.ai/exercises/equipment/cable)
+- [More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)
+
 ---
 
-## Browse Related Exercises
-
-- **[More Arms Exercises](https://forgetrainer.ai/exercises/arms)**
-- **[More Cable Exercises](https://forgetrainer.ai/exercises/equipment/cable)**
-- **[More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)**
-
----
-
-## Master Cable Close Grip Curl with Forge
-
-Get personalized coaching, form feedback, and workout plans featuring Cable Close Grip Curl and other exercises tailored to your goals.
-
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
-
----
-
-*Forge - Personal training for everyone.*
-*Website: https://forgetrainer.ai*
+Get a personalized workout plan with [Forge](https://forgetrainer.ai).

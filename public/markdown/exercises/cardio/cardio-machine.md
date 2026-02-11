@@ -2,21 +2,26 @@
 
 ## Quick Answer
 
-5 effective cardio exercises you can do with cardio machine. Complete instructions and form tips included.
+10 effective cardio exercises you can do with cardio machine. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 5 Beginner | 0 Intermediate | 0 Advanced
+**Difficulty breakdown:** 10 Beginner | 0 Intermediate | 0 Advanced
 
 ---
 
 ## All Cardio Cardio Machine Exercises
 
-### Beginner (5 exercises)
+### Beginner (10 exercises)
 
+- **Stationary Bike Walk** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Calves
 - **Assault Bike** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Shoulders, Arms
-- **Hands Bike** — Target: Cardiovascular | Secondary: Triceps, Shoulders
-- **Elliptical** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
-- **Ski Ergometer** — Target: Cardiovascular | Secondary: Shoulders, Forearms
-- **Stairmaster** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
+- **Hands Bike (Time)** — Target: Cardiovascular | Secondary: Triceps, Shoulders
+- **Elliptical (Time)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
+- **Ski Ergometer (Time)** — Target: Cardiovascular | Secondary: Shoulders, Forearms, Core
+- **Stairmaster (Time)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
+- **Stairmaster (Distance)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
+- **Elliptical (Distance)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
+- **Ski Ergometer (Distance)** — Target: Cardiovascular | Secondary: Shoulders, Forearms, Core
+- **Hands Bike (Distance)** — Target: Cardiovascular | Secondary: Triceps, Shoulders
 
 ---
 
