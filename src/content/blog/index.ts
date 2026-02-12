@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-track-your-workouts",
+    title: "How to Track Your Workouts (And Why It Matters)",
+    date: "2026-02-12",
+    excerpt: "Discover why tracking your workouts is the difference between spinning your wheels and making real progress. Three proven methods, what to log, and how to actually use the data.",
+    author: "The Forge Team",
+    keywords: ["how to track workouts", "workout tracking methods", "best way to track workouts", "workout log template", "how to log workouts", "track gym progress", "progressive overload tracking"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-to-breathe-during-weightlifting",
     title: "How to Breathe During Weightlifting: Complete Guide",
     date: "2026-02-10",
