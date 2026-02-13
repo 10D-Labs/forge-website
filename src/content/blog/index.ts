@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "chatgpt-beats-personal-trainers-study",
+    title: "ChatGPT Beat Certified Personal Trainers in a Head-to-Head Study",
+    date: "2026-02-13",
+    excerpt: "ChatGPT outperformed certified personal trainers in a blind study on 6 of 9 fitness questions. Here's what the peer-reviewed research means for training.",
+    author: "The Forge Team",
+    keywords: ["ai personal trainer", "chatgpt fitness", "personal trainer study", "ai vs personal trainer", "can ai replace personal trainers", "chatgpt workout advice", "ai fitness coach"],
+    category: "fitness-technology"
+  },
+  {
     slug: "personal-training-statistics-2026",
     title: "Personal Training Statistics & Industry Data [2026]",
     date: "2026-02-12",
