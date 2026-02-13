@@ -2,7 +2,7 @@
 
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { Check, X } from "lucide-react";
+import { Check, X, ExternalLink } from "lucide-react";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
 
 const ProblemSection = () => {
@@ -200,6 +200,28 @@ const ProblemSection = () => {
             </div>
           </motion.div>
         </div>
+
+        {/* Research citation callout */}
+        <motion.a
+          href="https://www.jssm.org/jssm-25-235.xml"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-10 mx-auto max-w-2xl flex items-start gap-3 p-4 rounded-[14px] border border-primary/15 bg-primary/[0.04] hover:bg-primary/[0.07] transition-colors cursor-pointer group"
+          initial={{ opacity: 0, y: 15 }}
+          animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 15 }}
+          transition={{ duration: 0.5, delay: 1.2 }}
+        >
+          <span className="mt-0.5 shrink-0 text-primary/60 group-hover:text-primary transition-colors">
+            <ExternalLink className="w-4 h-4" />
+          </span>
+          <p className="text-sm text-text-secondary font-barlow leading-relaxed">
+            <span className="text-foreground font-medium">Backed by research:</span>{" "}
+            A 2026 peer-reviewed study found AI outperformed certified personal trainers in scientific accuracy, comprehensibility, and actionability — on every question tested.{" "}
+            <span className="text-primary/70 group-hover:text-primary transition-colors font-medium">
+              Journal of Sports Science and Medicine
+            </span>
+          </p>
+        </motion.a>
       </div>
     </section>
   );
