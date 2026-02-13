@@ -15,6 +15,14 @@ Then you download the app, answer a five-question quiz, and get the same cookie-
 
 Some apps do personalize workouts in meaningful ways. The difference between real and fake personalization isn't marketing copy. It's the underlying technology.
 
+## Key Takeaways
+
+- Most "AI-powered" fitness apps use simple decision trees and pre-written templates, not actual machine learning -- a quiz that slots you into a category is not personalization.
+- Five technologies enable real personalization: progressive overload algorithms trained on millions of workouts, ML-based exercise selection, wearable data integration, computer vision for form analysis, and real-time workout adaptation.
+- A reinforcement learning study found personalized goals increased daily steps by 700 versus baseline, while fixed goals decreased steps by 1,520 -- showing the measurable impact of real adaptation.
+- AI cannot yet replace human trainers for injury assessment, understanding motivational context, creative equipment substitutions, or finding the technique cue that clicks for an individual.
+- Use the 7-question test to evaluate any fitness app: does it ask about recent performance, adjust mid-session, explain its reasoning, integrate wearable data, differentiate between users, show progressive overload, and explain its data sources?
+
 ## Real vs. fake personalization
 
 Fake personalization is a decision tree dressed up as artificial intelligence. You answer questions, the app slots you into a category, and you get a pre-written program. It's Mad Libs with workout templates.
@@ -114,3 +122,19 @@ When these systems work, they provide something closer to real coaching than gen
 Even the best AI can't replace human judgment for complex situations, injury management, or motivation. Think of AI personalization as bringing structure and consistency to programming while leaving space for you to apply judgment about your body, context, and goals.
 
 The technology will keep improving. Just make sure the app you're using has actually built it, not just claimed it in their marketing copy.
+
+---
+
+## Frequently Asked Questions
+
+### How do AI fitness apps actually personalize workouts?
+
+Real AI fitness apps use machine learning models trained on millions of workouts to analyze your performance data, compare it to similar users, and continuously adjust your program. This includes progressive overload algorithms, exercise selection based on what works for people like you, wearable data integration, and real-time adaptation when you under- or over-perform during a session.
+
+### Can AI replace a personal trainer?
+
+Not entirely. AI excels at processing large datasets, maintaining consistency, providing 24/7 availability, and tracking progressive overload. However, 79% of personal trainers in one survey had to re-educate clients who followed bad AI-generated advice. AI currently cannot diagnose injuries, understand motivational context, or make creative equipment substitutions the way a human can.
+
+### How can I tell if a fitness app uses real AI or just templates?
+
+Ask seven questions: Does it adjust based on your recent performance? Does it modify workouts mid-session? Can it explain why it's prescribing specific exercises for you? Does it integrate wearable/recovery data? Do different users with similar goals get different programs? Does it follow progressive overload principles? Does the company explain its data and model training? If most answers are no, it's template-based programming with better marketing.

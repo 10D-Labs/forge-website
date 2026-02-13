@@ -19,6 +19,14 @@ The fix is simple but not easy: track every workout. Every exercise, every set, 
 
 [Research on goal achievement](https://pmc.ncbi.nlm.nih.gov/articles/PMC7197296/) shows that people who log workouts consistently over their first week are more than twice as likely to meet their fitness goals than those who log sporadically. Not because tracking itself builds muscle or burns fat, but because it creates the foundation for everything that does: progressive overload, accountability, and visible proof that you're moving forward.
 
+## Key Takeaways
+
+- People who consistently log workouts are more than twice as likely to meet their fitness goals compared to sporadic trackers.
+- Track the essential four for every exercise: exercise name, sets completed, reps per set, and weight used. Everything else is optional.
+- Three viable methods: paper notebook (simplest), spreadsheet (most flexible for analysis), or a workout app (most convenient). Pick one and commit for at least 12 weeks.
+- The data only works if you review it. Before each workout, check what you did last time and set a specific target to improve on at least one exercise.
+- Do not track heart rate during lifting, calorie burn estimates, or soreness levels. These metrics don't reliably indicate strength progress and create false precision.
+
 ## Why workout tracking actually matters
 
 Training without tracking is like trying to save money without checking your bank account. You might have a general sense of things, but you have no real data to make informed decisions.
@@ -215,3 +223,17 @@ If you want to skip the manual setup, [Forge](https://forgetrainer.ai) tracks yo
 Stop guessing. Start tracking. Six months from now, you'll either have a detailed record of your transformation or you'll be wondering why nothing changed. You can't manage what you don't measure.
 
 Your next workout is an opportunity to create your first data point. Take it.
+
+## Frequently Asked Questions
+
+### What is the best way to track workouts for beginners?
+
+Start with whatever method feels least intimidating. A paper notebook works if you prefer simplicity. A workout app like Strong or Hevy works if you always have your phone at the gym. The best system is the one you will actually use every session. Don't overthink the choice. Pick one, commit for 12 weeks, and adjust later if needed.
+
+### What should I write down after every set?
+
+At minimum, log four things: the exercise name (be specific), the number of sets, reps completed per set, and weight used. These four data points give you everything needed to track progressive overload. Optional additions like RPE (how hard the set felt) and rest time add useful context but aren't required.
+
+### How often should I review my workout log?
+
+Review your previous session before every workout to set specific improvement targets. Once a week, spend five minutes scanning for broader patterns: which lifts are progressing, which have stalled, and whether your recovery is keeping up. Research shows that physically recording and regularly reviewing progress significantly improves goal attainment.

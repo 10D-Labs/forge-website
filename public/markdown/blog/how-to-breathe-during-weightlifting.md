@@ -15,6 +15,14 @@ Proper breathing stabilizes your spine under load, maximizes force production, a
 
 This guide covers the breathing patterns that match different lifting intensities, the Valsalva maneuver that protects your back during heavy compounds, and exercise-specific techniques for squats, deadlifts, and presses.
 
+## Key Takeaways
+
+- Proper breathing creates intra-abdominal pressure (IAP) that increases spinal stiffness by 8-31%, protecting your back under heavy loads.
+- For moderate weights (60-75% of max), use the basic pattern: exhale during the hardest part of the lift, inhale during the easier part.
+- For heavy weights (80%+ of max), use the Valsalva maneuver: deep belly breath, hold through the entire rep, exhale at the top. One breath per rep.
+- Belly breathing (diaphragmatic) creates far more core stability than chest breathing. Your stomach should expand 360 degrees, not just forward.
+- Always breathe in mechanically strong positions (top of squat, lockout on bench). Never try to breathe at the bottom of a squat or during the transition phase of a lift.
+
 ## The science behind breathing and lifting
 
 Your diaphragm creates intra-abdominal pressure (IAP) that turns your midsection into a rigid cylinder, supporting your spine from the inside and preventing dangerous flexion under load.

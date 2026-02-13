@@ -70,6 +70,33 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "personal-training-statistics-2026",
+    title: "Personal Training Statistics & Industry Data [2026]",
+    date: "2026-02-12",
+    excerpt: "100+ verified personal training statistics for 2026: $11.9B market size, trainer salaries, pricing data, AI adoption rates, and effectiveness research.",
+    author: "The Forge Team",
+    keywords: ["personal training statistics", "personal trainer salary", "personal training cost", "AI personal training", "fitness industry statistics"],
+    category: "training-fundamentals"
+  },
+  {
+    slug: "can-ai-replace-personal-trainer-research",
+    title: "Can AI Replace a Personal Trainer? What the Research Says",
+    date: "2026-02-12",
+    excerpt: "65,000-user study shows AI personal trainers work, but hybrid AI-human coaching delivers 74% better results. What 20+ peer-reviewed studies reveal.",
+    author: "The Forge Team",
+    keywords: ["can AI replace personal trainer", "AI personal training research", "AI vs human trainer effectiveness", "AI fitness coach study", "personal training research 2026"],
+    category: "fitness-technology"
+  },
+  {
+    slug: "best-free-cheap-personal-trainer-alternatives-2026",
+    title: "Best Personal Trainer Alternatives: 17 Free & Cheap Options [2026]",
+    date: "2026-02-12",
+    excerpt: "17 proven personal trainer alternatives from $0-$200/month. Detailed pricing, comparison tables, and honest reviews of what works vs in-person training.",
+    author: "The Forge Team",
+    keywords: ["personal trainer alternatives", "cheap personal training", "free fitness apps", "budget personal training", "AI personal trainer"],
+    category: "getting-started"
+  },
+  {
     slug: "how-to-track-your-workouts",
     title: "How to Track Your Workouts (And Why It Matters)",
     date: "2026-02-12",

@@ -4,6 +4,7 @@ excerpt: "Science reveals your brain shuts you down long before your muscles act
 date: "2026-01-12"
 author: "The Forge Team"
 keywords: ["mental barriers in workouts", "brain tells you to quit workout", "push through mental barrier exercise", "central governor theory", "how to do more reps mentally", "40 percent rule fitness"]
+category: "fitness-psychology"
 ---
 
 You're five reps into your third set of squats. The weight feels heavy. Your legs are burning. Your brain starts whispering: "That's enough. You're done. Rack it."

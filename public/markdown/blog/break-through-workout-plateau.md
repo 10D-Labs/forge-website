@@ -5,6 +5,7 @@ date: "2026-01-08"
 author: "The Forge Team"
 excerpt: "Stuck at the same weights or seeing no progress? Learn the science-backed strategies to break through workout plateaus using smart training variation, deload weeks, and periodization."
 keywords: ["workout plateau", "training variation", "progressive overload", "periodization", "deload", "muscle adaptation", "FITT principle", "training frequency"]
+category: "strength-training"
 ---
 
 You've been grinding for months. Same gym, same weights, same commitment. Three months ago, you were crushing personal records. Now? The bar that felt challenging in October feels like it weighs the same in January. Your body looks the same. The scale hasn't budged. You're doing everything right, but nothing is changing.

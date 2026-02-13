@@ -13,6 +13,14 @@ Most lifters know they should warm up. You've heard it all before: cold muscles,
 
 Walking into the gym without a clear warm-up protocol is like showing up to a test without studying. You might get through it, but you're leaving performance on the table. Worse, you're rolling the dice on injury every single session.
 
+## Key Takeaways
+
+- Proper warm-up protocols reduce injury rates by 36% and improve performance in 79% of measured outcomes, including 3-8% improvements in leg press 1RM
+- The 3-phase warm-up takes 8-12 minutes: general cardio (3-5 min), dynamic stretching (3-5 min), and exercise-specific warm-up sets using a 40/60/80% progression
+- Static stretching before lifting reduces power output; dynamic stretching improves it by 1.8% on jump height tests
+- Use 2-3 progressive warm-up sets at 40%, 60%, and 80% of your working weight, resting 60-90 seconds between sets
+- Even a 5-minute abbreviated warm-up is substantially better than skipping it entirely
+
 ## Why warming up matters
 
 [A comprehensive meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140806/) of 15 randomized controlled trials involving over 21,000 participants found that proper warm-up protocols reduce injury rates by 36%. Over the course of a year, that's the difference between consistent training and sitting out for weeks nursing a pulled muscle or tweaked joint.
@@ -173,3 +181,17 @@ Total time: 8-12 minutes for most sessions. 5 minutes minimum when you're rushed
 The lifters who warm up consistently are the ones still training five years from now. The ones who skip it are the ones nursing injuries, hitting plateaus, and wondering why their progress stalled.
 
 You have the protocol. Now use it.
+
+## Frequently Asked Questions
+
+### How long should a warm-up take before lifting weights?
+
+A complete warm-up takes 8-12 minutes: 3-5 minutes of light cardio, 3-5 minutes of dynamic stretching, and 2-3 exercise-specific warm-up sets. If you're pressed for time, a 5-minute abbreviated version (2 minutes cardio, 1 minute dynamic stretching, 2 warm-up sets at 50% and 75%) still substantially reduces injury risk.
+
+### Should I do static stretching before lifting?
+
+No. Research published in Applied Sciences found that static stretching before strength movements reduces power output, with jump height decreasing by 1.6%. Dynamic stretching, which takes your joints through full range of motion while keeping muscles active, is the better choice before lifting. Save static stretching for after your workout.
+
+### How many warm-up sets do I need before my working sets?
+
+For most lifters, 2-3 warm-up sets are sufficient using the 40/60/80% progression of your working weight. Add a fourth set at 90% for 1 rep only on heavy days when you're lifting 85%+ of your max. Too many warm-up sets create fatigue that cuts into your working set performance.

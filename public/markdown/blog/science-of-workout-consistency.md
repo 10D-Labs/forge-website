@@ -10,6 +10,14 @@ Here's a statistic that might make you feel better about your own fitness strugg
 
 If you've ever started a fitness program with enthusiasm only to quietly abandon it weeks later, you're in very good company. But here's what the fitness industry often gets wrong: the solution isn't more motivation, better programs, or trying harder. The solution is understanding how habits actually work, then engineering your environment to support consistency.
 
+## Key Takeaways
+
+- A mediocre workout you actually do beats a perfect workout you skip -- consistency of behavior matters far more than intensity or duration of each session.
+- Habit formation takes an average of 66 days (ranging from 18 to 254 days), and the key is repeated performance in the same context over time.
+- The biggest reasons people quit are unrealistic expectations, boring routines, lack of visible progress, life disruptions, and all-or-nothing thinking.
+- Motivation follows action, not the other way around -- committing to "just 10 minutes" gets you started, and 9 times out of 10 you'll finish the full workout.
+- Identity-based habits ("I'm someone who works out") stick longer than outcome-based goals ("I want to lose 20 pounds"), and every workout is a vote for that identity.
+
 ## Why Consistency Beats Intensity Every Time
 
 Let's start with the fundamental truth that most fitness content ignores: **a mediocre workout you actually do beats a perfect workout you skip.**

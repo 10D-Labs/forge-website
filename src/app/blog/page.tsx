@@ -117,7 +117,7 @@ export default function BlogPage() {
                       dateTime={post.date}
                       className="block text-xs text-text-tertiary font-barlow uppercase tracking-wide mb-2"
                     >
-                      {new Date(post.date).toLocaleDateString("en-US", {
+                      {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
                         month: "long",
                         day: "numeric",
                         year: "numeric",

@@ -12,6 +12,14 @@ Here's the honest answer: **research shows both can work equally well for most f
 
 Let's break down what each setting genuinely offers so you can make an informed choice, or figure out how to use both strategically.
 
+## Key Takeaways
+
+- Research shows both home and gym workouts produce comparable improvements in strength, cardiovascular fitness, and body composition -- location matters less than consistency.
+- Home workouts save 80-120 minutes per week in commute time alone, and a basic home setup ($500-800) pays for itself in 6-12 months versus gym membership costs.
+- Up to 50% of people feel uncomfortable exercising in front of others, making home training a practical solution for gym anxiety.
+- A hybrid approach (home workouts as your foundation with occasional gym visits for heavy equipment or social motivation) gives you the best of both worlds.
+- The only real limitation of home training is for advanced lifters chasing very heavy loads -- for general fitness, health, and body composition, home workouts are entirely adequate.
+
 ## Home vs. Gym: Quick Comparison
 
 | Factor | Home Workouts | Gym Workouts |

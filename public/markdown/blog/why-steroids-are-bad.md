@@ -13,6 +13,14 @@ The message is clear: if you want serious results, you need steroids.
 
 That message is completely wrong. Believing it might be one of the most expensive mistakes you'll ever make.
 
+## Key Takeaways
+
+- Steroid users face 3x higher mortality risk according to a study in the Journal of Internal Medicine, with a JAMA study finding 3.64x increased risk of unnatural death.
+- Major health consequences include cardiovascular damage (heart attacks in users under 30), liver tumors, clinical depression, and permanent reproductive system shutdown.
+- Natural muscle-building potential is higher than most people realize: 15-25 lbs of muscle in year one for men, with 20-30 kg total achievable in three years of focused training.
+- Anabolic steroids are Schedule III controlled substances in the U.S., with possession carrying up to one year in prison and distribution up to five years.
+- Most impressive physiques on social media involve undisclosed steroid use -- a Fat-Free Mass Index (FFMI) above 25, year-round sub-10% body fat, and rapid mass gain are reliable indicators.
+
 ## What anabolic steroids actually are
 
 Anabolic steroids are synthetic versions of testosterone. They flood your body with far more hormone than it naturally produces, often reaching testosterone levels of 2,000-5,000 ng/dL compared to a natural range of 300-900 ng/dL. This forces your muscles to grow faster and your body to recover quicker.
@@ -132,3 +140,23 @@ You don't need steroids to build an impressive physique. You need patience, cons
 Three years from now, you'll either be significantly more muscular from consistent natural training, or you'll be dealing with the consequences of shortcuts that weren't worth taking.
 
 Choose.
+
+---
+
+## Frequently Asked Questions
+
+### How dangerous are anabolic steroids?
+
+A study in the Journal of Internal Medicine found steroid users had three times the risk of death compared to non-users. A 2024 JAMA study found a 3.64-fold increase in unnatural deaths. Cardiovascular damage is the most common serious complication, with heart attacks documented in users under 30.
+
+### How much muscle can you build naturally without steroids?
+
+Research shows men can gain 15-25 lbs (7-11 kg) of muscle in their first year of proper training, with another 6-8 kg in year two and 3-4 kg in year three. Over three years of focused training, most men can add 20-30 kg of muscle naturally.
+
+### How can you tell if someone is using steroids?
+
+A Fat-Free Mass Index (FFMI) above 25 is the most reliable indicator. Other signs include year-round conditioning below 10% body fat, rapid mass gain (15+ kg in six months), extreme vascularity at low body fat, and disproportionately large deltoids and traps.
+
+### What is the difference between TRT and steroid abuse?
+
+Testosterone Replacement Therapy (TRT) restores clinically low testosterone (under 300 ng/dL) to normal range (500-900 ng/dL) under physician supervision. Steroid abuse involves doses pushing levels to 2,000-5,000+ ng/dL, often combining multiple compounds without medical oversight.

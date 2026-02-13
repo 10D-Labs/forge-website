@@ -11,6 +11,14 @@ You've been grinding in the gym five days a week, adding extra sets to every exe
 
 More volume should equal more gains, right? Not always. There's a point where additional sets stop contributing to muscle growth and start consuming recovery resources you can't spare. That's junk volume, and it's holding you back.
 
+## Key Takeaways
+
+- Junk volume is any training that burns time, energy, and recovery capacity without triggering muscle growth. It actively interferes with recovery from your productive work.
+- Research supports 10-20 sets per muscle group per week as the productive range for most trained individuals, with diminishing returns beyond that.
+- Key warning signs: strength plateaus despite adding volume, soreness lasting beyond 72 hours, significant performance drops within a single workout, and form breakdown on later sets.
+- Sets need to be within 3 reps of failure to count as productive volume. Easy sets far from failure contribute minimally to growth regardless of how many you accumulate.
+- Most people discover they make equal or better progress on 20-30% less volume once they cut low-quality sets and train the remaining work with proper intensity.
+
 ## What junk volume actually is
 
 Junk volume is training sets that burn time, energy, and recovery capacity without triggering muscle growth. These sets actively interfere with recovery. Your body treats them as stress it must recover from, pulling resources away from the productive work you did earlier in your session.
@@ -111,3 +119,17 @@ Most people discover they can make equal or better progress on 20-30% less volum
 When you [break through a plateau](https://forgetrainer.ai/blog/break-through-workout-plateau), the solution is rarely more volume. Usually it's better execution of appropriate volume, addressing recovery factors, or adjusting other training variables.
 
 [Forge](https://forgetrainer.ai) tracks your performance across workouts and adjusts volume automatically based on how you're recovering, so every set in your program has a purpose. But whether you use AI or a notebook, the principle is the same: pay attention to your body, track your performance honestly, and add volume gradually based on results. That approach leads to sustainable progress without the frustration of spinning your wheels.
+
+## Frequently Asked Questions
+
+### How many sets per muscle group per week is too many?
+
+It depends on your individual recovery capacity, but research suggests 10-20 sets per muscle group per week is the productive range for most trained lifters. Beyond your Maximum Recoverable Volume (MRV), additional sets become junk volume. If your strength is stalling or declining despite adding sets, you've likely exceeded your MRV and should cut volume by 20-30%.
+
+### How do I know if a set counts as productive volume?
+
+A set counts as productive when it's performed within approximately 3 reps of failure with good form. If you stop a set at 12 reps but could have done 18, that set contributes minimally to growth. The mechanical tension and motor unit recruitment from challenging sets near failure is what drives hypertrophy.
+
+### Can doing too many sets actually make me lose muscle?
+
+Not directly, but excessive volume can prevent muscle growth by overwhelming your recovery capacity. When inflammation from too many sets persists into your next session, muscle protein synthesis doesn't elevate normally, effectively blocking the growth response. You won't shrink overnight, but you'll stagnate and potentially regress in strength.

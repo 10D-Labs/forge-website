@@ -15,6 +15,14 @@ This scenario plays out every day in fitness. Everyone sounds confident, but the
 
 You deserve better than guesswork. This guide gives you a framework to evaluate any fitness advice before you waste months following the wrong plan.
 
+## Key Takeaways
+
+- Over 60% of fitness content on TikTok contains incorrect or harmful information, and only 1 in 9 top fitness bloggers can back up their claims with evidence
+- Good fitness advice is evidence-based, personalized to your context, realistic about timelines, and stays within the advisor's scope of practice
+- The "Big Four" NCCA-accredited certifications (NASM, ACE, ACSM, NSCA) establish a baseline of trainer competence worth looking for
+- Use a 5-step framework to evaluate any advice: check credentials, evaluate the claim, look for red flags, check scope, and cross-reference with other credible sources
+- 10 red flags to watch for include guaranteed results, one-size-fits-all programming, no warm-up discussion, and selling supplements as requirements
+
 ## Why fitness advice feels so confusing
 
 The fitness industry has an information problem, not an information shortage.
@@ -161,3 +169,17 @@ Check credentials. Watch for red flags. Demand evidence. Ask questions. These ha
 [Still deciding if you need a personal trainer?](https://forgetrainer.ai/blog/do-you-need-a-personal-trainer) If you're tired of sorting through contradicting advice and want a training approach built on evidence instead of hype, [Forge](https://forgetrainer.ai) offers AI-powered personal training that adapts to your progress and follows proven principles. No gimmicks, no unrealistic promises, just intelligent programming that meets you where you are.
 
 Your time and effort matter too much to waste on bad guidance. Use this framework. Protect your progress. Train smarter.
+
+## Frequently Asked Questions
+
+### How can I tell if a fitness influencer is qualified to give advice?
+
+Check for NCCA-accredited certifications (NASM, ACE, ACSM, or NSCA) or relevant degrees in exercise science or kinesiology. Search their background on the certification body's website. A University of Glasgow study found only 1 in 9 top fitness bloggers could back up their claims with evidence, so credentials matter more than follower count.
+
+### What are the biggest red flags in fitness advice?
+
+The clearest red flags are guaranteed results in specific timeframes ("lose 20 pounds in 30 days"), one-size-fits-all programming, selling supplements as requirements, and defensive responses when you ask questions. Multiple red flags in the same source mean you should walk away entirely.
+
+### Why does fitness advice contradict itself so often?
+
+Sometimes qualified experts genuinely disagree because multiple approaches work for different populations and goals. That's normal. The contradiction becomes a red flag when it involves established fundamentals like progressive overload, adequate recovery, or proper nutrition. Context matters: advice for competitive athletes differs from advice for beginners.

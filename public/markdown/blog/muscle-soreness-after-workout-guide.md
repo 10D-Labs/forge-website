@@ -13,6 +13,14 @@ If you've been there, you know the feeling. If you're new to training, welcome t
 
 Muscle soreness happens to everyone, from complete beginners to elite athletes. The real questions are: what's actually happening in your muscles, should you worry about it, and can you still train when you're sore?
 
+## Key Takeaways
+
+- DOMS (Delayed Onset Muscle Soreness) peaks 24-72 hours after training and resolves within 5-7 days. It's caused by microscopic muscle fiber tears, not lactic acid.
+- Soreness is a poor indicator of workout quality. You can build significant muscle with minimal soreness, and intense soreness doesn't mean a better workout.
+- Light exercise is the most effective way to reduce DOMS pain, beating complete rest, stretching, and most other recovery methods.
+- You can and should train through mild to moderate soreness. Only severe soreness (difficulty performing daily activities) warrants complete rest.
+- Sharp, stabbing, or joint-localized pain is an injury signal, not normal DOMS. Dark urine after intense exercise is a medical emergency (possible rhabdomyolysis).
+
 ## What muscle soreness actually is
 
 The technical term is DOMS, or Delayed Onset Muscle Soreness. The name tells you exactly what it does. Unlike the burn you feel during a hard set, which comes from metabolic fatigue, DOMS shows up later, typically [12-72 hours after your workout, with symptoms usually appearing within the first day and peaking around 48 hours](https://www.germanjournalsportsmedicine.com/archive/archive-2024/issue-5/update-delayed-onset-muscle-soreness-doms-muscle-biomechanics-pathophysiology-and-therapeutic-approaches/).
@@ -161,3 +169,17 @@ What matters more than whether you're sore is whether you're consistently traini
 If you want training that builds muscle without leaving you wrecked for days, that's what [Forge](https://forgetrainer.ai) does. Your AI trainer manages volume and intensity to keep you progressing without the constant punishment. You'll still feel that satisfying muscle pump. You just won't be unable to function afterward.
 
 The goal is progress, not suffering.
+
+## Frequently Asked Questions
+
+### Should I work out if I'm still sore from my last session?
+
+Yes, in most cases. For mild soreness (levels 1-3 out of 10), train as planned. For moderate soreness (4-7), switch to lighter work or train different muscle groups. Only severe soreness (8-10) where basic daily activities are difficult warrants complete rest. Light exercise actually reduces DOMS pain faster than doing nothing.
+
+### How do I tell the difference between muscle soreness and an injury?
+
+DOMS feels like dull, achy pain that improves with movement and affects both sides equally if you trained both sides. Injury pain is sharp, stabbing, localized to joints, worsens with movement, and often affects only one side. If you see swelling, bruising, or have pain that disrupts sleep, see a doctor.
+
+### Does being sore mean I had a good workout?
+
+No. Research shows that muscle soreness and muscle growth are poorly correlated. Soreness indicates your muscles encountered unfamiliar stress, not that the workout was effective. Experienced lifters often make consistent progress with minimal soreness, while beginners experience intense soreness from relatively light weights.

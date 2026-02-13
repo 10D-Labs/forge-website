@@ -132,3 +132,17 @@ The question isn't whether you deserve personalized fitness support. You do. The
 
 We think everyone deserves that chance. That's why [Forge](https://forgetrainer.ai) exists.
 
+## Frequently Asked Questions
+
+### How much does personal training cost on average?
+
+Personal training sessions average $55-60 per hour in the United States, with rates ranging from $40 to over $200 depending on location and trainer credentials. At two sessions per week, that's approximately $480 per month or $5,760 per year, nearly 7% of the median U.S. household income, more than double the recommended 1-3% fitness budget.
+
+### Can AI fitness apps replace a personal trainer?
+
+AI fitness apps don't aim to replace personal trainers for those who can access them. They serve a different market: the millions of people blocked by cost, scheduling, social anxiety, or geographic barriers. AI platforms provide personalized programming, 24/7 availability, and progress tracking at a fraction of the cost, filling a gap that traditional training can't reach.
+
+### Why do so many people experience gym anxiety?
+
+Research shows 50-70% of people experience gym anxiety, with 72% of women and 58% of men reporting gym intimidation. People feel self-conscious about their bodies, fitness level, and lack of equipment knowledge. Over 40% avoid working out altogether because of these feelings, and embarrassment is a primary factor in the 50% of new gym members who quit within six months.
+

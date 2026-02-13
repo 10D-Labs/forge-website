@@ -83,6 +83,7 @@ export default function HomePage() {
         sameAs={[
           "https://www.instagram.com/forgetrainer",
           "https://www.tiktok.com/@forgetrainer",
+          "https://github.com/10D-Labs",
         ]}
       />
       <StructuredData type="website" name="Forge" url="https://forgetrainer.ai" />
@@ -94,11 +95,29 @@ export default function HomePage() {
         applicationSubCategory="Personal Training"
         operatingSystem={["iOS", "Android"]}
         description="Affordable personal trainer in your pocket. Get custom workout plans, real-time coaching, and 24/7 guidance for a fraction of traditional personal training costs. Perfect for people who want expert fitness guidance but can't afford $300-500/month trainer fees."
-        offers={{
-          price: "0",
-          priceCurrency: "USD",
-          description: "Join waitlist to be notified at launch",
-        }}
+        offers={[
+          {
+            name: "Weekly Plan",
+            price: "6.99",
+            priceCurrency: "USD",
+            description: "7-day free trial, then $6.99/week",
+            billingPeriod: "P1W",
+          },
+          {
+            name: "Monthly Plan",
+            price: "19.99",
+            priceCurrency: "USD",
+            description: "7-day free trial, then $19.99/month",
+            billingPeriod: "P1M",
+          },
+          {
+            name: "Annual Plan",
+            price: "179.99",
+            priceCurrency: "USD",
+            description: "7-day free trial, then $179.99/year (best value)",
+            billingPeriod: "P1Y",
+          },
+        ]}
         featureList={[
           "Custom workout plans tailored to your goals",
           "24/7 personal training guidance",

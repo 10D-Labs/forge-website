@@ -13,6 +13,14 @@ Who's right?
 
 The research tells a different story: timing matters far less than you've been told, and total daily nutrition matters far more.
 
+## Key Takeaways
+
+- Total daily protein and calorie intake determines the vast majority of your results, not meal timing around workouts.
+- The "30-minute anabolic window" is a myth. Muscle protein synthesis stays elevated for 24+ hours post-workout, so you have plenty of time to eat.
+- 20-40g of protein within 2-3 hours after training is sufficient for most people. Beyond 40g per meal, there are no additional muscle-building benefits.
+- Fasted training does not burn more fat overall compared to fed training when total daily calories and protein are matched.
+- Pre-workout nutrition works on flexible timing windows: 3-4 hours (full meal), 1-2 hours (smaller meal), or 30-60 minutes (simple carbs only).
+
 ## The big picture: Total intake beats perfect timing
 
 Before we talk about what to eat before or after workouts, you need to understand this: [research from the International Society of Sports Nutrition](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8) confirms that total daily protein and calorie intake will determine the vast majority of your results. Meal timing around workouts plays a smaller supporting role, and only if you're already doing everything else right.
@@ -156,3 +164,17 @@ Total daily nutrition: This determines the vast majority of your results. Workou
 Stop stressing about perfect timing. Start focusing on consistent daily intake, smart training, and [actual recovery](https://forgetrainer.ai/blog/rest-days-explained). That's what builds muscle and improves performance.
 
 The research has spoken. Now go eat something and lift heavy things.
+
+## Frequently Asked Questions
+
+### How long after a workout do I need to eat to build muscle?
+
+You have a much larger window than the supplement industry claims. Muscle protein synthesis stays elevated for 24+ hours after training. Eating 20-40g of protein within 2-3 hours of your workout is sufficient for most people. If you trained fasted, aim for the shorter end of that window (1-2 hours).
+
+### Is fasted cardio better for burning fat?
+
+No. Systematic reviews comparing fasted versus fed training show no significant differences in fat loss when total daily calories and protein are matched. Fasted cardio may burn slightly more fat during the session itself, but total daily fat loss is determined by your calorie deficit, not whether you ate before training.
+
+### What should I eat 30 minutes before a workout?
+
+Stick to simple carbs only at this point: a banana, toast with honey, or a small handful of dried fruit. Protein and fat take longer to digest and will sit in your stomach if eaten this close to training. If you have more time (1-2 hours), add protein and a small amount of fat. With 3-4 hours, eat a full balanced meal.

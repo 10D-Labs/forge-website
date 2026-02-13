@@ -1,5 +1,5 @@
 # robots.txt for forgetrainer.ai
-# Last updated: 2025-12-29
+# Last updated: 2026-02-12
 
 # Allow all crawlers
 User-agent: *
@@ -29,6 +29,12 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
 # Social Media Crawlers
 User-agent: Twitterbot
 Allow: /
@@ -46,6 +52,7 @@ Allow: /
 Sitemap: https://forgetrainer.ai/sitemap.xml
 Sitemap: https://forgetrainer.ai/sitemap-images.xml
 
-# LLMs.txt - AI instruction file
+# LLMs.txt - AI instruction files
 # See https://llmstxt.org for specification
-# LLMsTxt: https://forgetrainer.ai/llms.txt (non-standard directive, commented to avoid parser errors)
+# LLMsTxt: https://forgetrainer.ai/llms.txt (summary)
+# LLMsFullTxt: https://forgetrainer.ai/llms-full.txt (comprehensive)

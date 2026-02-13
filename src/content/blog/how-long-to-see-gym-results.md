@@ -17,6 +17,14 @@ Your brain starts whispering: "Maybe I'm doing this wrong. Maybe my genetics suc
 
 Stop. You're not broken. Your program isn't trash. You just don't understand the timeline.
 
+## Key Takeaways
+
+- Weeks 1-2 produce 20-40% strength gains from neural adaptations alone (your brain learning to recruit muscle fibers), not visible muscle growth.
+- First visible changes appear at weeks 4-6 for you personally; friends notice around weeks 6-12; strangers notice at months 3-6.
+- Beginners can realistically gain 6-12 pounds of muscle in the first six months with proper programming, enough to create dramatic visual changes in body composition.
+- The biggest factors affecting your timeline are training consistency (3-4x/week without fail), adequate protein (0.7-1g per pound bodyweight), sleep (8 hours), and program quality.
+- Feel comes first (2-3 weeks), measurable progress comes second (4-6 weeks), and visible changes come last (6-12+ weeks) -- most people quit before reaching the visible phase.
+
 ## The quick answer: Different results appear at different times
 
 Your body doesn't transform on a predictable schedule like a software update hitting 100%. Multiple systems adapt at different rates, and the changes you can see lag behind the changes actually happening inside your body.
@@ -233,3 +241,23 @@ That's where most people quit. Don't be most people.
 Your body is adapting right now, even if you can't see it. Trust the process, track your progress, and give yourself the full 12 weeks before judging whether this is working.
 
 It's working. You just can't see it yet.
+
+---
+
+## Frequently Asked Questions
+
+### How long does it take to see muscle growth from working out?
+
+Most beginners see their first subtle visual changes at 4-6 weeks, with friends noticing around 8-12 weeks. Significant visible transformation typically takes 3-6 months of consistent training with proper nutrition and sleep.
+
+### Why am I getting stronger but not looking bigger?
+
+In the first 2-4 weeks, strength gains come from neural adaptations -- your brain learning to recruit existing muscle fibers more efficiently. Actual muscle tissue growth (hypertrophy) takes longer to become visible. This is completely normal and a sign your training is working.
+
+### How much muscle can a beginner gain in the first year?
+
+Research shows beginners can gain 6-12 pounds of muscle in the first six months with consistent training and adequate nutrition. First-year totals of 15-25 pounds of muscle are achievable for men, with women typically gaining about half that amount.
+
+### What should I do if I see no results after 8 weeks?
+
+Zero strength gains after 8 weeks signals a problem with program design, nutrition, recovery, or an underlying health issue. Check that you're following progressive overload, eating enough protein (0.7-1g per pound of bodyweight), sleeping 7-8 hours, and training 3-4 times per week consistently.

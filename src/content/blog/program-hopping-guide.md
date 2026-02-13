@@ -21,6 +21,14 @@ Here's what makes program hopping so insidious: it feels productive. You're rese
 
 The fitness industry struggles with retention across the board. Research consistently shows that roughly half of people who start an exercise program quit within the first six months. Program hopping is a major reason why. You never quit exercising entirely; you just never commit long enough to succeed.
 
+## Key Takeaways
+
+- Program hopping means switching routines before they have time to produce results, and it's one of the most common reasons gym-goers stall
+- Most programs need a minimum of 8-12 weeks to produce meaningful results; beginners should commit for 12 weeks or longer
+- Neural adaptations happen in weeks 2-4, but visible muscle growth doesn't appear until weeks 6-12, right after most people quit
+- The fix isn't finding the perfect program; it's committing to a good-enough program and tracking progress with data instead of feelings
+- If you're still progressing (adding weight, reps, or improving performance metrics), your program is working regardless of how you feel about it
+
 ## The Psychology Behind Program Hopping
 
 Understanding why you program hop is the first step to stopping. The reasons run deeper than simple indecisiveness.

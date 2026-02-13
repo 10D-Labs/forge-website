@@ -4,6 +4,7 @@ excerpt: "Every piece of gym equipment builds muscle differently. Here's what th
 date: "2026-01-13"
 author: "The Forge Team"
 keywords: ["barbells vs dumbbells vs machines", "free weights vs machines", "best equipment for strength training", "gym equipment for beginners", "barbell vs dumbbell strength"]
+category: "strength-training"
 ---
 
 Walk into any gym and you face an immediate choice: head to the squat rack, grab some dumbbells, or settle into a machine? Scroll through fitness social media and you'll find passionate advocates for each, often dismissing the others as inferior or even worthless.

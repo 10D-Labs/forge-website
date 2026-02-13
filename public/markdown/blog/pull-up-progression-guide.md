@@ -17,6 +17,14 @@ Pull-ups build functional strength that carries over to almost everything. Rock 
 
 This guide will take you from wherever you are right now to your first pull-up, then from one rep to ten, and eventually to advanced variations that challenge even experienced athletes.
 
+## Key Takeaways
+
+- Only about 17-18% of men and 5% of women can perform a single pull-up, so struggling with them is normal -- the ability is a skill that must be deliberately built.
+- The progression from zero to one pull-up typically takes 4-8 weeks using dead hangs, scapular pull-ups, negative pull-ups (your muscles are 20-50% stronger during lowering), and band-assisted variations.
+- Greasing the Groove (GTG) -- doing frequent sub-maximal sets throughout the day -- is the most effective method for going from 1 to 10 pull-ups, typically within 3-6 months.
+- Chin-ups (palms facing you) recruit biceps more heavily and are usually easier for beginners; pull-ups (palms away) emphasize lats more directly for back width.
+- When you can perform a controlled 10-second negative pull-up, you are very close to completing your first full rep.
+
 ## Why pull-ups are harder than almost any other exercise
 
 Before you learn how to train for pull-ups, understanding why they're difficult helps you appreciate the specific demands you're preparing for.
@@ -275,3 +283,23 @@ You now have that plan. Dead hangs build the foundation. Scapular pull-ups teach
 Once you have one rep, Greasing the Groove turns one pull-up into ten through frequent, sub-maximal practice that builds neurological efficiency. And once you have ten, weighted variations and advanced progressions provide years of continued challenge.
 
 Start with where you are right now. If you can't hang from a bar for 30 seconds, that's your first target. If you can do three pull-ups but not four, that's what you're chasing. Whatever your starting point, the next step is clear.
+
+---
+
+## Frequently Asked Questions
+
+### How long does it take to go from zero to one pull-up?
+
+Most people reach their first unassisted pull-up in 4-8 weeks of consistent training with dead hangs, scapular pull-ups, negatives, and band-assisted variations. The timeline depends on your starting strength, bodyweight, and training consistency.
+
+### Are chin-ups easier than pull-ups?
+
+Yes, for most people. Research from Youdas et al. (2010) showed chin-ups recruit the biceps and chest more heavily than pull-ups, giving you additional muscle assistance. Many coaches recommend starting with chin-ups to get your first rep faster, then transitioning to pull-ups.
+
+### How does Greasing the Groove (GTG) work for pull-ups?
+
+GTG involves doing multiple sets of sub-maximal pull-ups (40-60% of your max) throughout the day, every day, with at least 15 minutes between sets. You never train to failure. This builds neurological efficiency through frequent high-quality repetition, typically moving people from 1 to 10 pull-ups within 3-6 months.
+
+### What are the most common mistakes that slow pull-up progress?
+
+The biggest mistakes are using momentum/kipping before mastering strict form, neglecting grip strength, training pull-ups when already fatigued from other exercises, increasing volume too quickly (more than 10-20% per week), and pushing through shoulder pain instead of correcting form.

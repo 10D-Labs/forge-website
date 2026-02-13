@@ -21,6 +21,14 @@ You're not alone in this. Research shows that [50% of non-gym members find gyms 
 
 I'm going to tell you exactly what a personal trainer would say to you the night before your first visit. No motivational speeches. Just the practical stuff that makes the difference between showing up once and actually coming back.
 
+## Key Takeaways
+
+- 50% of non-gym members find gyms intimidating, but preparation (packing your bag, going during off-peak hours, having a written plan) eliminates most first-day anxiety.
+- Your first workout should be 30-45 minutes using 4-6 machines at light weight, 2 sets of 8-12 reps each; the goal is building the habit, not pushing limits.
+- Go during off-peak hours (weekday 10am-3pm, evenings after 8pm) to avoid crowds and give yourself space to learn without pressure.
+- The biggest beginner mistakes are doing too much on day one, skipping the warm-up, walking in without a plan, and comparing yourself to experienced gym-goers.
+- Gym attendance drops from 63% in month one to 33% by month six; scheduling your next session immediately after each workout is the single best retention strategy.
+
 ## Pack your bag the night before
 
 Don't wing this part. Forgetting something small can derail your entire first experience.
@@ -220,3 +228,17 @@ You're ready enough. Pack your bag. Pick a time. Show up.
 You'll figure out the rest as you go.
 
 Ready to know exactly what to do every time you walk into the gym? [Forge](https://forgetrainer.ai) creates custom workout plans and tells you what to do each session. AI trainers who adapt to your goals, your schedule, and your experience level. $20/month, no commitment. [Check it out](https://forgetrainer.ai).
+
+## Frequently Asked Questions
+
+### What should I do on my first day at the gym?
+
+Start with a 5-10 minute warm-up on a treadmill or bike, then pick 4-6 machines targeting different muscle groups (leg press, chest press, lat pulldown, shoulder press, leg curl, bicep curl). Do 2 sets of 8-12 reps at light weight on each, rest 60-90 seconds between sets, and finish with 5-10 minutes of basic stretching. Total time: 30-45 minutes. The goal is building the habit, not pushing your limits.
+
+### What should I bring to the gym for the first time?
+
+Pack a water bottle, towel, lock for the locker, proper shoes with grip and ankle support, headphones, and comfortable clothes you can move in. Skip the fancy gear. Comfortable basics are all you need on day one. Pack your bag the night before so nothing gets forgotten and you have one less excuse to skip.
+
+### How do I stop being nervous about going to the gym?
+
+Go during off-peak hours (10am-3pm weekdays or after 8pm) when fewer people are around. Have a written plan of exactly which machines and exercises you'll do before you arrive. Remember that 50% of non-gym members share your intimidation. Most gym-goers are focused on their own workout and not watching you. The anxiety is almost always worse than the actual experience.

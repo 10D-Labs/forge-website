@@ -42,6 +42,14 @@ interface WebSiteStructuredDataProps {
   searchUrlTemplate?: string;
 }
 
+interface SoftwareApplicationOffer {
+  price: string;
+  priceCurrency: string;
+  description?: string;
+  name?: string;
+  billingPeriod?: string;
+}
+
 interface SoftwareApplicationStructuredDataProps {
   type: "softwareApplication";
   name: string;
@@ -50,11 +58,7 @@ interface SoftwareApplicationStructuredDataProps {
   applicationCategory: string;
   applicationSubCategory?: string;
   operatingSystem: string[];
-  offers?: {
-    price: string;
-    priceCurrency: string;
-    description?: string;
-  };
+  offers?: SoftwareApplicationOffer | SoftwareApplicationOffer[];
   featureList?: string[];
   audienceType?: string;
   keywords?: string;
@@ -152,6 +156,34 @@ const StructuredData = (props: StructuredDataProps) => {
         },
       };
     } else if (props.type === "softwareApplication") {
+      let offersData: object | undefined;
+      if (props.offers) {
+        if (Array.isArray(props.offers)) {
+          offersData = {
+            "@type": "AggregateOffer",
+            lowPrice: props.offers.reduce((min, o) => Math.min(min, parseFloat(o.price)), Infinity).toString(),
+            highPrice: props.offers.reduce((max, o) => Math.max(max, parseFloat(o.price)), 0).toString(),
+            priceCurrency: props.offers[0].priceCurrency,
+            offerCount: props.offers.length,
+            offers: props.offers.map((offer) => ({
+              "@type": "Offer",
+              price: offer.price,
+              priceCurrency: offer.priceCurrency,
+              ...(offer.name && { name: offer.name }),
+              ...(offer.description && { description: offer.description }),
+              ...(offer.billingPeriod && { billingPeriod: offer.billingPeriod }),
+            })),
+          };
+        } else {
+          offersData = {
+            "@type": "Offer",
+            price: props.offers.price,
+            priceCurrency: props.offers.priceCurrency,
+            ...(props.offers.description && { description: props.offers.description }),
+          };
+        }
+      }
+
       data = {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
@@ -161,14 +193,7 @@ const StructuredData = (props: StructuredDataProps) => {
         ...(props.applicationSubCategory && { applicationSubCategory: props.applicationSubCategory }),
         operatingSystem: props.operatingSystem,
         description: props.description,
-        ...(props.offers && {
-          offers: {
-            "@type": "Offer",
-            price: props.offers.price,
-            priceCurrency: props.offers.priceCurrency,
-            ...(props.offers.description && { description: props.offers.description }),
-          },
-        }),
+        ...(offersData && { offers: offersData }),
         ...(props.featureList && { featureList: props.featureList }),
         ...(props.audienceType && {
           audience: {

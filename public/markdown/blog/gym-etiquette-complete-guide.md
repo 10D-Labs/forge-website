@@ -15,6 +15,14 @@ The gym floor doesn't come with an instruction manual. You're expected to know t
 
 This guide covers every unwritten rule you need to know, what to do when someone breaks them near you, and how to recover if you accidentally mess up.
 
+## Key Takeaways
+
+- Equipment hogging is the #1 gym complaint among 2,000 surveyed gym-goers, followed by staring (6.72/10 annoyance), playing music aloud (6.62/10), and unsolicited advice (6.55/10).
+- The five non-negotiable rules: rerack weights where you found them, wipe down all equipment after use, allow others to work in, always use headphones, and don't hog equipment during rest periods.
+- Over 40% of Americans avoid working out entirely due to gym anxiety, with uncertainty about unwritten rules being a major contributing factor.
+- Working in (alternating sets with someone on the same equipment) is standard gym practice; if someone asks, the answer is yes unless you have one set left.
+- When someone breaks etiquette around you, a polite question ("Are you using this, or can I work in?") resolves 90% of situations without conflict.
+
 ## The 5 non-negotiable gym etiquette rules
 
 Here are the rules that matter most:

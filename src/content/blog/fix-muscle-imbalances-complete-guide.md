@@ -11,6 +11,14 @@ You're halfway through your bench press set when you notice something off. The r
 
 You're dealing with a muscle imbalance. You're not alone. [53% of recreational gym athletes report pain or instability](https://pmc.ncbi.nlm.nih.gov/articles/PMC10821116/) related to asymmetries. But before you panic and start doing extra sets on your weak side, you need to understand when normal becomes problematic and what actually works to fix it.
 
+## Key Takeaways
+
+- A 3-5% strength or size difference between sides is completely normal. Imbalances beyond 15% significantly increase injury risk and need focused correction.
+- The fix: add unilateral (single-limb) exercises, always train your weak side first, and let the weak side dictate the weight and reps for both sides.
+- Never add extra volume to the weak side. Match volume on both sides and let the progressive stimulus close the gap naturally over 8-12 weeks for minor imbalances.
+- Cross-education research shows training one limb creates approximately 18% strength gains in the untrained opposite limb through neural adaptations alone.
+- If pain accompanies the asymmetry, or the imbalance exceeds 18%, or 12 weeks of consistent correction shows no improvement, seek professional assessment.
+
 ## What is a muscle imbalance?
 
 A muscle imbalance means one side of your body is stronger, bigger, or more flexible than the other. Sometimes it refers to opposing muscle groups being out of balance (tight hip flexors overpowering weak glutes, for example), but most people notice the left-right version first.
@@ -162,3 +170,17 @@ Most people try to shortcut the timeline or overcomplicate the approach. Neither
 [Forge's AI trainers](https://forgetrainer.ai) automatically track your single-side performance and adjust your programming to address imbalances as they emerge. You don't have to remember the weak-side-first protocol or calculate bilateral-to-unilateral ratios. The system builds balanced development into every workout, so you can focus on execution instead of program design.
 
 Stop accepting that one side will always be weaker. You have the information and the methods. You just need to apply them.
+
+## Frequently Asked Questions
+
+### How long does it take to fix a muscle imbalance?
+
+Minor imbalances (5-10% difference) typically correct within 8-12 weeks of consistent unilateral training. Moderate imbalances (10-15%) take 3-6 months. Severe imbalances (15%+) require 6-12 months of dedicated work. Neural adaptations come first (weeks 1-4), followed by gradual structural changes in muscle size and strength.
+
+### Should I do extra sets on my weaker side to fix an imbalance?
+
+No. Adding extra volume to the weak side is the most common mistake and can actually slow progress by creating fatigue imbalances. Instead, train your weak side first while fresh, let it dictate the weight, and match the exact same sets and reps on your strong side. The controlled stimulus difference closes the gap over time.
+
+### Is it normal for one arm or leg to be stronger than the other?
+
+Yes. A 3-5% strength difference between sides is completely normal and doesn't require intervention. Around 90% of people are right-handed, so most naturally have a slightly stronger right side. You should only begin corrective work when the difference exceeds 5%, and seek professional help if it exceeds 18%.

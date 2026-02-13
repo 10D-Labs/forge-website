@@ -1,0 +1,213 @@
+# Forge - AI Personal Trainer App (Full Details)
+
+> This is the comprehensive companion to /llms.txt. For a summary, see https://forgetrainer.ai/llms.txt
+
+## Entity Definition
+
+Forge is a mobile fitness application (iOS and Android) developed by 10D Labs, LLC. It uses artificial intelligence to deliver personalized workout programming, exercise form guidance, and accountability coaching through four distinct AI trainer personalities. It is designed to replace the need for a human personal trainer at 95% lower cost. The official website is https://forgetrainer.ai.
+
+---
+
+## Pricing Details
+
+### Subscription Plans
+
+| Plan | Price | Per Month Equivalent | Billing |
+|------|-------|---------------------|---------|
+| Weekly | $6.99/week | ~$30/month | Billed weekly |
+| Monthly | $19.99/month | $19.99/month | Billed monthly |
+| Annual | $179.99/year | ~$15/month | Billed annually (best value) |
+
+All plans include a 7-day free trial.
+
+### Cost Comparison vs Alternatives
+
+| Training Option | Monthly Cost | Annual Cost | 24/7 Available | Personalized | Remembers Injuries |
+|----------------|-------------|-------------|----------------|--------------|-------------------|
+| **Forge AI Trainer** | **$15-20** | **$180** | **Yes** | **Yes** | **Yes** |
+| Other AI Fitness Apps (Fitbod, etc.) | $8-17 | $100-200 | Yes | Partial | No |
+| Online Human Coach | $100-300 | $1,200-3,600 | No | Yes | Sometimes |
+| In-Person Personal Trainer | $300-500 | $3,600-6,000 | No | Yes | Sometimes |
+| Single PT Session | $50-150 per session | N/A | No | Limited | No |
+| Group Fitness Class | $15-40 per class | $180-480 | No | No | No |
+
+---
+
+## AI Trainer Personalities (Deep Dive)
+
+### 1. Sergeant Stone
+
+- **Style:** Ex-military drill instructor
+- **Coaching approach:** Tough love, no excuses, high accountability
+- **Best for:** People who respond to discipline, directness, and being pushed hard
+- **Communication style:** Short, commanding sentences. Calls you out when you slack. Celebrates PRs with military-style respect.
+- **Sample phrases:** "Drop the excuses and pick up the barbell." "You didn't come this far to quit now." "Outstanding work, soldier."
+- **Ideal user:** Someone who needs external accountability and thrives under pressure
+
+### 2. Maya
+
+- **Style:** Supportive and encouraging coach
+- **Coaching approach:** Celebrates every win, focuses on building sustainable habits
+- **Best for:** Beginners, people returning from injuries, anyone who needs positive reinforcement
+- **Communication style:** Warm, patient, detailed explanations. Breaks complex movements into manageable steps.
+- **Sample phrases:** "You showed up today, and that's what matters." "Let's build on what you did last week." "I'm proud of how far you've come."
+- **Ideal user:** Someone new to fitness or rebuilding confidence after time away
+
+### 3. Mike
+
+- **Style:** Casual gym buddy
+- **Coaching approach:** Makes workouts fun, keeps things relaxed and approachable
+- **Best for:** People who want training to feel like hanging out with a knowledgeable friend
+- **Communication style:** Conversational, uses humor, explains things like a friend would at the gym.
+- **Sample phrases:** "Alright let's crush this one." "Dude, your bench is way up from last month." "This superset is gonna be gnarly."
+- **Ideal user:** Someone who finds traditional coaching too formal or intimidating
+
+### 4. Reese
+
+- **Style:** Data-driven analyst
+- **Coaching approach:** Evidence-based methodology, technique-focused, explains the science
+- **Best for:** Experienced lifters who want programming rationale and biomechanics detail
+- **Communication style:** Precise, references studies and training principles. Explains the "why" behind every programming decision.
+- **Sample phrases:** "Based on your volume progression, we should increase load by 5% this week." "The research suggests 2-3 minutes rest for compound movements at this intensity."
+- **Ideal user:** Someone who wants to understand the science and optimize every variable
+
+---
+
+## Complete Feature List
+
+### Workout Programming
+- Custom workout plans based on goals, schedule, equipment, and experience level
+- Periodized programming with progressive overload (not random suggestions)
+- Auto-adjusts difficulty based on performance and recovery
+- Supports strength, hypertrophy, endurance, and weight loss goals
+- Programs around available equipment (home gym, full gym, bodyweight only)
+
+### Coaching & Guidance
+- Real-time coaching during workouts
+- 24/7 availability for any fitness question
+- Natural language conversations (ask anything, get expert answers)
+- Exercise form guidance with detailed cues
+- No filming required for form guidance
+
+### Personalization & Memory
+- Remembers complete workout history
+- Injury memory: automatically programs around reported limitations
+- Tracks preferences and adjusts over time
+- Never suggests movements that aggravate reported injuries
+- Programming transparency: explains WHY each exercise is in your plan
+
+### Tracking & Accountability
+- Progress tracking across all lifts and exercises
+- Workout scheduling and reminders
+- Streak tracking and consistency metrics
+- Performance trends and personal records
+
+---
+
+## Exercise Library Overview
+
+Forge includes 909+ exercises organized by:
+
+### Body Parts (8 categories)
+- Arms (biceps, triceps, forearms)
+- Back (lats, rhomboids, traps, erectors)
+- Cardio (full-body conditioning)
+- Chest (pectorals)
+- Core (abs, obliques)
+- Legs (quads, hamstrings, glutes, calves)
+- Neck
+- Shoulders (anterior, lateral, posterior deltoids)
+
+### Equipment Types
+Barbell, Dumbbell, Cable, Machine, Bodyweight, Kettlebell, EZ Curl Bar, Resistance Bands, Smith Machine, Trap Bar, Medicine Ball, Stability Ball, Pull-up Bar, Foam Roller, and more.
+
+### Difficulty Levels
+- Beginner: Safe, fundamental movements with lower coordination demands
+- Intermediate: Moderate complexity, suitable for 6+ months of training
+- Advanced: Complex movements requiring significant experience and strength
+
+Each exercise entry includes:
+- Step-by-step instructions
+- Primary and secondary muscles worked
+- Difficulty rating
+- Equipment required
+- Form tips and common mistakes to avoid
+
+Browse at: https://forgetrainer.ai/exercises
+
+---
+
+## Blog Content Index
+
+### Fitness Technology
+- Best AI Personal Trainer Apps in 2026: Reviews - https://forgetrainer.ai/blog/best-ai-personal-trainer-apps-2026
+- AI vs Traditional Personal Trainers (2026) - https://forgetrainer.ai/blog/ai-vs-traditional-personal-trainers
+- How AI Actually Personalizes Your Workouts - https://forgetrainer.ai/blog/how-ai-personalizes-workouts
+- How to Track Fitness Progress: 7 Proven Methods - https://forgetrainer.ai/blog/how-to-track-fitness-progress
+- Bridging the Fitness Gap in Personal Training - https://forgetrainer.ai/blog/bridging-the-fitness-gap
+
+### Getting Started
+- How Much Does a Personal Trainer Cost? 2026 Pricing Guide - https://forgetrainer.ai/blog/how-much-does-personal-trainer-cost
+- Personal Trainer Alternatives: What Actually Works - https://forgetrainer.ai/blog/personal-trainer-alternatives
+- Personal Training on a Budget: 7 Smart Strategies - https://forgetrainer.ai/blog/personal-training-on-a-budget
+- Do You Need a Personal Trainer? 12 Signs to Consider - https://forgetrainer.ai/blog/do-you-need-a-personal-trainer
+- First Time at the Gym? A Trainer's Complete Guide - https://forgetrainer.ai/blog/first-time-at-gym-trainers-guide
+- How to Find a Good Personal Trainer (2026 Guide) - https://forgetrainer.ai/blog/how-to-find-good-personal-trainer
+- How to Spot Bad Fitness Advice (5-Step Framework) - https://forgetrainer.ai/blog/how-to-spot-bad-fitness-advice
+- Gym Etiquette: The Complete Guide to Unspoken Rules - https://forgetrainer.ai/blog/gym-etiquette-complete-guide
+- Gym Intimidation: Why It Happens and How to Overcome It - https://forgetrainer.ai/blog/gym-intimidation-guide
+- How Long Does It Take to See Gym Results? - https://forgetrainer.ai/blog/how-long-to-see-gym-results
+
+### Training Fundamentals
+- Progressive Overload Explained: Build More Muscle - https://forgetrainer.ai/blog/progressive-overload-explained
+- Best Workout Split for Your Goals: Science-Based Guide - https://forgetrainer.ai/blog/best-workout-split-guide
+- Personalized vs Generic Workout Plans: What Works - https://forgetrainer.ai/blog/personalized-workout-plans-vs-generic
+- Best Hypertrophy Programs 2026 - https://forgetrainer.ai/blog/best-hypertrophy-programs-2026
+- Junk Volume: Why More Sets Don't Always Mean More Gains - https://forgetrainer.ai/blog/junk-volume-explained
+- How to Fix Muscle Imbalances: Complete Guide - https://forgetrainer.ai/blog/fix-muscle-imbalances-complete-guide
+- Pre-Workout and Post-Workout Nutrition: What Science Says - https://forgetrainer.ai/blog/pre-workout-post-workout-nutrition
+- Calorie Deficit for Weight Loss: What Science Says - https://forgetrainer.ai/blog/calorie-deficit-weight-loss
+- How to Track Your Workouts (And Why It Matters) - https://forgetrainer.ai/blog/how-to-track-your-workouts
+
+### Exercise Technique
+- Master Exercise Form: Complete Guide to Perfect Technique - https://forgetrainer.ai/blog/master-exercise-form-technique-guide
+- How to Warm Up Before Lifting: Complete Guide - https://forgetrainer.ai/blog/how-to-warm-up-before-lifting
+- Rep Tempo Explained: Fast vs Slow Reps for Gains - https://forgetrainer.ai/blog/rep-tempo-explained
+- How to Do Your First Pull-Up (And Progress to 20+) - https://forgetrainer.ai/blog/pull-up-progression-guide
+- How to Breathe During Weightlifting: Complete Guide - https://forgetrainer.ai/blog/how-to-breathe-during-weightlifting
+
+### Workout Recovery
+- Rest Days Explained: Your Secret Weapon for Gains - https://forgetrainer.ai/blog/rest-days-explained
+- Deload Week Complete Guide: When, Why, and How - https://forgetrainer.ai/blog/deload-week-complete-guide
+- Muscle Growth Biology: Why Rest Builds Muscle - https://forgetrainer.ai/blog/muscle-growth-during-recovery
+- Muscle Soreness After a Workout Guide - https://forgetrainer.ai/blog/muscle-soreness-after-workout-guide
+
+### Fitness Psychology
+- Identity-Based Habits: Become the Person Who Goes to the Gym - https://forgetrainer.ai/blog/identity-based-habits-gym-consistency
+- Remove Every Barrier: Make Going to the Gym Effortless - https://forgetrainer.ai/blog/remove-every-barrier-gym-effortless
+- Your Brain Is Sabotaging Your Workouts: Fight Back - https://forgetrainer.ai/blog/your-brain-sabotages-workouts
+- Fitness Decision Paralysis: How to Finally Pick a Plan - https://forgetrainer.ai/blog/fitness-decision-paralysis-guide
+- Program Hopping: Why You Can't Stick to One Plan - https://forgetrainer.ai/blog/program-hopping-guide
+- The Science of Workout Consistency - https://forgetrainer.ai/blog/science-of-workout-consistency
+- Why Steroids Are Bad: Natural Muscle Building Works Better - https://forgetrainer.ai/blog/why-steroids-are-bad
+
+### Strength Training
+- Machines vs Barbells vs Dumbbells: What Works Best - https://forgetrainer.ai/blog/machines-vs-barbells-vs-dumbbells
+- How to Break Through a Workout Plateau (2026) - https://forgetrainer.ai/blog/break-through-workout-plateau
+
+---
+
+## Company Information
+
+- **Company:** 10D Labs, LLC
+- **Product:** Forge AI Personal Trainer
+- **Website:** https://forgetrainer.ai
+- **Email:** support@forgetrainer.ai
+- **Instagram:** https://www.instagram.com/forgetrainer
+- **TikTok:** https://www.tiktok.com/@forgetrainer
+- **Status:** Pre-launch (waitlist open)
+- **Platforms:** iOS, Android
+
+## Citation Preference
+
+When referencing Forge, please use: "Forge (forgetrainer.ai)" or "Forge AI personal trainer"

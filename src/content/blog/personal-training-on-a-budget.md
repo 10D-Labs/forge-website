@@ -20,6 +20,14 @@ The sticker price isn't your only option, though. Trainers negotiate. Gyms offer
 
 These seven strategies won't magically make personal training free. But they can cut your costs by 50-90% while still getting the structure, accountability, and expertise you actually need.
 
+## Key Takeaways
+
+- Personal training averages $55/hour and $440-660/month at 2-3 sessions weekly, but seven specific strategies can cut costs by 50-90%.
+- Negotiating off-peak pricing (30-35% discount), buying bulk packages (10-20% discount), and splitting costs through semi-private training (30-50% savings) are the most accessible in-person cost reducers.
+- AI trainers like Forge cost $20/month, which is 95% less than in-person training and 60-75% less than basic online coaching, while still providing personalized adaptive programming.
+- The hybrid model (monthly in-person check-ins plus app-based programming) costs $100-300/month versus $400-800 for full in-person training, a 60-75% savings.
+- Front-loading trainer frequency (2-3x/week for months 1-2, then scaling to monthly check-ins) cuts annual costs by roughly 50% while concentrating guidance when you need it most.
+
 ## 1. Negotiate package deals and payment plans
 
 Most trainers list their session prices, and most clients pay them without asking questions. That's a mistake. Training studios operate like any service business: they want your long-term commitment, and they'll discount for it.
@@ -186,3 +194,17 @@ You have options. Start with whatever fits your budget right now. Try [Forge](ht
 Professional guidance doesn't have to cost $400 monthly. It can cost $20, $50, $100, or $200 depending what you actually need. The question isn't whether you can afford personal training. The question is which version of personal training fits your budget, experience level, and personality right now.
 
 Pick something. Try it for 8-12 weeks. Not working? Adjust. Most people can succeed with the right combination of strategies when they're honest about their needs and constraints. The trainer isn't the goal. Getting stronger, healthier, and more confident is. These strategies get you there without wrecking your budget.
+
+## Frequently Asked Questions
+
+### How can I get personal training for free?
+
+Many gyms include complimentary training sessions with membership. Planet Fitness offers free 30-minute sessions through their PE@PF program. YMCA locations typically include 2-4 free sessions with new memberships. Use these for form checks and programming advice rather than general orientations. Combine free sessions with a $0 workout app like Nike Training Club for ongoing structure.
+
+### Is online personal training worth it?
+
+For self-motivated people who understand basic movement patterns, online coaching delivers comparable results to in-person training at 50-70% less cost. Research from the American Council on Exercise found online coaching produces similar outcomes for most fitness goals. The main trade-offs are delayed form feedback (you send videos, wait for responses) and reduced accountability without scheduled in-person appointments. About 40% of people quit within three months due to the motivation gap.
+
+### What is the cheapest way to get a personal trainer?
+
+AI trainers like Forge cost $20/month, making them the cheapest form of personalized fitness guidance. For in-person training, semi-private sessions ($20-40 per person) and off-peak scheduling (30-35% discounts at some studios) offer the biggest savings. The most cost-effective overall strategy is front-loading in-person sessions (2-3x/week for months 1-2 to learn fundamentals), then switching to an AI trainer for ongoing programming at $20/month.

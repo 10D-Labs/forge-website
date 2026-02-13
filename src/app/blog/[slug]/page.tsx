@@ -41,6 +41,7 @@ export async function generateMetadata({
       description: post.excerpt,
       type: "article",
       publishedTime: post.date,
+      modifiedTime: post.date,
       authors: [post.author],
       url: `https://forgetrainer.ai/blog/${slug}`,
     },
@@ -77,6 +78,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
         title={post.title}
         description={post.excerpt}
         publishedTime={post.date}
+        modifiedTime={post.date}
         author={post.author}
         url={`https://forgetrainer.ai/blog/${slug}`}
         wordCount={wordCount}
@@ -158,7 +160,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
 
               <div className="flex items-center gap-4 text-sm text-text-tertiary font-barlow">
                 <time dateTime={post.date}>
-                  {new Date(post.date).toLocaleDateString("en-US", {
+                  {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
                     month: "long",
                     day: "numeric",
                     year: "numeric",
@@ -210,7 +212,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                             dateTime={relatedPost.date}
                             className="text-xs text-text-tertiary font-barlow uppercase tracking-wide"
                           >
-                            {new Date(relatedPost.date).toLocaleDateString(
+                            {new Date(relatedPost.date + "T12:00:00").toLocaleDateString(
                               "en-US",
                               {
                                 month: "short",

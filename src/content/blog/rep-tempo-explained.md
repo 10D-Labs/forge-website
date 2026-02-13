@@ -19,6 +19,14 @@ The confusion is understandable. For decades, bodybuilding magazines promoted su
 
 The research tells a more interesting story. Rep tempo does matter, but probably not in the ways you've been told. Understanding when to lift fast, when to lift slow, and when it genuinely doesn't matter much will help you train smarter and get better results.
 
+## Key Takeaways
+
+- Rep tempos from 0.5 to 8 seconds produce similar muscle growth; super slow reps (10+ seconds) actually underperform normal tempo training
+- The eccentric (lowering) phase matters most: eccentric-focused training produced 10.0% mean muscle growth vs. 6.8% for concentric-focused training
+- For hypertrophy, aim for set durations of 20-70 seconds with a 2-0-1-0 or 3-0-1-0 tempo and challenging loads
+- For maximum strength, use explosive concentric intent (2-0-X-0) with heavy loads; the intent to accelerate matters even when the bar moves slowly
+- Progression (adding weight, reps, or volume over time) drives results far more than obsessing over precise tempo counting
+
 ## What is Rep Tempo? Understanding Tempo Notation (3-1-2-0)
 
 Before we dig into what works, you need to understand how trainers describe rep tempo. You might see something like "3-1-2-0" written next to an exercise in a program. This looks cryptic, but it's actually straightforward once you know the system.

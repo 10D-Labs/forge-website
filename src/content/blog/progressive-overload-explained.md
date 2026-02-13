@@ -13,6 +13,14 @@ The missing piece is almost always progressive overload, the single most importa
 
 Progressive overload sounds technical, but the concept is beautifully simple: gradually increase the demands you place on your muscles over time. Your body adapts to stress, so if you want continued adaptation (read: results), you need continued progression.
 
+## Key Takeaways
+
+- Progressive overload is the single most important principle for building muscle and gaining strength: without it, your body has no reason to adapt
+- There are 7 methods to apply it: increasing weight, adding reps, adding sets, increasing frequency, improving range of motion, reducing rest periods, and increasing time under tension
+- For upper body exercises, increase weight by 2.5-5 pounds per session; for lower body, 5-10 pounds is typical
+- Natural lifters can expect roughly 18-24 pounds of muscle in year one (men), with diminishing returns each subsequent year
+- Plan deload weeks every 4-8 weeks, reducing volume by 30-50% to allow accumulated fatigue to dissipate
+
 ## What Progressive Overload Really Means
 
 At its core, progressive overload is the practice of systematically increasing the stress placed on your musculoskeletal system during training. When you challenge your muscles beyond what they're accustomed to, they respond by getting stronger and bigger to handle that new demand.
@@ -205,3 +213,17 @@ Some weeks you'll add weight. Some weeks you'll add reps. Some weeks you'll main
 Start tracking your workouts today if you haven't already. Pick one exercise and commit to progressing it systematically over the next 12 weeks. The difference between where you are now and where you could be in a year comes down to consistently applying these principles.
 
 Progressive overload is the difference between randomly working out and systematically training. One keeps you busy. The other changes your body.
+
+## Frequently Asked Questions
+
+### How much weight should I add each week for progressive overload?
+
+For upper body exercises, increase by 2.5-5 pounds per session. For lower body movements, 5-10 pound jumps are typical. These numbers apply to beginners and early intermediates. As you advance, monthly progressions shrink: intermediate lifters might add 2-5 pounds monthly on upper body and 5-10 on lower body, while advanced lifters may celebrate adding 5 pounds in six months.
+
+### What should I do when I hit a plateau with progressive overload?
+
+Switch your progression method. If you've been adding weight, shift to adding volume (more reps or sets). You can also adjust exercise selection with subtle variations, address weak supporting muscle groups, take a deload week, or examine your nutrition and sleep. Plateaus that last 2-3 weeks despite honest effort warrant a strategy change.
+
+### Do I need to track my workouts for progressive overload to work?
+
+Tracking is essential. You cannot progress what you don't measure, and relying on memory is unreliable for knowing whether you're actually lifting more than last week. A simple notebook or fitness app works. Record exercises, weights, sets, reps, and rest periods. This data creates accountability and reveals patterns that drive continued progress.

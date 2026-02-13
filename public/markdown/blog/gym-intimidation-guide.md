@@ -11,6 +11,14 @@ You've paid for the membership. You've bought new workout clothes. You've watche
 
 If that sounds familiar, you're not alone. [More than 40% of Americans avoid working out due to gym anxiety](https://flexfitnessapp.com/blog/gymtimidation-survey/), a phenomenon that's earned its own name: gymtimidation. The anxiety won't disappear just because you want it to. Wishing it away doesn't work. But understanding why it happens and having a specific plan to work through it does.
 
+## Key Takeaways
+
+- Over 40% of Americans avoid gyms due to intimidation, and 88% of women report experiencing gym anxiety, making this one of the most common barriers to fitness.
+- The spotlight effect (a well-documented psychological bias) causes you to massively overestimate how much others notice you; in reality, most gym-goers are focused entirely on their own workouts.
+- A structured 30-day framework works: weeks 1-2 focus on just showing up, weeks 3-4 on expanding to new areas, and weeks 5-6 on building real confidence through consistency.
+- Practical first-visit strategies include going during off-peak hours (10am-3pm weekdays), starting with machines instead of free weights, using the 10-minute commitment rule, and bringing a friend.
+- People attending the gym four or more times per week are 263% more likely to feel confident, confirming that consistency is the primary cure for gym intimidation.
+
 ## What gym intimidation is and why it's so common
 
 Gym intimidation is the fear or anxiety that stops you from going to the gym or makes you uncomfortable while you're there. It's not weakness or being overdramatic. It's a psychological response to walking into an environment where you feel judged, out of place, or incompetent.
@@ -102,3 +110,17 @@ Confidence doesn't come from feeling ready. It comes from doing the thing before
 You don't need to love the gym. You don't need to become a fitness enthusiast. You just need to get past the part where walking through the door feels impossible.
 
 Start with ten minutes. Start with machines. Start with off-peak hours. Start with [a simple plan someone else built for you](https://forgetrainer.ai). The intimidation fades when you give it less power than your commitment to showing up.
+
+## Frequently Asked Questions
+
+### Is gym intimidation normal?
+
+Very normal. Over 40% of Americans avoid working out due to gym anxiety, and 88% of women report experiencing it. The psychology behind it is well-documented: the spotlight effect makes you overestimate how much others notice you, knowledge gaps amplify feelings of incompetence, and social comparison makes you judge your day one against someone else's day 1,000. Understanding these mechanisms is the first step toward managing them.
+
+### How long does it take to get over gym anxiety?
+
+Most people see significant improvement within 4-6 weeks of consistent attendance. Research shows that people attending four or more times per week are 263% more likely to feel confident at the gym. The structured 30-day framework (familiarization in weeks 1-2, expansion in weeks 3-4, confidence building in weeks 5-6) gives your nervous system time to learn the gym is not a threat.
+
+### What is the best time to go to the gym to avoid crowds?
+
+Weekday mornings from 10am to 3pm and late evenings after 8pm are typically the quietest. Avoid the 6-8am pre-work rush, the 12-1pm lunch rush, and the 5-7pm after-work rush. 55% of people report that crowded gyms increase their anxiety, so starting during off-peak hours reduces one of the biggest intimidation triggers while you build comfort and familiarity with the space.

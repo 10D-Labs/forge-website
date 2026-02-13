@@ -19,6 +19,14 @@ Calorie deficits are thermodynamically required for weight loss. This is physics
 
 Understanding this distinction changes everything about how you approach fat loss.
 
+## Key Takeaways
+
+- Calorie deficits are thermodynamically required for fat loss -- every successful diet (keto, vegan, intermittent fasting, paleo) works by creating a deficit, whether tracked or not.
+- Food quality affects both sides of the energy equation: an NIH study found people spontaneously ate 508 more calories per day on ultra-processed diets versus whole-food diets matched for macros.
+- Protein has the highest thermic effect (20-30% of calories burned during digestion vs. 0-3% for fat), and high-protein diets reduce net calorie intake by 441-494 calories per day.
+- NEAT (Non-Exercise Activity Thermogenesis) can vary by up to 2,000 calories per day between people of similar size, making daily movement a massive factor in energy expenditure.
+- Common reasons for stalled weight loss include tracking errors (people underreport intake by 223-764+ calories/day), water retention masking fat loss, and metabolic adaptation reducing expenditure by 50-500 calories/day.
+
 ## What is a calorie deficit?
 
 A calorie deficit occurs when you consume fewer calories than your body burns for energy. Your body must then use stored energy (primarily body fat) to make up the difference, resulting in weight loss.
@@ -271,3 +279,23 @@ Stop looking for shortcuts. Get the basics right. Find the approach you can sust
 Energy balance determines fat loss. Whether you can stick with it long enough to see results comes down to psychology, not thermodynamics.
 
 [Forge](https://forgetrainer.ai) combines both: the science of energy balance with the psychology of sustainable behavior change. Join the waitlist to get access when we launch.
+
+---
+
+## Frequently Asked Questions
+
+### Do I have to count calories to lose weight?
+
+No. A calorie deficit is required for fat loss, but you don't have to track calories to create one. Building your diet around high-protein, high-volume, whole foods naturally reduces intake by up to 500 calories per day compared to ultra-processed diets, often creating a deficit without conscious counting.
+
+### How many calories should I eat to lose weight?
+
+Sustainable fat loss typically requires a deficit of 300-500 calories below your Total Daily Energy Expenditure (TDEE). Online calculators provide a starting point, but expect to adjust based on real-world results over 3-4 weeks. Sustainable loss rates are 0.5-1.5 pounds per week.
+
+### Why am I not losing weight even though I'm in a calorie deficit?
+
+The most common culprits are tracking errors (people underreport intake by 223-764+ calories/day), water retention from new exercise or hormonal fluctuations masking fat loss, fitness trackers overestimating calorie burn by 20-50%, and metabolic adaptation reducing expenditure over time.
+
+### Does food quality matter for weight loss, or just calories?
+
+Both matter. Calorie balance determines whether you lose fat, but food quality determines how easy or hard it is to maintain that deficit. An NIH study found people ate 508 more calories per day on processed food versus whole food diets, even when both were matched for macros and available in unlimited quantities.

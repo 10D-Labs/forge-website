@@ -13,6 +13,14 @@ The answer might surprise you: you're probably not resting enough.
 
 In fitness culture, rest days often get treated like admissions of weakness. Social media feeds overflow with "no days off" hashtags and 5 AM grind posts. But here's what those posts don't show you: the science is crystal clear that rest isn't the opposite of progress. Recovery is where progress actually happens.
 
+## Key Takeaways
+
+- Muscles need 48-72 hours to recover after strenuous workouts, with 80% of participants returning to baseline performance within 48 hours
+- 66% of elite runners have experienced overtraining syndrome; if professionals are vulnerable, everyday lifters must take recovery seriously
+- Active recovery maintains endurance capacity far better than passive rest: only 4.1% performance decline vs. 11.8% with complete rest
+- Beginners need 2-3 rest days per week, intermediates 1-2, and advanced trainees should incorporate deload weeks every 4-6 weeks
+- Sleep is non-negotiable for recovery: growth hormone release during deep sleep drives the majority of physical adaptation
+
 ## What Really Happens When You Rest
 
 Your workout isn't building muscle. Read that again. The weights you lift, the miles you run, the burpees you suffer through—these create the stimulus for growth, but the actual transformation happens afterward, when you're sprawled on your couch or sleeping soundly at night.
@@ -140,3 +148,17 @@ You don't need to choose between being dedicated and being strategic. Taking res
 The iron doesn't care how many days in a row you show up. Your muscles don't get impressed by your work ethic. Your body responds to the stimulus you provide and the recovery you allow. Give it both, and you'll be amazed at what becomes possible.
 
 If you're struggling to find the right balance between training hard and recovering smart, platforms like [Forge](https://forgetrainer.ai) can help by creating personalized programs that build in appropriate rest days based on your individual needs and recovery data. Because the goal isn't to train as much as possible. It's to make as much progress as possible. And sometimes, the fastest way forward is to stand still for a day.
+
+## Frequently Asked Questions
+
+### How many rest days per week do I need?
+
+It depends on your training experience. Beginners (under 6 months of consistent training) should take 2-3 rest days per week. Intermediate trainees (6 months to 3 years) typically need 1-2 rest days. Advanced lifters can function on 1-2 rest days but should incorporate deload weeks every 4-6 weeks. Life stress, sleep quality, and training intensity all affect your individual needs.
+
+### What should I do on a rest day?
+
+Light active recovery is beneficial: a 30-minute walk, gentle yoga, or easy cycling at 50-70% of your max heart rate. Keep protein intake consistent since your muscles need amino acids for repair regardless of training. Prioritize 7-9 hours of sleep, as growth hormone release during deep sleep drives most physical adaptation. Avoid treating rest days as diet days since your body needs energy for the repair process.
+
+### How do I know if I'm overtraining?
+
+Watch for these signs: persistent fatigue, strength declining despite consistent effort, elevated resting heart rate (5-10 BPM above your baseline), chronic soreness lasting more than 48 hours, disrupted sleep, loss of motivation, frequent illness, and erratic appetite. If multiple symptoms appear, add rest days immediately. Overtraining syndrome can take weeks or months to recover from if left unchecked.
