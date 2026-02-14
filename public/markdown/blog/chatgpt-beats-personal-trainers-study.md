@@ -125,7 +125,7 @@ Those numbers made sense before this study. Now they make even more sense.
 
 If a free, generic chatbot can outperform certified trainers on information quality, what happens when purpose-built fitness AI gets comprehensive user data? What happens when it learns your patterns, remembers your history, and adapts to your responses in real-time?
 
-[Research on whether AI can replace personal trainers](https://forgetrainer.ai/blog/can-ai-replace-personal-trainer) has been mixed, mostly because "replace" is the wrong framing. The better question: What can AI do better, and what requires human judgment?
+[Research on whether AI can replace personal trainers](https://forgetrainer.ai/blog/can-ai-replace-personal-trainer-research) has been mixed, mostly because "replace" is the wrong framing. The better question: What can AI do better, and what requires human judgment?
 
 This study answered part of that question. For factual information, scientific accuracy, and actionable guidance on common questions, AI is already competitive with humans. In many cases, it's superior.
 

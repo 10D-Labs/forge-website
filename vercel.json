@@ -1,5 +1,32 @@
 {
   "framework": "nextjs",
+  "redirects": [
+    {
+      "source": "/blog/can-ai-replace-personal-trainer",
+      "destination": "/blog/can-ai-replace-personal-trainer-research",
+      "permanent": true
+    },
+    {
+      "source": "/topics/strength-training",
+      "destination": "/topics/strength-training-basics",
+      "permanent": true
+    },
+    {
+      "source": "/topics/fitness-technology",
+      "destination": "/topics/ai-fitness-technology",
+      "permanent": true
+    },
+    {
+      "source": "/topics/fitness-psychology",
+      "destination": "/topics/fitness-motivation",
+      "permanent": true
+    },
+    {
+      "source": "/topics/training-fundamentals",
+      "destination": "/topics/strength-training-basics",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/markdown/(.*).md",
