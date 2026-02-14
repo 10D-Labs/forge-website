@@ -1,5 +1,5 @@
 ---
-title: "Pre-workout and post-workout nutrition: What science actually says"
+title: "Pre- and Post-Workout Nutrition: What Science Says"
 date: "2026-02-05"
 excerpt: "Cut through nutrition myths with evidence-based answers on pre-workout and post-workout meals. Learn why timing matters less than total daily intake."
 author: "The Forge Team"

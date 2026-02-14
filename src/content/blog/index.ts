@@ -71,7 +71,7 @@ export const blogPosts: BlogPostMeta[] = [
   // }
   {
     slug: "chatgpt-beats-personal-trainers-study",
-    title: "ChatGPT Beat Certified Personal Trainers in a Head-to-Head Study",
+    title: "ChatGPT Beat Personal Trainers in a Head-to-Head Study",
     date: "2026-02-13",
     excerpt: "ChatGPT outperformed certified personal trainers in a blind study on 6 of 9 fitness questions. Here's what the peer-reviewed research means for training.",
     author: "The Forge Team",
@@ -98,7 +98,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "best-free-cheap-personal-trainer-alternatives-2026",
-    title: "Best Personal Trainer Alternatives: 17 Free & Cheap Options [2026]",
+    title: "Best Personal Trainer Alternatives: 17 Options [2026]",
     date: "2026-02-12",
     excerpt: "17 proven personal trainer alternatives from $0-$200/month. Detailed pricing, comparison tables, and honest reviews of what works vs in-person training.",
     author: "The Forge Team",
@@ -152,7 +152,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "muscle-soreness-after-workout-guide",
-    title: "Muscle soreness after a workout: what your body is actually telling you",
+    title: "Muscle Soreness After a Workout: What It Means",
     date: "2026-02-06",
     excerpt: "Learn what DOMS really means, how to tell muscle soreness from injury, when to train through it, and recovery methods backed by research.",
     author: "The Forge Team",
@@ -161,7 +161,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "pre-workout-post-workout-nutrition",
-    title: "Pre-workout and post-workout nutrition: What science actually says",
+    title: "Pre- and Post-Workout Nutrition: What Science Says",
     date: "2026-02-05",
     excerpt: "Cut through nutrition myths with evidence-based answers on pre-workout and post-workout meals. Learn why timing matters less than total daily intake.",
     author: "The Forge Team",
@@ -170,7 +170,7 @@ export const blogPosts: BlogPostMeta[] = [
   },
   {
     slug: "how-ai-personalizes-workouts",
-    title: "How AI Actually Personalizes Your Workouts (The Science Behind Smart Fitness Apps)",
+    title: "How AI Actually Personalizes Your Workouts",
     date: "2026-02-04",
     excerpt: "Every fitness app claims to 'personalize' workouts. Most are lying. Here's the science behind apps that actually adapt to you, and how to spot the difference.",
     author: "The Forge Team",

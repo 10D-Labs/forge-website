@@ -1,5 +1,5 @@
 ---
-title: "How AI Actually Personalizes Your Workouts (The Science Behind Smart Fitness Apps)"
+title: "How AI Actually Personalizes Your Workouts"
 date: "2026-02-04"
 excerpt: "Every fitness app claims to 'personalize' workouts. Most are lying. Here's the science behind apps that actually adapt to you, and how to spot the difference."
 author: "The Forge Team"

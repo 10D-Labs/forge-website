@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT Beat Certified Personal Trainers in a Head-to-Head Study"
+title: "ChatGPT Beat Personal Trainers in a Head-to-Head Study"
 date: "2026-02-13"
 excerpt: "ChatGPT outperformed certified personal trainers in a blind study on 6 of 9 fitness questions. Here's what the peer-reviewed research means for training."
 author: "The Forge Team"

@@ -1,5 +1,5 @@
 ---
-title: "Muscle soreness after a workout: what your body is actually telling you"
+title: "Muscle Soreness After a Workout: What It Means"
 date: "2026-02-06"
 excerpt: "Learn what DOMS really means, how to tell muscle soreness from injury, when to train through it, and recovery methods backed by research."
 author: "The Forge Team"
