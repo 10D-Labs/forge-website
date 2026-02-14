@@ -88,7 +88,7 @@ export const blogPosts: BlogPostMeta[] = [
     category: "training-fundamentals"
   },
   {
-    slug: "can-ai-replace-personal-trainer-research",
+    slug: "can-ai-replace-personal-trainer",
     title: "Can AI Replace a Personal Trainer? What the Research Says",
     date: "2026-02-12",
     excerpt: "65,000-user study shows AI personal trainers work, but hybrid AI-human coaching delivers 74% better results. What 20+ peer-reviewed studies reveal.",

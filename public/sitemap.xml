@@ -61,8 +61,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/topics/strength-training-basics</loc>
-    <lastmod>2026-01-18</lastmod>
+    <loc>https://forgetrainer.ai/topics/training-fundamentals</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/topics/strength-training</loc>
+    <lastmod>2026-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -73,14 +79,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/topics/fitness-motivation</loc>
-    <lastmod>2026-01-18</lastmod>
+    <loc>https://forgetrainer.ai/topics/fitness-psychology</loc>
+    <lastmod>2026-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/topics/ai-fitness-technology</loc>
-    <lastmod>2026-01-18</lastmod>
+    <loc>https://forgetrainer.ai/topics/fitness-technology</loc>
+    <lastmod>2026-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -131,7 +137,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/blog/can-ai-replace-personal-trainer-research</loc>
+    <loc>https://forgetrainer.ai/blog/can-ai-replace-personal-trainer</loc>
     <lastmod>2026-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

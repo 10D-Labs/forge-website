@@ -42,4 +42,4 @@ Personal trainers are invaluable for those who can access them. But cost, schedu
 
 ---
 
-*Forge Blog - https://forgetrainer.ai/topics/ai-fitness-technology*
+*Forge Blog - https://forgetrainer.ai/topics/fitness-technology*

@@ -47,4 +47,4 @@ Discover why constantly switching workout programs sabotages your progress and l
 
 ---
 
-*Forge Blog - https://forgetrainer.ai/topics/fitness-motivation*
+*Forge Blog - https://forgetrainer.ai/topics/fitness-psychology*

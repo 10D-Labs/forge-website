@@ -42,4 +42,4 @@ Every piece of gym equipment builds muscle differently. Learn when to use machin
 
 ---
 
-*Forge Blog - https://forgetrainer.ai/topics/strength-training-basics*
+*Forge Blog - https://forgetrainer.ai/topics/strength-training*
