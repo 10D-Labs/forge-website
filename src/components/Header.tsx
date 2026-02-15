@@ -25,7 +25,7 @@ const Header = () => {
   const handleWaitlistClick = (e: React.MouseEvent) => {
     e.preventDefault();
     if (pathname !== "/") {
-      router.push("/?scrollTo=waitlist");
+      router.push("/#waitlist");
     } else {
       scrollToElement('waitlist', { center: true });
     }

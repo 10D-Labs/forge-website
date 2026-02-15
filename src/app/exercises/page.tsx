@@ -162,7 +162,7 @@ export default function ExercisesPage() {
             schedule, and available equipment.
           </p>
           <Link
-            href="/?scrollTo=waitlist"
+            href="/#waitlist"
             className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground rounded-[14px] bg-primary border border-primary hover:bg-forge-orange-dark transition-colors"
           >
             <span>Join the Waitlist</span>

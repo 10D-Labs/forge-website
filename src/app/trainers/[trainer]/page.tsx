@@ -260,7 +260,7 @@ export default function TrainerPage({ params }: TrainerPageProps) {
               </motion.p>
               <motion.div variants={fadeInUp}>
                 <Link
-                  href="/?scrollTo=waitlist"
+                  href="/#waitlist"
                   className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed text-base font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all btn-neon rounded-[14px]"
                 >
                   Join the Waitlist
