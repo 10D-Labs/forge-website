@@ -3107,6 +3107,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://forgetrainer.ai/exercise/mountain-climber-time</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6009.gif</image:loc>
+      <image:title>Mountain Climber (Time)</image:title>
+      <image:caption>Mountain Climber (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/exercise/ring-muscle-up</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/0631.gif</image:loc>
@@ -3251,19 +3259,35 @@
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/treadmill-run</loc>
+    <loc>https://forgetrainer.ai/exercise/treadmill-run-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/0684.gif</image:loc>
-      <image:title>Treadmill Run</image:title>
-      <image:caption>Treadmill Run exercise demonstration</image:caption>
+      <image:title>Treadmill Run (Time)</image:title>
+      <image:caption>Treadmill Run (Time) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/run</loc>
+    <loc>https://forgetrainer.ai/exercise/treadmill-run-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6001.gif</image:loc>
+      <image:title>Treadmill Run (Distance)</image:title>
+      <image:caption>Treadmill Run (Distance) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/run-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/0685.gif</image:loc>
-      <image:title>Run</image:title>
-      <image:caption>Run exercise demonstration</image:caption>
+      <image:title>Run (Time)</image:title>
+      <image:caption>Run (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/run-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6000.gif</image:loc>
+      <image:title>Run (Distance)</image:title>
+      <image:caption>Run (Distance) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -4363,6 +4387,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://forgetrainer.ai/exercise/burpee-time</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6010.gif</image:loc>
+      <image:title>Burpee (Time)</image:title>
+      <image:caption>Burpee (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/exercise/dynamic-chest-stretch</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/1167.gif</image:loc>
@@ -4376,6 +4408,14 @@
       <image:loc>https://forgetrainer.ai/exercises/gifs/1201.gif</image:loc>
       <image:title>Dumbbell Burpee</image:title>
       <image:caption>Dumbbell Burpee exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/dumbbell-burpee-time</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6011.gif</image:loc>
+      <image:title>Dumbbell Burpee (Time)</image:title>
+      <image:caption>Dumbbell Burpee (Time) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -5979,11 +6019,19 @@
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/farmers-walk</loc>
+    <loc>https://forgetrainer.ai/exercise/farmers-walk-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/2133.gif</image:loc>
-      <image:title>Farmers Walk</image:title>
-      <image:caption>Farmers Walk exercise demonstration</image:caption>
+      <image:title>Farmers Walk (Time)</image:title>
+      <image:caption>Farmers Walk (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/farmers-walk-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6005.gif</image:loc>
+      <image:title>Farmers Walk (Distance)</image:title>
+      <image:caption>Farmers Walk (Distance) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -6003,27 +6051,51 @@
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/hands-bike</loc>
+    <loc>https://forgetrainer.ai/exercise/hands-bike-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/2139.gif</image:loc>
-      <image:title>Hands Bike</image:title>
-      <image:caption>Hands Bike exercise demonstration</image:caption>
+      <image:title>Hands Bike (Time)</image:title>
+      <image:caption>Hands Bike (Time) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/elliptical</loc>
+    <loc>https://forgetrainer.ai/exercise/hands-bike-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6013.gif</image:loc>
+      <image:title>Hands Bike (Distance)</image:title>
+      <image:caption>Hands Bike (Distance) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/elliptical-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/2141.gif</image:loc>
-      <image:title>Elliptical</image:title>
-      <image:caption>Elliptical exercise demonstration</image:caption>
+      <image:title>Elliptical (Time)</image:title>
+      <image:caption>Elliptical (Time) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/ski-ergometer</loc>
+    <loc>https://forgetrainer.ai/exercise/elliptical-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6007.gif</image:loc>
+      <image:title>Elliptical (Distance)</image:title>
+      <image:caption>Elliptical (Distance) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/ski-ergometer-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/2142.gif</image:loc>
-      <image:title>Ski Ergometer</image:title>
-      <image:caption>Ski Ergometer exercise demonstration</image:caption>
+      <image:title>Ski Ergometer (Time)</image:title>
+      <image:caption>Ski Ergometer (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/ski-ergometer-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6008.gif</image:loc>
+      <image:title>Ski Ergometer (Distance)</image:title>
+      <image:caption>Ski Ergometer (Distance) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -6099,11 +6171,19 @@
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/stairmaster</loc>
+    <loc>https://forgetrainer.ai/exercise/stairmaster-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/2311.gif</image:loc>
-      <image:title>Stairmaster</image:title>
-      <image:caption>Stairmaster exercise demonstration</image:caption>
+      <image:title>Stairmaster (Time)</image:title>
+      <image:caption>Stairmaster (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/stairmaster-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6006.gif</image:loc>
+      <image:title>Stairmaster (Distance)</image:title>
+      <image:caption>Stairmaster (Distance) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -6256,6 +6336,14 @@
       <image:loc>https://forgetrainer.ai/exercises/gifs/2612.gif</image:loc>
       <image:title>Jump Rope</image:title>
       <image:caption>Jump Rope exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/jump-rope-time</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6012.gif</image:loc>
+      <image:title>Jump Rope (Time)</image:title>
+      <image:caption>Jump Rope (Time) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -6899,11 +6987,19 @@
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/bear-crawl</loc>
+    <loc>https://forgetrainer.ai/exercise/bear-crawl-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/3360.gif</image:loc>
-      <image:title>Bear Crawl</image:title>
-      <image:caption>Bear Crawl exercise demonstration</image:caption>
+      <image:title>Bear Crawl (Time)</image:title>
+      <image:caption>Bear Crawl (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/bear-crawl-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6004.gif</image:loc>
+      <image:title>Bear Crawl (Distance)</image:title>
+      <image:caption>Bear Crawl (Distance) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -7139,11 +7235,19 @@
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/short-stride-run</loc>
+    <loc>https://forgetrainer.ai/exercise/short-stride-run-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/3656.gif</image:loc>
-      <image:title>Short Stride Run</image:title>
-      <image:caption>Short Stride Run exercise demonstration</image:caption>
+      <image:title>Short Stride Run (Time)</image:title>
+      <image:caption>Short Stride Run (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/short-stride-run-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6002.gif</image:loc>
+      <image:title>Short Stride Run (Distance)</image:title>
+      <image:caption>Short Stride Run (Distance) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
@@ -7179,11 +7283,19 @@
     </image:image>
   </url>
   <url>
-    <loc>https://forgetrainer.ai/exercise/walking-on-incline-treadmill</loc>
+    <loc>https://forgetrainer.ai/exercise/walking-on-incline-treadmill-time</loc>
     <image:image>
       <image:loc>https://forgetrainer.ai/exercises/gifs/3666.gif</image:loc>
-      <image:title>Walking on Incline Treadmill</image:title>
-      <image:caption>Walking on Incline Treadmill exercise demonstration</image:caption>
+      <image:title>Walking on Incline Treadmill (Time)</image:title>
+      <image:caption>Walking on Incline Treadmill (Time) exercise demonstration</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://forgetrainer.ai/exercise/walking-on-incline-treadmill-distance</loc>
+    <image:image>
+      <image:loc>https://forgetrainer.ai/exercises/gifs/6003.gif</image:loc>
+      <image:title>Walking on Incline Treadmill (Distance)</image:title>
+      <image:caption>Walking on Incline Treadmill (Distance) exercise demonstration</image:caption>
     </image:image>
   </url>
   <url>
