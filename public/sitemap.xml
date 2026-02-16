@@ -125,6 +125,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/beginner-gym-mistakes-to-avoid</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/chatgpt-beats-personal-trainers-study</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>

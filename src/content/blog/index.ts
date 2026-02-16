@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "beginner-gym-mistakes-to-avoid",
+    title: "Beginner gym mistakes that sabotage your results",
+    date: "2026-02-15",
+    excerpt: "Half of new gym members quit within six months, and most injuries happen in the first 90 days. These avoidable mistakes are why. Learn what's holding you back and how to fix it.",
+    author: "The Forge Team",
+    keywords: ["beginner gym mistakes", "gym mistakes to avoid", "workout mistakes beginners make", "how to avoid gym injuries", "beginner fitness mistakes", "gym form mistakes", "overtraining beginners"],
+    category: "getting-started"
+  },
+  {
     slug: "chatgpt-beats-personal-trainers-study",
     title: "ChatGPT Beat Personal Trainers in a Head-to-Head Study",
     date: "2026-02-13",
