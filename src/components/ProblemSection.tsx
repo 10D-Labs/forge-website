@@ -203,7 +203,7 @@ const ProblemSection = () => {
 
         {/* Research citation callout */}
         <motion.a
-          href="https://www.jssm.org/jssm-25-235.xml"
+          href="https://www.jssm.org/jssm-25-235.xml-Fulltext"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-10 mx-auto max-w-2xl flex items-start gap-3 p-4 rounded-[14px] border border-primary/15 bg-primary/[0.04] hover:bg-primary/[0.07] transition-colors cursor-pointer group"
