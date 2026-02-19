@@ -125,6 +125,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/sleep-and-muscle-recovery</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/stubborn-body-fat-loss-guide</loc>
     <lastmod>2026-02-15</lastmod>
     <changefreq>yearly</changefreq>

@@ -70,9 +70,18 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "sleep-and-muscle-recovery",
+    title: "Sleep and Muscle Recovery: The Missing Link to Gains",
+    date: "2026-02-19",
+    excerpt: "Poor sleep cuts muscle growth by 18%, tanks testosterone, and kills performance. Science-backed strategies to optimize sleep for maximum gains.",
+    author: "The Forge Team",
+    keywords: ["sleep and muscle recovery", "muscle protein synthesis", "sleep deprivation", "growth hormone", "testosterone", "workout performance", "recovery strategies", "sleep optimization"],
+    category: "workout-recovery"
+  },
+  {
     slug: "stubborn-body-fat-loss-guide",
     title: "How to lose stubborn body fat: what science says",
-    date: "2026-02-15",
+    date: "2026-02-17",
     excerpt: "Your lower belly, love handles, and inner thighs aren't just frustrating. They're biologically designed to hold on. Here's what's actually happening and what to do about it.",
     author: "The Forge Team",
     keywords: ["stubborn fat", "how to lose body fat", "fat loss plateau", "belly fat", "love handles", "metabolic adaptation", "body fat science"],
@@ -81,7 +90,7 @@ export const blogPosts: BlogPostMeta[] = [
   {
     slug: "beginner-gym-mistakes-to-avoid",
     title: "Beginner gym mistakes that sabotage your results",
-    date: "2026-02-15",
+    date: "2026-02-16",
     excerpt: "Half of new gym members quit within six months, and most injuries happen in the first 90 days. These avoidable mistakes are why. Learn what's holding you back and how to fix it.",
     author: "The Forge Team",
     keywords: ["beginner gym mistakes", "gym mistakes to avoid", "workout mistakes beginners make", "how to avoid gym injuries", "beginner fitness mistakes", "gym form mistakes", "overtraining beginners"],
