@@ -7,6 +7,8 @@ import {
   EQUIPMENT_SLUGS,
   DIFFICULTY_SLUGS,
 } from "@/types/exercise";
+import { trainers } from "@/content/trainers";
+import { topics } from "@/content/topics";
 
 const BASE_URL = "https://forgetrainer.ai";
 
@@ -50,6 +52,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: now,
       changeFrequency: "yearly",
       priority: 0.3,
+    },
+    {
+      url: `${BASE_URL}/support`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.4,
+    },
+    {
+      url: `${BASE_URL}/delete-account`,
+      lastModified: now,
+      changeFrequency: "yearly",
+      priority: 0.2,
+    },
+    {
+      url: `${BASE_URL}/ai-workout-planner`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.9,
     },
   ];
 
@@ -110,6 +130,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
+  // Trainer pages
+  const trainerPages: MetadataRoute.Sitemap = trainers.map((trainer) => ({
+    url: `${BASE_URL}/trainers/${trainer.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  // Topic pages
+  const topicPages: MetadataRoute.Sitemap = topics.map((topic) => ({
+    url: `${BASE_URL}/topics/${topic.slug}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.7,
+  }));
+
   // Blog posts
   const posts = getAllPosts();
   const blogPages: MetadataRoute.Sitemap = posts.map((post) => ({
@@ -122,6 +158,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Combine all pages
   return [
     ...staticPages,
+    ...trainerPages,
+    ...topicPages,
     ...blogPages,
     ...bodyPartPages,
     ...equipmentPages,

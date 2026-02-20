@@ -6,7 +6,7 @@ import StructuredData from "@/components/StructuredData";
 export const metadata: Metadata = {
   title: "About Forge - Our Mission to Make Fitness Accessible",
   description:
-    "Learn about Forge's mission to make personal training accessible to everyone through AI. Meet the team behind your AI fitness trainer.",
+    "Personal trainers cost $300-500/month. Forge built AI trainers that deliver custom workouts and 24/7 coaching for under $20. Meet the team.",
   keywords: [
     "Forge AI founders",
     "fitness accessibility mission",

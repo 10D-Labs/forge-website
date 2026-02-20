@@ -7,7 +7,7 @@ import { topics } from "@/content/topics";
 export const metadata: Metadata = {
   title: "Forge Fitness Blog - Training Tips, Workouts & Guidance",
   description:
-    "Expert fitness advice, workout tips, and training guidance from your AI personal trainer. Learn how to build muscle, lose fat, and transform your fitness.",
+    "Free fitness guides backed by research: workout splits, form tips, recovery science, and AI training. Updated weekly by the Forge team.",
   keywords: [
     "fitness blog",
     "workout tips",

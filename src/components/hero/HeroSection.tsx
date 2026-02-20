@@ -44,7 +44,7 @@ const HeroSection = () => {
               <span
                 className="inline-block font-barlow-condensed text-label-lg text-primary mb-6"
               >
-                Build Confidence. Build Strength.
+                AI-POWERED PERSONAL TRAINING
               </span>
             </div>
 
@@ -54,7 +54,7 @@ const HeroSection = () => {
               className="font-barlow-condensed text-display-lg font-black uppercase leading-none mb-8 headline-stagger hero-animate-item"
               itemProp="headline"
             >
-              <span>Your</span>
+              <span>Your AI</span>
               <span>Personal</span>
               <span>Trainer.</span>
             </h1>
@@ -64,7 +64,7 @@ const HeroSection = () => {
               className="text-lg md:text-xl text-text-secondary mb-10 leading-relaxed max-w-md hero-animate-item"
               itemProp="description"
             >
-              Personal training without the $500/month price tag. Whether you're a complete beginner or getting back into it, your AI trainer tells you exactly what to do.
+              AI personal training without the $500/month price tag. Whether you're a complete beginner or getting back into it, your AI fitness coach tells you exactly what to do.
             </p>
 
             {/* Waitlist Form */}

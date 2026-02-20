@@ -27,11 +27,11 @@ const barlowCondensed = Barlow_Condensed({
 
 export const metadata: Metadata = {
   title: {
-    default: "Forge - Build The Body You've Always Wanted",
-    template: "%s | Forge",
+    default: "Forge - AI Personal Trainer App",
+    template: "%s | Forge AI Trainer",
   },
   description:
-    "Ready to transform? Forge combines AI coaching with expert guidance to help you build strength, confidence, and the body you've always wanted. Start today.",
+    "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 trainer personalities. Fraction of the cost. Try Forge free.",
   keywords: [
     "AI personal trainer",
     "custom workout plans",
@@ -49,15 +49,15 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://forgetrainer.ai",
     siteName: "Forge",
-    title: "Forge - Build The Body You've Always Wanted",
+    title: "Forge - AI Personal Trainer App | Custom Workouts & 24/7 Coaching",
     description:
-      "Ready to transform? Forge combines AI coaching with expert guidance to help you build strength, confidence, and the body you've always wanted.",
+      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 trainer personalities. Fraction of the cost. Try Forge free.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Forge - Build The Body You've Always Wanted",
+    title: "Forge - AI Personal Trainer App | Custom Workouts & 24/7 Coaching",
     description:
-      "Ready to transform? Forge combines AI coaching with expert guidance to help you build strength, confidence, and the body you've always wanted.",
+      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 trainer personalities. Fraction of the cost. Try Forge free.",
   },
   robots: {
     index: true,

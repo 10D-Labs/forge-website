@@ -67,6 +67,21 @@ const homepageFAQs = [
     answer:
       "Forge remembers every injury you tell it — shoulder issues, bad back, knee problems, all of it. Unlike human trainers who forget or apps that ignore your settings, Forge automatically programs around your limitations. It substitutes exercises you can't do and never suggests movements that would aggravate old injuries. You'll never have to explain your history again.",
   },
+  {
+    question: "What is an AI personal trainer?",
+    answer:
+      "An AI personal trainer is software that uses artificial intelligence to do what a human personal trainer does: create custom workout plans, coach you through exercises, track your progress, and adjust your programming over time. Forge is an AI personal trainer app that goes further by offering four distinct trainer personalities, remembering your injury history, and explaining the reasoning behind every exercise in your plan.",
+  },
+  {
+    question: "How much does Forge cost?",
+    answer:
+      "Forge offers three plans: $6.99/week, $19.99/month, or $179.99/year (about $15/month). All plans include a 7-day free trial. Compare that to traditional personal trainers at $300-500/month, and Forge delivers similar personalized guidance for roughly 95% less.",
+  },
+  {
+    question: "Is AI fitness coaching effective?",
+    answer:
+      "Yes. A 2023 study published in the Journal of Sports Science & Medicine found that AI-generated workout plans matched or exceeded the quality of plans created by certified personal trainers. Forge builds on that foundation by adding real-time coaching, injury awareness, progressive overload tracking, and trainer personalities that keep you engaged long-term.",
+  },
 ];
 
 

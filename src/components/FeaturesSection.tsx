@@ -161,8 +161,8 @@ const FeaturesSection = () => {
             variants={fadeInUp}
             itemProp="name"
           >
-            Everything You Need
-            <span className="text-primary text-neon block">To Train Smarter</span>
+            Everything Your AI Personal Trainer
+            <span className="text-primary text-neon block">Does</span>
           </motion.h2>
           <motion.p
             className="text-text-secondary text-lg font-barlow"
