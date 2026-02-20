@@ -1,6 +1,6 @@
 ---
 title: "How to lose stubborn body fat: what science says"
-date: "2026-02-15"
+date: "2026-02-17"
 excerpt: "Your lower belly, love handles, and inner thighs aren't just frustrating. They're biologically designed to hold on. Here's what's actually happening and what to do about it."
 author: "The Forge Team"
 keywords: ["stubborn fat", "how to lose body fat", "fat loss plateau", "belly fat", "love handles", "metabolic adaptation", "body fat science"]
