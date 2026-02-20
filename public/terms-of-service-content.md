@@ -1,5 +1,5 @@
 # TERMS OF SERVICE
-Last updated January 28, 2026
+Last updated February 20, 2026
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -7,15 +7,15 @@ We are 10D Labs, LLC ("Company," "we," "us," "our"), a company registered in Tex
 
 We operate the website https://forgetrainer.ai (the "Site"), the mobile application Forge: AI Personal Trainer (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
-Forge™ is a fitness application developed by 10D Labs, LLC that provides personalized workout planning and coaching through artificial intelligence. Users create an account and provide information about their fitness goals, training preferences, experience level, body measurements, available equipment, and any physical limitations. Based on this information, Forge generates customized workout plans and provides ongoing guidance through an AI personal trainer that users can chat with at any time. The app tracks workout history, logs exercises, and monitors progress over time. Forge is available as a mobile app on iOS and Android. The service operates on a subscription basis.
+Forge is a fitness application developed by 10D Labs, LLC that provides personalized workout planning and coaching through artificial intelligence. Users create an account and provide information about their fitness goals, training preferences, experience level, body measurements, available equipment, and any physical limitations. Based on this information, Forge generates customized workout plans and provides ongoing guidance through an AI personal trainer that users can chat with at any time. The app tracks workout history, logs exercises, and monitors progress over time. Forge is available as a mobile app on iOS and Android. The service operates on a subscription basis.
 
 You can contact us by email at support@forgetrainer.ai or by mail to 109 W Fortune St. #2109, Tampa, FL 33602, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and 10D Labs, LLC, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
-Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms from time to time. We will alert you about any changes by updating the "Last updated" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.
+Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms from time to time. We will alert you about any changes by updating the "Last updated" date of these Legal Terms. For changes to pricing, subscription terms, the arbitration provision, or the limitations of liability, we will provide at least thirty (30) days' notice through the App or via email before the changes take effect. For all other changes, it is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted (or after the notice period has elapsed, where applicable).
 
-The Services are intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Services. If you are a minor, you must have your parent or guardian read and agree to these Legal Terms prior to you using the Services.
+The Services are intended for users who are at least 18 years of age. The App verifies your date of birth during account setup and will not permit users under 18 to create an account. By using the Services, you represent and warrant that you are at least 18 years of age.
 
 We recommend that you print a copy of these Legal Terms for your records.
 
@@ -51,13 +51,27 @@ We recommend that you print a copy of these Legal Terms for your records.
 
 ## 1. OUR SERVICES
 
-The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. Where we have specific obligations under local privacy laws (such as the GDPR), those obligations are described in our Privacy Policy.
 
 The Services are not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use the Services. You may not use the Services in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
 ### Health and Fitness Disclaimer
 
 THE SERVICES ARE INTENDED FOR GENERAL FITNESS PURPOSES ONLY AND DO NOT CONSTITUTE MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT. ALWAYS CONSULT WITH A QUALIFIED HEALTHCARE PROVIDER BEFORE BEGINNING ANY EXERCISE PROGRAM, ESPECIALLY IF YOU HAVE ANY PRE-EXISTING HEALTH CONDITIONS, INJURIES, OR CONCERNS. THE AI PERSONAL TRAINER FEATURE PROVIDES AUTOMATED GUIDANCE BASED ON THE INFORMATION YOU PROVIDE AND SHOULD NOT BE RELIED UPON AS A SUBSTITUTE FOR PROFESSIONAL MEDICAL OR FITNESS ADVICE. YOU ASSUME ALL RISK OF INJURY RESULTING FROM YOUR USE OF THE SERVICES.
+
+### AI Services Disclaimer
+
+THE AI PERSONAL TRAINER AND ALL AI-POWERED FEATURES OF THE SERVICES ARE PROVIDED USING AUTOMATED SYSTEMS AND THIRD-PARTY ARTIFICIAL INTELLIGENCE TECHNOLOGY. YOU ACKNOWLEDGE AND AGREE THAT:
+
+1. THE AI TRAINER IS NOT A CERTIFIED PERSONAL TRAINER, PHYSICIAN, DIETITIAN, OR OTHER LICENSED PROFESSIONAL. AI-GENERATED WORKOUT PLANS, EXERCISE RECOMMENDATIONS, WEIGHT AND REPETITION TARGETS, AND COACHING FEEDBACK ARE PRODUCED BY AUTOMATED SYSTEMS AND MAY CONTAIN ERRORS OR INACCURACIES.
+
+2. AI RECOMMENDATIONS ARE BASED SOLELY ON THE INFORMATION YOU PROVIDE AND YOUR RECORDED WORKOUT HISTORY. THE AI CANNOT ACCOUNT FOR CONDITIONS, INJURIES, OR LIMITATIONS THAT YOU HAVE NOT DISCLOSED. YOU ARE RESPONSIBLE FOR PROVIDING ACCURATE AND COMPLETE INFORMATION AND FOR EVALUATING WHETHER ANY RECOMMENDATION IS APPROPRIATE FOR YOUR INDIVIDUAL CIRCUMSTANCES.
+
+3. WHEN YOU BUILD CUSTOM WORKOUTS USING THE FREESTYLE WORKOUT FEATURE, THE EXERCISES AND PROGRAMMING ARE ENTIRELY YOUR OWN SELECTION. THESE USER-DIRECTED WORKOUTS ARE NOT REVIEWED, VALIDATED, OR RECOMMENDED BY THE AI AND ARE PERFORMED ENTIRELY AT YOUR OWN RISK.
+
+4. AI FEATURES ARE SUBJECT TO USAGE LIMITS AND MAY BE TEMPORARILY UNAVAILABLE DUE TO TECHNICAL ISSUES, MAINTENANCE, OR USAGE RESTRICTIONS. WE DO NOT GUARANTEE UNINTERRUPTED ACCESS TO AI FEATURES.
+
+5. YOU SHOULD ALWAYS USE YOUR OWN JUDGMENT WHEN FOLLOWING AI-GENERATED RECOMMENDATIONS. IF AN EXERCISE CAUSES PAIN OR DISCOMFORT, STOP IMMEDIATELY REGARDLESS OF WHAT THE AI HAS RECOMMENDED.
 
 ## 2. INTELLECTUAL PROPERTY RIGHTS
 
@@ -105,11 +119,10 @@ By using the Services, you represent and warrant that:
 1. all registration information you submit will be true, accurate, current, and complete;
 2. you will maintain the accuracy of such information and promptly update such registration information as necessary;
 3. you have the legal capacity and you agree to comply with these Legal Terms;
-4. you are not under the age of 13;
-5. you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Services;
-6. you will not access the Services through automated or non-human means, whether through a bot, script or otherwise;
-7. you will not use the Services for any illegal or unauthorized purpose; and
-8. your use of the Services will not violate any applicable law or regulation.
+4. you are at least 18 years of age;
+5. you will not access the Services through automated or non-human means, whether through a bot, script or otherwise;
+6. you will not use the Services for any illegal or unauthorized purpose; and
+7. your use of the Services will not violate any applicable law or regulation.
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Services (or any portion thereof).
 
@@ -123,11 +136,11 @@ We accept the following forms of payment:
 - Payments through the Apple App Store
 - Payments through Google Play Store
 
-You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in US dollars.
+You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address and payment method, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in US dollars.
 
-You agree to pay all charges at the prices then in effect for your purchases and any applicable shipping fees, and you authorize us to charge your chosen payment provider for any such amounts upon placing your order. We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment.
+You agree to pay all charges at the prices then in effect for your purchases, and you authorize us to charge your chosen payment provider for any such amounts upon placing your order. We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment.
 
-We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
+We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account or the same payment method.
 
 ## 6. SUBSCRIPTIONS
 
@@ -142,6 +155,14 @@ You can cancel your subscription at any time. If you subscribed through the Appl
 ### Fee Changes
 
 We may, from time to time, make changes to the subscription fee and will communicate any price changes to you in accordance with applicable law.
+
+### AI Usage Limits
+
+AI-powered features of the Services, including chat with your AI trainer, workout plan generation, and post-workout feedback, are subject to usage limits that vary by subscription plan. Usage is measured based on the computational cost of AI processing for your account during each billing period.
+
+When you reach your AI usage limit for the current billing period, AI-powered features will be temporarily unavailable until your usage resets at the start of your next billing period. Core app functionality, including accessing your existing workout plans, logging workouts, and viewing your history, remains available regardless of AI usage status.
+
+We reserve the right to adjust usage limits, measurement methods, and the allocation of AI resources across subscription plans at any time. Any material changes to usage limits will be communicated in accordance with applicable law.
 
 ### California Automatic Renewal Disclosures
 
@@ -202,7 +223,7 @@ As a user of the Services, you agree not to:
 - Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
 - Delete the copyright or other proprietary rights notice from any Content.
 - Attempt to impersonate another user or person or use the username of another user.
-- Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
+- Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1x1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
 - Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
 - Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
 - Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
@@ -213,24 +234,35 @@ As a user of the Services, you agree not to:
 - Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
 - Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
 - Sell or otherwise transfer your profile.
-- Engaging the AI personal trainer in discussions or requests unrelated to fitness, exercise, nutrition, health, wellness, or the functionality of the app. The AI trainer is provided solely for fitness coaching purposes and should not be used as a general-purpose chatbot.
+- Attempt to circumvent, exploit, or artificially inflate AI usage limits through any means, including but not limited to creating multiple accounts, manipulating request patterns, or exploiting technical vulnerabilities in the usage tracking system.
+- Systematically using the AI personal trainer for purposes entirely unrelated to fitness, exercise, nutrition, health, wellness, or the functionality of the app, such as attempting to use it as a general-purpose chatbot for non-fitness tasks. Incidental off-topic messages during normal coaching interactions are not a violation of this provision.
 
 ## 9. USER GENERATED CONTRIBUTIONS
 
-The Services allow you to upload a profile picture for your account. Your profile picture is private and not visible to other users. By uploading a profile picture, you represent and warrant that:
+The Services allow you to:
+- Upload a profile picture for your account
+- Submit feedback and bug reports, including optional screenshots selected from your device
+
+**Profile Pictures.** Your profile picture is private and not visible to other users. By uploading a profile picture, you represent and warrant that:
 - You own the image or have the necessary rights to use it.
 - The image does not infringe on any third party's intellectual property or privacy rights.
 - The image is not obscene, offensive, or otherwise objectionable.
 
 We reserve the right to remove any profile picture that violates these terms or is otherwise inappropriate.
 
+**Feedback and Bug Reports.** You may submit feedback, suggestions, and bug reports through the App's built-in feedback feature. When submitting feedback, you may optionally attach screenshots from your device's photo library. By submitting feedback, you acknowledge that:
+- Feedback submissions, including any attached images, will be stored on our servers and reviewed by our team.
+- Screenshots you submit may contain personal information visible on your screen at the time the screenshot was taken. You are responsible for reviewing screenshots before submitting them.
+- We may use your feedback to improve the Services without obligation or compensation to you.
+- Feedback submission is rate-limited to prevent abuse.
+
 ## 10. CONTRIBUTION LICENSE
 
 You and Services agree that we may access, store, process, and use any information and personal data that you provide following the terms of the Privacy Policy and your choices (including settings).
 
-By submitting suggestions or other feedback regarding the Services, you agree that we can use and share such feedback for any purpose without compensation to you.
+By submitting suggestions or other feedback regarding the Services, you agree that we can use and share such feedback for any purpose without compensation to you, as further described in the "Your submissions" section of Section 2.
 
-We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Services. You are solely responsible for your Contributions to the Services and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
+You retain full ownership of your personal content, including your profile pictures and workout data. We do not assert any ownership over your personal content or claim any intellectual property rights in it. For clarity, Submissions (as defined in Section 2) are governed by the terms of that section. We are not liable for any statements or representations in your Contributions provided by you in any area on the Services. You are solely responsible for your Contributions to the Services and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
 
 ## 11. MOBILE APPLICATION LICENSE
 
@@ -282,9 +314,9 @@ We reserve the right, but not the obligation, to:
 
 We care about data privacy and security. Please review our Privacy Policy: https://forgetrainer.ai/privacy-policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms.
 
-Please be advised the Services are hosted in the United States, Canada, Germany, Ireland, United Kingdom, France, Singapore, Japan, South Korea, India, Australia and Brazil. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, Canada, Germany, Ireland, United Kingdom, France, Singapore, Japan, South Korea, India, Australia and Brazil, then through your continued use of the Services, you are transferring your data to the United States, Canada, Germany, Ireland, United Kingdom, France, Singapore, Japan, South Korea, India, Australia and Brazil, and you expressly consent to have your data transferred to and processed in the United States, Canada, Germany, Ireland, United Kingdom, France, Singapore, Japan, South Korea, India, Australia and Brazil.
+Please be advised the Services are primarily hosted in the United States. Our third-party service providers, including AI, analytics, and infrastructure providers, may process your data in other jurisdictions as part of delivering our Services. If you access the Services from any region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States and potentially other jurisdictions where our service providers operate, and you expressly consent to have your data transferred to and processed in those locations.
 
-Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children's Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Services as quickly as is reasonably practical.
+The Services are not intended for anyone under 18 years of age. We do not knowingly collect personal information from anyone under 18. If we receive actual knowledge that anyone under the age of 18 has provided personal information to us, we will delete that information from the Services as quickly as is reasonably practical.
 
 ## 15. TERM AND TERMINATION
 
@@ -292,11 +324,17 @@ These Legal Terms shall remain in full force and effect while you use the Servic
 
 If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
 
+### Account Deletion by You
+
+You may delete your account at any time through the App settings or by contacting us at support@forgetrainer.ai. For full details on how to delete your account, what data is removed, and what data may be retained in anonymized form, please visit https://forgetrainer.ai/delete-account and review our Privacy Policy.
+
+Account deletion does not automatically cancel any active subscription. You must separately cancel your subscription through your Apple ID or Google Play account settings before or after deleting your account to avoid further charges.
+
 ## 16. MODIFICATIONS AND INTERRUPTIONS
 
 We reserve the right to change, modify, or remove the contents of the Services at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Services. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Services.
 
-We cannot guarantee the Services will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Services, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Services at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Services during any downtime or discontinuance of the Services. Nothing in these Legal Terms will be construed to obligate us to maintain and support the Services or to supply any corrections, updates, or releases in connection therewith.
+We cannot guarantee the Services will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Services, resulting in interruptions, delays, or errors. AI-powered features depend on third-party AI service providers and may be temporarily unavailable due to provider outages, maintenance, capacity limitations, or other factors beyond our reasonable control. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Services at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Services during any downtime or discontinuance of the Services. Nothing in these Legal Terms will be construed to obligate us to maintain and support the Services or to supply any corrections, updates, or releases in connection therewith.
 
 ## 17. GOVERNING LAW
 
@@ -335,8 +373,9 @@ The Parties agree that any arbitration shall be limited to the Dispute between t
 
 The Parties agree that the following Disputes are not subject to the above provisions concerning informal negotiations binding arbitration:
 - any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party;
-- any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and
-- any claim for injunctive relief.
+- any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use;
+- any claim for injunctive relief; and
+- any individual action brought in small claims court within the jurisdictional limits of that court.
 
 If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
 
@@ -349,7 +388,7 @@ There may be information on the Services that contains typographical errors, ina
 THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
 WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICES' CONTENT OR THE CONTENT OF ANY WEBSITES OR MOBILE APPLICATIONS LINKED TO THE SERVICES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY:
-1. ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS,
+1. ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, INCLUDING AI-GENERATED WORKOUT PLANS, EXERCISE RECOMMENDATIONS, AND COACHING RESPONSES,
 2. PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES,
 3. ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN,
 4. ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICES,
@@ -360,7 +399,7 @@ WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT 
 
 ## 21. LIMITATIONS OF LIABILITY
 
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE SIX (6) MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING.
 
@@ -369,17 +408,19 @@ CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED
 ## 22. INDEMNIFICATION
 
 You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of:
-1. use of the Services;
-2. breach of these Legal Terms;
-3. any breach of your representations and warranties set forth in these Legal Terms;
-4. your violation of the rights of a third party, including but not limited to intellectual property rights; or
-5. any overt harmful act toward any other user of the Services with whom you connected via the Services.
+1. your breach of these Legal Terms;
+2. any breach of your representations and warranties set forth in these Legal Terms;
+3. your violation of the rights of a third party, including but not limited to intellectual property rights;
+4. any overt harmful act toward any other user of the Services with whom you connected via the Services; or
+5. your use of the Services in violation of applicable law.
 
 Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
 ## 23. USER DATA
 
 We will maintain certain data that you transmit to the Services for the purpose of managing the performance of the Services, as well as data relating to your use of the Services. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Services. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+
+For clarity, your personal workout data, exercise logs, and body measurements remain your data. We do not claim any intellectual property rights over the fitness data you input into the Services. You may export your data at any time through the App's data export feature or by contacting us.
 
 ## 24. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
 
