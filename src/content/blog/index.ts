@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "push-pull-legs-ppl-guide",
+    title: "Push Pull Legs (PPL): The Complete Workout Guide",
+    date: "2026-02-23",
+    excerpt: "Full 3-day and 6-day PPL workout templates with exercises, sets, reps, and progression schemes. Plus the science on training frequency, common mistakes, and recovery.",
+    author: "The Forge Team",
+    keywords: ["push pull legs", "PPL workout", "push pull legs routine", "PPL program", "push pull legs split", "6 day PPL", "3 day PPL"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "chatgpt-vs-ai-fitness-apps",
     title: "ChatGPT vs AI Fitness Apps: Which Should You Use for Workouts?",
     date: "2026-02-22",
