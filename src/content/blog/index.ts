@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "chatgpt-vs-ai-fitness-apps",
+    title: "ChatGPT vs AI Fitness Apps: Which Should You Use for Workouts?",
+    date: "2026-02-22",
+    excerpt: "ChatGPT scored just 41% on exercise recommendation comprehensiveness in a UConn study. A breakdown of what it gets right, what it gets wrong, and when a dedicated AI fitness app is worth paying for.",
+    author: "The Forge Team",
+    keywords: ["chatgpt workout", "ai fitness apps", "chatgpt vs fitness apps", "ai personal trainer", "chatgpt exercise plan", "best ai workout app"],
+    category: "fitness-technology"
+  },
+  {
     slug: "ai-trainer-vs-personal-trainer-cost",
     title: "AI Trainer vs Personal Trainer Cost: The Real Breakdown (2026)",
     date: "2026-02-22",
