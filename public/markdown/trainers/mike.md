@@ -65,4 +65,4 @@ Absolutely. Mike's programs are just as effective as any other trainer's. He fol
 
 ---
 
-*Mike is an AI trainer personality available on [Forge](https://forgetrainer.ai) — personal training for everyone.*
+*Mike is an AI trainer available on [Forge](https://forgetrainer.ai) — personal training for everyone.*

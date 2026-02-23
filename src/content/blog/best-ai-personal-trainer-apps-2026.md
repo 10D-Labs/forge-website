@@ -15,7 +15,7 @@ Choosing an AI personal trainer app in 2026 means sifting through dozens of opti
 **Best for Beginners:** FitnessAI (automatic progression, $49.99-129.99/year)
 **Best Budget Option:** Dr. Muscle (comprehensive free tier)
 **Best for Powerlifters:** JuggernautAI (elite programming, ~$9.99/month)
-**Best AI Chat Support:** [Forge](https://forgetrainer.ai/) (24/7 conversational coaching, multiple trainer personalities)
+**Best AI Chat Support:** [Forge](https://forgetrainer.ai/) (24/7 conversational coaching, multiple AI trainers)
 **Best Premium Hybrid:** Future (human coaches + AI, $149-199/month)
 
 ---
@@ -107,11 +107,11 @@ Planfit's standout feature is its sophisticated equipment detection system. The 
 
 **Pricing:** Free tier available; premium features vary
 
-### 4. Forge - Best AI Chat Support and Trainer Personalities
+### 4. Forge - Best AI Chat Support and Trainer Selection
 
 [Forge](https://forgetrainer.ai/) takes a unique approach by emphasizing conversational AI coaching alongside workout programming. Rather than just receiving a workout plan, you can chat 24/7 with AI trainers who have distinct personalities and coaching styles. This addresses one of the biggest gaps in traditional AI fitness apps: the lack of motivational support and the ability to ask questions.
 
-**Strengths:** The chat feature feels remarkably human, providing encouragement, answering form questions, and helping troubleshoot when life disrupts your training schedule. Multiple trainer personalities mean you can find a coaching style that resonates with you. Cross-platform availability (web, iOS, Android) ensures access anywhere. Custom workout plans adapt to your feedback and progress. Comprehensive exercise library with clear demonstrations.
+**Strengths:** The chat feature feels remarkably human, providing encouragement, answering form questions, and helping troubleshoot when life disrupts your training schedule. Multiple trainers mean you can find a coaching style that resonates with you. Cross-platform availability (web, iOS, Android) ensures access anywhere. Custom workout plans adapt to your feedback and progress. Comprehensive exercise library with clear demonstrations.
 
 **Limitations:** Newer to market than some established competitors. Premium features require subscription.
 
@@ -294,7 +294,7 @@ Choose **SHRED** if you want the most complete AI training experience with form 
 
 Choose **FitnessAI** if you're new to structured training and want dead-simple progression that removes guesswork.
 
-Choose **[Forge](https://forgetrainer.ai/)** if you value conversational support, want to ask questions and get thoughtful answers, and appreciate different trainer personalities alongside solid programming.
+Choose **[Forge](https://forgetrainer.ai/)** if you value conversational support, want to ask questions and get thoughtful answers, and appreciate different trainers alongside solid programming.
 
 Choose **JuggernautAI** if you're a powerlifter or serious strength athlete focused on the big three lifts.
 

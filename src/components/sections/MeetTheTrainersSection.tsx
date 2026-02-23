@@ -212,7 +212,7 @@ const MeetTheTrainersSection = () => {
           animate={isInView ? { opacity: 1 } : { opacity: 0 }}
           transition={{ delay: 0.8 }}
         >
-          More trainer personalities coming soon. Have a request?{" "}
+          More trainers coming soon. Have a request?{" "}
           <a href="mailto:support@forgetrainer.ai" className="text-primary hover:underline">
             Let us know.
           </a>

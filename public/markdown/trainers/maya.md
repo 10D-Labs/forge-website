@@ -65,4 +65,4 @@ Yes. Maya focuses on building sustainable habits and self-compassion. She helps 
 
 ---
 
-*Maya is an AI trainer personality available on [Forge](https://forgetrainer.ai) — personal training for everyone.*
+*Maya is an AI trainer available on [Forge](https://forgetrainer.ai) — personal training for everyone.*

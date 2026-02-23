@@ -395,7 +395,7 @@ If traditional training prices put professional guidance out of reach, several a
 
 **YouTube and free resources** cost nothing but require more personal research and program design knowledge. Quality fitness content is available free, but sifting through misinformation and creating coherent programming takes time and education.
 
-**AI-powered personal trainers** like Forge bridge the gap between free resources and expensive traditional training. At $20 monthly, you get personalized workout plans built for your specific goals, experience level, and available equipment. The programming adapts based on your performance and feedback. You have 24/7 availability for questions, workout generation, and guidance. Progress tracking identifies patterns and optimizes your training. Four distinct AI trainer personalities let you choose the coaching style that motivates you.
+**AI-powered personal trainers** like Forge bridge the gap between free resources and expensive traditional training. At $20 monthly, you get personalized workout plans built for your specific goals, experience level, and available equipment. The programming adapts based on your performance and feedback. You have 24/7 availability for questions, workout generation, and guidance. Progress tracking identifies patterns and optimizes your training. Four distinct AI trainers let you choose the coaching style that motivates you.
 
 This isn't generic programming. It's personalized guidance that adapts to you, delivered at a price point accessible to almost anyone serious about their fitness.
 

@@ -66,4 +66,4 @@ Stone respects legitimate physical limitations. He's tough, not stupid. He'll wo
 
 ---
 
-*Sergeant Stone is an AI trainer personality available on [Forge](https://forgetrainer.ai) — personal training for everyone.*
+*Sergeant Stone is an AI trainer available on [Forge](https://forgetrainer.ai) — personal training for everyone.*

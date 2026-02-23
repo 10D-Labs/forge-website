@@ -24,7 +24,7 @@ The main job of a personal trainer is to take an existing standardized plan and 
 ## Motivation & Accountability
 Let's be honest, sticking to a fitness routine on your own can be tough. Life gets busy, motivation dips, and it's easy to talk yourself out of a workout. This is where a personal trainer really shines: they provide that external push and keep you accountable.
 
-With regular sessions and someone checking in on your progress, you're far less likely to skip days or slack off. Trainers know how to motivate you in ways that work for your personality, whether it's encouragement, tough love, or celebrating small wins. Our AI trainers send reminders, adapt to your energy levels, and cheer you on to build consistent habits that will last you a lifetime. Plus, they come with multiple personalities so you can pick one that fits your needs and style the best.
+With regular sessions and someone checking in on your progress, you're far less likely to skip days or slack off. Trainers know how to motivate you in ways that work for your personality, whether it's encouragement, tough love, or celebrating small wins. Our AI trainers send reminders, adapt to your energy levels, and cheer you on to build consistent habits that will last you a lifetime. Plus, they come with multiple trainers so you can pick one that fits your needs and style the best.
 
 ## Goal Setting
 Many people start exercising with vague ideas like "get in shape" or "lose weight," but without clear, achievable goals, it's hard to stay focused or measure success. A good personal trainer helps you define specific, realistic goals that align with what you truly want.

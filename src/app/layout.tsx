@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     template: "%s | Forge AI Trainer",
   },
   description:
-    "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 trainer personalities. Fraction of the cost. Try Forge free.",
+    "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 AI trainers. Fraction of the cost. Try Forge free.",
   keywords: [
     "AI personal trainer",
     "custom workout plans",
@@ -51,13 +51,13 @@ export const metadata: Metadata = {
     siteName: "Forge",
     title: "Forge - AI Personal Trainer App | Custom Workouts & 24/7 Coaching",
     description:
-      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 trainer personalities. Fraction of the cost. Try Forge free.",
+      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 AI trainers. Fraction of the cost. Try Forge free.",
   },
   twitter: {
     card: "summary_large_image",
     title: "Forge - AI Personal Trainer App | Custom Workouts & 24/7 Coaching",
     description:
-      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 trainer personalities. Fraction of the cost. Try Forge free.",
+      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 AI trainers. Fraction of the cost. Try Forge free.",
   },
   robots: {
     index: true,

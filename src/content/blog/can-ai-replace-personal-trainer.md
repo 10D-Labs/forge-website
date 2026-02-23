@@ -257,7 +257,7 @@ Research suggests hybrid approaches produce the best outcomes (74% better weight
 
 ---
 
-**Try Forge.** Our AI trainers use the kind of data-driven programming shown to increase adherence by 40%, paired with motivational support matched to your personality. Four trainer personalities. 24/7 guidance. Your schedule. [Join the waitlist at ForgeTrainer.ai](https://forgetrainer.ai/)
+**Try Forge.** Our AI trainers use the kind of data-driven programming shown to increase adherence by 40%, paired with motivational support matched to your personality. Four AI trainers. 24/7 guidance. Your schedule. [Join the waitlist at ForgeTrainer.ai](https://forgetrainer.ai/)
 
 **Related Reading:**
 - [AI vs Traditional Personal Trainers: Which Is Right for Your Fitness Goals?](https://forgetrainer.ai/blog/ai-vs-traditional-personal-trainers) - Practical decision framework

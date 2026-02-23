@@ -65,4 +65,4 @@ Reese is excellent for competitive athletes. His periodized programming, attenti
 
 ---
 
-*Reese is an AI trainer personality available on [Forge](https://forgetrainer.ai) — personal training for everyone.*
+*Reese is an AI trainer available on [Forge](https://forgetrainer.ai) — personal training for everyone.*

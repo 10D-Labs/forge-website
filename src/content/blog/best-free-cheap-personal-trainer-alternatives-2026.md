@@ -202,7 +202,7 @@ Some gym chains include free training sessions with standard memberships.
 
 AI trainers sit between generic workout apps and human coaches. They create personalized programs, adapt based on your feedback, and run through your phone.
 
-**Forge** ($20/month): Four trainer personalities (drill sergeant, supportive coach, casual gym buddy, data-driven technician). Pick the coaching style that matches how you like to be coached. The app builds workouts around your goals, equipment, and schedule. Rate each workout and the programming adjusts based on how exercises felt and whether you hit target reps.
+**Forge** ($20/month): Four AI trainers (drill sergeant, supportive coach, casual gym buddy, data-driven technician). Pick the coaching style that matches how you like to be coached. The app builds workouts around your goals, equipment, and schedule. Rate each workout and the programming adjusts based on how exercises felt and whether you hit target reps.
 
 **Fitbod** ($12-16/month, $95.99/year): Algorithm-based workout generation using your available equipment and training history. Balances muscle groups and recovery automatically. Clean interface focused on execution and tracking.
 

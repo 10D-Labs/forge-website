@@ -25,7 +25,7 @@ const features: Feature[] = [
     icon: Users,
     title: "Choose Your Trainer",
     description:
-      "Pick from different trainer personalities like gentle cheerleader, drill instructor, gym buddy, or focused coach.",
+      "Pick from different trainers like gentle cheerleader, drill instructor, gym buddy, or focused coach.",
   },
   {
     icon: ClipboardList,

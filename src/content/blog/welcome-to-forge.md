@@ -11,7 +11,7 @@ We're thrilled to introduce Forge, your AI-powered personal fitness trainer that
 ## Key Takeaways
 
 - Forge is an AI-powered personal fitness trainer that creates custom workout plans tailored to your goals, fitness level, and preferences
-- Choose from multiple trainer personalities ranging from supportive coaches to drill-instructor types to match your motivation style
+- Choose from multiple trainers ranging from supportive coaches to drill-instructor types to match your motivation style
 - Built-in progress tracking and 24/7 availability replace the need for expensive in-person personal training sessions
 - Forge was built to remove the barriers that keep most people from consistent training: gym intimidation, high trainer costs, and impersonal cookie-cutter apps
 
@@ -22,7 +22,7 @@ Getting fit shouldn't be complicated. Yet for too many people, the gym feels int
 ## What Makes Forge Different
 
 - **Personalized AI Training**: Our AI trainers create custom workout plans tailored to your goals, fitness level, and preferences
-- **Multiple Trainer Personalities**: Choose from supportive coaches to drill instructor types - whatever motivates you
+- **Multiple Trainers**: Choose from supportive coaches to drill instructor types - whatever motivates you
 - **Progress Tracking**: See your growth over time with detailed workout logs and progress overviews
 - **24/7 Availability**: Chat with your AI trainer anytime about workouts, exercises, or health questions
 
@@ -38,7 +38,7 @@ Forge is an AI-powered personal fitness trainer app. You tell it your goals, fit
 
 ### How is Forge different from other fitness apps?
 
-Most fitness apps offer generic, one-size-fits-all workout plans. Forge provides truly personalized programming that adapts to your individual response, plus multiple AI trainer personalities you can choose from based on what motivates you. Whether you want tough love, gentle encouragement, a casual gym buddy, or a data-driven coach, Forge matches your training style.
+Most fitness apps offer generic, one-size-fits-all workout plans. Forge provides truly personalized programming that adapts to your individual response, plus multiple AI trainers you can choose from based on what motivates you. Whether you want tough love, gentle encouragement, a casual gym buddy, or a data-driven coach, Forge matches your training style.
 
 ### When will Forge be available?
 

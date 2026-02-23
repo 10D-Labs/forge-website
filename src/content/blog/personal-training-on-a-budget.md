@@ -111,7 +111,7 @@ AI trainers sit somewhere between generic workout apps and human coaches. They c
 
 Human trainers cost $300-500/month for 8-12 sessions. Online human coaches run $50-300/month. AI trainers cost $20-200/month. Generic workout apps run $10-20/month.
 
-[Forge](https://forgetrainer.ai) costs $20 monthly and includes four distinct trainer personalities. You pick the coaching style that matches your personality: drill sergeant, supportive friend, casual gym buddy, or data-driven technician. The app builds workouts around your goals, available equipment, and schedule. You rate each workout, report how it felt, and the programming adapts.
+[Forge](https://forgetrainer.ai) costs $20 monthly and includes four distinct AI trainers. You pick the coaching style that matches your personality: drill sergeant, supportive friend, casual gym buddy, or data-driven technician. The app builds workouts around your goals, available equipment, and schedule. You rate each workout, report how it felt, and the programming adapts.
 
 Other options include Caliber (free version available, premium add-ons), Fitbod ($10-16/month for algorithm-based programming), and various others ranging from $30-200 monthly depending on features.
 

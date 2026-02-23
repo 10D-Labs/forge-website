@@ -83,7 +83,7 @@ Online coaching makes sense for self-motivated people who need programming exper
 AI trainers are apps that create personalized workouts, adapt based on your feedback, and provide guidance through your phone. They sit between generic workout apps and human coaches in both capability and price.
 
 **Cost breakdown:**
-- [Forge](https://forgetrainer.ai): $20 monthly (4 trainer personalities, adaptive workouts, 24/7 availability)
+- [Forge](https://forgetrainer.ai): $20 monthly (4 AI trainers, adaptive workouts, 24/7 availability)
 - Fitbod: $10-16 monthly (algorithm-based workout generation)
 - Caliber: Free version available, premium coaching extra
 

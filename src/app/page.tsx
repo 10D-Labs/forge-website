@@ -50,7 +50,7 @@ const homepageFAQs = [
   {
     question: "How is Forge different from other fitness apps?",
     answer:
-      "Apps like Fitbod use fatigue-based algorithms that often suggest illogical exercise combinations. Forge is different: it uses periodized programming with progressive overload to systematically increase your weights week over week. It remembers your complete history — including injuries — and auto-substitutes exercises you can't do. The AI can explain WHY it's programming each exercise, so you understand the logic. Plus, choose from four trainer personalities.",
+      "Apps like Fitbod use fatigue-based algorithms that often suggest illogical exercise combinations. Forge is different: it uses periodized programming with progressive overload to systematically increase your weights week over week. It remembers your complete history — including injuries — and auto-substitutes exercises you can't do. The AI can explain WHY it's programming each exercise, so you understand the logic. Plus, choose from four distinct AI trainers.",
   },
   {
     question: "How does Forge help with exercise form?",
@@ -58,7 +58,7 @@ const homepageFAQs = [
       "Every exercise includes detailed instructions, form cues, and common mistakes to avoid. You can ask your AI trainer questions like 'How do I keep my back straight during deadlifts?' and get specific guidance. No filming required - Forge teaches proper form through clear explanations you can reference anytime, even mid-workout.",
   },
   {
-    question: "Can I choose my trainer's personality?",
+    question: "Can I choose my trainer?",
     answer:
       "Yes! Forge offers four distinct AI trainers: Sergeant Stone for tough love and no excuses, Maya for supportive and encouraging guidance, Mike for a casual gym buddy vibe, and Reese for data-driven technical coaching. You can switch trainers anytime to find the style that motivates you best.",
   },
@@ -70,7 +70,7 @@ const homepageFAQs = [
   {
     question: "What is an AI personal trainer?",
     answer:
-      "An AI personal trainer is software that uses artificial intelligence to do what a human personal trainer does: create custom workout plans, coach you through exercises, track your progress, and adjust your programming over time. Forge is an AI personal trainer app that goes further by offering four distinct trainer personalities, remembering your injury history, and explaining the reasoning behind every exercise in your plan.",
+      "An AI personal trainer is software that uses artificial intelligence to do what a human personal trainer does: create custom workout plans, coach you through exercises, track your progress, and adjust your programming over time. Forge is an AI personal trainer app that goes further by offering four distinct AI trainers, remembering your injury history, and explaining the reasoning behind every exercise in your plan.",
   },
   {
     question: "How much does Forge cost?",
@@ -80,7 +80,7 @@ const homepageFAQs = [
   {
     question: "Is AI fitness coaching effective?",
     answer:
-      "Yes. A 2023 study published in the Journal of Sports Science & Medicine found that AI-generated workout plans matched or exceeded the quality of plans created by certified personal trainers. Forge builds on that foundation by adding real-time coaching, injury awareness, progressive overload tracking, and trainer personalities that keep you engaged long-term.",
+      "Yes. A 2023 study published in the Journal of Sports Science & Medicine found that AI-generated workout plans matched or exceeded the quality of plans created by certified personal trainers. Forge builds on that foundation by adding real-time coaching, injury awareness, progressive overload tracking, and trainers that keep you engaged long-term.",
   },
 ];
 
@@ -136,7 +136,7 @@ export default function HomePage() {
         featureList={[
           "Custom workout plans tailored to your goals",
           "24/7 personal training guidance",
-          "Multiple trainer personalities to match your style",
+          "Multiple AI trainers to match your style",
           "Progress tracking and accountability",
           "Exercise form guidance",
           "Workout scheduling and reminders",

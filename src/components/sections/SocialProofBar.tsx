@@ -6,7 +6,7 @@ const SocialProofBar = () => {
     {
       icon: Users,
       value: "4",
-      label: "AI trainer personalities",
+      label: "AI trainers",
     },
     {
       icon: DollarSign,
