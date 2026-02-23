@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "ai-trainer-vs-personal-trainer-cost",
+    title: "AI Trainer vs Personal Trainer Cost: The Real Breakdown (2026)",
+    date: "2026-02-22",
+    excerpt: "Traditional trainers cost $5,280-8,640 per year. AI trainers cost $120-360. A full cost comparison with hidden fees, 10-year projections, and when each option actually makes sense.",
+    author: "The Forge Team",
+    keywords: ["AI personal trainer cost", "personal trainer cost comparison", "AI vs personal trainer price", "personal training cost 2026", "AI fitness app cost"],
+    category: "fitness-technology"
+  },
+  {
     slug: "sleep-and-muscle-recovery",
     title: "Sleep and Muscle Recovery: The Missing Link to Gains",
     date: "2026-02-19",
