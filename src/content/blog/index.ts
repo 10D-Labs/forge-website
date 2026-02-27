@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "mind-muscle-connection-complete-guide",
+    title: "Mind-muscle connection: the complete guide",
+    date: "2026-02-27",
+    excerpt: "Can't feel your muscles working? Learn what mind-muscle connection is, the research proving it works, and 8 techniques to develop it for better gains.",
+    author: "The Forge Team",
+    keywords: ["mind muscle connection", "how to develop mind muscle connection", "mind muscle connection exercises", "muscle activation", "internal vs external focus"],
+    category: "exercise-technique"
+  },
+  {
     slug: "push-pull-legs-ppl-guide",
     title: "Push Pull Legs (PPL): The Complete Workout Guide",
     date: "2026-02-23",
