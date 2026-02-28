@@ -1,9 +1,8 @@
 import fs from 'fs';
 
-const KEY = '902244b00985493b9b41693bcc2bf323';
+const KEY = '7a6f091d46994038827b33fa54a4d71c';
 const HOST = 'forgetrainer.ai';
-// Bing endpoint returns 403 despite valid key file; Yandex works and shares with all engines
-const ENDPOINT = 'https://yandex.com/indexnow';
+const ENDPOINT = 'https://api.indexnow.org/indexnow';
 const LIVE_SITEMAP = `https://${HOST}/sitemap.xml`;
 const LOCAL_SITEMAP = 'public/sitemap.xml';
 const BATCH_SIZE = 10000; // IndexNow max per request
