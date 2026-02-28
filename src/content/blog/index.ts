@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "gym-membership-cost-2026",
+    title: "How much does a gym membership cost in 2026?",
+    date: "2026-02-28",
+    excerpt: "Gym membership prices for 20+ chains from $15 to $300+/month. Real costs including hidden fees, initiation charges, and annual fees that gyms don't advertise.",
+    author: "The Forge Team",
+    keywords: ["gym membership cost", "how much does a gym membership cost", "average gym membership cost", "gym membership prices", "cheap gym membership"],
+    category: "getting-started"
+  },
+  {
     slug: "mind-muscle-connection-complete-guide",
     title: "Mind-muscle connection: the complete guide",
     date: "2026-02-27",
