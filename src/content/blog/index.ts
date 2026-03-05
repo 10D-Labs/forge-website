@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-choose-exercises-for-your-goals",
+    title: "How to choose the right exercises for your goals",
+    date: "2026-03-05",
+    excerpt: "Stop guessing at the gym. Learn the 5 movement patterns that simplify exercise selection for strength, muscle, and fat loss. Includes beginner workout plan.",
+    author: "The Forge Team",
+    keywords: ["exercise selection", "movement patterns", "compound exercises", "workout planning", "beginner workouts"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "why-fitness-apps-fail",
     title: "Why 90% of Fitness Apps Fail (And What Actually Works in 2026)",
     date: "2026-03-02",
