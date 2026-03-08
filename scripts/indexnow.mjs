@@ -90,7 +90,12 @@ let urls;
 
 if (args.length > 0 && args[0] !== '--all') {
   // Specific URLs passed as arguments
-  urls = args.map(u => u.startsWith('http') ? u : `https://${HOST}${u.startsWith('/') ? '' : '/'}${u}`);
+  // Fix Git Bash MSYS path mangling: "/blog/foo" becomes "C:/Program Files/Git/blog/foo"
+  urls = args.map(u => {
+    if (u.startsWith('http')) return u;
+    const cleaned = u.replace(/^[A-Za-z]:\/Program Files\/Git\//i, '/');
+    return `https://${HOST}${cleaned.startsWith('/') ? '' : '/'}${cleaned}`;
+  });
   console.log(`URLs to submit (${urls.length}):`);
   urls.forEach(u => console.log(`  ${u}`));
   console.log('');
