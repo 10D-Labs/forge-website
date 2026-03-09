@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "rest-between-sets-complete-guide",
+    title: "How long to rest between sets: what science actually says",
+    date: "2026-03-09",
+    excerpt: "Stop guessing at rest periods. Learn what research reveals about optimal rest times for strength, muscle growth, and endurance based on 2024 science.",
+    author: "The Forge Team",
+    keywords: ["rest between sets", "how long to rest between sets", "rest periods strength training", "rest time between sets muscle growth", "optimal rest between sets"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-to-choose-exercises-for-your-goals",
     title: "How to choose the right exercises for your goals",
     date: "2026-03-05",
