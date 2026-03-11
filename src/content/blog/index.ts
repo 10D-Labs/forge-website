@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "dad-bod-transformation-build-muscle-after-40",
+    title: "Dad bod to defined: your 40s can be your strongest decade",
+    date: "2026-03-11",
+    excerpt: "Men 35-50 can build muscle and strength with 3 hours per week. Science-backed training, nutrition, and testosterone optimization for your strongest decade.",
+    author: "The Forge Team",
+    keywords: ["building muscle after 40", "dad bod transformation", "muscle building over 40", "testosterone after 40", "strength training middle age"],
+    category: "getting-started"
+  },
+  {
     slug: "rest-between-sets-complete-guide",
     title: "How long to rest between sets: what science actually says",
     date: "2026-03-09",
