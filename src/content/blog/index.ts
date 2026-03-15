@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-hard-should-you-train",
+    title: "How hard should you train? Complete guide to workout intensity",
+    date: "2026-03-15",
+    excerpt: "Learn how to use RPE and RIR to dial in perfect workout intensity. Science-backed guide to training hard enough without overtraining, from beginner to advanced.",
+    author: "The Forge Team",
+    keywords: ["how hard should you train", "training intensity", "RPE scale", "rate of perceived exertion", "reps in reserve", "RIR", "workout intensity", "training to failure", "autoregulation training"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "dad-bod-transformation-build-muscle-after-40",
     title: "Dad bod to defined: your 40s can be your strongest decade",
     date: "2026-03-11",
