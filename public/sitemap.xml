@@ -125,6 +125,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/when-to-increase-weight-lifting</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/how-hard-should-you-train</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>yearly</changefreq>

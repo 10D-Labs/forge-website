@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "when-to-increase-weight-lifting",
+    title: "When to increase weight lifting: clear criteria to progress safely",
+    date: "2026-03-16",
+    excerpt: "Stop guessing when to add weight. Learn the 2 for 2 rule, double progression method, and RPE-based progression to increase weight systematically and avoid plateaus or injury.",
+    author: "The Forge Team",
+    keywords: ["when to increase weight lifting", "when to add more weight gym", "how to know when to lift heavier", "2 for 2 rule weightlifting", "double progression method", "weight progression lifting"],
+    category: "strength-training"
+  },
+  {
     slug: "how-hard-should-you-train",
     title: "How hard should you train? Complete guide to workout intensity",
     date: "2026-03-15",
