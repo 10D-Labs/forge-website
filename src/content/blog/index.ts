@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "why-your-workout-plan-isnt-working",
+    title: "Why Your Workout Plan Isn't Working (And What Actually Does)",
+    date: "2026-03-18",
+    excerpt: "Half of people abandon their workout programs within six months. The problem isn't your discipline. Most plans are designed to fail. This is why yours probably is too, and what to do about it.",
+    author: "The Forge Team",
+    keywords: ["workout plan not working", "why am I not seeing results at the gym", "how to make workout plan work", "workout program failing", "adaptive workout programs", "personalized training", "fitness plan not working"],
+    category: "fitness-psychology"
+  },
+  {
     slug: "when-to-increase-weight-lifting",
     title: "When to increase weight lifting: clear criteria to progress safely",
     date: "2026-03-16",
