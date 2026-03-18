@@ -1,5 +1,5 @@
 # PRIVACY POLICY
-Last updated February 20, 2026
+Last updated March 18, 2026
 
 This Privacy Notice for 10D Labs, LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice
@@ -22,7 +22,7 @@ This summary provides key points from our Privacy Notice, but you can find out m
 
 **How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific categories of third parties, including AI service providers, analytics providers, and infrastructure providers. Learn more about when and with whom we share your personal information.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific categories of third parties, including AI service providers, analytics providers, advertising and attribution providers (such as Meta), and infrastructure providers. Learn more about when and with whom we share your personal information.
 
 **How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
 
@@ -104,9 +104,10 @@ We may receive personal information about you from third parties, including:
 *In Short: Some information -- such as your device information, usage data, and interaction recordings -- is collected automatically when you use our Services.*
 
 We automatically collect certain information when you visit, use, or navigate our Services. This information does not reveal your specific identity but may include device and usage information, such as:
-- Device identifiers (such as your device ID and app instance ID)
+- Device identifiers (such as your device ID, app instance ID, and advertising identifier)
 - Device information (such as device type, operating system, and version)
 - Usage data (such as features used, actions taken, screens visited, and time spent in the app)
+- Advertising data (such as app install attribution, in-app events, and ad interaction data collected through third-party advertising SDKs)
 - Session recordings and touch interaction data (we may record how you interact with the App, including screen views and touch gestures, to understand usage patterns and improve the product)
 - Push notification tokens (to send you notifications if you have enabled them)
 - App version and update information
@@ -203,8 +204,9 @@ We may need to share your personal information in the following situations:
 - **Authentication providers** that facilitate account creation and login, including third-party sign-in services
 - **Push notification services** that deliver workout reminders and other notifications to your device
 - **App update and distribution services** that deliver software updates to the App on your device
+- **Advertising and attribution providers** that help us measure the effectiveness of our advertising campaigns. We use the Meta (Facebook) SDK, which collects your device's advertising identifier, app install and launch events, in-app purchase events, and device information. This data is shared with Meta to attribute app installs to ad campaigns, measure ad performance, and create targeted audiences. Meta may use this data in accordance with its own data policy. You can limit ad tracking through your device settings (such as "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
 
-These service providers have access to your personal information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose. We do not sell your personal information to any third party.
+These service providers have access to your personal information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose, except for advertising and attribution providers which may use data as described in their own privacy policies. We do not sell your personal information to any third party.
 
 **AI Service Provider Data Practices.** When your data is processed by third-party AI service providers to deliver our coaching features, it is subject to those providers' data handling practices. We select providers whose terms prohibit the use of customer data for training their AI models. We do not train our own AI models on your personal data, and we do not intentionally provide your data to any third party for the purpose of training general-purpose AI models.
 
