@@ -72,11 +72,32 @@ const HeroSection = () => {
               id="waitlist"
               role="form"
               aria-label="Join waitlist form"
-              className="mb-8 hero-animate-item"
+              className="mb-6 hero-animate-item"
             >
               <WaitlistForm />
               <p className="text-sm text-text-tertiary mt-3">
-                Launching soon. We'll notify you first.
+                Join the waitlist. We'll notify you first.
+              </p>
+            </div>
+
+            {/* Store Badge */}
+            <div className="hero-animate-item">
+              <a
+                href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Get Forge on Google Play"
+              >
+                <img
+                  src="/google-play-badge.svg"
+                  alt="Get it on Google Play"
+                  width={155}
+                  height={60}
+                  className="hover:opacity-80 transition-opacity"
+                />
+              </a>
+              <p className="text-sm text-text-tertiary mt-2">
+                Available now on Android
               </p>
             </div>
 

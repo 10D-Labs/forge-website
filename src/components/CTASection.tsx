@@ -69,12 +69,33 @@ const CTASection = () => {
 
           {/* Waitlist Form */}
           <motion.div
-            className="max-w-md mx-auto mb-10"
+            className="max-w-md mx-auto mb-6"
             variants={fadeInUp}
             role="form"
             aria-label="Join waitlist form"
           >
             <WaitlistForm />
+          </motion.div>
+
+          {/* Store Badge */}
+          <motion.div className="mb-10 flex flex-col items-center" variants={fadeInUp}>
+            <a
+              href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Get Forge on Google Play"
+            >
+              <img
+                src="/google-play-badge.svg"
+                alt="Get it on Google Play"
+                width={155}
+                height={60}
+                className="hover:opacity-80 transition-opacity"
+              />
+            </a>
+            <p className="text-sm text-text-tertiary mt-2">
+              Available now on Android
+            </p>
           </motion.div>
 
           {/* Trust signals */}
