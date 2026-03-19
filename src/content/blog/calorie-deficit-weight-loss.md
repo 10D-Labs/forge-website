@@ -283,7 +283,7 @@ Stop looking for shortcuts. Get the basics right. Find the approach you can sust
 
 Energy balance determines fat loss. Whether you can stick with it long enough to see results comes down to psychology, not thermodynamics.
 
-[Forge](https://forgetrainer.ai) combines both: the science of energy balance with the psychology of sustainable behavior change. Join the waitlist to get access when we launch.
+[Forge](https://forgetrainer.ai) combines both: the science of energy balance with the psychology of sustainable behavior change. Download it free and see for yourself.
 
 ---
 

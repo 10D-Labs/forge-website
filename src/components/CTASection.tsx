@@ -3,7 +3,7 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { Check } from "lucide-react";
-import WaitlistForm from "./WaitlistForm";
+
 import { GlowOrbs } from "./effects";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
 
@@ -45,7 +45,7 @@ const CTASection = () => {
               className="inline-flex items-center gap-2 px-4 py-2 rounded-[10px] border border-border bg-surface-1 font-barlow-condensed text-sm font-semibold text-primary uppercase tracking-wider mb-8"
             >
               <span className="w-2 h-2 bg-primary animate-pulse rounded-full" />
-              <span>Launching Soon</span>
+              <span>Available Now</span>
             </span>
           </motion.div>
 
@@ -63,38 +63,44 @@ const CTASection = () => {
             className="text-lg md:text-xl text-text-secondary mb-10 max-w-2xl mx-auto font-barlow"
             variants={fadeInUp}
           >
-            Join thousands of others who are ready to transform their fitness with{" "}
-            <span className="whitespace-nowrap">AI-powered</span> personal training. Be first in line when we launch.
+            Download Forge and start training with{" "}
+            <span className="whitespace-nowrap">AI-powered</span> personal training today.
           </motion.p>
 
-          {/* Waitlist Form */}
-          <motion.div
-            className="max-w-md mx-auto mb-6"
-            variants={fadeInUp}
-            role="form"
-            aria-label="Join waitlist form"
-          >
-            <WaitlistForm />
-          </motion.div>
-
-          {/* Store Badge */}
+          {/* Store Badges */}
           <motion.div className="mb-10 flex flex-col items-center" variants={fadeInUp}>
-            <a
-              href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Get Forge on Google Play"
-            >
-              <img
-                src="/google-play-badge.svg"
-                alt="Get it on Google Play"
-                width={155}
-                height={60}
-                className="hover:opacity-80 transition-opacity"
-              />
-            </a>
-            <p className="text-sm text-text-tertiary mt-2">
-              Available now on Android
+            <div className="flex flex-wrap items-center justify-center gap-4 mb-3">
+              <a
+                href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Download Forge on the App Store"
+              >
+                <img
+                  src="/app-store-badge.svg"
+                  alt="Download on the App Store"
+                  width={140}
+                  height={47}
+                  className="hover:opacity-80 transition-opacity"
+                />
+              </a>
+              <a
+                href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Get Forge on Google Play"
+              >
+                <img
+                  src="/google-play-badge.svg"
+                  alt="Get it on Google Play"
+                  width={155}
+                  height={60}
+                  className="hover:opacity-80 transition-opacity"
+                />
+              </a>
+            </div>
+            <p className="text-sm text-text-tertiary">
+              Available on iOS and Android
             </p>
           </motion.div>
 
@@ -106,15 +112,15 @@ const CTASection = () => {
           >
             <li className="flex items-center gap-2">
               <Check className="w-4 h-4 text-primary" aria-hidden="true" />
-              <span>Free to join waitlist</span>
+              <span>Free 7-day trial</span>
             </li>
             <li className="flex items-center gap-2">
               <Check className="w-4 h-4 text-primary" aria-hidden="true" />
-              <span>Launching under $20/month</span>
+              <span>Under $20/month</span>
             </li>
             <li className="flex items-center gap-2">
               <Check className="w-4 h-4 text-primary" aria-hidden="true" />
-              <span>Free trial at launch</span>
+              <span>Cancel anytime</span>
             </li>
           </motion.ul>
         </motion.div>

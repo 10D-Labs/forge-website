@@ -475,7 +475,7 @@ This resource will be updated annually as new data becomes available.
 
 The statistics show personal training works, but traditional pricing puts it out of reach for many people. ForgeTrainer.ai pairs the effectiveness of professional programming with AI accessibility. You get personalized workouts adapted to your goals, schedule, and equipment for a fraction of traditional training costs.
 
-[Join the waitlist](https://forgetrainer.ai) to try it yourself.
+[Try it yourself](https://forgetrainer.ai/download) with a free 7-day trial.
 
 ---
 

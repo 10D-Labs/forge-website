@@ -5,7 +5,7 @@ import { useRef } from "react";
 import Link from "next/link";
 import { Target, Calendar, Dumbbell, TrendingUp, Check } from "lucide-react";
 import { GridBackground, GlowOrbs } from "@/components/effects";
-import WaitlistForm from "@/components/WaitlistForm";
+
 import FAQSection from "@/components/FAQSection";
 import StructuredData from "@/components/StructuredData";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
@@ -206,15 +206,40 @@ export default function AIWorkoutPlannerContent() {
 
               <motion.div
                 variants={fadeInUp}
-                className="max-w-md mx-auto mb-8"
-                role="form"
-                aria-label="Join waitlist form"
+                className="flex flex-wrap items-center justify-center gap-4 mb-3"
               >
-                <WaitlistForm />
-                <p className="text-sm text-text-tertiary mt-3">
-                  Free 7-day trial at launch. No credit card required.
-                </p>
+                <a
+                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Download Forge on the App Store"
+                >
+                  <img
+                    src="/app-store-badge.svg"
+                    alt="Download on the App Store"
+                    width={140}
+                    height={47}
+                    className="hover:opacity-80 transition-opacity"
+                  />
+                </a>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Get Forge on Google Play"
+                >
+                  <img
+                    src="/google-play-badge.svg"
+                    alt="Get it on Google Play"
+                    width={155}
+                    height={60}
+                    className="hover:opacity-80 transition-opacity"
+                  />
+                </a>
               </motion.div>
+              <motion.p variants={fadeInUp} className="text-sm text-text-tertiary mb-8">
+                Free 7-day trial. No credit card required.
+              </motion.p>
             </motion.div>
           </div>
         </section>
@@ -376,15 +401,38 @@ export default function AIWorkoutPlannerContent() {
                 <span className="text-primary text-neon">Start Training.</span>
               </h2>
               <p className="text-lg text-text-secondary font-barlow mb-8">
-                Join the waitlist and get a personalized workout plan from an AI that actually
+                Download Forge and get a personalized workout plan from an AI that actually
                 knows what it's doing.
               </p>
-              <div
-                className="max-w-md mx-auto mb-8"
-                role="form"
-                aria-label="Join waitlist form"
-              >
-                <WaitlistForm />
+              <div className="flex flex-wrap items-center justify-center gap-4 mb-8">
+                <a
+                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Download Forge on the App Store"
+                >
+                  <img
+                    src="/app-store-badge.svg"
+                    alt="Download on the App Store"
+                    width={140}
+                    height={47}
+                    className="hover:opacity-80 transition-opacity"
+                  />
+                </a>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Get Forge on Google Play"
+                >
+                  <img
+                    src="/google-play-badge.svg"
+                    alt="Get it on Google Play"
+                    width={155}
+                    height={60}
+                    className="hover:opacity-80 transition-opacity"
+                  />
+                </a>
               </div>
               <ul className="flex flex-wrap items-center justify-center gap-6 text-sm text-text-secondary font-barlow list-none">
                 <li className="flex items-center gap-2">

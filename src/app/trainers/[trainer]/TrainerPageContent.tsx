@@ -253,15 +253,14 @@ export default function TrainerPageContent({ trainerSlug }: TrainerPageContentPr
                 variants={fadeInUp}
                 className="text-text-secondary font-barlow mb-8"
               >
-                Join the Forge waitlist and be the first to train with {trainer.name} when
-                we launch.
+                Download Forge and start training with {trainer.name} today.
               </motion.p>
               <motion.div variants={fadeInUp}>
                 <Link
-                  href="/#waitlist"
+                  href="/download"
                   className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed text-base font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all btn-neon rounded-[14px]"
                 >
-                  Join the Waitlist
+                  Download Forge
                 </Link>
               </motion.div>
             </motion.div>

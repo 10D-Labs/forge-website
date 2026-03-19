@@ -2,16 +2,13 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
+import { usePathname } from "next/navigation";
 import { Menu, X } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
-import { useScrollToElement } from "@/hooks/useScrollToElement";
 
 const Header = () => {
   const pathname = usePathname();
-  const router = useRouter();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const { scrollToElement } = useScrollToElement();
 
   const navLinks = [
     { href: "/", label: "Home" },
@@ -21,15 +18,6 @@ const Header = () => {
   ];
 
   const closeMenu = () => setIsMenuOpen(false);
-
-  const handleWaitlistClick = (e: React.MouseEvent) => {
-    e.preventDefault();
-    if (pathname !== "/") {
-      router.push("/#waitlist");
-    } else {
-      scrollToElement('waitlist', { center: true });
-    }
-  };
 
   return (
     <header
@@ -62,13 +50,12 @@ const Header = () => {
               {link.label}
             </Link>
           ))}
-          <a
-            href="/#waitlist"
-            onClick={handleWaitlistClick}
+          <Link
+            href="/download"
             className="inline-flex items-center justify-center px-5 py-2.5 font-barlow-condensed text-sm font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all btn-neon rounded-[14px]"
           >
-            Join Waitlist
-          </a>
+            Download
+          </Link>
           <ThemeToggle />
         </nav>
 
@@ -115,17 +102,14 @@ const Header = () => {
             </Link>
           ))}
           <div className="flex items-center gap-3">
-            <a
-              href="/#waitlist"
-              onClick={(e) => {
-                closeMenu();
-                handleWaitlistClick(e);
-              }}
+            <Link
+              href="/download"
+              onClick={closeMenu}
               className="inline-flex items-center justify-center px-5 py-2.5 font-barlow-condensed text-sm font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all flex-1 rounded-[14px]"
               tabIndex={isMenuOpen ? 0 : -1}
             >
-              Join Waitlist
-            </a>
+              Download
+            </Link>
             <ThemeToggle />
           </div>
         </nav>

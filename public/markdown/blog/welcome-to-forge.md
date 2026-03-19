@@ -28,7 +28,7 @@ Getting fit shouldn't be complicated. Yet for too many people, the gym feels int
 
 ## Join the Movement
 
-We're building Forge for everyone who wants to experience the transformative power of consistent training. Join our waitlist today and be among the first to experience the future of fitness.
+We built Forge for everyone who wants to experience the transformative power of consistent training. Download Forge today and experience the future of fitness.
 
 ## Frequently Asked Questions
 
@@ -40,6 +40,6 @@ Forge is an AI-powered personal fitness trainer app. You tell it your goals, fit
 
 Most fitness apps offer generic, one-size-fits-all workout plans. Forge provides truly personalized programming that adapts to your individual response, plus multiple AI trainers you can choose from based on what motivates you. Whether you want tough love, gentle encouragement, a casual gym buddy, or a data-driven coach, Forge matches your training style.
 
-### When will Forge be available?
+### Where can I download Forge?
 
-Forge is currently in pre-launch with a waitlist open at forgetrainer.ai. Join the waitlist to be among the first users when the app launches and get early access to AI-powered personal training.
+Forge is available now on iOS and Android. Download it at forgetrainer.ai and get started with AI-powered personal training today.

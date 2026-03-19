@@ -3,7 +3,7 @@
 
 type VariantUrls = {
   android: string;
-  ios?: string; // optional until App Store launch
+  ios?: string;
 };
 
 export const variants: Record<string, VariantUrls> = {
@@ -14,6 +14,6 @@ export const variants: Record<string, VariantUrls> = {
 
 export const defaultUrls = {
   android: "https://play.google.com/store/apps/details?id=com.tendylabs.forge",
-  ios: "/", // homepage until App Store launch
+  ios: "https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402",
   desktop: "/",
 };

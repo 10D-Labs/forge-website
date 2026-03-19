@@ -1,18 +1,16 @@
 "use client";
 
 import { useEffect } from "react";
-import { useScrollToElement } from "@/hooks/useScrollToElement";
+import { useRouter } from "next/navigation";
 
 const HomeScrollHandler = () => {
-  const { scrollToElement } = useScrollToElement();
+  const router = useRouter();
 
   useEffect(() => {
     if (window.location.hash === "#waitlist") {
-      setTimeout(() => {
-        scrollToElement("waitlist", { center: true });
-      }, 100);
+      router.replace("/download");
     }
-  }, [scrollToElement]);
+  }, [router]);
 
   return null;
 };

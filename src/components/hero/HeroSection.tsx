@@ -4,7 +4,7 @@ import { ChevronDown } from "lucide-react";
 import { lazy, Suspense, useState, useEffect } from "react";
 import { GridBackground, GlowOrbs } from "@/components/effects";
 import HeroPhoneStatic from "./HeroPhoneStatic";
-import WaitlistForm from "@/components/WaitlistForm";
+
 
 // Lazy load the interactive 3D phone (loads Framer Motion)
 const Hero3DPhone = lazy(() => import("./Hero3DPhone"));
@@ -67,37 +67,40 @@ const HeroSection = () => {
               AI personal training without the $500/month price tag. Whether you're a complete beginner or getting back into it, your AI fitness coach tells you exactly what to do.
             </p>
 
-            {/* Waitlist Form */}
-            <div
-              id="waitlist"
-              role="form"
-              aria-label="Join waitlist form"
-              className="mb-6 hero-animate-item"
-            >
-              <WaitlistForm />
-              <p className="text-sm text-text-tertiary mt-3">
-                Join the waitlist. We'll notify you first.
-              </p>
-            </div>
-
-            {/* Store Badge */}
+            {/* Store Badges */}
             <div className="hero-animate-item">
-              <a
-                href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Get Forge on Google Play"
-              >
-                <img
-                  src="/google-play-badge.svg"
-                  alt="Get it on Google Play"
-                  width={155}
-                  height={60}
-                  className="hover:opacity-80 transition-opacity"
-                />
-              </a>
-              <p className="text-sm text-text-tertiary mt-2">
-                Available now on Android
+              <div className="flex flex-wrap items-center gap-4 mb-3">
+                <a
+                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Download Forge on the App Store"
+                >
+                  <img
+                    src="/app-store-badge.svg"
+                    alt="Download on the App Store"
+                    width={140}
+                    height={47}
+                    className="hover:opacity-80 transition-opacity"
+                  />
+                </a>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Get Forge on Google Play"
+                >
+                  <img
+                    src="/google-play-badge.svg"
+                    alt="Get it on Google Play"
+                    width={155}
+                    height={60}
+                    className="hover:opacity-80 transition-opacity"
+                  />
+                </a>
+              </div>
+              <p className="text-sm text-text-tertiary">
+                Available on iOS and Android
               </p>
             </div>
 

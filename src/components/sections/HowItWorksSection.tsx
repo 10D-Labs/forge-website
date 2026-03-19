@@ -2,25 +2,24 @@
 
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { UserPlus, Target, Dumbbell } from "lucide-react";
+import { Download, Target, Dumbbell } from "lucide-react";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
-import WaitlistForm from "../WaitlistForm";
 import StructuredData from "../StructuredData";
 
 const steps = [
   {
     number: "01",
-    icon: UserPlus,
-    title: "Join the Waitlist",
+    icon: Download,
+    title: "Download the App",
     description:
-      "Enter your email now. We'll notify you the moment the app is ready to download.",
+      "Get Forge on iOS or Android. Your AI personal trainer is ready when you are.",
   },
   {
     number: "02",
     icon: Target,
     title: "Tell Us Your Goals",
     description:
-      "When the app launches, share your fitness level, goals, schedule, injuries, and more. Your AI trainer builds a complete picture of you.",
+      "Share your fitness level, goals, schedule, injuries, and more. Your AI trainer builds a complete picture of you.",
   },
   {
     number: "03",
@@ -44,7 +43,7 @@ const HowItWorksSection = () => {
       <StructuredData
         type="howTo"
         name="How to Get Started with Forge AI Personal Training"
-        description="Join the Forge waitlist and start your AI-powered personal training journey in three simple steps."
+        description="Download Forge and start your AI-powered personal training journey in three simple steps."
         steps={steps.map((step) => ({
           name: step.title,
           text: step.description,
@@ -73,7 +72,7 @@ const HowItWorksSection = () => {
             <span className="text-gradient block">Three Easy Steps</span>
           </motion.h2>
           <motion.p variants={fadeInUp} className="text-muted-foreground text-lg">
-            Join the waitlist today. When we launch, you'll be training in minutes.
+            Download the app and start training in minutes.
           </motion.p>
         </motion.header>
 
@@ -125,30 +124,10 @@ const HowItWorksSection = () => {
                 <h3 className="text-h4 font-semibold mb-3">{step.title}</h3>
                 <p className="text-muted-foreground leading-relaxed">{step.description}</p>
 
-                {/* Waitlist Form after Step 1 on mobile only */}
-                {index === 0 && (
-                  <motion.div
-                    className="max-w-md mx-auto mt-8 md:hidden"
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
-                    transition={{ duration: 0.6, delay: 0.4 }}
-                  >
-                    <WaitlistForm />
-                  </motion.div>
-                )}
               </motion.div>
             ))}
           </motion.div>
 
-          {/* Waitlist Form - desktop only */}
-          <motion.div
-            className="max-w-md mx-auto mt-12 hidden md:block"
-            initial={{ opacity: 0, y: 20 }}
-            animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
-            transition={{ duration: 0.6, delay: 0.8 }}
-          >
-            <WaitlistForm />
-          </motion.div>
         </div>
       </div>
     </section>

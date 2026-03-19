@@ -146,7 +146,7 @@ export default function HomePage() {
         datePublished="2025-12-17"
       />
 
-      {/* Handle scroll to waitlist from URL params */}
+      {/* Handle legacy #waitlist links — redirects to /download */}
       <Suspense fallback={null}>
         <HomeScrollHandler />
       </Suspense>
