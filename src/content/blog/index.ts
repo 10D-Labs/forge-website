@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "ai-trainers-niche-sports",
+    title: "Training for a niche sport? AI trainers actually know more than most coaches",
+    date: "2026-03-23",
+    excerpt: "If you train for biathlon, fencing, rock climbing, or any obscure sport, finding a qualified human trainer is nearly impossible. AI trainers trained on sport-specific research might be your best option.",
+    author: "The Forge Team",
+    keywords: ["AI trainer niche sports", "sport-specific training", "biathlon training program", "fencing strength training", "rock climbing workout plan", "AI personal trainer"],
+    category: "fitness-technology"
+  },
+  {
     slug: "why-your-workout-plan-isnt-working",
     title: "Why Your Workout Plan Isn't Working (And What Actually Does)",
     date: "2026-03-18",
