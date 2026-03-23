@@ -16,7 +16,7 @@ Forge is a mobile fitness application (iOS and Android) developed by 10D Labs, L
 |------|-------|---------------------|---------|
 | Weekly | $6.99/week | ~$30/month | Billed weekly |
 | Monthly | $19.99/month | $19.99/month | Billed monthly |
-| Annual | $179.99/year | ~$15/month | Billed annually (best value) |
+| Annual | $49.99/year | ~$4/month | Billed annually (on sale from $179.99) |
 
 All plans include a 7-day free trial.
 
@@ -24,7 +24,7 @@ All plans include a 7-day free trial.
 
 | Training Option | Monthly Cost | Annual Cost | 24/7 Available | Personalized | Remembers Injuries |
 |----------------|-------------|-------------|----------------|--------------|-------------------|
-| **Forge AI Trainer** | **$15-20** | **$180** | **Yes** | **Yes** | **Yes** |
+| **Forge AI Trainer** | **$4-20** | **$50** | **Yes** | **Yes** | **Yes** |
 | Other AI Fitness Apps (Fitbod, etc.) | $8-17 | $100-200 | Yes | Partial | No |
 | Online Human Coach | $100-300 | $1,200-3,600 | No | Yes | Sometimes |
 | In-Person Personal Trainer | $300-500 | $3,600-6,000 | No | Yes | Sometimes |

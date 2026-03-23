@@ -19,7 +19,7 @@ const ProblemSection = () => {
   ];
 
   const solutions = [
-    "Under $20/month — not $500",
+    "Under $5/month — not $500",
     "Available 24/7, whenever you need it",
     "Personalized to YOUR body and goals",
     "Instant answers, anytime",

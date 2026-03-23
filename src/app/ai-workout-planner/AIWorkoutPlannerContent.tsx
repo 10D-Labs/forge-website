@@ -69,7 +69,7 @@ const comparison = [
     humanTrainer: false,
   },
   {
-    feature: "Under $20/month",
+    feature: "Under $5/month",
     aiPlanner: true,
     templates: true,
     humanTrainer: false,
@@ -441,7 +441,7 @@ export default function AIWorkoutPlannerContent() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Check className="w-4 h-4 text-primary" />
-                  <span>Under $20/month</span>
+                  <span>Under $5/month</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <Check className="w-4 h-4 text-primary" />

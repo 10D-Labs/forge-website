@@ -75,7 +75,7 @@ const homepageFAQs = [
   {
     question: "How much does Forge cost?",
     answer:
-      "Forge offers three plans: $6.99/week, $19.99/month, or $179.99/year (about $15/month). All plans include a 7-day free trial. Compare that to traditional personal trainers at $300-500/month, and Forge delivers similar personalized guidance for roughly 95% less.",
+      "Forge offers three plans: $6.99/week, $19.99/month, or $49.99/year (about $4/month — on sale from $179.99). All plans include a 7-day free trial. Compare that to traditional personal trainers at $300-500/month, and Forge delivers similar personalized guidance for roughly 99% less.",
   },
   {
     question: "Is AI fitness coaching effective?",
@@ -127,9 +127,9 @@ export default function HomePage() {
           },
           {
             name: "Annual Plan",
-            price: "179.99",
+            price: "49.99",
             priceCurrency: "USD",
-            description: "7-day free trial, then $179.99/year (best value)",
+            description: "7-day free trial, then $49.99/year (on sale from $179.99)",
             billingPeriod: "P1Y",
           },
         ]}
