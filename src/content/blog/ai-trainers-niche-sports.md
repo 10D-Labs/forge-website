@@ -187,7 +187,7 @@ For more on what AI can and can't replace, see our article on [whether AI can re
 
 ## How Forge handles sport-specific training
 
-When you set up [Forge](https://forgetrainer.ai), you specify your sport and goals. The AI trainers (you [choose between four different personalities](/trainers)) ask follow-up questions about your training schedule, competition calendar, injury history, and available equipment.
+When you set up [Forge](https://forgetrainer.ai), you specify your sport and goals. The AI trainers (you [choose between four different personalities](/trainers)) ask follow-up questions about your training schedule, injury history, and available equipment.
 
 Then they build programming based on research about your sport's demands. Biathlon athletes get explosive leg work and shooting stability training. Climbers get structured hangboard progressions and antagonist work. Swimmers get shoulder health and dryland power development.
 
