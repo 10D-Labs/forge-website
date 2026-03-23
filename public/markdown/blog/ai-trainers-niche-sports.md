@@ -199,7 +199,7 @@ For a comparison of [how AI personalization actually works](/blog/how-ai-persona
 
 Even if you could find a qualified specialist for your niche sport, the cost makes it unrealistic for most people. [Sport-specific coaches typically charge $75-200 per session](https://athletesuntapped.com/blog/the-average-cost-of-private-sports-coaching/), with elite specialists running $200-300+. Train 3 times per week and you're spending $11,700-31,200 per year on the low end.
 
-AI trainers run a few hundred dollars per year, roughly what you'd pay for 1-2 sessions with a human specialist. You get daily programming and adjustments based on your performance.
+[Forge](https://forgetrainer.ai) is $49.99/year right now, less than the cost of a single session with a sport-specific coach. You get daily programming and adjustments based on your performance.
 
 For serious hobbyists and amateur competitors who need quality programming but can't afford specialist coaching fees, this is where [AI trainers make the most economic sense](/blog/ai-trainer-vs-personal-trainer-cost).
 
