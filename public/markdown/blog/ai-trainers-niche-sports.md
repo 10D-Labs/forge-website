@@ -9,9 +9,7 @@ category: "fitness-technology"
 
 Finding a personal trainer who actually understands your sport is nearly impossible when you're not training for football, basketball, or general fitness.
 
-A Forge user recently messaged us about her biathlon training. She'd gone through three different trainers. The first one programmed her like a bodybuilder. The second didn't understand why shooting stability mattered for strength work. The third knew endurance sports but had never heard of biathlon, and kept programming distance running instead of the explosive skiing movements she actually needed.
-
-She switched to [Forge](https://forgetrainer.ai) and described the experience as "the first time a trainer seemed to know what biathlon actually demands."
+One of our users trains for biathlon. If you've never tried finding a personal trainer who understands biathlon, the short version is: they don't exist. Most trainers have no idea how to program for a sport that combines cross-country skiing with rifle shooting.
 
 If you train for archery, competitive swimming, obstacle course racing, BJJ, or any sport outside the mainstream, you've probably hit this same wall. Your options are: pay a fortune for a sport-specific specialist (if you can find one), settle for a generalist trainer who doesn't understand your needs, or figure it out yourself with YouTube and guesswork.
 
