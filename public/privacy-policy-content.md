@@ -1,5 +1,5 @@
 # PRIVACY POLICY
-Last updated March 18, 2026
+Last updated March 21, 2026
 
 This Privacy Notice for 10D Labs, LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice
@@ -130,6 +130,7 @@ We process your personal information for a variety of reasons, depending on how 
 - **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
 - **To manage subscriptions and AI usage.** We process information about your subscription status and track your AI feature usage to manage access to Services features and enforce usage limits.
 - **To improve our Services through analytics.** We process usage data, interaction patterns, and session recordings to understand how users engage with the App, identify issues, and improve the user experience.
+- **To monitor, debug, and maintain service quality.** Authorized team members may review user interactions with AI features, including conversation content and related usage data, to identify and resolve technical issues, monitor AI safety and response quality, and improve the Services. This access is limited to personnel with a legitimate need, subject to internal access controls, and conducted solely for service operation and improvement purposes.
 - **To process feedback and support requests.** We process feedback submissions, including any screenshots you provide, to investigate issues and improve the Services.
 - **To request feedback.** We may process your information when necessary to request feedback and to contact you about your use of our Services.
 - **To send you marketing and promotional communications.** We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time. For more information, see "[WHAT ARE YOUR PRIVACY RIGHTS?](#8-what-are-your-privacy-rights)" below.
@@ -165,6 +166,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
   - Send users information about special offers and discounts on our products and services
   - Understand how our users use our products and services so we can improve user experience
   - Analyze usage patterns and session recordings to improve the App
+  - Review AI coaching interactions to debug technical issues, monitor AI safety, and maintain service quality
 - **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 - **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
@@ -231,8 +233,9 @@ When we have no ongoing legitimate business need to process your personal inform
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. These measures include:
 - Encryption of sensitive authentication credentials on your device using platform-provided secure storage (such as iOS Keychain and Android Keystore)
 - Secure transmission of data between the App and our servers
-- Access controls that restrict data access to authorized personnel and systems
+- Access controls that restrict data access to authorized personnel and systems, including role-based permissions that limit which team members can view user content such as AI conversation logs
 - Row-level security policies on our database to ensure users can only access their own data
+- Internal policies that require team members to access user data only when necessary for debugging, safety monitoring, or service improvement, and to treat all user content as confidential
 
 However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
