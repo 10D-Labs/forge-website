@@ -89,6 +89,13 @@ Browse by body part (Arms, Back, Cardio, Chest, Core, Legs, Neck, Shoulders), eq
 - How AI Actually Personalizes Your Workouts: https://forgetrainer.ai/blog/how-ai-personalizes-workouts
 - Do You Need a Personal Trainer? 12 Signs to Consider: https://forgetrainer.ai/blog/do-you-need-a-personal-trainer
 
+## Download Forge
+
+Forge is available now on iOS and Android with a 7-day free trial.
+
+- **Google Play:** https://play.google.com/store/apps/details?id=com.tendylabs.forge
+- **App Store:** https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402
+
 ## Contact & Links
 
 - Website: https://forgetrainer.ai
@@ -102,6 +109,10 @@ Browse by body part (Arms, Back, Cardio, Chest, Core, Legs, Neck, Shoulders), eq
 - Trainer - Maya: https://forgetrainer.ai/trainers/maya
 - Trainer - Mike: https://forgetrainer.ai/trainers/mike
 - Trainer - Reese: https://forgetrainer.ai/trainers/reese
+
+## Status
+
+Forge is live and available for download on iOS and Android.
 
 ## Citation Preference
 

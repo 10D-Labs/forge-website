@@ -279,7 +279,7 @@
 
 Get a personalized leg workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
+**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
 
 ---
 

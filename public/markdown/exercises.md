@@ -53,7 +53,7 @@ Forge's exercise library contains 923+ exercises with detailed instructions and 
 
 Forge is a personal trainer in your pocket. Our AI trainers create custom workout plans using exercises from this library, tailored to your goals, schedule, and available equipment.
 
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
+**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
 
 ---
 

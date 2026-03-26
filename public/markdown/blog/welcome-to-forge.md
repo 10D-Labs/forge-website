@@ -30,6 +30,9 @@ Getting fit shouldn't be complicated. Yet for too many people, the gym feels int
 
 We built Forge for everyone who wants to experience the transformative power of consistent training. Download Forge today and experience the future of fitness.
 
+- [Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)
+- [Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)
+
 ## Frequently Asked Questions
 
 ### What is Forge and how does it work?

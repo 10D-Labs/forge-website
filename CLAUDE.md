@@ -130,7 +130,7 @@ category: "training-fundamentals"
 | `SEOHead` | Dynamic meta tags, OG tags, markdown discovery |
 | `StructuredData` | JSON-LD schema markup |
 | `Header` | Navigation with scroll-to functionality |
-| `WaitlistForm` | Email capture form (Supabase) |
+| `HomeScrollHandler` | Redirects legacy #waitlist links to /download |
 | `MeetTheTrainersSection` | Trainer carousel |
 | `RelatedPosts` | Shows related blog posts |
 

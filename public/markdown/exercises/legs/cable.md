@@ -27,7 +27,7 @@
 
 Our AI trainers design personalized leg workout plans using cable. Built for your specific goals.
 
-**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
+**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
 
 ---
 

@@ -205,8 +205,17 @@ Browse at: https://forgetrainer.ai/exercises
 - **Email:** support@forgetrainer.ai
 - **Instagram:** https://www.instagram.com/forgetrainer
 - **TikTok:** https://www.tiktok.com/@forgetrainer
-- **Status:** Pre-launch (waitlist open)
+- **Status:** Live (available for download)
 - **Platforms:** iOS, Android
+- **Google Play:** https://play.google.com/store/apps/details?id=com.tendylabs.forge
+- **App Store:** https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402
+
+## Download Forge
+
+Forge is available now on iOS and Android with a 7-day free trial on all plans.
+
+- **Google Play:** https://play.google.com/store/apps/details?id=com.tendylabs.forge
+- **App Store:** https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402
 
 ## Citation Preference
 
