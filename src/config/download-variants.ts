@@ -1,15 +1,18 @@
-// Maps variant codes (A, B, C...) to store listing URLs.
+// Maps variant codes to store listing URLs with tracking params.
 // Add new entries as you create ad campaigns / custom store listings.
 
 type VariantUrls = {
   android: string;
-  ios?: string;
+  ios: string;
 };
 
 export const variants: Record<string, VariantUrls> = {
-  // Example:
-  // A: { android: "https://play.google.com/store/apps/details?id=com.tendylabs.forge&listing=custom-listing-1" },
-  // B: { android: "https://play.google.com/store/apps/details?id=com.tendylabs.forge&listing=custom-listing-2" },
+  // "Getting Back Into It" UGC campaign creators
+  sarah: {
+    android:
+      "https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=ugc&utm_medium=tiktok&utm_campaign=getting-back-into-it&utm_content=sarah",
+    ios: "https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?ct=sarah&mt=8",
+  },
 };
 
 export const defaultUrls = {
