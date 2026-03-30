@@ -10,9 +10,26 @@ const nextConfig = {
     optimizePackageImports: ["lucide-react", "framer-motion"],
   },
 
-  // Preserve existing redirects
+  // Redirect old exercise URLs that were split into time/distance variants
   async redirects() {
-    return [];
+    const splitExercises = [
+      "bear-crawl",
+      "elliptical",
+      "farmers-walk",
+      "hands-bike",
+      "run",
+      "short-stride-run",
+      "ski-ergometer",
+      "stairmaster",
+      "treadmill-run",
+      "walking-on-incline-treadmill",
+    ];
+
+    return splitExercises.map((slug) => ({
+      source: `/exercise/${slug}`,
+      destination: `/exercise/${slug}-time`,
+      permanent: true,
+    }));
   },
 
   // Rewrite markdown files for AI crawlers
