@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-often-to-train-each-muscle-group",
+    title: "How Often Should You Train Each Muscle Group? What Science Actually Says",
+    date: "2026-03-29",
+    excerpt: "The research is clear: training frequency matters less than you think. Here's how to choose the right frequency based on volume, recovery, and your actual schedule.",
+    author: "The Forge Team",
+    keywords: ["how often to train each muscle group", "training frequency", "muscle group training", "workout frequency", "training splits", "muscle recovery"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "ai-trainers-niche-sports",
     title: "Training for a niche sport? AI trainers actually know more than most coaches",
     date: "2026-03-23",
