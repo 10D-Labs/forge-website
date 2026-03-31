@@ -25,6 +25,11 @@ export const variants: Record<string, VariantUrls> = {
       "https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=brandon&utm_medium=social&utm_campaign=creator",
     ios: "https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?ct=brandon&mt=8",
   },
+  lukas: {
+    android:
+      "https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=lukas&utm_medium=social&utm_campaign=creator",
+    ios: "https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?ct=lukas&mt=8",
+  },
 };
 
 export const defaultUrls = {
