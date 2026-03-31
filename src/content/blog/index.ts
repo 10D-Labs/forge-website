@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "fitness-accountability-guide",
+    title: "Fitness Accountability: The Missing Piece to Workout Success",
+    date: "2026-03-29",
+    excerpt: "80% of gym members quit within 5 months. The problem isn't motivation. It's accountability. Learn how to build a system that keeps you consistent.",
+    author: "The Forge Team",
+    keywords: ["fitness accountability", "workout accountability", "gym accountability partner", "exercise consistency", "fitness accountability system"],
+    category: "fitness-psychology"
+  },
+  {
     slug: "how-often-to-train-each-muscle-group",
     title: "How Often Should You Train Each Muscle Group? What Science Actually Says",
     date: "2026-03-29",
