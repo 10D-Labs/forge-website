@@ -125,6 +125,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/how-to-know-if-exercise-form-is-correct</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/fitness-accountability-guide</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>yearly</changefreq>

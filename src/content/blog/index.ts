@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-know-if-exercise-form-is-correct",
+    title: "How to Know If You're Doing an Exercise Correctly (Without a Trainer)",
+    date: "2026-03-29",
+    excerpt: "Learn to assess your own form using video recording, spot the warning signs of bad technique, and know when you actually need a trainer's help.",
+    author: "The Forge Team",
+    keywords: ["exercise form check", "proper form self-assessment", "video form check", "bad exercise form signs", "gym injury prevention"],
+    category: "exercise-technique"
+  },
+  {
     slug: "fitness-accountability-guide",
     title: "Fitness Accountability: The Missing Piece to Workout Success",
     date: "2026-03-29",
