@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "get-stronger-without-getting-bigger",
+    title: "How to Get Stronger Without Getting Bigger",
+    date: "2026-03-29",
+    excerpt: "Build strength without adding size through neural training. The exact rep ranges, rest periods, and nutrition strategy for strength gains without bulk.",
+    author: "The Forge Team",
+    keywords: ["get stronger without gaining muscle", "strength without size", "neural adaptations strength training", "strength training low reps", "build strength not muscle"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-to-know-if-exercise-form-is-correct",
     title: "How to Know If You're Doing an Exercise Correctly (Without a Trainer)",
     date: "2026-03-29",
