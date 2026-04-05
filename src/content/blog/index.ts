@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-tell-if-workout-is-working",
+    title: "How to Tell If Your Workout Is Actually Working (11 Real Progress Indicators)",
+    date: "2026-03-29",
+    excerpt: "Wondering if your workout program is effective? 11 evidence-based progress indicators beyond the scale that show you're making real gains.",
+    author: "The Forge Team",
+    keywords: ["how to tell if workout is working", "signs your workout is working", "fitness progress indicators", "workout progress tracking", "are my workouts effective"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "get-stronger-without-getting-bigger",
     title: "How to Get Stronger Without Getting Bigger",
     date: "2026-03-29",
