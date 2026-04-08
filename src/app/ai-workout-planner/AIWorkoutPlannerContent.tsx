@@ -209,7 +209,7 @@ export default function AIWorkoutPlannerContent() {
                 className="flex flex-wrap items-center justify-center gap-4 mb-3"
               >
                 <a
-                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402"
+                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?ct=planner-hero&mt=8"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Download Forge on the App Store"
@@ -223,7 +223,7 @@ export default function AIWorkoutPlannerContent() {
                   />
                 </a>
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+                  href="https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=website&utm_medium=badge&utm_campaign=organic&utm_content=planner-hero"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Get Forge on Google Play"
@@ -406,7 +406,7 @@ export default function AIWorkoutPlannerContent() {
               </p>
               <div className="flex flex-wrap items-center justify-center gap-4 mb-8">
                 <a
-                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402"
+                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?ct=planner-bottom&mt=8"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Download Forge on the App Store"
@@ -420,7 +420,7 @@ export default function AIWorkoutPlannerContent() {
                   />
                 </a>
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.tendylabs.forge"
+                  href="https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=website&utm_medium=badge&utm_campaign=organic&utm_content=planner-bottom"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Get Forge on Google Play"

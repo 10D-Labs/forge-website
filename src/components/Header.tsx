@@ -1,13 +1,14 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useCallback } from "react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { Menu, X } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
 
 const Header = () => {
   const pathname = usePathname();
+  const router = useRouter();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navLinks = [
@@ -18,6 +19,64 @@ const Header = () => {
   ];
 
   const closeMenu = () => setIsMenuOpen(false);
+
+  const scrollToHeroBadges = useCallback(() => {
+    const badges = document.getElementById("hero-badges");
+    if (!badges) return;
+
+    badges.scrollIntoView({ behavior: "smooth", block: "center" });
+
+    // Wait for scroll to finish before firing the pulse
+    let scrollTimeout: ReturnType<typeof setTimeout>;
+    const onScroll = () => {
+      clearTimeout(scrollTimeout);
+      scrollTimeout = setTimeout(() => {
+        window.removeEventListener("scroll", onScroll);
+        badges.classList.add("badge-pulse");
+        badges.addEventListener(
+          "animationend",
+          () => badges.classList.remove("badge-pulse"),
+          { once: true }
+        );
+      }, 100);
+    };
+
+    // If already in view (no scroll happens), fire immediately after a short delay
+    scrollTimeout = setTimeout(() => {
+      window.removeEventListener("scroll", onScroll);
+      badges.classList.add("badge-pulse");
+      badges.addEventListener(
+        "animationend",
+        () => badges.classList.remove("badge-pulse"),
+        { once: true }
+      );
+    }, 300);
+
+    window.addEventListener("scroll", onScroll);
+  }, []);
+
+  const handleDesktopDownload = useCallback(
+    (e: React.MouseEvent) => {
+      e.preventDefault();
+      if (pathname === "/") {
+        scrollToHeroBadges();
+      } else {
+        router.push("/");
+        // Wait for navigation then scroll
+        const check = () => {
+          const badges = document.getElementById("hero-badges");
+          if (badges) {
+            scrollToHeroBadges();
+          } else {
+            requestAnimationFrame(check);
+          }
+        };
+        // Start checking after a short delay for navigation
+        setTimeout(check, 100);
+      }
+    },
+    [pathname, router, scrollToHeroBadges]
+  );
 
   return (
     <header
@@ -50,12 +109,13 @@ const Header = () => {
               {link.label}
             </Link>
           ))}
-          <Link
-            href="/download"
-            className="inline-flex items-center justify-center px-5 py-2.5 font-barlow-condensed text-sm font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all btn-neon rounded-[14px]"
+          <a
+            href="/#hero-badges"
+            onClick={handleDesktopDownload}
+            className="inline-flex items-center justify-center px-5 py-2.5 font-barlow-condensed text-sm font-bold uppercase tracking-wider bg-primary text-primary-foreground hover:bg-forge-orange-dark transition-all btn-neon rounded-[14px] cursor-pointer"
           >
             Download
-          </Link>
+          </a>
           <ThemeToggle />
         </nav>
 
