@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-much-protein-to-build-muscle",
+    title: "How Much Protein to Build Muscle? (2026 Evidence-Based Guide)",
+    date: "2026-04-10",
+    excerpt: "The evidence-based answer to how much protein you need to build muscle, plus why the 1 gram per pound rule is overblown and how to calculate your personal target.",
+    author: "The Forge Team",
+    keywords: ["how much protein to build muscle", "protein intake for muscle growth", "protein requirements bodybuilding", "optimal protein intake", "protein per pound myth"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-to-tell-if-workout-is-working",
     title: "How to Tell If Your Workout Is Actually Working (11 Real Progress Indicators)",
     date: "2026-03-29",
