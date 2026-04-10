@@ -71,7 +71,7 @@ const CTASection = () => {
           <motion.div className="mb-10 flex flex-col items-center" variants={fadeInUp}>
             <div className="flex flex-wrap items-center justify-center gap-4 mb-3">
               <a
-                href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?ct=cta-bottom&mt=8"
+                href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?pt=128493451&ct=cta-bottom&mt=8"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Download Forge on the App Store"
