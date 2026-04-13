@@ -33,6 +33,12 @@ export const variants: Record<string, VariantUrls> = {
       "https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=courtney&utm_medium=social&utm_campaign=creator",
     ios: "https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?pt=128493451&ct=courtney&mt=8",
   },
+  // Paid ads
+  linkedin: {
+    android:
+      "https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=linkedin&utm_medium=paid&utm_campaign=document_ad",
+    ios: "https://apps.apple.com/app/apple-store/id6758403402?pt=128493451&ct=linkedin&mt=8",
+  },
 };
 
 export const defaultUrls = {
