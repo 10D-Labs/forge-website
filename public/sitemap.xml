@@ -125,6 +125,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/online-personal-trainer-guide</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/how-much-protein-to-build-muscle</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>yearly</changefreq>

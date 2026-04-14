@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "online-personal-trainer-guide",
+    title: "How to Find an Online Personal Trainer That Actually Delivers (2026 Buyer's Guide)",
+    date: "2026-04-13",
+    excerpt: "Compare human trainers ($50-200/mo), ChatGPT (free), and AI workout apps ($10-35/mo) to find the online personal training option that fits your goals and budget.",
+    author: "The Forge Team",
+    keywords: ["online personal trainer", "chatgpt gym", "chatgpt workout plan", "ai workout app", "online personal training"],
+    category: "fitness-technology"
+  },
+  {
     slug: "how-much-protein-to-build-muscle",
     title: "How Much Protein to Build Muscle? (2026 Evidence-Based Guide)",
     date: "2026-04-10",
