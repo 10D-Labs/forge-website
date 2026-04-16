@@ -96,7 +96,7 @@ export default function RootLayout({
         <Analytics />
         <SpeedInsights />
 
-        {/* Google Ads tag (gtag.js) */}
+        {/* Google Ads tag (gtag.js) with Consent Mode v2 */}
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_ADS_ID}`}
           strategy="afterInteractive"
@@ -105,6 +105,38 @@ export default function RootLayout({
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
+
+            // Consent Mode v2: default all signals to denied until user accepts
+            gtag('consent', 'default', {
+              'ad_storage': 'denied',
+              'ad_user_data': 'denied',
+              'ad_personalization': 'denied',
+              'analytics_storage': 'denied',
+              'functionality_storage': 'denied',
+              'personalization_storage': 'denied',
+              'security_storage': 'granted',
+              'wait_for_update': 500
+            });
+
+            // Restore consent from prior visit before firing page_view
+            try {
+              var savedConsent = localStorage.getItem('cookie-consent');
+              if (savedConsent === 'accepted') {
+                gtag('consent', 'update', {
+                  'ad_storage': 'granted',
+                  'ad_user_data': 'granted',
+                  'ad_personalization': 'granted',
+                  'analytics_storage': 'granted',
+                  'functionality_storage': 'granted',
+                  'personalization_storage': 'granted'
+                });
+              }
+            } catch (e) {}
+
+            // Keep attribution working even when ad_storage is denied
+            gtag('set', 'url_passthrough', true);
+            gtag('set', 'ads_data_redaction', true);
+
             gtag('js', new Date());
             gtag('config', '${GOOGLE_ADS_ID}');
           `}

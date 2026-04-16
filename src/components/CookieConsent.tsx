@@ -3,7 +3,26 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { X } from "lucide-react";
+
+// gtag is injected globally by the Google Ads script in layout.tsx
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void;
+  }
+}
+
+const updateConsent = (granted: boolean) => {
+  if (typeof window === "undefined" || typeof window.gtag !== "function") return;
+  const state = granted ? "granted" : "denied";
+  window.gtag("consent", "update", {
+    ad_storage: state,
+    ad_user_data: state,
+    ad_personalization: state,
+    analytics_storage: state,
+    functionality_storage: state,
+    personalization_storage: state,
+  });
+};
 
 const CookieConsent = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -21,11 +40,13 @@ const CookieConsent = () => {
 
   const handleAccept = () => {
     localStorage.setItem("cookie-consent", "accepted");
+    updateConsent(true);
     setIsVisible(false);
   };
 
   const handleDecline = () => {
     localStorage.setItem("cookie-consent", "declined");
+    updateConsent(false);
     setIsVisible(false);
   };
 
