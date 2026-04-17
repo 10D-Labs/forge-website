@@ -5,6 +5,7 @@ import { useRef } from "react";
 import { Check } from "lucide-react";
 
 import { GlowOrbs } from "./effects";
+import { trackAppStoreClick } from "@/lib/tracking";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
 
 const CTASection = () => {
@@ -75,6 +76,7 @@ const CTASection = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Download Forge on the App Store"
+                onClick={trackAppStoreClick}
               >
                 <img
                   src="/app-store-badge.svg"

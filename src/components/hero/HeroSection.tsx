@@ -3,6 +3,7 @@
 import { ChevronDown } from "lucide-react";
 import { lazy, Suspense, useState, useEffect } from "react";
 import { GridBackground, GlowOrbs } from "@/components/effects";
+import { trackAppStoreClick } from "@/lib/tracking";
 import HeroPhoneStatic from "./HeroPhoneStatic";
 
 
@@ -75,6 +76,7 @@ const HeroSection = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Download Forge on the App Store"
+                  onClick={trackAppStoreClick}
                 >
                   <img
                     src="/app-store-badge.svg"

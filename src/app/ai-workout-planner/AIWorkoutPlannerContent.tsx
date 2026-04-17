@@ -5,6 +5,7 @@ import { useRef } from "react";
 import Link from "next/link";
 import { Target, Calendar, Dumbbell, TrendingUp, Check } from "lucide-react";
 import { GridBackground, GlowOrbs } from "@/components/effects";
+import { trackAppStoreClick } from "@/lib/tracking";
 
 import FAQSection from "@/components/FAQSection";
 import StructuredData from "@/components/StructuredData";
@@ -213,6 +214,7 @@ export default function AIWorkoutPlannerContent() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Download Forge on the App Store"
+                  onClick={trackAppStoreClick}
                 >
                   <img
                     src="/app-store-badge.svg"
@@ -410,6 +412,7 @@ export default function AIWorkoutPlannerContent() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Download Forge on the App Store"
+                  onClick={trackAppStoreClick}
                 >
                   <img
                     src="/app-store-badge.svg"
