@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-to-calculate-training-volume",
+    title: "How to calculate training volume: sets per week guide",
+    date: "2026-04-16",
+    excerpt: "Learn how to calculate training volume using MEV, MAV, and MRV. Includes volume ranges by muscle group, compound exercise overlap, and progression tips.",
+    author: "The Forge Team",
+    keywords: ["how to calculate training volume", "training volume", "sets per week per muscle", "MEV MAV MRV", "optimal training volume"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "online-personal-trainer-guide",
     title: "How to Find an Online Personal Trainer That Actually Delivers (2026 Buyer's Guide)",
     date: "2026-04-13",
