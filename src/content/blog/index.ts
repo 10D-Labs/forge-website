@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "is-personal-trainer-worth-it",
+    title: "Is a personal trainer worth it? Cost vs results breakdown",
+    date: "2026-04-20",
+    excerpt: "Research shows personal trainers deliver 2-3x faster results, but at $440/month the ROI depends on your situation. Data-backed breakdown of when trainers are worth it and when they're not.",
+    author: "The Forge Team",
+    keywords: ["is a personal trainer worth it", "personal trainer worth the money", "personal trainer ROI", "personal training cost benefit", "are personal trainers worth it"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-to-calculate-training-volume",
     title: "How to calculate training volume: sets per week guide",
     date: "2026-04-16",
