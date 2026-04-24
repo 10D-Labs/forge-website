@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "home-gym-cost-2026",
+    title: "How Much Does a Home Gym Cost? Complete Setup Guide [2026]",
+    date: "2026-04-24",
+    excerpt: "Home gym costs range from $200 to $10,000+. Real equipment prices, hidden costs (flooring, climate control), and 5-year cost comparisons vs gym memberships and AI training.",
+    author: "The Forge Team",
+    keywords: ["home gym cost", "how much does a home gym cost", "home gym setup cost", "home gym equipment cost", "budget home gym"],
+    category: "getting-started"
+  },
+  {
     slug: "is-personal-trainer-worth-it",
     title: "Is a personal trainer worth it? Cost vs results breakdown",
     date: "2026-04-20",
