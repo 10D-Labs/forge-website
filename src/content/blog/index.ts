@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "how-many-days-per-week-to-work-out",
+    title: "How Many Days Per Week Should You Work Out? Science-Based Weekly Training Guide",
+    date: "2026-04-25",
+    excerpt: "Research shows 4-5 days per week builds muscle fastest, but the minimum effective dose is just 2-3 days. Choose your optimal training frequency based on your goals, experience, and schedule.",
+    author: "The Forge Team",
+    keywords: ["how many days per week to work out", "workout frequency", "training days per week", "gym schedule", "weekly training frequency", "optimal workout frequency"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "home-gym-cost-2026",
     title: "How Much Does a Home Gym Cost? Complete Setup Guide [2026]",
     date: "2026-04-24",
