@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "body-recomposition-build-muscle-lose-fat",
+    title: "Body Recomposition: How to Build Muscle and Lose Fat at the Same Time",
+    date: "2026-04-26",
+    excerpt: "Build muscle and lose fat simultaneously with body recomposition. Science-backed nutrition and training protocols for beginners and trained lifters.",
+    author: "The Forge Team",
+    keywords: ["body recomposition", "build muscle lose fat same time", "body recomp", "recomposition diet", "muscle gain fat loss"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "how-many-days-per-week-to-work-out",
     title: "How Many Days Per Week Should You Work Out? Science-Based Weekly Training Guide",
     date: "2026-04-25",
