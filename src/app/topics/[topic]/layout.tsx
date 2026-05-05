@@ -29,6 +29,7 @@ export async function generateMetadata({
       url: `https://forgetrainer.ai/topics/${topicSlug}`,
     },
     alternates: {
+      canonical: `https://forgetrainer.ai/topics/${topicSlug}`,
       types: {
         "text/markdown": `/markdown/topics/${topicSlug}.md`,
       },
