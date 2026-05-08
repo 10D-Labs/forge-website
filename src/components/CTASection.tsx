@@ -35,7 +35,7 @@ const CTASection = () => {
 
       <div className="container relative z-10">
         <motion.div
-          className="max-w-3xl mx-auto text-center"
+          className="max-w-4xl mx-auto text-center"
           initial="hidden"
           animate={isInView ? "visible" : "hidden"}
           variants={staggerContainer}
@@ -56,7 +56,7 @@ const CTASection = () => {
             className="font-barlow-condensed text-display font-black uppercase leading-none mb-8"
             variants={fadeInUp}
           >
-            Ready To <span className="text-primary text-neon">Transform?</span>
+            Your First Workout&nbsp;Is<br /><span className="text-primary text-neon">Free</span>
           </motion.h2>
 
           {/* Subheadline */}
@@ -64,8 +64,8 @@ const CTASection = () => {
             className="text-lg md:text-xl text-text-secondary mb-10 max-w-2xl mx-auto font-barlow"
             variants={fadeInUp}
           >
-            Download Forge and start training with{" "}
-            <span className="whitespace-nowrap">AI-powered</span> personal training today.
+            Download Forge. Try it for 7 days. If it&apos;s not for you, cancel. No questions, no charge.
+            But if it is... you&apos;ll wonder why you waited.
           </motion.p>
 
           {/* Store Badges */}
@@ -101,9 +101,9 @@ const CTASection = () => {
                 />
               </a>
             </div>
-            <p className="text-sm text-text-tertiary">
-              Available on iOS and Android
-            </p>
+            <a href="/download" className="text-sm text-text-tertiary hover:text-primary transition-colors">
+              Tap to download
+            </a>
           </motion.div>
 
           {/* Trust signals */}

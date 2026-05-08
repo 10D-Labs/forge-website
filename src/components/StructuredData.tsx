@@ -50,6 +50,12 @@ interface SoftwareApplicationOffer {
   billingPeriod?: string;
 }
 
+interface AggregateRating {
+  ratingValue: string;
+  ratingCount: string;
+  bestRating?: string;
+}
+
 interface SoftwareApplicationStructuredDataProps {
   type: "softwareApplication";
   name: string;
@@ -63,6 +69,7 @@ interface SoftwareApplicationStructuredDataProps {
   audienceType?: string;
   keywords?: string;
   datePublished?: string;
+  aggregateRating?: AggregateRating;
 }
 
 export interface FAQQuestion {
@@ -204,6 +211,14 @@ const StructuredData = (props: StructuredDataProps) => {
         ...(props.keywords && { keywords: props.keywords }),
         inLanguage: "en",
         ...(props.datePublished && { datePublished: props.datePublished }),
+        ...(props.aggregateRating && {
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: props.aggregateRating.ratingValue,
+            ratingCount: props.aggregateRating.ratingCount,
+            bestRating: props.aggregateRating.bestRating || "5",
+          },
+        }),
         provider: {
           "@type": "Organization",
           name: "Forge",

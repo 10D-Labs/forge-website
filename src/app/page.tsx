@@ -17,16 +17,22 @@ export const metadata: Metadata = {
 };
 
 // Dynamic imports for below-fold sections - code splitting reduces initial bundle
-const FeaturesSection = dynamic(() => import("@/components/FeaturesSection"), {
-  loading: () => <div className="min-h-[400px]" />,
-});
-const HowItWorksSection = dynamic(() => import("@/components/sections/HowItWorksSection"), {
+const PainMirrorSection = dynamic(() => import("@/components/sections/PainMirrorSection"), {
   loading: () => <div className="min-h-[400px]" />,
 });
 const ProblemSection = dynamic(() => import("@/components/ProblemSection"), {
   loading: () => <div className="min-h-[300px]" />,
 });
+const SolutionSection = dynamic(() => import("@/components/sections/SolutionSection"), {
+  loading: () => <div className="min-h-[400px]" />,
+});
 const MeetTheTrainersSection = dynamic(() => import("@/components/sections/MeetTheTrainersSection"), {
+  loading: () => <div className="min-h-[400px]" />,
+});
+const TransformationSection = dynamic(() => import("@/components/sections/TransformationSection"), {
+  loading: () => <div className="min-h-[300px]" />,
+});
+const HowItWorksSection = dynamic(() => import("@/components/sections/HowItWorksSection"), {
   loading: () => <div className="min-h-[400px]" />,
 });
 const FAQSection = dynamic(() => import("@/components/FAQSection"), {
@@ -38,49 +44,39 @@ const CTASection = dynamic(() => import("@/components/CTASection"), {
 
 const homepageFAQs = [
   {
-    question: "How much does a personal trainer cost?",
-    answer:
-      "Traditional personal trainers typically charge $50-150 per session, or $300-500 per month for regular training. That puts quality fitness guidance out of reach for most people. Forge provides the same personalized workout plans, real-time coaching, and accountability for a fraction of that cost.",
-  },
-  {
-    question: "What is Forge?",
-    answer:
-      "Forge is a personal trainer in your pocket. It creates custom workout plans based on your goals, fitness level, schedule, and available equipment. You get real-time coaching during workouts, 24/7 support for any fitness questions, and accountability features that keep you consistent - all for a fraction of traditional personal training costs.",
-  },
-  {
-    question: "How is Forge different from other fitness apps?",
-    answer:
-      "Apps like Fitbod use fatigue-based algorithms that often suggest illogical exercise combinations. Forge is different: it uses periodized programming with progressive overload to systematically increase your weights week over week. It remembers your complete history — including injuries — and auto-substitutes exercises you can't do. The AI can explain WHY it's programming each exercise, so you understand the logic. Plus, choose from four distinct AI trainers.",
-  },
-  {
-    question: "How does Forge help with exercise form?",
-    answer:
-      "Every exercise includes detailed instructions, form cues, and common mistakes to avoid. You can ask your AI trainer questions like 'How do I keep my back straight during deadlifts?' and get specific guidance. No filming required - Forge teaches proper form through clear explanations you can reference anytime, even mid-workout.",
-  },
-  {
-    question: "Can I choose my trainer?",
-    answer:
-      "Yes! Forge offers four distinct AI trainers: Sergeant Stone for tough love and no excuses, Maya for supportive and encouraging guidance, Mike for a casual gym buddy vibe, and Reese for data-driven technical coaching. You can switch trainers anytime to find the style that motivates you best.",
-  },
-  {
-    question: "What if I have injuries or limitations?",
-    answer:
-      "Forge remembers every injury you tell it — shoulder issues, bad back, knee problems, all of it. Unlike human trainers who forget or apps that ignore your settings, Forge automatically programs around your limitations. It substitutes exercises you can't do and never suggests movements that would aggravate old injuries. You'll never have to explain your history again.",
-  },
-  {
-    question: "What is an AI personal trainer?",
-    answer:
-      "An AI personal trainer is software that uses artificial intelligence to do what a human personal trainer does: create custom workout plans, coach you through exercises, track your progress, and adjust your programming over time. Forge is an AI personal trainer app that goes further by offering four distinct AI trainers, remembering your injury history, and explaining the reasoning behind every exercise in your plan.",
-  },
-  {
     question: "How much does Forge cost?",
     answer:
-      "Forge offers three plans: $6.99/week, $19.99/month, or $49.99/year (about $4/month — on sale from $179.99). All plans include a 7-day free trial. Compare that to traditional personal trainers at $300-500/month, and Forge delivers similar personalized guidance for roughly 99% less.",
+      "Human personal trainers charge $50-150 per session. Forge gives you the same level of personalized coaching for around $4/month on the annual plan ($49.99/year), with monthly ($19.99/month) and weekly ($6.99/week) options too. Every plan starts with a free 7-day trial.",
   },
   {
-    question: "Is AI fitness coaching effective?",
+    question: "What if I'm a complete beginner?",
     answer:
-      "Yes. A 2023 study published in the Journal of Sports Science & Medicine found that AI-generated workout plans matched or exceeded the quality of plans created by certified personal trainers. Forge builds on that foundation by adding real-time coaching, injury awareness, progressive overload tracking, and trainers that keep you engaged long-term.",
+      "Forge was built for you. You don't need to know any exercises, have a routine, or even know what muscles you want to train. Tell Forge your goals and experience level, and it builds a complete program from scratch. Every exercise includes step-by-step instructions and form cues. Your AI trainer answers any question, anytime. No judgment, no stupid questions.",
+  },
+  {
+    question: "What if I have injuries or physical limitations?",
+    answer:
+      "Tell Forge about your injuries once, and it never forgets. Bad shoulder? Forge will never program overhead presses. Knee issues from years ago? It automatically works around them and substitutes exercises you can do safely. You'll never have to explain your limitations to a new app or trainer again.",
+  },
+  {
+    question: "How is Forge different from Fitbod and other fitness apps?",
+    answer:
+      "Most fitness apps use fatigue-based algorithms that suggest random exercise combinations. Forge uses periodized programming with progressive overload to systematically increase your weights week over week. It remembers your injury history and auto-substitutes exercises you can't do. And you can ask the AI to explain WHY any exercise is in your plan. No other app does that.",
+  },
+  {
+    question: "Can I really get good results without a human trainer?",
+    answer:
+      "Yes. A 2026 peer-reviewed study published in the Journal of Sports Science and Medicine found that AI outperformed certified personal trainers in scientific accuracy, comprehensibility, and actionability. Forge delivers personalized programming, progressive overload tracking, and 24/7 coaching that most human trainers can't match in availability or consistency.",
+  },
+  {
+    question: "What if I don't have a gym membership?",
+    answer:
+      "Forge builds workouts around whatever equipment you have. Full gym, home dumbbells, resistance bands, or just your bodyweight. Tell Forge what you have access to, and it programs accordingly.",
+  },
+  {
+    question: "Can I cancel anytime?",
+    answer:
+      "Yes. Cancel through the App Store or Google Play anytime during or after your trial. You'll keep full access until the end of your current billing period, and you won't be charged again.",
   },
 ];
 
@@ -109,7 +105,11 @@ export default function HomePage() {
         applicationCategory="HealthApplication"
         applicationSubCategory="Personal Training"
         operatingSystem={["iOS", "Android"]}
-        description="Affordable personal trainer in your pocket. Get custom workout plans, real-time coaching, and 24/7 guidance for a fraction of traditional personal training costs. Perfect for people who want expert fitness guidance but can't afford $300-500/month trainer fees."
+        description="Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches that remember your history and explain every exercise. Under $5/mo vs $300-500 for a human trainer. Free 7-day trial."
+        aggregateRating={{
+          ratingValue: "5.0",
+          ratingCount: "12",
+        }}
         offers={[
           {
             name: "Weekly Plan",
@@ -152,22 +152,38 @@ export default function HomePage() {
       </Suspense>
 
       <main role="main" itemScope itemType="https://schema.org/WebPage">
-        {/* Hero - Primary conversion point */}
+        {/* 1. Hero - Promise + identity hook */}
         <HeroSection />
 
-        {/* Social Proof - Build trust immediately */}
+        {/* 2. Credibility Bar - Instant trust anchor */}
         <SocialProofBar />
 
-        {/* Below-fold sections - dynamically loaded to reduce initial JS */}
-        <FeaturesSection />
-        <HowItWorksSection />
+        {/* 3. Pain Mirror - Emotional identification */}
+        <PainMirrorSection />
+
+        {/* 4. Problem - Validate past failures */}
         <ProblemSection />
+
+        {/* 5. Solution - Unique mechanism reveal */}
+        <SolutionSection />
+
+        {/* 6. Trainers - Personalization + differentiation */}
         <MeetTheTrainersSection />
+
+        {/* 7. Transformation - Paint the "after" picture */}
+        <TransformationSection />
+
+        {/* 8. How It Works - Make it feel effortless */}
+        <HowItWorksSection />
+
+        {/* 9. FAQ - Handle final objections */}
         <FAQSection
           title="Frequently Asked Questions"
-          subtitle="Everything you need to know about personal training with Forge"
+          subtitle="Everything you need to know about training with Forge"
           questions={homepageFAQs}
         />
+
+        {/* 10. Final CTA - Close with emotional urgency */}
         <CTASection />
       </main>
     </div>

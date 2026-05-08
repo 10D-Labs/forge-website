@@ -91,19 +91,19 @@ const MeetTheTrainersSection = () => {
             variants={fadeInUp}
             className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4"
           >
-            Choose Your Coach
+            Your Style, Your Coach
           </motion.p>
           <motion.h2
             id="trainers-heading"
             variants={fadeInUp}
             className="font-barlow-condensed text-h1 font-black uppercase mb-4"
           >
-            Meet Your AI
-            <span className="text-primary text-neon block">Training Team</span>
+            Pick The Coach
+            <span className="text-primary text-neon block">That Gets You</span>
           </motion.h2>
           <motion.p variants={fadeInUp} className="text-text-secondary text-lg font-barlow">
-            Whether you need tough love, gentle encouragement, or someone who celebrates every small win and understands that some days just showing up is enough — there's a trainer for you.
-            Pick the coach that matches your style, and switch anytime.
+            Tough love or gentle encouragement. Data-driven or laid-back. Four trainers, four styles.
+            Switch anytime. No commitment to one style.
           </motion.p>
         </motion.header>
 
@@ -205,18 +205,6 @@ const MeetTheTrainersSection = () => {
           </div>
         </div>
 
-        {/* Coming soon note */}
-        <motion.p
-          className="text-center text-sm text-text-tertiary mt-8 font-barlow"
-          initial={{ opacity: 0 }}
-          animate={isInView ? { opacity: 1 } : { opacity: 0 }}
-          transition={{ delay: 0.8 }}
-        >
-          More trainers coming soon. Have a request?{" "}
-          <a href="mailto:support@forgetrainer.ai" className="text-primary hover:underline">
-            Let us know.
-          </a>
-        </motion.p>
       </div>
     </section>
   );

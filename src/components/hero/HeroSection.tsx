@@ -36,7 +36,7 @@ const HeroSection = () => {
       <GridBackground fadeDirection="bottom" opacity={0.08} />
       <GlowOrbs variant="hero" />
 
-      <div className="container relative z-10 py-16 md:py-24">
+      <div className="container relative z-10 pt-8 pb-16 md:pt-12 md:pb-24">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left: Content */}
           <div className="max-w-2xl hero-animate-container">
@@ -45,7 +45,7 @@ const HeroSection = () => {
               <span
                 className="inline-block font-barlow-condensed text-label-lg text-primary mb-6"
               >
-                AI-POWERED PERSONAL TRAINING
+                PERSONAL TRAINING FOR EVERYONE
               </span>
             </div>
 
@@ -55,9 +55,10 @@ const HeroSection = () => {
               className="font-barlow-condensed text-display-lg font-black uppercase leading-none mb-8 headline-stagger hero-animate-item"
               itemProp="headline"
             >
-              <span>Your AI</span>
-              <span>Personal</span>
-              <span>Trainer.</span>
+              <span>Stop</span>
+              <span className="text-primary text-neon">Guessing.</span>
+              <span>Start</span>
+              <span className="text-primary text-neon">Training.</span>
             </h1>
 
             {/* Subheadline */}
@@ -65,7 +66,7 @@ const HeroSection = () => {
               className="text-lg md:text-xl text-text-secondary mb-10 leading-relaxed max-w-md hero-animate-item"
               itemProp="description"
             >
-              AI personal training without the $500/month price tag. Whether you're a complete beginner or getting back into it, your AI fitness coach tells you exactly what to do.
+              Forge gives you a personal trainer that builds your workouts, coaches you through every set, and actually remembers who you are. For less than a coffee a week.
             </p>
 
             {/* Store Badges */}
@@ -101,9 +102,6 @@ const HeroSection = () => {
                   />
                 </a>
               </div>
-              <p className="text-sm text-text-tertiary">
-                Available on iOS and Android
-              </p>
             </div>
 
           </div>

@@ -10,23 +10,23 @@ const steps = [
   {
     number: "01",
     icon: Download,
-    title: "Download the App",
+    title: "Download Forge",
     description:
-      "Get Forge on iOS or Android. Your AI personal trainer is ready when you are.",
+      "Free on iOS and Android. Your first workout is ready before your coffee gets cold.",
   },
   {
     number: "02",
     icon: Target,
-    title: "Tell Us Your Goals",
+    title: "Answer a Few Questions",
     description:
-      "Share your fitness level, goals, schedule, injuries, and more. Your AI trainer builds a complete picture of you.",
+      "Goals. Schedule. Equipment. Injuries. Your trainer builds a complete picture.",
   },
   {
     number: "03",
     icon: Dumbbell,
-    title: "Start Training",
+    title: "Open the App and Train",
     description:
-      "Open the app, follow the workout, done. Zero decisions required. Your trainer tells you exactly what to do and adapts as you progress.",
+      "Every set, every rep, every weight is planned for you. Just show up and follow along.",
   },
 ];
 
@@ -37,7 +37,7 @@ const HowItWorksSection = () => {
   return (
     <section
       ref={sectionRef}
-      className="pt-12 pb-6 md:pt-16 md:pb-8 bg-background relative overflow-hidden"
+      className="pt-12 pb-6 md:pt-16 md:pb-8 bg-surface-1 border-t border-border-subtle relative overflow-hidden"
       aria-labelledby="how-it-works-heading"
     >
       <StructuredData
@@ -59,20 +59,20 @@ const HowItWorksSection = () => {
         >
           <motion.p
             variants={fadeInUp}
-            className="text-sm font-medium text-primary uppercase tracking-wider mb-4"
+            className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4"
           >
-            Simple Process
+            How It Works
           </motion.p>
           <motion.h2
             id="how-it-works-heading"
             variants={fadeInUp}
-            className="text-3xl md:text-4xl font-bold mb-4"
+            className="font-barlow-condensed text-h1 font-black uppercase mb-4"
           >
-            Get Started in
-            <span className="text-gradient block">Three Easy Steps</span>
+            Three Steps.
+            <span className="text-primary text-neon block">That&apos;s It.</span>
           </motion.h2>
-          <motion.p variants={fadeInUp} className="text-muted-foreground text-lg">
-            Download the app and start training in minutes.
+          <motion.p variants={fadeInUp} className="text-text-secondary text-lg font-barlow">
+            No setup headaches. No learning curve. Just download and train.
           </motion.p>
         </motion.header>
 

@@ -30,11 +30,11 @@ const barlowCondensed = Barlow_Condensed({
 
 export const metadata: Metadata = {
   title: {
-    default: "Forge - AI Personal Trainer App",
-    template: "%s | Forge AI Trainer",
+    default: "AI Personal Trainer App - Custom Workouts Under $5/mo | Forge",
+    template: "%s | Forge",
   },
   description:
-    "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 AI trainers. Fraction of the cost. Try Forge free.",
+    "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
   keywords: [
     "AI personal trainer",
     "custom workout plans",
@@ -52,15 +52,15 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://forgetrainer.ai",
     siteName: "Forge",
-    title: "Forge - AI Personal Trainer App | Custom Workouts & 24/7 Coaching",
+    title: "AI Personal Trainer App - Custom Workouts Under $5/mo | Forge",
     description:
-      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 AI trainers. Fraction of the cost. Try Forge free.",
+      "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Forge - AI Personal Trainer App | Custom Workouts & 24/7 Coaching",
+    title: "AI Personal Trainer App - Custom Workouts Under $5/mo | Forge",
     description:
-      "Your AI personal trainer for custom workout plans, real-time coaching, and 24/7 fitness guidance. 4 AI trainers. Fraction of the cost. Try Forge free.",
+      "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
   },
   robots: {
     index: true,
@@ -83,7 +83,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning className={`${barlow.variable} ${barlowCondensed.variable}`}>
       <body className={barlow.className}>
-        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="dark" forcedTheme="dark">
           <TooltipProvider>
             <Toaster />
             <Sonner />

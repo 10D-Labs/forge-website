@@ -1,22 +1,22 @@
-import { Users, DollarSign, Zap } from "lucide-react";
+import { Star, DollarSign, Shield } from "lucide-react";
 
 // CSS-only social proof bar - no Framer Motion to keep initial bundle small
 const SocialProofBar = () => {
   const stats = [
     {
-      icon: Users,
-      value: "4",
-      label: "AI trainers",
+      icon: Star,
+      value: "5 stars",
+      label: "on iOS and Android",
     },
     {
       icon: DollarSign,
-      value: "$4,000+",
-      label: "in annual savings",
+      value: "Under $5/month",
+      label: "vs $300-500 for a human trainer",
     },
     {
-      icon: Zap,
-      value: "24/7",
-      label: "AI availability",
+      icon: Shield,
+      value: "7-day free trial",
+      label: "No commitment. Cancel anytime.",
     },
   ];
 
