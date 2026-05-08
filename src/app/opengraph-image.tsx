@@ -12,7 +12,7 @@ import {
   getMockupBase64,
 } from "@/lib/og-utils";
 
-export const alt = "Forge - AI Personal Trainer";
+export const alt = "Forge - Stop Guessing. Start Training.";
 export const size = { width: OG_WIDTH, height: OG_HEIGHT };
 export const contentType = ogImageConfig.contentType;
 
@@ -70,7 +70,7 @@ export default async function Image() {
                 letterSpacing: "-1px",
               }}
             >
-              YOUR
+              STOP
             </span>
             <span
               style={{
@@ -79,11 +79,10 @@ export default async function Image() {
                 fontWeight: 800,
                 color: ORANGE,
                 textTransform: "uppercase",
-                fontStyle: "italic",
                 letterSpacing: "-1px",
               }}
             >
-              PERSONAL
+              GUESSING.
             </span>
             <span
               style={{
@@ -95,7 +94,19 @@ export default async function Image() {
                 letterSpacing: "-1px",
               }}
             >
-              TRAINER.
+              START
+            </span>
+            <span
+              style={{
+                fontSize: 72,
+                fontFamily: "Barlow Condensed",
+                fontWeight: 800,
+                color: ORANGE,
+                textTransform: "uppercase",
+                letterSpacing: "-1px",
+              }}
+            >
+              TRAINING.
             </span>
           </div>
 
