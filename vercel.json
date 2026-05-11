@@ -2,24 +2,74 @@
   "framework": "nextjs",
   "redirects": [
     {
+      "source": "/exercise/bear-crawl",
+      "destination": "/exercise/bear-crawl-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/elliptical",
+      "destination": "/exercise/elliptical-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/farmers-walk",
+      "destination": "/exercise/farmers-walk-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/hands-bike",
+      "destination": "/exercise/hands-bike-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/run",
+      "destination": "/exercise/run-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/short-stride-run",
+      "destination": "/exercise/short-stride-run-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/ski-ergometer",
+      "destination": "/exercise/ski-ergometer-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/stairmaster",
+      "destination": "/exercise/stairmaster-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/treadmill-run",
+      "destination": "/exercise/treadmill-run-time",
+      "statusCode": 301
+    },
+    {
+      "source": "/exercise/walking-on-incline-treadmill",
+      "destination": "/exercise/walking-on-incline-treadmill-time",
+      "statusCode": 301
+    },
+    {
       "source": "/blog/can-ai-replace-personal-trainer-research",
       "destination": "/blog/can-ai-replace-personal-trainer",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/topics/strength-training-basics",
       "destination": "/topics/strength-training",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/topics/ai-fitness-technology",
       "destination": "/topics/fitness-technology",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/topics/fitness-motivation",
       "destination": "/topics/fitness-psychology",
-      "permanent": true
+      "statusCode": 301
     }
   ],
   "headers": [
