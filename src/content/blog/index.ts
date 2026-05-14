@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "who-to-trust-for-fitness-advice",
+    title: "Who to Trust for Fitness Advice: A Complete Guide to Spotting Qualified Sources",
+    date: "2026-05-13",
+    excerpt: "60% of TikTok fitness content is misleading and 95% of posters lack credentials. Learn the 5-step framework to identify qualified fitness sources and stop wasting time on bad advice.",
+    author: "The Forge Team",
+    keywords: ["who to trust for fitness advice", "fitness advice credentials", "NCCA certification fitness", "are fitness influencers qualified", "certified personal trainer vs fitness influencer"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "body-recomposition-build-muscle-lose-fat",
     title: "Body Recomposition: How to Build Muscle and Lose Fat at the Same Time",
     date: "2026-04-26",

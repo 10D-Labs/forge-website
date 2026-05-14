@@ -125,6 +125,12 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://forgetrainer.ai/blog/who-to-trust-for-fitness-advice</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://forgetrainer.ai/blog/body-recomposition-build-muscle-lose-fat</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>yearly</changefreq>
