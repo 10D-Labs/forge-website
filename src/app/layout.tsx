@@ -31,7 +31,7 @@ const barlowCondensed = Barlow_Condensed({
 export const metadata: Metadata = {
   title: {
     default: "AI Personal Trainer App - Custom Workouts Under $5/mo | Forge",
-    template: "%s | Forge",
+    template: "%s | Forge AI Trainer",
   },
   description:
     "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",

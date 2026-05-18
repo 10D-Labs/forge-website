@@ -6,6 +6,26 @@ import { SocialProofBar } from "@/components/sections";
 import StructuredData from "@/components/StructuredData";
 import HomeScrollHandler from "@/components/HomeScrollHandler";
 
+async function getAppStoreRating() {
+  try {
+    const res = await fetch(
+      "https://itunes.apple.com/lookup?id=6758403402&country=us",
+      { next: { revalidate: 86400 } }
+    );
+    const data = await res.json();
+    const app = data.results?.[0];
+    if (app?.averageUserRating != null && app?.userRatingCount != null) {
+      return {
+        ratingValue: String(app.averageUserRating),
+        ratingCount: String(app.userRatingCount),
+      };
+    }
+  } catch {
+    // Fall through to null
+  }
+  return null;
+}
+
 // Metadata with markdown discovery for LLM crawlers
 export const metadata: Metadata = {
   alternates: {
@@ -44,9 +64,14 @@ const CTASection = dynamic(() => import("@/components/CTASection"), {
 
 const homepageFAQs = [
   {
-    question: "How much does Forge cost?",
+    question: "How much does a personal trainer cost?",
     answer:
-      "Human personal trainers charge $50-150 per session. Forge gives you the same level of personalized coaching for around $4/month on the annual plan ($49.99/year), with monthly ($19.99/month) and weekly ($6.99/week) options too. Every plan starts with a free 7-day trial.",
+      "Traditional personal trainers typically charge $50-150 per session, or $300-500 per month for regular training. That puts quality fitness guidance out of reach for most people. Forge provides the same personalized workout plans, real-time coaching, and accountability for around $4/month on the annual plan ($49.99/year), with monthly ($19.99/month) and weekly ($6.99/week) options too. Every plan starts with a free 7-day trial.",
+  },
+  {
+    question: "What is an AI personal trainer?",
+    answer:
+      "An AI personal trainer is software that uses artificial intelligence to do what a human personal trainer does: create custom workout plans, coach you through exercises, track your progress, and adjust your programming over time. Forge is an AI personal trainer app that goes further by offering four distinct AI trainers with different coaching styles, remembering your injury history permanently, and explaining the reasoning behind every exercise in your plan.",
   },
   {
     question: "What if I'm a complete beginner?",
@@ -64,7 +89,7 @@ const homepageFAQs = [
       "Most fitness apps use fatigue-based algorithms that suggest random exercise combinations. Forge uses periodized programming with progressive overload to systematically increase your weights week over week. It remembers your injury history and auto-substitutes exercises you can't do. And you can ask the AI to explain WHY any exercise is in your plan. No other app does that.",
   },
   {
-    question: "Can I really get good results without a human trainer?",
+    question: "Is AI fitness coaching effective?",
     answer:
       "Yes. A 2026 peer-reviewed study published in the Journal of Sports Science and Medicine found that AI outperformed certified personal trainers in scientific accuracy, comprehensibility, and actionability. Forge delivers personalized programming, progressive overload tracking, and 24/7 coaching that most human trainers can't match in availability or consistency.",
   },
@@ -81,7 +106,9 @@ const homepageFAQs = [
 ];
 
 
-export default function HomePage() {
+export default async function HomePage() {
+  const appStoreRating = await getAppStoreRating();
+
   return (
     <div className="min-h-screen bg-background">
       {/* Structured Data for SEO */}
@@ -106,10 +133,7 @@ export default function HomePage() {
         applicationSubCategory="Personal Training"
         operatingSystem={["iOS", "Android"]}
         description="Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches that remember your history and explain every exercise. Under $5/mo vs $300-500 for a human trainer. Free 7-day trial."
-        aggregateRating={{
-          ratingValue: "5.0",
-          ratingCount: "12",
-        }}
+        {...(appStoreRating && { aggregateRating: appStoreRating })}
         offers={[
           {
             name: "Weekly Plan",
