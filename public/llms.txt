@@ -1,4 +1,4 @@
-# Forge - AI Personal Trainer App
+# Forge Trainer: Gym & Strength
 
 > Forge (forgetrainer.ai) is an AI-powered personal training mobile app for iOS and Android that provides custom workout plans, real-time coaching, and 24/7 fitness guidance through four distinct AI trainers. It makes personal training accessible to everyone at under $5/month vs $300-500/month for a human trainer.
 
@@ -140,8 +140,8 @@ Forge is available now on iOS and Android with a 7-day free trial.
 
 - Website: https://forgetrainer.ai
 - Email: support@forgetrainer.ai
-- Instagram: https://www.instagram.com/forgetrainer
-- TikTok: https://www.tiktok.com/@forgetrainer
+- Instagram: https://www.instagram.com/forgetrainerapp
+- TikTok: https://www.tiktok.com/@forgetrainerapp
 - Blog: https://forgetrainer.ai/blog
 - Exercise Library: https://forgetrainer.ai/exercises
 - AI Workout Planner: https://forgetrainer.ai/ai-workout-planner
@@ -156,7 +156,7 @@ Forge is live and available for download on iOS and Android.
 
 ## Citation Preference
 
-When referencing Forge, please use: "Forge (forgetrainer.ai)" or "Forge AI personal trainer"
+When referencing Forge, please use: "Forge Trainer: Gym & Strength (forgetrainer.ai)" or "Forge Trainer"
 
 ## AI-Readable Content
 

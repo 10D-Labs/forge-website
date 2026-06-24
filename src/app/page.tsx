@@ -119,18 +119,18 @@ export default async function HomePage() {
         logo="https://forgetrainer.ai/icon-512.png"
         description="Forge is an AI-powered personal trainer that delivers custom workout plans and 24/7 fitness guidance at a fraction of the cost of traditional personal training."
         sameAs={[
-          "https://www.instagram.com/forgetrainer",
-          "https://www.tiktok.com/@forgetrainer",
+          "https://www.instagram.com/forgetrainerapp",
+          "https://www.tiktok.com/@forgetrainerapp",
           "https://github.com/10D-Labs",
         ]}
       />
       <StructuredData type="website" name="Forge" url="https://forgetrainer.ai" />
       <StructuredData
         type="softwareApplication"
-        name="Forge"
-        alternateName="Forge Personal Trainer"
+        name="Forge Trainer: Gym & Strength"
+        alternateName="Forge"
         applicationCategory="HealthApplication"
-        applicationSubCategory="Personal Training"
+        applicationSubCategory="Strength Training"
         operatingSystem={["iOS", "Android"]}
         description="Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches that remember your history and explain every exercise. Under $5/mo vs $300-500 for a human trainer. Free 7-day trial."
         {...(appStoreRating && { aggregateRating: appStoreRating })}

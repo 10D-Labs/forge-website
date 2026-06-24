@@ -29,7 +29,7 @@ const Footer = () => {
             <Link href="/" className="inline-block mb-4" aria-label="Forge - Home">
               <Image
                 src="/forge-logo.png"
-                alt="Forge - AI Personal Trainer Logo"
+                alt="Forge Trainer logo"
                 className="h-12 w-auto"
                 width={48}
                 height={48}
@@ -73,7 +73,7 @@ const Footer = () => {
             <h4 className="text-sm font-semibold mb-4">Connect</h4>
             <div className="flex gap-4" role="list" aria-label="Social media links">
               <a
-                href="https://www.instagram.com/forgeaitrainer"
+                href="https://www.instagram.com/forgetrainerapp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"
@@ -83,7 +83,7 @@ const Footer = () => {
                 <Instagram className="w-5 h-5" aria-hidden="true" />
               </a>
               <a
-                href="https://www.tiktok.com/@forgeaitrainer"
+                href="https://www.tiktok.com/@forgetrainerapp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"

@@ -1,4 +1,4 @@
-# Forge - AI Personal Trainer App
+# Forge Trainer: Gym & Strength
 
 > **Quick Answer:** Forge is a personal trainer app that builds custom workouts based on your goals, schedule, equipment, and injuries. It costs under $5/month (vs $300-500 for a human trainer), is available 24/7 on iOS and Android, and offers 4 AI trainers with distinct coaching styles. Free 7-day trial on all plans.
 
@@ -8,7 +8,7 @@
 
 ## Key Facts
 
-- **What:** AI-powered personal trainer mobile app (iOS + Android)
+- **What:** Strength training and gym workout app with custom plans (iOS + Android)
 - **Price:** $49.99/year (~$4/mo), $19.99/month, or $6.99/week. All plans include a 7-day free trial.
 - **Rating:** 5 stars on iOS and Android
 - **Exercise Database:** 909+ exercises with step-by-step instructions
@@ -124,5 +124,5 @@ Cancel anytime through the App Store or Google Play.
 
 ---
 
-*Forge - AI personal training for everyone.*
+*Forge Trainer - personal training for everyone.*
 *https://forgetrainer.ai*

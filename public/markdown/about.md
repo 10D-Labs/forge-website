@@ -41,6 +41,6 @@ To make personal training accessible to everyone through AI, helping people buil
 
 ---
 
-*Forge - AI-powered personal training for everyone.*
+*Forge Trainer - personal training for everyone.*
 *Website: https://forgetrainer.ai*
 *Email: support@forgetrainer.ai*

@@ -30,19 +30,19 @@ const barlowCondensed = Barlow_Condensed({
 
 export const metadata: Metadata = {
   title: {
-    default: "AI Personal Trainer App - Custom Workouts Under $5/mo | Forge",
-    template: "%s | Forge AI Trainer",
+    default: "Forge Trainer: Gym & Strength Workout App | Under $5/mo",
+    template: "%s | Forge Trainer",
   },
   description:
     "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
   keywords: [
-    "AI personal trainer",
+    "strength training app",
+    "gym workout plans",
     "custom workout plans",
+    "workout planner app",
+    "personal trainer app",
     "AI fitness coach",
-    "virtual personal trainer",
     "affordable fitness coaching",
-    "24/7 workout guidance",
-    "personalized exercise plans",
   ],
   authors: [{ name: "Forge", url: "https://forgetrainer.ai" }],
   creator: "10D Labs, LLC",
@@ -52,13 +52,13 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://forgetrainer.ai",
     siteName: "Forge",
-    title: "AI Personal Trainer App - Custom Workouts Under $5/mo | Forge",
+    title: "Forge Trainer: Gym & Strength Workout App | Under $5/mo",
     description:
       "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI Personal Trainer App - Custom Workouts Under $5/mo | Forge",
+    title: "Forge Trainer: Gym & Strength Workout App | Under $5/mo",
     description:
       "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
   },
