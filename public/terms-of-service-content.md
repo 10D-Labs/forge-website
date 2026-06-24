@@ -1,15 +1,15 @@
 # TERMS OF SERVICE
-Last updated February 20, 2026
+Last updated June 24, 2026
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
 We are 10D Labs, LLC ("Company," "we," "us," "our"), a company registered in Texas, United States at 12707 Winchester Court, Magnolia, TX 77354.
 
-We operate the website https://forgetrainer.ai (the "Site"), the mobile application Forge: AI Personal Trainer (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
+We operate the website https://forgetrainer.ai (the "Site"), the mobile application Forge Trainer: Gym & Strength (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
 Forge is a fitness application developed by 10D Labs, LLC that provides personalized workout planning and coaching through artificial intelligence. Users create an account and provide information about their fitness goals, training preferences, experience level, body measurements, available equipment, and any physical limitations. Based on this information, Forge generates customized workout plans and provides ongoing guidance through an AI personal trainer that users can chat with at any time. The app tracks workout history, logs exercises, and monitors progress over time. Forge is available as a mobile app on iOS and Android. The service operates on a subscription basis.
 
-You can contact us by email at support@forgetrainer.ai or by mail to 109 W Fortune St. #2109, Tampa, FL 33602, United States.
+You can contact us by email at support@forgetrainer.ai or by mail to 12707 Winchester Court, Magnolia, TX 77354, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and 10D Labs, LLC, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -449,8 +449,8 @@ There is no joint venture, partnership, employment or agency relationship create
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
 **10D Labs, LLC**
-109 W Fortune St. #2109
-Tampa, FL 33602
+12707 Winchester Court
+Magnolia, TX 77354
 United States
 
 **Email:** support@forgetrainer.ai
