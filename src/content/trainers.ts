@@ -10,7 +10,7 @@ export const trainers: Trainer[] = [
     vibe: "Pain builds character",
     avatarUrl: "/trainers/sergeant-stone-drill-avatar.webp",
     fullDescription:
-      "Sergeant Stone spent 8 years in active military duty and 3 years breaking recruits as a drill instructor before bringing that same intensity to civilian fitness. At 6'2\" and 230 lbs of muscle (385 bench, 495 squat, 545 deadlift), Stone doesn't just talk — he walks. His approach is 20% tough love, 80% hard-ass. He sees weakness as something to destroy, not coddle. He believes pain builds character. Stone will call out your excuses before you finish making them, hold you accountable with zero mercy, and remind you that discipline is freedom. He's for those who need someone to push them past what they think their limits are.",
+      "Sergeant Stone spent 8 years in active military duty and 3 years breaking recruits as a drill instructor before bringing that same intensity to civilian fitness. At 6'2\" and 230 lbs of muscle (385 bench, 495 squat, 545 deadlift), Stone doesn't just talk, he walks. His approach is 20% tough love, 80% hard-ass. He sees weakness as something to destroy, not coddle. He believes pain builds character. Stone will call out your excuses before you finish making them, hold you accountable with zero mercy, and remind you that discipline is freedom. He's for those who need someone to push them past what they think their limits are.",
     trainingStyle: [
       "Treats your goals like a military mission",
       "Calls out excuses before you finish making them",
@@ -42,7 +42,7 @@ export const trainers: Trainer[] = [
     vibe: "Warm encouragement, zero judgment",
     avatarUrl: "/trainers/maya-gentle-avatar.webp",
     fullDescription:
-      "Maya creates a safe, judgment-free space for your fitness journey. She understands that starting a fitness routine can be intimidating, and she's there to celebrate every small victory along the way. Maya focuses on building sustainable habits and self-compassion, believing that lasting fitness comes from kindness to yourself. She'll never make you feel bad about a missed workout — instead, she'll help you understand why it happened and how to do better next time.",
+      "Maya creates a safe, judgment-free space for your fitness journey. She understands that starting a fitness routine can be intimidating, and she's there to celebrate every small victory along the way. Maya focuses on building sustainable habits and self-compassion, believing that lasting fitness comes from kindness to yourself. She'll never make you feel bad about a missed workout. Instead, she'll help you understand why it happened and how to do better next time.",
     trainingStyle: [
       "Gradual progression at your own pace",
       "Positive reinforcement for every effort",
@@ -72,7 +72,7 @@ export const trainers: Trainer[] = [
     vibe: "Like a gym buddy",
     avatarUrl: "/trainers/mike-casual-avatar.webp",
     fullDescription:
-      "Mike is the gym buddy everyone wishes they had. He keeps things light, makes working out fun, and somehow makes burpees feel less awful. But don't let his casual demeanor fool you — Mike knows his stuff and will make sure you're progressing toward your goals. He's perfect for people who want effective training without the intimidation factor, and who believe fitness should be enjoyable, not a chore.",
+      "Mike is the gym buddy everyone wishes they had. He keeps things light, makes working out fun, and somehow makes burpees feel less awful. But don't let his casual demeanor fool you, Mike knows his stuff and will make sure you're progressing toward your goals. He's perfect for people who want effective training without the intimidation factor, and who believe fitness should be enjoyable, not a chore.",
     trainingStyle: [
       "Fun, conversational workout sessions",
       "Balanced mix of hard work and humor",
@@ -118,7 +118,7 @@ export const trainers: Trainer[] = [
     ],
     samplePhrases: [
       "Here's how to tell if your form is right.",
-      "Your numbers are trending up — here's why that matters.",
+      "Your numbers are trending up. Here's why that matters.",
       "Quality over quantity. One perfect rep beats ten sloppy ones.",
       "I've adjusted your program based on this week's performance.",
     ],

@@ -10,7 +10,7 @@ Jake started working with a personal trainer and everything changed. Better work
 
 The problem? It cost a fortune. Most people can't afford $300-500/month for that kind of guidance. But with AI, almost everyone can get those same benefits for a fraction of the cost.
 
-So we built Forge — an AI trainer that adapts to your personality, creates custom workouts based on your goals and schedule, and keeps you accountable. No more guesswork. No more wasted sessions. Just a trainer in your corner, ready whenever you are.
+So we built Forge, an AI trainer that adapts to your personality, creates custom workouts based on your goals and schedule, and keeps you accountable. No more guesswork. No more wasted sessions. Just a trainer in your corner, ready whenever you are.
 
 ## Meet The Founders
 

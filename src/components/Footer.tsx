@@ -37,7 +37,7 @@ const Footer = () => {
               />
             </Link>
             <p className="text-muted-foreground text-sm max-w-sm leading-relaxed" itemProp="description">
-              Your AI-powered personal trainer. Get custom workout plans, track your progress, and achieve your fitness goals — all for a fraction of the cost.
+              Your AI-powered personal trainer. Get custom workout plans, track your progress, and achieve your fitness goals. All for a fraction of the cost.
             </p>
           </div>
 

@@ -41,7 +41,7 @@ Reese brings a professional, focused approach to training, emphasizing perfect f
 
 > "Let's analyze your form on that last set."
 
-> "Your numbers are trending up — here's why that matters."
+> "Your numbers are trending up. Here's why that matters."
 
 > "Quality over quantity. One perfect rep beats ten sloppy ones."
 

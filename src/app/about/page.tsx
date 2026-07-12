@@ -139,7 +139,7 @@ export default function AboutPage() {
                   everyone can get those same benefits for a fraction of the cost.
                 </p>
                 <p>
-                  So we built Forge — an AI trainer that adapts to your
+                  So we built Forge, an AI trainer that adapts to your
                   personality, creates custom workouts based on your goals and
                   schedule, and keeps you accountable. No more guesswork. No more
                   wasted sessions. Just a trainer in your corner, ready whenever
