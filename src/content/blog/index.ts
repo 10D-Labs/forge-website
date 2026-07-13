@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "does-cardio-kill-your-gains",
+    title: "Does Cardio Kill Your Gains? What 43 Studies Actually Show",
+    date: "2026-07-13",
+    excerpt: "The interference effect is real but far smaller than gym lore suggests. Here's what 43 studies and 1,090 subjects actually found about combining cardio and lifting.",
+    author: "The Forge Team",
+    keywords: ["does cardio kill gains", "concurrent training", "interference effect", "cardio before or after lifting", "LISS vs HIIT for lifters"],
+    category: "training-fundamentals"
+  },
+  {
     slug: "who-to-trust-for-fitness-advice",
     title: "Who to Trust for Fitness Advice: A Complete Guide to Spotting Qualified Sources",
     date: "2026-05-13",
