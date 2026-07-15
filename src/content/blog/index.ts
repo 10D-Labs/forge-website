@@ -70,6 +70,15 @@ export const blogPosts: BlogPostMeta[] = [
   //   category: "training-fundamentals"
   // }
   {
+    slug: "why-are-personal-trainers-so-expensive",
+    title: "Why are personal trainers so expensive? A cost breakdown that actually makes sense",
+    date: "2026-07-14",
+    excerpt: "That $100 session looks like a lot until you trace where the money goes. A structural breakdown of what eats a trainer's income before they pocket a dollar, and why the pricing is hard to lower.",
+    author: "The Forge Team",
+    keywords: ["why are personal trainers so expensive", "why is personal training so expensive", "how much do personal trainers actually make", "personal trainer cost breakdown", "personal trainer salary"],
+    category: "getting-started"
+  },
+  {
     slug: "does-cardio-kill-your-gains",
     title: "Does Cardio Kill Your Gains? What 43 Studies Actually Show",
     date: "2026-07-13",
