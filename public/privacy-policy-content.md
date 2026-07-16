@@ -1,5 +1,5 @@
 # PRIVACY POLICY
-Last updated June 24, 2026
+Last updated July 17, 2026
 
 This Privacy Notice for 10D Labs, LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice
@@ -108,6 +108,7 @@ We automatically collect certain information when you visit, use, or navigate ou
 - Device information (such as device type, operating system, and version)
 - Usage data (such as features used, actions taken, screens visited, and time spent in the app)
 - Advertising data (such as app install attribution, in-app events, and ad interaction data collected through third-party advertising SDKs)
+- Approximate location (such as the city or region derived from your IP address by our analytics and advertising attribution providers). We do not collect precise or GPS-based location.
 - Session recordings and touch interaction data (we may record how you interact with the App, including screen views and touch gestures, to understand usage patterns and improve the product)
 - Push notification tokens (to send you notifications if you have enabled them)
 - App version and update information
@@ -206,7 +207,7 @@ We may need to share your personal information in the following situations:
 - **Authentication providers** that facilitate account creation and login, including third-party sign-in services
 - **Push notification services** that deliver workout reminders and other notifications to your device
 - **App update and distribution services** that deliver software updates to the App on your device
-- **Advertising and attribution providers** that help us measure the effectiveness of our advertising campaigns. We use the Meta (Facebook) SDK, which collects your device's advertising identifier, app install and launch events, in-app purchase events, and device information. This data is shared with Meta to attribute app installs to ad campaigns, measure ad performance, and create targeted audiences. Meta may use this data in accordance with its own data policy. You can limit ad tracking through your device settings (such as "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
+- **Advertising and attribution providers** that help us measure the effectiveness of our advertising campaigns. We use the Meta (Facebook) SDK, which collects your device's advertising identifier, app install and launch events, in-app purchase events, device information, and approximate location (the city or region derived from your IP address). This data is shared with Meta to attribute app installs to ad campaigns, measure ad performance, and create targeted audiences. Meta may use this data in accordance with its own data policy. You can limit ad tracking through your device settings (such as "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
 
 These service providers have access to your personal information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose, except for advertising and attribution providers which may use data as described in their own privacy policies. We do not sell your personal information to any third party.
 
@@ -303,7 +304,7 @@ The table below shows the categories of personal information we have collected i
 | D. Commercial information | Transaction information, purchase history, financial details, and payment information | YES |
 | E. Biometric information | Fingerprints and voiceprints | NO |
 | F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | YES |
-| G. Geolocation data | Device location | NO |
+| G. Geolocation data | Approximate location, such as the city or region derived from your IP address by our analytics and advertising attribution providers. We do not collect precise or GPS-based device location. | YES |
 | H. Audio, electronic, sensory, or similar information | Images, session recordings of app interactions, and audio recordings created in connection with our business activities | YES |
 | I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
 | J. Education Information | Student records and directory information | NO |
@@ -322,6 +323,7 @@ We will use and retain the collected personal information as needed to provide t
 - Category C - As long as the user has an account with us
 - Category D - As long as the user has an account with us, plus any period required for tax and legal compliance
 - Category F - As long as the user has an account with us
+- Category G - Retained by our analytics and advertising attribution providers in accordance with their retention policies
 - Category H - Session recordings retained for up to 90 days; profile pictures retained as long as the user has an account
 - Category K - As long as the user has an account with us; AI-derived profiles deleted upon account deletion
 - Category L - As long as the user has an account with us
