@@ -1,16 +1,17 @@
 import type { MetadataRoute } from "next";
-import { getAllExercises, slugify } from "@/lib/exercises";
 import { getAllPosts } from "@/lib/blog";
-import { getValidCombinations, getValidMuscleHubs } from "@/lib/content-quality";
-import {
-  BODY_PART_SLUGS,
-  EQUIPMENT_SLUGS,
-  DIFFICULTY_SLUGS,
-} from "@/types/exercise";
 import { trainers } from "@/content/trainers";
 import { topics } from "@/content/topics";
 
 const BASE_URL = "https://forgetrainer.ai";
+
+// NOTE: The exercise section (individual exercises, body-part/equipment/muscle/
+// difficulty hubs, combos, comparisons) is intentionally excluded from the
+// sitemap and noindexed. It is built on a syndicated public dataset (ExerciseDB)
+// that Google treats as duplicate content, which triggered a site-wide
+// "Crawled - currently not indexed" verdict. Pages remain live for users.
+// To re-index later, restore these entries and remove the noindex in
+// src/lib/seo/metadata-factory.ts.
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -31,12 +32,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${BASE_URL}/blog`,
-      lastModified: now,
-      changeFrequency: "weekly",
-      priority: 0.9,
-    },
-    {
-      url: `${BASE_URL}/exercises`,
       lastModified: now,
       changeFrequency: "weekly",
       priority: 0.9,
@@ -73,63 +68,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  // Individual exercise pages (1,251 pages)
-  const exercises = getAllExercises();
-  const exercisePages: MetadataRoute.Sitemap = exercises.map((exercise) => ({
-    url: `${BASE_URL}/exercise/${slugify(exercise.name)}`,
-    lastModified: now,
-    changeFrequency: "monthly" as const,
-    priority: 0.7,
-  }));
-
-  // Body part hub pages (8 pages)
-  const bodyPartPages: MetadataRoute.Sitemap = Object.values(BODY_PART_SLUGS).map(
-    (slug) => ({
-      url: `${BASE_URL}/exercises/${slug}`,
-      lastModified: now,
-      changeFrequency: "weekly" as const,
-      priority: 0.8,
-    })
-  );
-
-  // Equipment hub pages (14 pages)
-  const equipmentPages: MetadataRoute.Sitemap = Object.values(EQUIPMENT_SLUGS).map(
-    (slug) => ({
-      url: `${BASE_URL}/exercises/equipment/${slug}`,
-      lastModified: now,
-      changeFrequency: "weekly" as const,
-      priority: 0.8,
-    })
-  );
-
-  // Muscle hub pages (only valid ones)
-  const muscleHubs = getValidMuscleHubs();
-  const musclePages: MetadataRoute.Sitemap = muscleHubs.map((hub) => ({
-    url: `${BASE_URL}/exercises/muscle/${hub.slug}`,
-    lastModified: now,
-    changeFrequency: "weekly" as const,
-    priority: 0.7,
-  }));
-
-  // Difficulty pages (3 pages)
-  const difficultyPages: MetadataRoute.Sitemap = Object.values(DIFFICULTY_SLUGS).map(
-    (slug) => ({
-      url: `${BASE_URL}/exercises/${slug}`,
-      lastModified: now,
-      changeFrequency: "weekly" as const,
-      priority: 0.7,
-    })
-  );
-
-  // Combination pages (body part + equipment)
-  const validCombos = getValidCombinations();
-  const comboPages: MetadataRoute.Sitemap = validCombos.map((combo) => ({
-    url: `${BASE_URL}/exercises/${BODY_PART_SLUGS[combo.bodyPart]}/${EQUIPMENT_SLUGS[combo.equipment]}`,
-    lastModified: now,
-    changeFrequency: "monthly" as const,
-    priority: 0.6,
-  }));
-
   // Trainer pages
   const trainerPages: MetadataRoute.Sitemap = trainers.map((trainer) => ({
     url: `${BASE_URL}/trainers/${trainer.slug}`,
@@ -155,17 +93,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  // Combine all pages
-  return [
-    ...staticPages,
-    ...trainerPages,
-    ...topicPages,
-    ...blogPages,
-    ...bodyPartPages,
-    ...equipmentPages,
-    ...musclePages,
-    ...difficultyPages,
-    ...comboPages,
-    ...exercisePages, // Put exercises last since there are so many
-  ];
+  return [...staticPages, ...trainerPages, ...topicPages, ...blogPages];
 }

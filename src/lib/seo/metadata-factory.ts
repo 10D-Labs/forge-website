@@ -5,6 +5,13 @@ import { slugify } from "@/lib/exercises";
 
 const BASE_URL = "https://forgetrainer.ai";
 
+// Exercise pages are noindexed. They are built on a syndicated public dataset
+// (ExerciseDB) that Google treats as duplicate content, which triggered a
+// site-wide "Crawled - currently not indexed" verdict. Pages stay live for
+// users and app-marketing; noindex removes them from the index and from
+// Google's site-quality assessment. Reversible: delete this to re-index.
+const NOINDEX_ROBOTS = { index: false, follow: true } as const;
+
 // Max title length is 70 chars. Layout adds " | Forge" (9 chars), so page title max is 61 chars.
 const MAX_TITLE_LENGTH = 61;
 
@@ -38,6 +45,7 @@ export function generateExerciseMetadata(exercise: Exercise): Metadata {
   const description = `Learn proper ${exercise.name} form and technique. Targets ${exercise.target}${exercise.secondaryMuscles.length > 0 ? ` and ${exercise.secondaryMuscles.slice(0, 2).join(", ")}` : ""}. ${exercise.difficulty} level ${exercise.bodyPart.toLowerCase()} exercise using ${exercise.equipment.toLowerCase()}.`;
 
   return {
+    robots: NOINDEX_ROBOTS,
     title,
     description,
     keywords: [
@@ -81,6 +89,7 @@ export function generateBodyPartHubMetadata(
   const description = `Browse ${exerciseCount} ${bodyPart.toLowerCase()} exercises with detailed instructions, form tips, and video demonstrations. Find the perfect exercises for your ${bodyPart.toLowerCase()} workout.`;
 
   return {
+    robots: NOINDEX_ROBOTS,
     title,
     description,
     keywords: [
@@ -117,6 +126,7 @@ export function generateEquipmentHubMetadata(
   const description = `Discover ${exerciseCount} effective exercises using ${equipment.toLowerCase()}. Complete guide with proper form, muscles worked, and workout suggestions for all fitness levels.`;
 
   return {
+    robots: NOINDEX_ROBOTS,
     title,
     description,
     keywords: [
@@ -152,6 +162,7 @@ export function generateMuscleHubMetadata(
   const description = `Target your ${muscle.toLowerCase()} with ${exerciseCount} effective exercises. Detailed instructions, form tips, and variations for all fitness levels.`;
 
   return {
+    robots: NOINDEX_ROBOTS,
     title,
     description,
     keywords: [
@@ -188,6 +199,7 @@ export function generateDifficultyMetadata(
   const description = `Find ${exerciseCount} ${difficulty.toLowerCase()}-level exercises perfect for ${difficulty === "Beginner" ? "getting started with fitness" : difficulty === "Intermediate" ? "progressing your training" : "challenging yourself"}. Detailed form guides and tips included.`;
 
   return {
+    robots: NOINDEX_ROBOTS,
     title,
     description,
     keywords: [
@@ -232,6 +244,7 @@ export function generateComboMetadata(
   const description = `Discover ${exerciseCount} effective ${bodyPart.toLowerCase()} exercises using ${equipment.toLowerCase()}. Complete guide with form tips, muscles worked, and workout suggestions.`;
 
   return {
+    robots: NOINDEX_ROBOTS,
     title,
     description,
     keywords: [
@@ -262,6 +275,7 @@ export function generateExercisesHubMetadata(_totalCount: number): Metadata {
   const description = "Browse our complete exercise database with 900+ exercises. Filter by body part, equipment, muscle group, or difficulty. Video demonstrations and detailed form guides for every exercise.";
 
   return {
+    robots: NOINDEX_ROBOTS,
     title,
     description,
     keywords: [

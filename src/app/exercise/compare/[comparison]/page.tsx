@@ -107,6 +107,8 @@ export async function generateMetadata({
   const description = `Compare ${exercise1.name} and ${exercise2.name}. Learn the differences in muscles worked, equipment needed, difficulty level, and which exercise is best for your fitness goals.`;
 
   return {
+    // Noindexed alongside the rest of the exercise section (syndicated dataset).
+    robots: { index: false, follow: true },
     title,
     description,
     openGraph: {
