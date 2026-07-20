@@ -118,7 +118,7 @@ Your realistic options: ChatGPT (free) or AI workout apps ($10-35/month).
 
 Use ChatGPT for education, not programming. Learn about training principles, understand exercise science, answer specific questions. Don't follow ChatGPT workout plans as your primary program.
 
-AI apps give you structure, tracking, and progression. Apps like [Forge](https://forgetrainer.ai) cost $20/month and handle both education and programming.
+AI apps give you structure, tracking, and progression. Apps like [Forge](https://forgetrainer.ai) cost $5/month and handle both education and programming.
 
 Skip human coaching at this budget. The $50/month tier usually means minimal contact, generic programming, and overextended coaches. You'll get better results from a well-designed AI workout app.
 
@@ -233,6 +233,6 @@ The best online personal training solution is the one you'll actually use consis
 
 Try your chosen option for 4-8 weeks. Are you training more consistently? Do you feel confident in your programming? Are you seeing measurable progress? If yes, continue. If no, adjust.
 
-[Forge](https://forgetrainer.ai) provides AI personal training with conversational support, adaptive programming, and 24/7 availability for $20/month. Four distinct trainer personalities let you choose the coaching style that works for you.
+[Forge](https://forgetrainer.ai) provides AI personal training with conversational support, adaptive programming, and 24/7 availability for $5/month. Four distinct trainer personalities let you choose the coaching style that works for you.
 
 Pick the training option that fits your current situation and budget. Then commit to using it for at least 8 weeks before switching.

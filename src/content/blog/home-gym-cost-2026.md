@@ -23,7 +23,7 @@ This guide breaks down exactly what home gyms cost across budget, mid-range, and
 - **Hidden costs add $850-2,900:** Flooring **$700-1,500**, climate control **$600-1,800/year** for garages, mirrors **$100-300**, maintenance **$50-100/year**
 - **Break-even timeline:** A **$500** budget setup pays back in **10 months** vs a $65/month commercial gym. A **$2,000** mid-range setup pays back in **30 months**
 - **Smart gyms aren't cheap:** Tonal costs **$3,545** upfront plus **$60/month** = **$7,145** over 5 years
-- **AI training is cheapest:** [Forge](https://forgetrainer.ai) costs **$20/month** = **$1,200** over 5 years with no equipment required beyond basic dumbbells
+- **AI training is cheapest:** [Forge](https://forgetrainer.ai) costs **$5/month** = **$300** over 5 years with no equipment required beyond basic dumbbells
 
 ## Budget tier: $200-500
 
@@ -69,7 +69,7 @@ This setup handles:
 - Core work and stretching
 - Resistance band accessory work
 
-You won't deadlift heavy or back squat with a barbell, but you can build muscle and strength for months before outgrowing this equipment. Combined with an AI trainer like [Forge](https://forgetrainer.ai) for **$20/month**, you're training for less than **$25/month** after the first year.
+You won't deadlift heavy or back squat with a barbell, but you can build muscle and strength for months before outgrowing this equipment. Combined with an AI trainer like [Forge](https://forgetrainer.ai) for **$5/month**, you're training for less than **$10/month** after the first year.
 
 ## Mid-range tier: $500-2,000
 
@@ -217,7 +217,7 @@ Smart gyms like Tonal deliver strength training in a wall-mounted unit with digi
 - Year 3: **$3,545** + **$2,160** = **$5,705**
 - Year 5: **$3,545** + **$3,600** = **$7,145**
 
-For **$7,145** over 5 years, you could build a complete mid-range barbell setup ($2,000) and train with an AI coach like [Forge](https://forgetrainer.ai) ($20/month = $1,200 over 5 years) for **$3,200** total. You'd save **$3,945** and own equipment that never requires a subscription.
+For **$7,145** over 5 years, you could build a complete mid-range barbell setup ($2,000) and train with an AI coach like [Forge](https://forgetrainer.ai) ($5/month = $300 over 5 years) for **$2,300** total. You'd save **$4,845** and own equipment that never requires a subscription.
 
 Tonal works well for people who value space efficiency above all else and don't mind ongoing costs. But it's not the budget option it's marketed as.
 
@@ -302,7 +302,7 @@ The break-even math depends on comparing your home gym investment against [gym m
 | **Mid-Range Gym ($65/month)** | $780 | $2,340 | $3,900 |
 | **Premium Gym ($150/month)** | $1,800 | $5,400 | $9,000 |
 | **Tonal Smart Gym** | $4,265 | $5,705 | $7,145 |
-| **AI Trainer ($20/month)** | $240 | $720 | $1,200 |
+| **AI Trainer ($5/month)** | $60 | $180 | $300 |
 
 Home gym totals include equipment plus **$100/year** in maintenance. Gym costs assume monthly rate only with no initiation fees, which is conservative. Tonal includes $3,545 hardware + $60/month membership.
 
@@ -320,7 +320,7 @@ Home gym totals include equipment plus **$100/year** in maintenance. Gym costs a
 - Break-even: **15 months**
 - After 5 years, you saved: **$6,400**
 
-**Budget home gym ($500) + AI trainer ($20/month) vs mid-range gym ($65/month):**
+**Budget home gym ($500) + AI trainer ($5/month) vs mid-range gym ($65/month):**
 - Combined cost over 5 years: **$2,300**
 - Savings vs gym: **$1,600**
 
@@ -367,12 +367,12 @@ The cheapest sustainable training setup in 2026 combines minimal equipment with 
 - Resistance bands: **$25**
 - Pull-up bar: **$35**
 - Yoga mat: **$40**
-- Forge AI trainer: **$20/month**
+- Forge AI trainer: **$5/month**
 
 **Total year 1 cost: $590-640**
 **Total 5-year cost: $1,550-1,600**
 
-You get customized programming, progression tracking, and workout adjustments from [Forge](https://forgetrainer.ai) at **$20/month**. Compare that to [traditional personal trainer costs](https://forgetrainer.ai/blog/how-much-does-personal-trainer-cost) of **$320-800/month** training twice weekly, or even a mid-range gym at **$65/month** = **$3,900** over 5 years.
+You get customized programming, progression tracking, and workout adjustments from [Forge](https://forgetrainer.ai) at **$5/month**. Compare that to [traditional personal trainer costs](https://forgetrainer.ai/blog/how-much-does-personal-trainer-cost) of **$320-800/month** training twice weekly, or even a mid-range gym at **$65/month** = **$3,900** over 5 years.
 
 This setup handles nearly everything except heavy barbell squats and deadlifts. You can build significant muscle and strength with dumbbells, bodyweight work, and proper programming. When you outgrow 50-pound dumbbells in 12-24 months, you've proven you train consistently and can invest in barbell equipment.
 
@@ -390,7 +390,7 @@ After 10-30 months, yes. A **$500** budget home gym pays back in 10 months vs a 
 
 ### What's the cheapest way to build a home gym in 2026?
 
-Buy used equipment on Facebook Marketplace, Craigslist, and OfferUp. Used weight plates cost **$0.50-1/lb** vs **$1-2.50/lb** new. Used barbells, benches, and racks sell for 40-60% off retail. A complete used setup runs **$800-1,200** vs **$1,600-2,500** new. Pair used equipment with an AI trainer like [Forge](https://forgetrainer.ai) at **$20/month** for professional programming at budget price.
+Buy used equipment on Facebook Marketplace, Craigslist, and OfferUp. Used weight plates cost **$0.50-1/lb** vs **$1-2.50/lb** new. Used barbells, benches, and racks sell for 40-60% off retail. A complete used setup runs **$800-1,200** vs **$1,600-2,500** new. Pair used equipment with an AI trainer like [Forge](https://forgetrainer.ai) at **$5/month** for professional programming at budget price.
 
 ### Should I buy dumbbells or a barbell first?
 

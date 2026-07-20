@@ -1,6 +1,7 @@
 ---
 title: "Deload Week Complete Guide: When, Why, and How to Recover"
 date: "2026-01-14"
+updated: "2026-07-11"
 excerpt: "Learn when and how to implement deload weeks for optimal recovery. Science-backed strategies to prevent overtraining and maximize long-term gains."
 author: "The Forge Team"
 keywords: ["deload week", "what is a deload week", "how to deload", "when to deload", "overtraining recovery", "workout recovery", "deload training"]
@@ -14,6 +15,8 @@ Sound familiar? You're not broken, and you're not doing anything wrong. Your bod
 Enter the deload week—one of the most misunderstood yet powerful tools in smart training. This isn't about backing off because you're lazy or giving up on your goals. Strategic recovery allows your body to heal while keeping your hard-earned progress intact, enabling consistent gains month after month, year after year.
 
 This guide covers everything you need to know about deloading: what it actually is, why it works, when you need it, and exactly how to implement it without losing your progress.
+
+**Quick answer:** A deload week is a planned week of easier training, usually cutting your working weight or volume by 40 to 60%, that lets your body recover so you can keep progressing. Most lifters need one every 4 to 8 weeks, or sooner when strength stalls, joints ache, sleep suffers, and motivation drops. You won't lose muscle in a week, so a deload protects your gains rather than wasting them.
 
 ## Key Takeaways
 

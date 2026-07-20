@@ -16,7 +16,7 @@ This guide walks through 12 specific situations where hiring a trainer makes sen
 
 - Beginners working with trainers are up to 3x more likely to achieve their fitness goals compared to those going solo, according to industry data.
 - The 12 signs include being a complete beginner, having form concerns, hitting plateaus, program hopping, lacking motivation, recovering from injury, having specific goals, gym intimidation, wanting time efficiency, being advanced but stagnant, having tried everything, and having the budget to optimize.
-- Three training options exist at different price points: in-person ($60-$100+/session), online ($100-$400/month), and AI-powered like Forge ($20-$50/month).
+- Three training options exist at different price points: in-person ($60-$100+/session), online ($100-$400/month), and AI-powered like Forge ($5-$20/month).
 - You likely do NOT need a trainer if you're self-motivated, enjoy programming your own workouts, have basic goals, or are financially constrained (prioritize diet and sleep instead).
 - 78% of personal trainers now integrate AI tools into their practice, suggesting the future is combining human and AI coaching strategically rather than choosing one or the other.
 
@@ -184,7 +184,7 @@ Traditional personal training costs [$60-$100+ per session](https://apexpersonal
 
 Compare that to the hidden costs of training ineffectively. Time wasted on poor programming. Potential medical expenses from injuries. Lost productivity from low energy. Mental stress from lack of progress. Suddenly, the trainer's fee looks reasonable.
 
-For those who want trainer benefits at lower cost, AI-powered options like Forge run $20-$50 monthly. That's less than most people spend on coffee. You lose hands-on form corrections but gain 24/7 availability and personalized programming that adapts to your feedback.
+For those who want trainer benefits at lower cost, AI-powered options like Forge run $5-$20 monthly. That's less than most people spend on coffee. You lose hands-on form corrections but gain 24/7 availability and personalized programming that adapts to your feedback.
 
 If you're in a financial position where spending on expertise makes sense, and health is genuinely a priority, training guidance is one of the highest-ROI investments you can make.
 
@@ -258,7 +258,7 @@ Your fitness is yours to own, but that doesn't mean you have to figure it out al
 ## Frequently Asked Questions
 
 **How much does a personal trainer cost?**
-Traditional in-person trainers typically charge $60-$100+ per session, which adds up to $480-$1,600+ monthly for twice-weekly training. Online trainers generally cost less, ranging from $100-$400 monthly. AI-powered trainers like Forge cost $20-$50 monthly, offering the most budget-friendly option for personalized guidance.
+Traditional in-person trainers typically charge $60-$100+ per session, which adds up to $480-$1,600+ monthly for twice-weekly training. Online trainers generally cost less, ranging from $100-$400 monthly. AI-powered trainers like Forge cost $5-$20 monthly, offering the most budget-friendly option for personalized guidance.
 
 **How often should I meet with a personal trainer?**
 Most people see results with 2-3 sessions weekly, but even once per week provides value if you train independently between sessions. Beginners often benefit from more frequent sessions initially to establish proper form and habits. As you gain experience, you might reduce frequency or switch to periodic check-ins rather than ongoing sessions.

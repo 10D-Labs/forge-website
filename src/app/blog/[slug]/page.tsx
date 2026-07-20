@@ -4,7 +4,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeSlug from "rehype-slug";
 import Link from "next/link";
-import { getAllPosts, getPostBySlug, getRelatedPosts, getRelatedExercisesForPost } from "@/lib/blog";
+import { getAllPosts, getPostBySlug, getRelatedPosts, getRelatedExercisesForPost, extractFaqs } from "@/lib/blog";
 import { slugify } from "@/lib/exercises";
 import StructuredData from "@/components/StructuredData";
 import { topics } from "@/content/topics";
@@ -41,7 +41,7 @@ export async function generateMetadata({
       description: post.excerpt,
       type: "article",
       publishedTime: post.date,
-      modifiedTime: post.date,
+      modifiedTime: post.updated || post.date,
       authors: [post.author],
       url: `https://forgetrainer.ai/blog/${slug}`,
     },
@@ -70,6 +70,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
   const relatedPosts = getRelatedPosts(slug, 3);
   const relatedExercises = getRelatedExercisesForPost(post, 6);
   const wordCount = post.content.split(/\s+/).length;
+  const faqs = extractFaqs(post.content);
 
   return (
     <div className="min-h-screen bg-background">
@@ -78,7 +79,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
         title={post.title}
         description={post.excerpt}
         publishedTime={post.date}
-        modifiedTime={post.date}
+        modifiedTime={post.updated || post.date}
         author={post.author}
         url={`https://forgetrainer.ai/blog/${slug}`}
         wordCount={wordCount}
@@ -97,6 +98,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
           { name: post.title, url: `https://forgetrainer.ai/blog/${slug}` },
         ]}
       />
+      {faqs.length > 0 && <StructuredData type="faq" questions={faqs} />}
 
       <main className="pt-20" role="main">
         {/* Header */}
@@ -170,6 +172,20 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 <span>{post.author}</span>
                 <span className="w-1 h-1 rounded-full bg-text-quaternary" />
                 <span>{Math.ceil(wordCount / 200)} min read</span>
+                {post.updated && post.updated !== post.date && (
+                  <>
+                    <span className="w-1 h-1 rounded-full bg-text-quaternary" />
+                    <span>
+                      Updated{" "}
+                      <time dateTime={post.updated}>
+                        {new Date(post.updated + "T12:00:00").toLocaleDateString(
+                          "en-US",
+                          { month: "long", day: "numeric", year: "numeric" }
+                        )}
+                      </time>
+                    </span>
+                  </>
+                )}
               </div>
             </div>
           </div>

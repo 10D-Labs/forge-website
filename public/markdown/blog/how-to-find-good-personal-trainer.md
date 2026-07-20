@@ -23,7 +23,7 @@ This guide shows you how to find the good ones and avoid the bad ones.
 - You can verify any trainer's certification online through public databases like NASM's credential verification tool, ACE's verification page, or the U.S. Registry of Exercise Professionals.
 - Key red flags include cookie-cutter programming, aggressive supplement pushing, inability to explain the "why" behind exercises, unrealistic promises, and not tracking client progress.
 - Always do a trial session before committing financially; treat it as a job interview where you evaluate their assessment process, form coaching, communication, and programming quality.
-- AI trainers like Forge ($20/month) eliminate the vetting problem entirely, delivering programming built on exercise science without the risk of getting paired with an unqualified trainer.
+- AI trainers like Forge ($5/month) eliminate the vetting problem entirely, delivering programming built on exercise science without the risk of getting paired with an unqualified trainer.
 
 ## Quick answer: What makes a good personal trainer?
 
@@ -159,7 +159,7 @@ Finding a good personal trainer takes work. You need to verify credentials, inte
 
 This is why [Forge](https://forgetrainer.ai) exists. AI trainers eliminate the vetting problem. The programming is built on proven training principles, backed by exercise science, and personalized to your goals, experience level, and available equipment. There's no risk of getting paired with an unqualified trainer who lets their certification lapse or phones it in during your sessions.
 
-At $20/month instead of $300-600/month, you can try [Forge](https://forgetrainer.ai) without the financial commitment of traditional training. If the programming works for you, great. If not, you're out twenty bucks instead of thousands.
+At $5/month instead of $300-600/month, you can try [Forge](https://forgetrainer.ai) without the financial commitment of traditional training. If the programming works for you, great. If not, you're out a few bucks instead of thousands.
 
 Traditional personal trainers provide tremendous value when you find a good one. But "when you find a good one" is doing heavy lifting in that sentence. For many people, the vetting work and financial risk make AI-powered alternatives worth considering.
 

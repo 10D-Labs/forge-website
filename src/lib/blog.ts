@@ -9,6 +9,10 @@ export interface BlogPostMeta {
   slug: string;
   title: string;
   date: string;
+  /** Optional "last updated" date. Drives freshness signals (schema
+   * dateModified, OG modifiedTime, sitemap lastmod) without changing the
+   * published date or the blog's sort order. */
+  updated?: string;
   excerpt: string;
   author: string;
   keywords?: string[];
@@ -37,6 +41,7 @@ export function getAllPosts(): BlogPostMeta[] {
           slug,
           title: data.title || slug,
           date: data.date || "",
+          updated: data.updated,
           excerpt: data.excerpt || "",
           author: data.author || "The Forge Team",
           keywords: data.keywords,
@@ -44,7 +49,13 @@ export function getAllPosts(): BlogPostMeta[] {
           relatedPosts: data.relatedPosts,
         } as BlogPostMeta;
       })
-      .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+      // Sort by most recently touched: an `updated` date takes precedence over
+      // the original publish date, so freshly-refreshed posts surface first.
+      .sort(
+        (a, b) =>
+          new Date(b.updated || b.date).getTime() -
+          new Date(a.updated || a.date).getTime()
+      );
 
     return posts;
   } catch (error) {
@@ -63,6 +74,7 @@ export function getPostBySlug(slug: string): BlogPost | null {
       slug,
       title: data.title || slug,
       date: data.date || "",
+      updated: data.updated,
       excerpt: data.excerpt || "",
       author: data.author || "The Forge Team",
       keywords: data.keywords,
@@ -78,6 +90,78 @@ export function getPostBySlug(slug: string): BlogPost | null {
 
 export function getPostsByCategory(category: string): BlogPostMeta[] {
   return getAllPosts().filter((post) => post.category === category);
+}
+
+export interface FaqItem {
+  question: string;
+  answer: string;
+}
+
+function stripMarkdown(text: string): string {
+  return text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1") // links -> anchor text
+    .replace(/[*_`]/g, "") // bold/italic/inline code markers
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/**
+ * Pull question/answer pairs out of a post's "Frequently Asked Questions"
+ * section so the blog page can emit FAQPage structured data. Questions are the
+ * `###` headings inside that section; the answer is everything up to the next
+ * heading. Returns an empty array when the post has no FAQ section.
+ */
+export function extractFaqs(content: string): FaqItem[] {
+  const lines = content.split("\n");
+  const faqs: FaqItem[] = [];
+
+  let inFaqSection = false;
+  let currentQuestion: string | null = null;
+  let answerLines: string[] = [];
+
+  const flush = () => {
+    if (currentQuestion) {
+      const answer = stripMarkdown(answerLines.join(" "));
+      if (answer) faqs.push({ question: currentQuestion, answer });
+    }
+    currentQuestion = null;
+    answerLines = [];
+  };
+
+  for (const line of lines) {
+    const h2 = line.match(/^##\s+(.*)/);
+    if (h2) {
+      flush();
+      inFaqSection =
+        /frequently asked questions|common questions|questions answered|^faqs?\b|\bfaq\b/i.test(
+          h2[1].trim()
+        );
+      continue;
+    }
+
+    if (!inFaqSection) continue;
+
+    const h3 = line.match(/^###\s+(.*)/);
+    if (h3) {
+      flush();
+      currentQuestion = stripMarkdown(h3[1]);
+      continue;
+    }
+
+    // Some posts format FAQ questions as a bold line ending in "?" instead of
+    // an h3 heading (e.g. "**Can I build muscle 3 days a week?**").
+    const boldQuestion = line.match(/^\*\*(.+\?)\*\*\s*$/);
+    if (boldQuestion) {
+      flush();
+      currentQuestion = stripMarkdown(boldQuestion[1]);
+      continue;
+    }
+
+    if (currentQuestion) answerLines.push(line);
+  }
+
+  flush();
+  return faqs;
 }
 
 export function getRelatedPosts(
