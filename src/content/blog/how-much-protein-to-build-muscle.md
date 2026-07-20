@@ -1,6 +1,7 @@
 ---
 title: "How Much Protein to Build Muscle? (2026 Evidence-Based Guide)"
 date: "2026-04-10"
+updated: "2026-07-12"
 excerpt: "The evidence-based answer to how much protein you need to build muscle, plus why the 1 gram per pound rule is overblown and how to calculate your personal target."
 author: "The Forge Team"
 keywords: ["how much protein to build muscle", "protein intake for muscle growth", "protein requirements bodybuilding", "optimal protein intake", "protein per pound myth"]
@@ -14,6 +15,8 @@ But what does the actual science say?
 If you're confused about protein intake, you're not alone. The fitness world is full of conflicting advice, and most of it comes from people trying to sell you something. You deserve a straight answer based on evidence, not marketing.
 
 This guide cuts through the noise. You'll walk away knowing exactly how much protein you need, how to distribute it throughout the day, and whether those expensive supplements are worth it.
+
+**Quick answer:** To build muscle, eat about **0.7 to 1 gram of protein per pound of goal bodyweight per day** (roughly 1.6 to 2.2 g/kg). For most people that's 130 to 180 grams daily, split across 3 to 4 meals of 30 to 40 grams each. Going much above 1 g/lb doesn't build extra muscle for natural lifters, so the classic "gram per pound" rule is a safe ceiling, not a magic number.
 
 ## The bottom line up front
 

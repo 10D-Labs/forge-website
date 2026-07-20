@@ -1,6 +1,7 @@
 ---
 title: "Gym Etiquette: The Complete Guide to Unspoken Rules"
 date: "2026-01-28"
+updated: "2026-07-10"
 excerpt: "Learn the unwritten gym rules that 2,000 gym-goers say matter most. From reracking weights to handling equipment hogs, here's what you need to know."
 author: "The Forge Team"
 keywords: ["gym etiquette", "gym etiquette rules", "unwritten gym rules", "gym manners", "gym behavior"]
@@ -14,6 +15,8 @@ These aren't minor irritations. Over 40% of Americans [avoid working out due to 
 The gym floor doesn't come with an instruction manual. You're expected to know the rules through some mysterious osmosis, except nobody actually teaches them to you.
 
 This guide covers every unwritten rule you need to know, what to do when someone breaks them near you, and how to recover if you accidentally mess up.
+
+**Quick answer:** The core rules of gym etiquette: re-rack your weights, wipe down equipment when you finish, don't hog machines or sit on them scrolling between sets, give people room, ask before filming, and let others work in with you. The simple version: leave everything as you found it and stay out of people's way.
 
 ## Key Takeaways
 

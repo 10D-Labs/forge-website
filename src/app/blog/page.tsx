@@ -114,14 +114,14 @@ export default function BlogPage() {
                     )}
 
                     <time
-                      dateTime={post.date}
+                      dateTime={post.updated || post.date}
                       className="block text-xs text-text-tertiary font-barlow uppercase tracking-wide mb-2"
                     >
-                      {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
-                        month: "long",
-                        day: "numeric",
-                        year: "numeric",
-                      })}
+                      {post.updated && post.updated !== post.date ? "Updated " : ""}
+                      {new Date((post.updated || post.date) + "T12:00:00").toLocaleDateString(
+                        "en-US",
+                        { month: "long", day: "numeric", year: "numeric" }
+                      )}
                     </time>
 
                     <h2 className="font-barlow-condensed text-xl font-bold uppercase tracking-wide mb-3 group-hover:text-primary transition-colors line-clamp-2">

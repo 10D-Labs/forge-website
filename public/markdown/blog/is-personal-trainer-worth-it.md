@@ -111,7 +111,7 @@ Traditional in-person training isn't your only option. Different models offer di
 
 **Group training** runs $100-300 per month. You share your trainer with 3-10 other people. Programming is less customized, but it's still supervised training at a much lower per-person cost. The social aspect can actually boost accountability.
 
-**AI-powered training** like [Forge](https://forgetrainer.ai) costs $20-50 per month. You get personalized workout programming that adapts to your feedback, progress tracking, 24/7 availability, and multiple trainer personalities to match your preference. You lose hands-on form corrections and human judgment, but for most general fitness goals (fat loss, muscle gain, strength development), AI trainers can deliver excellent results at roughly 5-10% the cost of human trainers.
+**AI-powered training** like [Forge](https://forgetrainer.ai) costs $5-$20 per month. You get personalized workout programming that adapts to your feedback, progress tracking, 24/7 availability, and multiple trainer personalities to match your preference. You lose hands-on form corrections and human judgment, but for most general fitness goals (fat loss, muscle gain, strength development), AI trainers can deliver excellent results at a small fraction of the cost of human trainers.
 
 Each model solves different problems. If you need intensive form coaching, in-person training is worth the premium. If you mainly need programming and accountability, online or AI training delivers better ROI.
 

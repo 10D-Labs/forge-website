@@ -452,7 +452,7 @@ Gym memberships aren't your only option.
 
 **Traditional personal training:** $300-800/month for twice-weekly sessions, covered in our [personal trainer cost guide](https://forgetrainer.ai/blog/how-much-does-personal-trainer-cost). Expensive but effective for people who need hands-on guidance.
 
-For people on tight budgets, combining a budget gym membership ($15/month Planet Fitness) with an AI trainer ($20/month [Forge](https://forgetrainer.ai)) delivers personalized programming with equipment access for $35/month total. That's less than most mid-tier gym memberships alone, with better programming than most people create themselves. For more strategies, check out our guide to [personal training on a budget](https://forgetrainer.ai/blog/personal-training-on-a-budget).
+For people on tight budgets, combining a budget gym membership ($15/month Planet Fitness) with an AI trainer ($5/month [Forge](https://forgetrainer.ai)) delivers personalized programming with equipment access for $20/month total. That's less than most mid-tier gym memberships alone, with better programming than most people create themselves. For more strategies, check out our guide to [personal training on a budget](https://forgetrainer.ai/blog/personal-training-on-a-budget).
 
 ## The bottom line on gym membership costs
 
@@ -502,7 +502,7 @@ Initiation fees ($0-500 one-time), annual maintenance fees ($40-89 once per year
 
 ### Is a gym membership worth it if I can work out at home?
 
-Depends on your situation. Gyms provide equipment variety, dedicated workout space, and social environment that increases adherence for some people. Home workouts cost less ($0 for bodyweight, $500-2,000 for a basic home gym). AI trainers like [Forge](https://forgetrainer.ai) ($20/month) work for both home and gym training, providing professional programming without the gym membership cost. See our [home workouts vs. gym comparison](https://forgetrainer.ai/blog/home-workouts-vs-gym) for more detail.
+Depends on your situation. Gyms provide equipment variety, dedicated workout space, and social environment that increases adherence for some people. Home workouts cost less ($0 for bodyweight, $500-2,000 for a basic home gym). AI trainers like [Forge](https://forgetrainer.ai) ($5/month) work for both home and gym training, providing professional programming without the gym membership cost. See our [home workouts vs. gym comparison](https://forgetrainer.ai/blog/home-workouts-vs-gym) for more detail.
 
 ### How do I cancel a gym membership without fees?
 

@@ -24,7 +24,7 @@ These seven strategies won't magically make personal training free. But they can
 
 - Personal training averages $55/hour and $440-660/month at 2-3 sessions weekly, but seven specific strategies can cut costs by 50-90%.
 - Negotiating off-peak pricing (30-35% discount), buying bulk packages (10-20% discount), and splitting costs through semi-private training (30-50% savings) are the most accessible in-person cost reducers.
-- AI trainers like Forge cost $20/month, which is 95% less than in-person training and 60-75% less than basic online coaching, while still providing personalized adaptive programming.
+- AI trainers like Forge cost $5/month, which is about 99% less than in-person training and far cheaper than basic online coaching, while still providing personalized adaptive programming.
 - The hybrid model (monthly in-person check-ins plus app-based programming) costs $100-300/month versus $400-800 for full in-person training, a 60-75% savings.
 - Front-loading trainer frequency (2-3x/week for months 1-2, then scaling to monthly check-ins) cuts annual costs by roughly 50% while concentrating guidance when you need it most.
 
@@ -111,7 +111,7 @@ AI trainers sit somewhere between generic workout apps and human coaches. They c
 
 Human trainers cost $300-500/month for 8-12 sessions. Online human coaches run $50-300/month. AI trainers cost $20-200/month. Generic workout apps run $10-20/month.
 
-[Forge](https://forgetrainer.ai) costs $20 monthly and includes four distinct AI trainers. You pick the coaching style that matches your personality: drill sergeant, supportive friend, casual gym buddy, or data-driven technician. The app builds workouts around your goals, available equipment, and schedule. You rate each workout, report how it felt, and the programming adapts.
+[Forge](https://forgetrainer.ai) costs $5 monthly (billed annually) and includes four distinct AI trainers. You pick the coaching style that matches your personality: drill sergeant, supportive friend, casual gym buddy, or data-driven technician. The app builds workouts around your goals, available equipment, and schedule. You rate each workout, report how it felt, and the programming adapts.
 
 Other options include Caliber (free version available, premium add-ons), Fitbod ($10-16/month for algorithm-based programming), and various others ranging from $30-200 monthly depending on features.
 
@@ -121,7 +121,7 @@ You don't get physical form correction. The AI can't watch you squat and catch t
 
 AI trainers work well for intermediate exercisers who know basic movement patterns and need programming more than constant form coaching. They don't work for complete beginners learning fundamental movements, people learning complex Olympic lifts, or anyone needing high-touch emotional support from a coach.
 
-At $20 monthly, [Forge](https://forgetrainer.ai) costs 95% less than in-person training and 60-75% less than basic online coaching. You're trading human interaction for cost and convenience. For many people at certain stages of their fitness path, that trade makes sense.
+At about $5 a month, [Forge](https://forgetrainer.ai) costs about 99% less than in-person training and far less than basic online coaching. You're trading human interaction for cost and convenience. For many people at certain stages of their fitness path, that trade makes sense.
 
 ## 6. Take advantage of free gym sessions
 
@@ -177,7 +177,7 @@ If you're intermediate and mainly need programming, an AI trainer or online coac
 
 If you need accountability to show up, go with group/semi-private training or a hybrid model with scheduled appointments. The appointment on your calendar matters more than you think.
 
-If budget is extremely tight right now, start with free gym sessions to learn basics, then move to an AI trainer like [Forge](https://forgetrainer.ai) at $20 monthly once you understand fundamental movements.
+If budget is extremely tight right now, start with free gym sessions to learn basics, then move to an AI trainer like [Forge](https://forgetrainer.ai) at $5 monthly once you understand fundamental movements.
 
 ## The reality of budget training
 
@@ -189,7 +189,7 @@ But you can get 70-90% of the value at 10-50% of the cost, depending on your sit
 
 The worst outcome is doing nothing because full-price personal training isn't affordable. [Research from the American College of Sports Medicine](https://journals.lww.com/acsm-healthfitness/fulltext/2019/11000/personal_training__affordable_or_out_of_reach_.4.aspx) found that 67% of people who want personal training cite cost as the barrier preventing them from starting. Most of those people don't know these strategies exist.
 
-You have options. Start with whatever fits your budget right now. Try [Forge](https://forgetrainer.ai) at $20 monthly if you need personalized programming without the human coaching price tag. Negotiate package deals if in-person training is mandatory. Book those free sessions your gym includes. Use hybrid models to get face-time when it matters most.
+You have options. Start with whatever fits your budget right now. Try [Forge](https://forgetrainer.ai) at $5 monthly if you need personalized programming without the human coaching price tag. Negotiate package deals if in-person training is mandatory. Book those free sessions your gym includes. Use hybrid models to get face-time when it matters most.
 
 Professional guidance doesn't have to cost $400 monthly. It can cost $20, $50, $100, or $200 depending what you actually need. The question isn't whether you can afford personal training. The question is which version of personal training fits your budget, experience level, and personality right now.
 
@@ -207,4 +207,4 @@ For self-motivated people who understand basic movement patterns, online coachin
 
 ### What is the cheapest way to get a personal trainer?
 
-AI trainers like Forge cost $20/month, making them the cheapest form of personalized fitness guidance. For in-person training, semi-private sessions ($20-40 per person) and off-peak scheduling (30-35% discounts at some studios) offer the biggest savings. The most cost-effective overall strategy is front-loading in-person sessions (2-3x/week for months 1-2 to learn fundamentals), then switching to an AI trainer for ongoing programming at $20/month.
+AI trainers like Forge cost $5/month, making them the cheapest form of personalized fitness guidance. For in-person training, semi-private sessions ($20-40 per person) and off-peak scheduling (30-35% discounts at some studios) offer the biggest savings. The most cost-effective overall strategy is front-loading in-person sessions (2-3x/week for months 1-2 to learn fundamentals), then switching to an AI trainer for ongoing programming at $5/month.

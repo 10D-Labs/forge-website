@@ -227,7 +227,7 @@ You're ready enough. Pack your bag. Pick a time. Show up.
 
 You'll figure out the rest as you go.
 
-Ready to know exactly what to do every time you walk into the gym? [Forge](https://forgetrainer.ai) creates custom workout plans and tells you what to do each session. AI trainers who adapt to your goals, your schedule, and your experience level. $20/month, no commitment. [Check it out](https://forgetrainer.ai).
+Ready to know exactly what to do every time you walk into the gym? [Forge](https://forgetrainer.ai) creates custom workout plans and tells you what to do each session. AI trainers who adapt to your goals, your schedule, and your experience level. $5/month, no commitment. [Check it out](https://forgetrainer.ai).
 
 ## Frequently Asked Questions
 
