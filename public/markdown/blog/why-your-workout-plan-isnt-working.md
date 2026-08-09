@@ -41,7 +41,7 @@ Your body adapts to training stimulus in two to four weeks. Your workout plan pr
 
 Static programs are PDFs. They can't respond when you have a terrible sleep night and need to dial back volume. They can't adjust when you nail every set and you're ready for more challenge. They keep prescribing the same work regardless of whether you're recovering well or running on fumes.
 
-[Data from Fitbod's user analytics](https://fitbod.me/blog/static-workout-plans-vs-adaptive-training-apps-why-fitbod-adjusts-to-you/) showed that people using adaptive programs completed 32% more workouts per month compared to static plans. Those who introduced at least 15% variance in volume or load week-over-week improved their estimated one-rep max by 8.2% over six weeks, compared to just 1.9% among users following static routines.
+[Data from Fitbod's user analytics](https://fitbod.me/blog/static-workout-plans-vs-adaptive-training-apps-why-fitbod-adjusts-to-you/) showed that people using adaptive programs completed 32% more workouts per month compared to static plans. Those who introduced at least 15% variance in volume or load week-over-week improved their estimated [one-rep max](/tools/1rm-calculator) by 8.2% over six weeks, compared to just 1.9% among users following static routines.
 
 Life happens. You travel for work. You get sick. You have a stressful week and sleep poorly for three nights straight. A rigid plan treats all of these as personal failures. An adaptive plan treats them as data points and adjusts accordingly.
 

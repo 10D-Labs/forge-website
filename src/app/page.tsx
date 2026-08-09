@@ -66,7 +66,7 @@ const homepageFAQs = [
   {
     question: "How much does a personal trainer cost?",
     answer:
-      "Traditional personal trainers typically charge $50-150 per session, or $300-500 per month for regular training. That puts quality fitness guidance out of reach for most people. Forge provides the same personalized workout plans, real-time coaching, and accountability for around $4/month on the annual plan ($49.99/year), with monthly ($19.99/month) and weekly ($6.99/week) options too. Every plan starts with a free 7-day trial.",
+      "Traditional personal trainers typically charge $50-150 per session, or $300-500 per month for regular training. That puts quality fitness guidance out of reach for most people. Forge provides the same personalized workout plans, real-time coaching, and accountability for around $5/month on the annual plan ($59.99/year), with monthly ($19.99/month) and weekly ($6.99/week) options too. Every plan starts with a free 7-day trial.",
   },
   {
     question: "What is an AI personal trainer?",
@@ -151,9 +151,9 @@ export default async function HomePage() {
           },
           {
             name: "Annual Plan",
-            price: "49.99",
+            price: "59.99",
             priceCurrency: "USD",
-            description: "7-day free trial, then $49.99/year (on sale from $179.99)",
+            description: "7-day free trial, then $59.99/year (on sale from $179.99)",
             billingPeriod: "P1Y",
           },
         ]}

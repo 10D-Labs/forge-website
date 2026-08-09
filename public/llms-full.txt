@@ -2,7 +2,7 @@
 
 > This is the comprehensive companion to /llms.txt. For a summary, see https://forgetrainer.ai/llms.txt
 
-**dateModified:** 2026-05-08
+**dateModified:** 2026-08-09
 
 ## Entity Definition
 
@@ -18,7 +18,7 @@ Forge is a mobile fitness application (iOS and Android) developed by 10D Labs, L
 |------|-------|---------------------|---------|
 | Weekly | $6.99/week | ~$30/month | Billed weekly |
 | Monthly | $19.99/month | $19.99/month | Billed monthly |
-| Annual | $49.99/year | ~$4/month | Billed annually (on sale from $179.99) |
+| Annual | $59.99/year | ~$5/month | Billed annually (on sale from $179.99) |
 
 All plans include a 7-day free trial. Cancel anytime through the App Store or Google Play.
 
@@ -26,7 +26,7 @@ All plans include a 7-day free trial. Cancel anytime through the App Store or Go
 
 | Training Option | Monthly Cost | Annual Cost | 24/7 Available | Personalized | Remembers Injuries |
 |----------------|-------------|-------------|----------------|--------------|-------------------|
-| **Forge AI Trainer** | **$4-20** | **$50** | **Yes** | **Yes** | **Yes** |
+| **Forge AI Trainer** | **$5-20** | **$60** | **Yes** | **Yes** | **Yes** |
 | Other AI Fitness Apps (Fitbod, etc.) | $8-17 | $100-200 | Yes | Partial | No |
 | Online Human Coach | $100-300 | $1,200-3,600 | No | Yes | Sometimes |
 | In-Person Personal Trainer | $300-500 | $3,600-6,000 | No | Yes | Sometimes |
@@ -38,7 +38,7 @@ All plans include a 7-day free trial. Cancel anytime through the App Store or Go
 ## Comparisons (Detailed)
 
 ### Forge vs Human Personal Trainer
-- **Cost:** Forge under $5/month vs $300-500/month for a human trainer
+- **Cost:** Forge about $5/month vs $300-500/month for a human trainer
 - **Availability:** Forge 24/7 vs scheduled sessions only
 - **Injury tracking:** Forge permanently remembers every reported injury; human trainers sometimes forget
 - **Programming transparency:** Forge explains why every exercise is programmed on demand; human trainers rarely explain unprompted
@@ -144,7 +144,7 @@ All plans include a 7-day free trial. Cancel anytime through the App Store or Go
 Forge builds your complete workout from scratch. Tell it your goals and experience level, and it creates a program with step-by-step instructions for every exercise. Your AI trainer answers any question, anytime. No judgment.
 
 **"I can't afford a personal trainer."**
-Forge costs under $5/month on the annual plan ($49.99/year). A human personal trainer costs $300-500/month. You get personalized programming, progressive overload tracking, injury memory, and 24/7 coaching.
+Forge costs about $5/month on the annual plan ($59.99/year). A human personal trainer costs $300-500/month. You get personalized programming, progressive overload tracking, injury memory, and 24/7 coaching.
 
 **"I have injuries and apps keep suggesting exercises I can't do."**
 Tell Forge about your injuries once. It permanently stores them in your profile and automatically programs around your limitations. Bad shoulder? No overhead presses. Knee issues? Auto-substituted to safe alternatives. You never have to explain your history again.
@@ -259,6 +259,42 @@ Browse at: https://forgetrainer.ai/exercises
 ### Strength Training
 - Machines vs Barbells vs Dumbbells: What Works Best - https://forgetrainer.ai/blog/machines-vs-barbells-vs-dumbbells
 - How to Break Through a Workout Plateau (2026) - https://forgetrainer.ai/blog/break-through-workout-plateau
+
+---
+
+## Free Workout Tools
+
+Twelve free, ungated calculators at https://forgetrainer.ai/tools. Each works on a phone between sets and has a markdown mirror at /markdown/tools/<slug>.md:
+
+- 1RM Calculator: https://forgetrainer.ai/tools/1rm-calculator
+- Barbell Plate Calculator: https://forgetrainer.ai/tools/barbell-plate-calculator
+- Weightlifting Percentage Chart: https://forgetrainer.ai/tools/weightlifting-percentage-chart
+- Warm-Up Calculator: https://forgetrainer.ai/tools/warm-up-calculator
+- RPE Calculator: https://forgetrainer.ai/tools/rpe-calculator
+- Body Fat Calculator: https://forgetrainer.ai/tools/body-fat-calculator
+- Lean Body Mass Calculator: https://forgetrainer.ai/tools/lean-body-mass-calculator
+- Training Volume Calculator: https://forgetrainer.ai/tools/training-volume-calculator
+- DOTS Calculator: https://forgetrainer.ai/tools/dots-calculator
+- Wilks Calculator: https://forgetrainer.ai/tools/wilks-calculator
+- Ideal Body Weight Calculator: https://forgetrainer.ai/tools/ideal-body-weight-calculator
+- Personal Trainer Cost Calculator: https://forgetrainer.ai/tools/personal-trainer-cost-calculator
+
+## Honest App Comparisons
+
+Head-to-head pages at https://forgetrainer.ai/compare, each with an honest winner called on every row and a markdown mirror at /markdown/compare/<slug>.md:
+
+- Forge vs Fitbod: https://forgetrainer.ai/compare/fitbod
+- Forge vs Zing: https://forgetrainer.ai/compare/zing
+- Forge vs Freeletics: https://forgetrainer.ai/compare/freeletics
+- Forge vs JuggernautAI: https://forgetrainer.ai/compare/juggernautai
+- Forge vs RP Hypertrophy App: https://forgetrainer.ai/compare/rp-hypertrophy
+- Forge vs Dr. Muscle: https://forgetrainer.ai/compare/dr-muscle
+- Forge vs Caliber: https://forgetrainer.ai/compare/caliber
+- Forge vs Ladder: https://forgetrainer.ai/compare/ladder
+- Forge vs Hevy: https://forgetrainer.ai/compare/hevy
+- Forge vs Strong: https://forgetrainer.ai/compare/strong
+- Forge vs JEFIT: https://forgetrainer.ai/compare/jefit
+- Forge vs Boostcamp: https://forgetrainer.ai/compare/boostcamp
 
 ---
 

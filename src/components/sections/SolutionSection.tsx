@@ -30,7 +30,7 @@ const differentiators: Differentiator[] = [
   {
     icon: Wallet,
     headline: "It costs less than a single session.",
-    body: "A human trainer charges $50-150 per hour. Forge gives you 24/7 personalized coaching for under $5/month.",
+    body: "A human trainer charges $50-150 per hour. Forge gives you 24/7 personalized coaching for about $5/month.",
   },
 ];
 

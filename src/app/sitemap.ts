@@ -2,6 +2,8 @@ import type { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/blog";
 import { trainers } from "@/content/trainers";
 import { topics } from "@/content/topics";
+import { tools } from "@/content/tools";
+import { competitors } from "@/content/compare";
 
 const BASE_URL = "https://forgetrainer.ai";
 
@@ -72,7 +74,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.8,
     },
+    {
+      url: `${BASE_URL}/tools`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: `${BASE_URL}/compare`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
   ];
+
+  // Tool pages
+  const toolPages: MetadataRoute.Sitemap = tools
+    .filter((tool) => tool.slug !== "personal-trainer-cost-calculator")
+    .map((tool) => ({
+      url: `${BASE_URL}/tools/${tool.slug}`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    }));
+
+  // Comparison pages
+  const comparePages: MetadataRoute.Sitemap = competitors.map((c) => ({
+    url: `${BASE_URL}/compare/${c.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
 
   // Trainer pages
   const trainerPages: MetadataRoute.Sitemap = trainers.map((trainer) => ({
@@ -99,5 +131,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...trainerPages, ...topicPages, ...blogPages];
+  return [...staticPages, ...toolPages, ...comparePages, ...trainerPages, ...topicPages, ...blogPages];
 }

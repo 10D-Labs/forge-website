@@ -51,7 +51,7 @@ For a full breakdown of how to set this up, the [calorie deficit for weight loss
 
 Resistance training is one of the most effective fat loss tools available, and it's not primarily because it burns calories during the session. A [15-week strength training program produced an average of 2 lbs of fat lost and 2 lbs of muscle gained](https://www.transparentlabs.com/blogs/all/body-recomposition-how-to-lose-fat-and-gain-muscle) simultaneously. More muscle tissue means higher resting energy expenditure around the clock.
 
-Muscle also changes how your body looks at a given body fat percentage. Losing fat without training produces a smaller version of the same shape. Losing fat while building muscle produces an entirely different one.
+Muscle also changes how your body looks at a given [body fat percentage](/tools/body-fat-calculator). Losing fat without training produces a smaller version of the same shape. Losing fat while building muscle produces an entirely different one.
 
 [Progressive overload](/blog/progressive-overload-explained), consistently adding challenge over time, is what makes your training produce results rather than maintenance. [Your workout split](/blog/best-workout-split) matters less than the consistency and progressive demand you apply within it.
 

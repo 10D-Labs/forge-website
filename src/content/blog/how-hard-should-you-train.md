@@ -29,7 +29,7 @@ The trend in evidence-based training reflects this: controlled intensity within 
 
 ## Understanding RPE (Rate of Perceived Exertion)
 
-**RPE (Rate of Perceived Exertion)** is a 0-10 scale that gives you a universal language for describing how hard a set feels. Swedish physiologist Gunnar Borg developed the original scale in 1962 for cardiovascular work. Strength coaches adapted it for resistance training, and it's now the standard intensity framework.
+**[RPE](/tools/rpe-calculator) (Rate of Perceived Exertion)** is a 0-10 scale that gives you a universal language for describing how hard a set feels. Swedish physiologist Gunnar Borg developed the original scale in 1962 for cardiovascular work. Strength coaches adapted it for resistance training, and it's now the standard intensity framework.
 
 The scale runs from 0 to 10:
 
@@ -67,7 +67,7 @@ Many lifters find RIR more concrete than RPE, especially on compound exercises. 
 
 Powerlifter [Mike Tuchscherer popularized RIR through his Reactive Training Systems](https://massresearchreview.com/2023/05/22/rpe-and-rir-the-complete-guide/) methodology. His work showed that adjusting training load based on daily RIR ratings produces better results than rigid percentage-based programming.
 
-The practical difference: a program might prescribe "3 sets of 8 reps at RIR 2" rather than "3 sets of 8 at 75% of your 1-rep max." The RIR approach accounts for daily variation in strength due to sleep, stress, and recovery status.
+The practical difference: a program might prescribe "3 sets of 8 reps at RIR 2" rather than "3 sets of 8 at 75% of your [1-rep max](/tools/1rm-calculator)." The RIR approach accounts for daily variation in strength due to sleep, stress, and recovery status.
 
 Both RPE and RIR work. Use whichever clicks for you. Some lifters prefer RPE's broader scale. Others like RIR's specificity. [Forge](https://forgetrainer.ai) lets you log either, then adapts your programming based on the intensity you actually hit.
 

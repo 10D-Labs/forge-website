@@ -61,6 +61,16 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
+                <Link href="/tools" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                  Free Tools
+                </Link>
+              </li>
+              <li>
+                <Link href="/compare" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                  Compare
+                </Link>
+              </li>
+              <li>
                 <Link href="/blog" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                   Blog
                 </Link>

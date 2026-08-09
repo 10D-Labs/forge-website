@@ -140,7 +140,7 @@ There's no single best method. The best system is the one you'll actually use ev
 
 **Best for:** Most people, especially those who always have their phone at the gym anyway and want the easiest path to tracking with minimal manual work.
 
-**Popular options:** Strong, JEFIT, Hevy, Fitbod, and increasingly, AI-powered platforms like [Forge](https://forgetrainer.ai) that track your workouts and use that data to continuously adapt your training program based on how you're progressing.
+**Popular options:** [Strong](/compare/strong), [JEFIT](/compare/jefit), [Hevy](/compare/hevy), [Fitbod](/compare/fitbod), and increasingly, AI-powered platforms like [Forge](https://forgetrainer.ai) that track your workouts and use that data to continuously adapt your training program based on how you're progressing.
 
 ### Quick comparison
 

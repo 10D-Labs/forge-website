@@ -63,7 +63,7 @@ Rep progression is also valuable when training at home with limited equipment. I
 
 ### Adding Sets (Volume Progression)
 
-Increasing total training volume by adding sets is another effective strategy. You might start with 3 sets of an exercise and gradually work up to 4 or 5 sets over time.
+Increasing total [training volume](/tools/training-volume-calculator) by adding sets is another effective strategy. You might start with 3 sets of an exercise and gradually work up to 4 or 5 sets over time.
 
 Research shows there's a dose-response relationship between training volume and muscle growth, up to a point. A [meta-analysis in the Journal of Sports Sciences](https://www.tandfonline.com/loi/rjsp20) found that performing at least 10 weekly sets per muscle group can drive additional hypertrophy compared to lower volumes.
 
@@ -111,7 +111,7 @@ Understanding the methods is one thing. Applying them consistently is another. H
 
 **Use progression ranges**: Instead of rigid targets, work within ranges. For example, aim for 3 sets of 8 to 12 reps. Once you can perform 3 sets of 12 reps with good form, increase the weight and work back up from 8 reps.
 
-**Progress in micro-increments**: Small plates exist for a reason. Adding 2.5 pounds per side might feel insignificant, but that's 5 pounds of total load. Do that weekly for a year and you've added 260 pounds to your lift. Fractional plates (1.25 pounds or less) are valuable for upper body exercises.
+**Progress in micro-increments**: [Small plates](/tools/barbell-plate-calculator) exist for a reason. Adding 2.5 pounds per side might feel insignificant, but that's 5 pounds of total load. Do that weekly for a year and you've added 260 pounds to your lift. Fractional plates (1.25 pounds or less) are valuable for upper body exercises.
 
 **Prioritize form**: Progressive overload only works when you maintain movement quality. Adding weight while compensating with poor form doesn't overload the target muscle, it just redistributes stress to joints and other muscle groups.
 

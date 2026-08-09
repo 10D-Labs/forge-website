@@ -1,8 +1,8 @@
 # Forge Trainer: Gym & Strength
 
-> Forge (forgetrainer.ai) is an AI-powered personal training mobile app for iOS and Android that provides custom workout plans, real-time coaching, and 24/7 fitness guidance through four distinct AI trainers. It makes personal training accessible to everyone at under $5/month vs $300-500/month for a human trainer.
+> Forge (forgetrainer.ai) is an AI-powered personal training mobile app for iOS and Android that provides custom workout plans, real-time coaching, and 24/7 fitness guidance through four distinct AI trainers. It makes personal training accessible to everyone at about $5/month vs $300-500/month for a human trainer.
 
-**dateModified:** 2026-05-08
+**dateModified:** 2026-08-09
 
 ## Entity Definition
 
@@ -12,7 +12,7 @@ Forge is a mobile fitness application developed by 10D Labs, LLC. The app uses a
 
 - **Weekly plan:** $6.99/week
 - **Monthly plan:** $19.99/month
-- **Annual plan:** $49.99/year (on sale from $179.99, ~$4/month)
+- **Annual plan:** $59.99/year (on sale from $179.99, ~$5/month)
 - **Free trial:** 7-day free trial on all plans
 - **Rating:** 5 stars on iOS and Android
 
@@ -20,7 +20,7 @@ Forge is a mobile fitness application developed by 10D Labs, LLC. The app uses a
 
 | Option | Monthly Cost | Annual Cost |
 |--------|-------------|-------------|
-| Forge AI Trainer | $4-20/month | $50/year |
+| Forge AI Trainer | $5-20/month | $60/year |
 | Other AI Fitness Apps | $8-17/month | $100-200/year |
 | Online Human Trainer | $100-300/month | $1,200-3,600/year |
 | In-Person Personal Trainer | $300-500/month | $3,600-6,000/year |
@@ -50,7 +50,7 @@ Users can switch between trainers at any time.
 ## Comparisons
 
 ### Forge vs Human Personal Trainer
-A human trainer costs $300-500/month with limited availability (scheduled sessions only). Forge costs under $5/month with 24/7 availability. Forge remembers your complete injury history (human trainers often forget). Forge explains programming decisions on demand. A 2026 JSSM study found AI outperformed certified trainers in accuracy, comprehensibility, and actionability.
+A human trainer costs $300-500/month with limited availability (scheduled sessions only). Forge costs about $5/month with 24/7 availability. Forge remembers your complete injury history (human trainers often forget). Forge explains programming decisions on demand. A 2026 JSSM study found AI outperformed certified trainers in accuracy, comprehensibility, and actionability.
 
 ### Forge vs Fitbod
 Fitbod uses fatigue-based algorithms that suggest exercise combinations based on muscle recovery estimates. Forge uses periodized programming with progressive overload to systematically increase weights week over week. Forge remembers injury history and auto-substitutes; Fitbod does not track injuries. Forge offers 4 coaching personalities; Fitbod has no coaching interaction. Forge explains why exercises are programmed; Fitbod does not.
@@ -67,7 +67,7 @@ Most generic apps offer pre-made workouts or calorie tracking. Forge creates tru
 Forge builds your complete workout from scratch based on your goals and experience level. Every exercise includes step-by-step instructions. Your AI trainer answers any question.
 
 **"I can't afford a personal trainer."**
-Forge costs under $5/month on the annual plan. A human trainer costs $300-500/month. You get personalized programming, progressive overload tracking, and 24/7 coaching.
+Forge costs about $5/month on the annual plan. A human trainer costs $300-500/month. You get personalized programming, progressive overload tracking, and 24/7 coaching.
 
 **"I have injuries and apps keep suggesting exercises I can't do."**
 Tell Forge about your injuries once. It permanently remembers and automatically programs around your limitations. It substitutes safe alternatives and never suggests movements that aggravate old injuries.
@@ -144,6 +144,8 @@ Forge is available now on iOS and Android with a 7-day free trial.
 - TikTok: https://www.tiktok.com/@forgetrainerapp
 - Blog: https://forgetrainer.ai/blog
 - Exercise Library: https://forgetrainer.ai/exercises
+- Free Workout Tools: https://forgetrainer.ai/tools
+- App Comparisons: https://forgetrainer.ai/compare
 - AI Workout Planner: https://forgetrainer.ai/ai-workout-planner
 - Trainer - Sergeant Stone: https://forgetrainer.ai/trainers/sergeant-stone
 - Trainer - Maya: https://forgetrainer.ai/trainers/maya
@@ -168,4 +170,8 @@ All pages have markdown versions for LLM consumption at /markdown/:
 - /markdown/topics/*.md - All topic category pages
 - /markdown/trainers/*.md - All trainer profiles
 - /markdown/exercise/*.md - All 909 individual exercises
+- /markdown/tools.md - Free workout tools hub
+- /markdown/tools/*.md - All 12 free calculators
+- /markdown/compare.md - App comparisons hub
+- /markdown/compare/*.md - All 12 honest app comparison pages
 - Full details: /llms-full.txt

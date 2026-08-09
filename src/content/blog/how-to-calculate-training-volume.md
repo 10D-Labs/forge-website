@@ -9,7 +9,7 @@ category: "training-fundamentals"
 
 Everyone has an opinion about how many sets you should do. Your gym buddy swears by his 25-set chest day. That fitness influencer posts five-exercise arm workouts. Meanwhile, your favorite strength coach says most people do too much volume.
 
-The answer depends on your training experience, recovery capacity, and where you are in your training cycle. But you can't figure out what works until you learn how to properly count training volume.
+The answer depends on your training experience, recovery capacity, and where you are in your training cycle. But you can't figure out what works until you learn how to properly count [training volume](/tools/training-volume-calculator).
 
 ## What training volume actually means
 
@@ -166,7 +166,7 @@ Whether you use AI or track volume manually in a notebook, the principles stay t
 
 ### How do I know if I'm training close enough to failure?
 
-Rate each set using RPE (Rate of Perceived Exertion) on a 1-10 scale, where 10 is absolute failure. Sets at RPE 7-10 (0-3 reps from failure) count as working sets. If you finish a set thinking "I could've done five more reps," that set doesn't count toward volume.
+Rate each set using [RPE](/tools/rpe-calculator) (Rate of Perceived Exertion) on a 1-10 scale, where 10 is absolute failure. Sets at RPE 7-10 (0-3 reps from failure) count as working sets. If you finish a set thinking "I could've done five more reps," that set doesn't count toward volume.
 
 ### Should I count the same volume for every muscle group?
 

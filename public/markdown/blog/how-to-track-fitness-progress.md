@@ -51,7 +51,7 @@ Progressive overload is the gradual increase of stress placed on your body durin
 - Weight lifted for each exercise
 - Number of sets and reps completed
 - Rest periods between sets
-- Total training volume (sets × reps × weight)
+- [Total training volume](/tools/training-volume-calculator) (sets × reps × weight)
 
 **How to do it:** Keep a workout log, either in a notebook or fitness app. After each session, record your lifts. Next week, aim to increase either the weight, reps, or sets slightly. This concrete data shows you're progressing even when your jeans size stays the same.
 
@@ -63,7 +63,7 @@ Research consistently shows that objective tracking leads to significantly great
 
 Weight is a number. Body composition is the story.
 
-When you measure body composition, you're looking at the ratio of fat mass to lean mass (muscle, bone, organs, water). Two people can weigh exactly the same but look completely different based on their body composition.
+When you measure body composition, you're looking at the ratio of fat mass to [lean mass](/tools/lean-body-mass-calculator) (muscle, bone, organs, water). Two people can weigh exactly the same but look completely different based on their body composition.
 
 **Measurement options:**
 
@@ -97,7 +97,7 @@ Fitness isn't just about how you look. It's about what your body can accomplish.
 
 Tracking performance metrics shifts your focus from aesthetics to capability, which can be incredibly motivating when visual changes are slow.
 
-**Strength tests:** Max effort lifts (one-rep max for major compound movements like squat, deadlift, bench press) or submaximal tests (how many reps can you do with a specific weight). Test every 6-8 weeks.
+**Strength tests:** Max effort lifts ([one-rep max](/tools/1rm-calculator) for major compound movements like squat, deadlift, bench press) or submaximal tests (how many reps can you do with a specific weight). Test every 6-8 weeks.
 
 **Endurance benchmarks:** How long can you run at a specific pace? How many minutes can you hold a plank? How far can you row in 10 minutes? Pick benchmarks relevant to your goals and retest monthly.
 
@@ -110,7 +110,7 @@ When you test your vertical jump in January and discover you've gained three inc
 This overlaps with progressive overload tracking but goes deeper into the quality and feel of your workouts.
 
 **What to log:**
-- Rate of Perceived Exertion (RPE) on a scale of 1-10
+- Rate of Perceived Exertion ([RPE](/tools/rpe-calculator)) on a scale of 1-10
 - How exercises felt (smooth vs. struggling)
 - Energy levels during the workout
 - Any form improvements or technique breakthroughs

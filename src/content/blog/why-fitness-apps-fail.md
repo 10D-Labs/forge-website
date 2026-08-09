@@ -71,7 +71,7 @@ Real personalization means the app learns. It notices that you consistently skip
 
 Most generic apps don't program progression. They give you the same workout every week until you get bored and quit. Good apps automatically adjust weight, reps, sets, and exercise selection based on your performance.
 
-Fitbod, one of the better AI workout apps, [reports that users following AI-generated workouts increased their one-rep max 28% faster](https://fitbod.me/blog/what-is-progressive-overload-and-how-fitbod-builds-it-into-every-workout-automatically/) than users manually programming their workouts. The AI handles the math, the periodization, the volume management. You just show up and train.
+[Fitbod](/compare/fitbod), one of the better AI workout apps, [reports that users following AI-generated workouts increased their one-rep max 28% faster](https://fitbod.me/blog/what-is-progressive-overload-and-how-fitbod-builds-it-into-every-workout-automatically/) than users manually programming their workouts. The AI handles the math, the periodization, the volume management. You just show up and train.
 
 **Habit-focused design instead of motivation-focused design.** Motivation is unreliable. You'll feel motivated on Monday and exhausted on Thursday. Apps built around motivation die as soon as your energy does.
 

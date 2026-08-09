@@ -26,6 +26,7 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://forgetrainer.ai/tools/personal-trainer-cost-calculator",
+    types: { "text/markdown": "/markdown/tools/personal-trainer-cost-calculator.md" },
   },
 };
 

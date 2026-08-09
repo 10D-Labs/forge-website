@@ -87,7 +87,7 @@ Most people think month-to-month when comparing costs. That's shortsighted. Fitn
 
 Run the numbers over a decade:
 
-**Traditional trainer** (2x/week at $60/session):
+**[Traditional trainer](/tools/personal-trainer-cost-calculator)** (2x/week at $60/session):
 - Year 1-10: $6,240/year x 10 = **$62,400**
 
 **AI trainer** (daily workouts at $25/month):

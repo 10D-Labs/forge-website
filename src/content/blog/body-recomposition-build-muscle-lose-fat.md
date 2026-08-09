@@ -25,7 +25,7 @@ Not everyone responds to body recomposition the same way. Your training experien
 
 **Returning lifters have a built-in advantage.** Research suggests that muscle cells may acquire additional nuclei during training that persist during periods of detraining. This process, often called muscle memory, may explain why returning lifters can regain muscle faster than they originally built it. While animal studies strongly support this mechanism, human research shows mixed results. Practically, most returning lifters do experience faster regains than their initial muscle-building phase.
 
-**Overweight individuals respond well to recomposition.** Higher body fat provides your body with readily available energy to fuel muscle growth while you're in a deficit. A [2024 systematic review in Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1467406/full) confirms that people with more body fat can successfully recomp even when eating below maintenance calories.
+**Overweight individuals respond well to recomposition.** Higher [body fat](/tools/body-fat-calculator) provides your body with readily available energy to fuel muscle growth while you're in a deficit. A [2024 systematic review in Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1467406/full) confirms that people with more body fat can successfully recomp even when eating below maintenance calories.
 
 **Trained lifters can still recomp, but progress is slower.** If you've been lifting consistently for years, your body is adapted to training stress. Muscle protein synthesis doesn't spike as dramatically. You need tighter protocols, more patience, and realistic expectations. Some advanced lifters benefit more from dedicated bulking and cutting phases.
 
@@ -79,7 +79,7 @@ Nutrition controls your calorie balance. Training provides the stimulus that tel
 
 Train 3-4 days per week minimum. Each muscle group should be trained 2-4 times per week for optimal results.
 
-Total weekly volume: 10-20 sets per muscle group per week. Start at the lower end if you're new. Work up to higher volumes as you adapt.
+Total [weekly volume](/tools/training-volume-calculator): 10-20 sets per muscle group per week. Start at the lower end if you're new. Work up to higher volumes as you adapt.
 
 Why this range? Training each muscle more frequently (2-4x per week) allows you to accumulate more quality volume without beating up any single muscle group in one long session. The Barakat review on body recomposition found this frequency optimal for maintaining muscle protein synthesis throughout the week.
 

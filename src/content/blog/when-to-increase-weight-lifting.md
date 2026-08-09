@@ -67,7 +67,7 @@ Some lifters progress top-down instead: get all sets to 12 reps, then work on ge
 
 ## RPE-based progression for intermediate lifters
 
-RPE is Rate of Perceived Exertion, typically on a scale of 1 to 10, where 10 is absolute maximum effort and 1 is essentially no effort.
+[RPE](/tools/rpe-calculator) is Rate of Perceived Exertion, typically on a scale of 1 to 10, where 10 is absolute maximum effort and 1 is essentially no effort.
 
 Most hypertrophy and strength training happens in the RPE 7 to 9 range:
 
@@ -124,7 +124,7 @@ Your technique is still inconsistent. If you're a beginner still learning moveme
 
 ## Common weight progression mistakes
 
-Ego lifting is the fastest way to hurt yourself while making zero progress. Adding weight to impress yourself or others, despite your body not being ready, means you'll either sacrifice form or fail to complete your sets, reducing training volume and stimulus.
+Ego lifting is the fastest way to hurt yourself while making zero progress. Adding weight to impress yourself or others, despite your body not being ready, means you'll either sacrifice form or fail to complete your sets, reducing [training volume](/tools/training-volume-calculator) and stimulus.
 
 The opposite mistake is nearly as common: being too conservative for too long. You stay at the same weight for three months because it still "feels like work," despite hitting every rep with ease. You're training, but you're not progressing. Your body has fully adapted and needs more stimulus.
 
@@ -136,7 +136,7 @@ Making jumps that are too large creates unnecessary failure points. If you're be
 
 ## What to do when 5-pound jumps feel too large
 
-Standard plates come in 2.5, 5, 10, 25, and 45-pound denominations. Adding 5 pounds total (2.5 per side) to your bench press might represent a 10% jump, which is enormous for upper body pressing.
+[Standard plates](/tools/barbell-plate-calculator) come in 2.5, 5, 10, 25, and 45-pound denominations. Adding 5 pounds total (2.5 per side) to your bench press might represent a 10% jump, which is enormous for upper body pressing.
 
 Fractional plates solve this problem. These are micro-plates weighing 0.25 to 2.5 pounds each. Adding 1 pound total (0.5 per side) to your overhead press is a 2 to 3% jump, which is far more sustainable.
 

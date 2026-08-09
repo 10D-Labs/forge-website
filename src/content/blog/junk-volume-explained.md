@@ -78,11 +78,11 @@ Your body sends clear signals when volume exceeds your recovery capacity. Recogn
 
 Fixing junk volume requires honest assessment and strategic adjustment.
 
-**Calculate your current weekly volume per muscle group.** Count only sets performed within 3 reps of failure. Sets where you stop at 12 reps but could've done 18 don't count. Be brutally honest about this. Most people overestimate how close to failure they train.
+**Calculate your current [weekly volume](/tools/training-volume-calculator) per muscle group.** Count only sets performed within 3 reps of failure. Sets where you stop at 12 reps but could've done 18 don't count. Be brutally honest about this. Most people overestimate how close to failure they train.
 
 **Compare your volume to the 10-20 set research range.** If you're doing 8 sets per muscle group weekly and progressing steadily, you're probably fine. If you're doing 25-30 sets and stagnating, you've found your problem.
 
-**Cut low-quality sets first.** Any set below RPE 7 (three or more reps left in the tank) contributes minimally and can go. Form breakdown sets where you're swinging, bouncing, or cheating through reps should go next.
+**Cut low-quality sets first.** Any set below [RPE](/tools/rpe-calculator) 7 (three or more reps left in the tank) contributes minimally and can go. Form breakdown sets where you're swinging, bouncing, or cheating through reps should go next.
 
 **Prioritize compound movements.** They deliver more stimulus per set. A heavy barbell row trains your lats, traps, rhomboids, rear delts, and biceps simultaneously. Five curl variations might accumulate similar total sets, but they don't create comparable systemic stimulus.
 

@@ -7,7 +7,7 @@ keywords: ["warm up before lifting", "lifting warm up routine", "how to warm up 
 category: "exercise-technique"
 ---
 
-You walk into the gym, ready to hit a heavy squat session. You drop your bag, load the bar, and... wait. Should you do some cardio first? Static stretches? Jump straight to warm-up sets? How many warm-up sets do you even need?
+You walk into the gym, ready to hit a heavy squat session. You drop your bag, load the bar, and... wait. Should you do some cardio first? Static stretches? Jump straight to [warm-up sets](/tools/warm-up-calculator)? How many warm-up sets do you even need?
 
 Most lifters know they should warm up. You've heard it all before: cold muscles, blood flow, injury prevention. The problem? Knowing you should warm up doesn't tell you how to do it properly.
 
@@ -15,7 +15,7 @@ Walking into the gym without a clear warm-up protocol is like showing up to a te
 
 ## Key Takeaways
 
-- Proper warm-up protocols reduce injury rates by 36% and improve performance in 79% of measured outcomes, including 3-8% improvements in leg press 1RM
+- Proper warm-up protocols reduce injury rates by 36% and improve performance in 79% of measured outcomes, including 3-8% improvements in leg press [1RM](/tools/1rm-calculator)
 - The 3-phase warm-up takes 8-12 minutes: general cardio (3-5 min), dynamic stretching (3-5 min), and exercise-specific warm-up sets using a 40/60/80% progression
 - Static stretching before lifting reduces power output; dynamic stretching improves it by 1.8% on jump height tests
 - Use 2-3 progressive warm-up sets at 40%, 60%, and 80% of your working weight, resting 60-90 seconds between sets
@@ -82,7 +82,7 @@ Use this progression:
 **Set 1:** 40% of your working weight x 5 reps
 **Set 2:** 60% of your working weight x 5 reps
 **Set 3:** 80% of your working weight x 3 reps
-**Set 4 (optional):** 90% of your working weight x 1 rep (only on heavy days when you're lifting 85%+ of your max)
+**Set 4 (optional):** 90% of your working weight x 1 rep (only on heavy days when you're lifting [85%+ of your max](/tools/weightlifting-percentage-chart))
 
 Rest 60-90 seconds between warm-up sets. No need for full recovery. You're grooving the pattern, not building strength.
 
@@ -150,7 +150,7 @@ After general warm-up and upper body dynamic movements:
 
 Deadlifts are different because you can't do "half deadlifts" at a lower weight and maintain proper form. You need plates big enough to put the bar at the correct height.
 
-- 135 lbs x 5 reps (standard 45 lb plates)
+- 135 lbs x 5 reps (standard [45 lb plates](/tools/barbell-plate-calculator))
 - 185 lbs x 5 reps
 - 225 lbs x 3 reps
 - 275 lbs x 1 rep (if working weight is 315+)
