@@ -1,68 +1,51 @@
-# Reese - AI Personal Trainer
+# Reese | Forge AI Coach
 
-**Role:** Serious & Focused
-**Vibe:** All business, all results
+Technique-focused. Know why. Train with purpose.
 
-## Quick Summary
+You want to understand the reason behind the plan. Reese is Forge's focused AI coach, ready to talk through exercise technique, training targets, and what your progress means for your next session.
 
-Reese is a data-driven, technique-focused AI trainer for people who want precision and science-backed programming. Best for detail-oriented athletes and those who value perfect form over raw intensity.
+## What to expect
 
----
+- Clear explanations of exercise technique
+- Attention to your training numbers
+- The reasons behind your exercises and targets
 
-## About Reese
+## A good fit if
 
-Reese is the technical expert you turn to when you want to train with precision. Every rep matters, every movement is deliberate, and nothing is left to chance.
+- You like to understand how your plan works
+- You enjoy tracking your training
+- You prefer a focused, detailed approach
 
-Reese brings a professional, focused approach to training, emphasizing perfect form, proper progression, and evidence-based methods. If you're serious about optimizing your training and want a trainer who geeks out on the details as much as you do, Reese is your match.
+## Example coaching style
 
----
+> Your numbers are trending up. Here's why that matters.
 
-## Who Reese Is For
+Reese is an AI character. This example shows the coaching tone.
 
-- **Detail-oriented athletes** — If you care about the "why" behind your programming, Reese explains everything
-- **People who want to understand exercise science** — Reese teaches as much as he trains
-- **Those focused on injury prevention** — Meticulous form guidance reduces risk
-- **Anyone who values precision over intensity** — Quality reps over ego lifting
-- **Data-driven fitness enthusiasts** — Reese tracks everything and adjusts based on the numbers
+## Pricing
 
----
+Forge offers a 7-day free trial. All prices below are in USD.
 
-## Training Style
+| Plan | Price | Billing |
+|---|---|---|
+| Annual | $59.99 per year | Billed yearly |
+| Monthly | $19.99 per month | Billed monthly |
+| Weekly | $6.99 per week | Billed weekly |
 
-- Meticulous attention to form and technique
-- Data-driven progress tracking
-- Structured, periodized programs
-- Deep dives into the "why" behind exercises
-- Efficiency-focused workouts
+Choose your coach in the Forge app. You can switch coaches in the app.
 
----
+[Meet all four coaches](https://forgetrainer.ai/#trainers)
 
-## Sample Coaching Quotes
+## Explore Forge
 
-> "Let's analyze your form on that last set."
+- [Exercise library](https://forgetrainer.ai/exercises)
+- [Free workout calculators](https://forgetrainer.ai/tools)
+- [Training journal](https://forgetrainer.ai/blog)
+- [Workout app comparisons](https://forgetrainer.ai/compare)
 
-> "Your numbers are trending up. Here's why that matters."
+## Download Forge
 
-> "Quality over quantity. One perfect rep beats ten sloppy ones."
+- [App Store](https://apps.apple.com/us/app/forge-trainer-gym-strength/id6758403402)
+- [Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)
 
-> "I've adjusted your program based on this week's performance."
-
----
-
-## Frequently Asked Questions
-
-### Is Reese's technical approach intimidating for beginners?
-It depends. If you're curious about how fitness works and want to learn, Reese is perfect — he'll teach you everything. If you just want to be told what to do without explanation, Mike or Maya might be better fits.
-
-### Does Reese's focus on form mean slower progress?
-The opposite, actually. Proper form means you're actually working the muscles you intend to work, reducing wasted effort and injury risk. Long-term, Reese's clients often progress faster because they don't have to take time off for preventable injuries.
-
-### Will Reese motivate me emotionally?
-Reese motivates through data and logic, not emotion. He'll show you your progress, explain why something matters, and help you see the bigger picture. If you need emotional encouragement, Maya is better. If you need someone to yell at you, that's Stone.
-
-### Is Reese good for competitive athletes?
-Reese is excellent for competitive athletes. His periodized programming, attention to recovery, and data-driven adjustments are exactly what serious athletes need. He treats your training like the science it is.
-
----
-
-*Reese is an AI trainer available on [Forge](https://forgetrainer.ai) — personal training for everyone.*
+Contact: support@forgetrainer.ai

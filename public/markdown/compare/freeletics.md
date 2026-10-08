@@ -139,5 +139,5 @@ Freeletics sells a separate Nutrition Coach add-on. Forge is workout-only by des
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

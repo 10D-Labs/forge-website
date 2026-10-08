@@ -11,7 +11,7 @@ const trainerMeta: Record<string, { title: string; description: string }> = {
   "sergeant-stone": {
     title: "Sergeant Stone - Drill Instructor AI Trainer",
     description:
-      "Train with Sergeant Stone, Forge's ex-military drill instructor AI trainer. Tough love, no excuses, and zero mercy. For people who need their limits pushed.",
+      "Meet Sergeant Stone, Forge's drill-instructor-style AI coach. Direct guidance and firm accountability to help you follow through on your training goals.",
   },
   maya: {
     title: "Maya - Supportive AI Personal Trainer",
@@ -26,7 +26,7 @@ const trainerMeta: Record<string, { title: string; description: string }> = {
   reese: {
     title: "Reese - Data-Driven AI Fitness Coach",
     description:
-      "Train with Reese, Forge's data-driven AI fitness coach. Perfect form, evidence-based programming, and meticulous attention to technique.",
+      "Meet Reese, Forge's focused AI coach. Talk through exercise technique, training targets, and your progress. Try Forge free for 7 days.",
   },
 };
 

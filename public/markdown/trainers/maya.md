@@ -1,68 +1,51 @@
-# Maya - AI Personal Trainer
+# Maya | Forge AI Coach
 
-**Role:** Gentle & Supportive
-**Vibe:** Warm encouragement, zero judgment
+Supportive. One step. Then the next.
 
-## Quick Summary
+Starting can feel like the hardest part. Maya is Forge's supportive AI coach, with patient explanations and encouragement for every small win. Ask your questions, find your pace, and build confidence as you go.
 
-Maya is a patient, encouraging AI trainer who celebrates every win and helps you build confidence alongside strength. Best for beginners, those dealing with gym anxiety, or anyone who needs support over pressure.
+## What to expect
 
----
+- Patient, step-by-step explanations
+- Encouragement for the effort you put in
+- Small, achievable goals to build confidence
 
-## About Maya
+## A good fit if
 
-Maya creates a safe, judgment-free space for your fitness journey. She understands that starting a fitness routine can be intimidating, and she's there to celebrate every small victory along the way.
+- You're new to training or getting back into it
+- You feel unsure about the gym
+- You prefer encouragement to pressure
 
-Maya focuses on building sustainable habits and self-compassion, believing that lasting fitness comes from kindness to yourself. She'll never make you feel bad about a missed workout — instead, she'll help you understand why it happened and how to do better next time.
+## Example coaching style
 
----
+> You showed up today, and that's already a win!
 
-## Who Maya Is For
+Maya is an AI character. This example shows the coaching tone.
 
-- **Fitness beginners who feel intimidated** — Maya makes the gym feel less scary and helps build confidence gradually
-- **People recovering from injuries** — Patient progression with emphasis on listening to your body
-- **Those dealing with gym anxiety** — No judgment, no pressure, just support
-- **Anyone who needs encouragement over pressure** — If tough love shuts you down, Maya's gentle approach keeps you moving
-- **People building a new relationship with exercise** — Maya helps you see fitness as self-care, not punishment
+## Pricing
 
----
+Forge offers a 7-day free trial. All prices below are in USD.
 
-## Training Style
+| Plan | Price | Billing |
+|---|---|---|
+| Annual | $59.99 per year | Billed yearly |
+| Monthly | $19.99 per month | Billed monthly |
+| Weekly | $6.99 per week | Billed weekly |
 
-- Gradual progression at your own pace
-- Positive reinforcement for every effort
-- Focus on how exercise makes you feel, not just results
-- Gentle reminders and encouragement
-- Building confidence through achievable goals
+Choose your coach in the Forge app. You can switch coaches in the app.
 
----
+[Meet all four coaches](https://forgetrainer.ai/#trainers)
 
-## Sample Coaching Quotes
+## Explore Forge
 
-> "You showed up today, and that's already a win!"
+- [Exercise library](https://forgetrainer.ai/exercises)
+- [Free workout calculators](https://forgetrainer.ai/tools)
+- [Training journal](https://forgetrainer.ai/blog)
+- [Workout app comparisons](https://forgetrainer.ai/compare)
 
-> "Progress isn't always linear, and that's perfectly okay."
+## Download Forge
 
-> "I'm so proud of how far you've come."
+- [App Store](https://apps.apple.com/us/app/forge-trainer-gym-strength/id6758403402)
+- [Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)
 
-> "Let's take this one step at a time, together."
-
----
-
-## Frequently Asked Questions
-
-### Is Maya effective for building muscle and getting strong?
-Absolutely. Maya's gentle approach doesn't mean easy workouts — it means supportive coaching. You'll still do challenging exercises and progressive overload. The difference is how Maya frames the challenge and responds to setbacks.
-
-### Will Maya push me when I need it?
-Maya encourages rather than pushes. She'll motivate you to try harder, but she won't guilt or shame you. If you find you need more intensity, you can switch to Stone or Mike. Many people start with Maya and transition later.
-
-### Is Maya good for people with gym anxiety?
-Maya is specifically designed for people who feel intimidated by fitness. She normalizes struggles, celebrates small wins, and creates a judgment-free environment. She's ideal for overcoming gym anxiety.
-
-### Can Maya help me if I've failed at fitness before?
-Yes. Maya focuses on building sustainable habits and self-compassion. She helps you understand why past attempts didn't stick and creates an approach that works for your life. No shame about previous failures.
-
----
-
-*Maya is an AI trainer available on [Forge](https://forgetrainer.ai) — personal training for everyone.*
+Contact: support@forgetrainer.ai

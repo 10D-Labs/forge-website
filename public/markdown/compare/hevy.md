@@ -138,5 +138,5 @@ No coaching layer exists today. Hevy announced a simple plan generator called He
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

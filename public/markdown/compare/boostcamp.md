@@ -138,5 +138,5 @@ There is no importer, so your Boostcamp history stays put. Start the 7-day trial
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

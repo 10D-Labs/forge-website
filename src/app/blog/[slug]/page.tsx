@@ -100,15 +100,14 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
       />
       {faqs.length > 0 && <StructuredData type="faq" questions={faqs} />}
 
-      <main className="pt-20" role="main">
+      <main className="resource-page article-page">
         {/* Header */}
-        <header className="py-10 md:py-12 bg-surface-0 relative overflow-hidden">
-          <div className="absolute inset-0 bg-mesh opacity-50" aria-hidden="true" />
+        <header className="article-heading">
           <div className="container relative z-10">
             <div className="max-w-3xl mx-auto">
               {/* Breadcrumb */}
               <nav aria-label="Breadcrumb" className="mb-6">
-                <ol className="flex items-center gap-2 text-sm font-barlow">
+                <ol className="flex flex-wrap items-center gap-2 text-sm font-barlow">
                   <li>
                     <Link
                       href="/"
@@ -160,7 +159,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 {post.title}
               </h1>
 
-              <div className="flex items-center gap-4 text-sm text-text-tertiary font-barlow">
+              <div className="flex flex-wrap items-center gap-4 text-sm text-text-tertiary font-barlow">
                 <time dateTime={post.date}>
                   {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
                     month: "long",

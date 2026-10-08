@@ -1,6 +1,8 @@
 import Link from "next/link";
-import { Check, ArrowRight, Calculator } from "lucide-react";
-import { GlowOrbs } from "@/components/effects";
+import { ArrowRight, Calculator } from "lucide-react";
+import PageIntro from "@/components/PageIntro";
+import StoreLinks from "@/components/home/StoreLinks";
+import { pricing, pricingSummary } from "@/content/pricing";
 import { tools, type ToolEntry } from "@/content/tools";
 
 interface ToolHeroProps {
@@ -10,30 +12,7 @@ interface ToolHeroProps {
 }
 
 export function ToolHero({ titleBefore, titleAccent, description }: ToolHeroProps) {
-  return (
-    <section
-      className="relative py-14 md:py-20 bg-surface-0 overflow-hidden"
-      aria-labelledby="tool-heading"
-    >
-      <GlowOrbs variant="hero" />
-      <div className="container relative z-10">
-        <div className="max-w-3xl mx-auto text-center">
-          <p className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4">
-            Free Tool
-          </p>
-          <h1
-            id="tool-heading"
-            className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase leading-none mb-6"
-          >
-            {titleBefore} <span className="text-primary text-neon">{titleAccent}</span>
-          </h1>
-          <p className="text-lg md:text-xl text-text-secondary font-barlow max-w-2xl mx-auto leading-relaxed">
-            {description}
-          </p>
-        </div>
-      </div>
-    </section>
-  );
+  return <PageIntro eyebrow="Free workout calculator" title={titleBefore} accent={titleAccent} description={description} id="tool-heading" />;
 }
 
 interface ToolSectionProps {
@@ -67,63 +46,12 @@ interface ToolCTAProps {
 }
 
 export function ToolCTA({ headline, headlineAccent, subline, utmContent }: ToolCTAProps) {
-  return (
-    <section className="py-16 md:py-24 bg-surface-1 border-t border-border-subtle relative overflow-hidden">
-      <GlowOrbs variant="section" />
-      <div className="container relative z-10">
-        <div className="max-w-2xl mx-auto text-center">
-          <h2 className="font-barlow-condensed text-3xl md:text-4xl font-black uppercase mb-6">
-            {headline} <span className="text-primary text-neon">{headlineAccent}</span>
-          </h2>
-          <p className="text-lg text-text-secondary font-barlow mb-8">{subline}</p>
-          <div className="flex flex-wrap items-center justify-center gap-4 mb-8">
-            <a
-              href={`https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?pt=128493451&ct=${utmContent}&mt=8`}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Download Forge on the App Store"
-            >
-              <img
-                src="/app-store-badge.svg"
-                alt="Download on the App Store"
-                width={140}
-                height={47}
-                className="hover:opacity-80 transition-opacity"
-              />
-            </a>
-            <a
-              href={`https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=website&utm_medium=badge&utm_campaign=organic&utm_content=${utmContent}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Get Forge on Google Play"
-            >
-              <img
-                src="/google-play-badge.svg"
-                alt="Get it on Google Play"
-                width={155}
-                height={60}
-                className="hover:opacity-80 transition-opacity"
-              />
-            </a>
-          </div>
-          <ul className="flex flex-wrap items-center justify-center gap-6 text-sm text-text-secondary font-barlow list-none">
-            <li className="flex items-center gap-2">
-              <Check className="w-4 h-4 text-primary" />
-              <span>7-day free trial</span>
-            </li>
-            <li className="flex items-center gap-2">
-              <Check className="w-4 h-4 text-primary" />
-              <span>$59.99/year</span>
-            </li>
-            <li className="flex items-center gap-2">
-              <Check className="w-4 h-4 text-primary" />
-              <span>Cancel anytime</span>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </section>
-  );
+  return <section className="resource-cta section-space">
+    <div className="site-width resource-cta-grid">
+      <div><p className="eyebrow"><span className="status-dot" /> Your next workout</p><h2>{headline}<br /><span>{headlineAccent}</span></h2><p className="resource-cta-description">{subline}</p></div>
+      <div className="resource-cta-download"><p>{pricing.trialDays}-day free trial.</p><StoreLinks placement={utmContent} /><small>{pricingSummary}</small></div>
+    </div>
+  </section>;
 }
 
 export function RelatedTools({ current }: { current: string }) {
@@ -143,7 +71,7 @@ export function RelatedTools({ current }: { current: string }) {
               <Link
                 key={tool.slug}
                 href={`/tools/${tool.slug}`}
-                className="group p-5 rounded-[20px] border border-border bg-surface-2 hover:border-primary/50 transition-colors"
+                className="resource-card group p-5 rounded-[20px] border border-border bg-surface-2 hover:border-primary/50 transition-colors"
               >
                 <div className="flex items-center gap-2 mb-2">
                   <Calculator className="w-4 h-4 text-primary" aria-hidden="true" />
@@ -170,7 +98,7 @@ export function ToolCardLink({ tool }: { tool: ToolEntry }) {
   return (
     <Link
       href={`/tools/${tool.slug}`}
-      className="group p-6 rounded-[20px] border border-border bg-surface-2 hover:border-primary/50 transition-colors flex flex-col"
+      className="resource-card group p-6 rounded-[20px] border border-border bg-surface-2 hover:border-primary/50 transition-colors flex flex-col"
     >
       <div className="flex items-center gap-2 mb-3">
         <Calculator className="w-4 h-4 text-primary" aria-hidden="true" />

@@ -139,5 +139,5 @@ Ladder assumes you can move under a bar already. The video demos help, though no
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

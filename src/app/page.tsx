@@ -1,215 +1,112 @@
 import { Suspense } from "react";
-import dynamic from "next/dynamic";
 import type { Metadata } from "next";
-import { HeroSection } from "@/components/hero";
-import { SocialProofBar } from "@/components/sections";
-import StructuredData from "@/components/StructuredData";
+import Image from "next/image";
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 import HomeScrollHandler from "@/components/HomeScrollHandler";
+import StoreLinks from "@/components/home/StoreLinks";
+import ProductTour from "@/components/home/ProductTour";
+import FAQAccordion from "@/components/home/FAQAccordion";
+import { pricing, pricingAnswer } from "@/content/pricing";
+import { APP_NAME } from "@/config/app";
 
-async function getAppStoreRating() {
-  try {
-    const res = await fetch(
-      "https://itunes.apple.com/lookup?id=6758403402&country=us",
-      { next: { revalidate: 86400 } }
-    );
-    const data = await res.json();
-    const app = data.results?.[0];
-    if (app?.averageUserRating != null && app?.userRatingCount != null) {
-      return {
-        ratingValue: String(app.averageUserRating),
-        ratingCount: String(app.userRatingCount),
-      };
-    }
-  } catch {
-    // Fall through to null
-  }
-  return null;
-}
-
-// Metadata with markdown discovery for LLM crawlers
 export const metadata: Metadata = {
-  alternates: {
-    canonical: "https://forgetrainer.ai/",
-    types: {
-      "text/markdown": "/markdown/home.md",
-    },
-  },
+  title: { absolute: APP_NAME },
+  description: "Walk into your next workout with a plan. Forge builds your training around your goals and schedule, with four AI coaches to choose from. On iOS and Android.",
+  alternates: { canonical: "https://forgetrainer.ai/", types: { "text/markdown": "/markdown/home.md" } },
 };
 
-// Dynamic imports for below-fold sections - code splitting reduces initial bundle
-const PainMirrorSection = dynamic(() => import("@/components/sections/PainMirrorSection"), {
-  loading: () => <div className="min-h-[400px]" />,
-});
-const ProblemSection = dynamic(() => import("@/components/ProblemSection"), {
-  loading: () => <div className="min-h-[300px]" />,
-});
-const SolutionSection = dynamic(() => import("@/components/sections/SolutionSection"), {
-  loading: () => <div className="min-h-[400px]" />,
-});
-const MeetTheTrainersSection = dynamic(() => import("@/components/sections/MeetTheTrainersSection"), {
-  loading: () => <div className="min-h-[400px]" />,
-});
-const TransformationSection = dynamic(() => import("@/components/sections/TransformationSection"), {
-  loading: () => <div className="min-h-[300px]" />,
-});
-const HowItWorksSection = dynamic(() => import("@/components/sections/HowItWorksSection"), {
-  loading: () => <div className="min-h-[400px]" />,
-});
-const FAQSection = dynamic(() => import("@/components/FAQSection"), {
-  loading: () => <div className="min-h-[300px]" />,
-});
-const CTASection = dynamic(() => import("@/components/CTASection"), {
-  loading: () => <div className="min-h-[200px]" />,
-});
-
-const homepageFAQs = [
-  {
-    question: "How much does a personal trainer cost?",
-    answer:
-      "Traditional personal trainers typically charge $50-150 per session, or $300-500 per month for regular training. That puts quality fitness guidance out of reach for most people. Forge provides the same personalized workout plans, real-time coaching, and accountability for around $5/month on the annual plan ($59.99/year), with monthly ($19.99/month) and weekly ($6.99/week) options too. Every plan starts with a free 7-day trial.",
-  },
-  {
-    question: "What is an AI personal trainer?",
-    answer:
-      "An AI personal trainer is software that uses artificial intelligence to do what a human personal trainer does: create custom workout plans, coach you through exercises, track your progress, and adjust your programming over time. Forge is an AI personal trainer app that goes further by offering four distinct AI trainers with different coaching styles, remembering your injury history permanently, and explaining the reasoning behind every exercise in your plan.",
-  },
-  {
-    question: "What if I'm a complete beginner?",
-    answer:
-      "Forge was built for you. You don't need to know any exercises, have a routine, or even know what muscles you want to train. Tell Forge your goals and experience level, and it builds a complete program from scratch. Every exercise includes step-by-step instructions and form cues. Your AI trainer answers any question, anytime. No judgment, no stupid questions.",
-  },
-  {
-    question: "What if I have injuries or physical limitations?",
-    answer:
-      "Tell Forge about your injuries once, and it never forgets. Bad shoulder? Forge will never program overhead presses. Knee issues from years ago? It automatically works around them and substitutes exercises you can do safely. You'll never have to explain your limitations to a new app or trainer again.",
-  },
-  {
-    question: "How is Forge different from Fitbod and other fitness apps?",
-    answer:
-      "Most fitness apps use fatigue-based algorithms that suggest random exercise combinations. Forge uses periodized programming with progressive overload to systematically increase your weights week over week. It remembers your injury history and auto-substitutes exercises you can't do. And you can ask the AI to explain WHY any exercise is in your plan. No other app does that.",
-  },
-  {
-    question: "Is AI fitness coaching effective?",
-    answer:
-      "Yes. A 2026 peer-reviewed study published in the Journal of Sports Science and Medicine found that AI outperformed certified personal trainers in scientific accuracy, comprehensibility, and actionability. Forge delivers personalized programming, progressive overload tracking, and 24/7 coaching that most human trainers can't match in availability or consistency.",
-  },
-  {
-    question: "What if I don't have a gym membership?",
-    answer:
-      "Forge builds workouts around whatever equipment you have. Full gym, home dumbbells, resistance bands, or just your bodyweight. Tell Forge what you have access to, and it programs accordingly.",
-  },
-  {
-    question: "Can I cancel anytime?",
-    answer:
-      "Yes. Cancel through the App Store or Google Play anytime during or after your trial. You'll keep full access until the end of your current billing period, and you won't be charged again.",
-  },
+const coaches = [
+  { name: "Sergeant Stone", slug: "sergeant-stone", style: "The push you came for.", description: "Direct coaching for days when you need a firm push.", image: "sergeant-stone-portrait.webp", tag: "Tough love" },
+  { name: "Maya", slug: "maya", style: "Someone who gets it.", description: "Patient encouragement to help you build confidence.", image: "maya-portrait.webp", tag: "Supportive" },
+  { name: "Mike", slug: "mike", style: "Good company. Good reps.", description: "Easygoing coaching with a sense of humor.", image: "mike-portrait.webp", tag: "Laid-back" },
+  { name: "Reese", slug: "reese", style: "Every detail counts.", description: "Focused guidance for people who want to understand their training.", image: "reese-portrait.webp", tag: "Technique-focused" },
 ];
 
+const faqs = [
+  { question: "What does Forge do?", answer: "Forge builds workout plans around your goals, experience, schedule, and available equipment. You can log your training, track progress, and ask your AI coach questions along the way." },
+  { question: "Can I use it as a beginner?", answer: "Yes. Tell your coach your experience level when you get started. Your plan includes exercises with instructions, and you can ask for help understanding your workout." },
+  { question: "Do I need a gym membership?", answer: "You can train at a gym or at home. Tell Forge which equipment you have so your coach can plan around it." },
+  { question: "Are the coaches real people?", answer: "The four Forge coaches are AI characters with distinct coaching styles. Choose the approach you prefer and switch coaches in the app." },
+  { question: "How much does it cost?", answer: pricingAnswer },
+  { question: "Where can I download it?", answer: `${APP_NAME} is available on iPhone and Android. Use the App Store or Google Play links on this page, or search for the full app name in your store.` },
+];
 
-export default async function HomePage() {
-  const appStoreRating = await getAppStoreRating();
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "Organization", "@id": "https://forgetrainer.ai/#organization", name: "Forge", url: "https://forgetrainer.ai", logo: "https://forgetrainer.ai/icon-512.png", sameAs: ["https://www.instagram.com/forgetrainerapp", "https://www.tiktok.com/@forgetrainerapp"] },
+    { "@type": "WebSite", name: "Forge", url: "https://forgetrainer.ai", publisher: { "@id": "https://forgetrainer.ai/#organization" } },
+    { "@type": "SoftwareApplication", name: APP_NAME, applicationCategory: "HealthApplication", operatingSystem: ["iOS", "Android"], description: "Personal workout plans with AI coaching and progress tracking.", offers: pricing.plans.map((plan) => ({ "@type": "Offer", name: `${plan.name} subscription`, price: plan.price, priceCurrency: pricing.currency, description: `${pricing.trialDays}-day free trial, then $${plan.price} per ${plan.period}.`, priceSpecification: { "@type": "UnitPriceSpecification", price: plan.price, priceCurrency: pricing.currency, billingDuration: plan.billingDuration } })) },
+    { "@type": "FAQPage", mainEntity: faqs.map((faq) => ({ "@type": "Question", name: faq.question, acceptedAnswer: { "@type": "Answer", text: faq.answer } })) },
+  ],
+};
 
-  return (
-    <div className="min-h-screen bg-background">
-      {/* Structured Data for SEO */}
-      <StructuredData
-        type="organization"
-        name="Forge"
-        url="https://forgetrainer.ai"
-        logo="https://forgetrainer.ai/icon-512.png"
-        description="Forge is an AI-powered personal trainer that delivers custom workout plans and 24/7 fitness guidance at a fraction of the cost of traditional personal training."
-        sameAs={[
-          "https://www.instagram.com/forgetrainerapp",
-          "https://www.tiktok.com/@forgetrainerapp",
-          "https://github.com/10D-Labs",
-        ]}
-      />
-      <StructuredData type="website" name="Forge" url="https://forgetrainer.ai" />
-      <StructuredData
-        type="softwareApplication"
-        name="Forge Trainer: Gym & Strength"
-        alternateName="Forge"
-        applicationCategory="HealthApplication"
-        applicationSubCategory="Strength Training"
-        operatingSystem={["iOS", "Android"]}
-        description="Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches that remember your history and explain every exercise. Under $5/mo vs $300-500 for a human trainer. Free 7-day trial."
-        {...(appStoreRating && { aggregateRating: appStoreRating })}
-        offers={[
-          {
-            name: "Weekly Plan",
-            price: "6.99",
-            priceCurrency: "USD",
-            description: "7-day free trial, then $6.99/week",
-            billingPeriod: "P1W",
-          },
-          {
-            name: "Monthly Plan",
-            price: "19.99",
-            priceCurrency: "USD",
-            description: "7-day free trial, then $19.99/month",
-            billingPeriod: "P1M",
-          },
-          {
-            name: "Annual Plan",
-            price: "59.99",
-            priceCurrency: "USD",
-            description: "7-day free trial, then $59.99/year (on sale from $179.99)",
-            billingPeriod: "P1Y",
-          },
-        ]}
-        featureList={[
-          "Custom workout plans tailored to your goals",
-          "24/7 personal training guidance",
-          "Multiple AI trainers to match your style",
-          "Progress tracking and accountability",
-          "Exercise form guidance",
-          "Workout scheduling and reminders",
-        ]}
-        audienceType="People seeking affordable personal training, gym beginners who need guidance, busy professionals who can't schedule trainer sessions"
-        keywords="personal trainer, fitness coach, workout guidance, affordable training, fitness app"
-        datePublished="2025-12-17"
-      />
+export default function HomePage() {
+  return <main className="forge-home">
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />
+    <Suspense fallback={null}><HomeScrollHandler /></Suspense>
 
-      {/* Handle legacy #waitlist links — redirects to /download */}
-      <Suspense fallback={null}>
-        <HomeScrollHandler />
-      </Suspense>
+    <section className="home-hero" aria-labelledby="hero-heading">
+      <div className="site-width hero-layout">
+        <div className="hero-copy">
+          <p className="eyebrow"><span className="status-dot" /> Personal training, built around you</p>
+          <h1 id="hero-heading">Get stronger.<br />Train with<br /><span>confidence.</span></h1>
+          <p className="hero-description">You want to feel good in your body. Forge helps you work toward it with a workout plan that fits your life and a coach who knows where you're starting.</p>
+          <div id="hero-badges" className="hero-download"><StoreLinks /><p>{APP_NAME}<br />{pricing.trialDays}-day free trial · iOS and Android</p></div>
+        </div>
+        <div className="hero-visual hero-visual-home">
+          <Image src="/app-mockup-hero.webp" width={1080} height={1920} alt="Forge Home on iPhone, showing today's workout and a message from your coach" sizes="(max-width: 600px) calc(100vw - 40px), 360px" priority />
+        </div>
+      </div>
+      <div className="site-width hero-footnote"><span>YOUR GOALS SET THE DIRECTION.</span><span>FORGE BUILDS THE PLAN.</span></div>
+    </section>
 
-      <main role="main" itemScope itemType="https://schema.org/WebPage">
-        {/* 1. Hero - Promise + identity hook */}
-        <HeroSection />
+    <section id="your-start" className="starting-section section-space" aria-labelledby="starting-heading">
+      <div className="site-width starting-layout">
+        <div><p className="eyebrow">You don't have to have it figured out</p><h2 id="starting-heading">Start where<br /><span className="text-primary">you</span> are.</h2><p>Build strength for the life you want to live. Your experience and your schedule give us a place to start.</p><a href="/download" className="text-link">Get your plan in Forge</a></div>
+        <div className="starting-points">
+          <article><span>01</span><div><h3>“I don't know what to do.”</h3><p>Walk into each session with your exercises and targets ready. Ask your coach when you need help.</p></div></article>
+          <article><span>02</span><div><h3>“I want to feel strong again.”</h3><p>Tell Forge where you're starting now. Build a routine around your current experience.</p></div></article>
+          <article><span>03</span><div><h3>“Life keeps getting in the way.”</h3><p>Plan around the days you have and the equipment you can use, at home or in the gym.</p></div></article>
+          <article><span>04</span><div><h3>“I'm ready to make more progress.”</h3><p>Keep a record of what you lift. Review your training and talk through your next step with your coach.</p></div></article>
+        </div>
+      </div>
+    </section>
 
-        {/* 2. Credibility Bar - Instant trust anchor */}
-        <SocialProofBar />
+    <ProductTour />
 
-        {/* 3. Pain Mirror - Emotional identification */}
-        <PainMirrorSection />
+    <section id="trainers" className="coaches-section section-space" aria-labelledby="coaches-heading">
+      <div className="site-width">
+        <div className="section-heading"><div><p className="eyebrow"><span>02</span> Find your coach</p><h2 id="coaches-heading">Same commitment.<br /><span className="muted-heading">Your kind of coaching.</span></h2></div><p>Four AI personalities. Choose the one you want to hear from when it's time to train.</p></div>
+        <div className="coach-grid">{coaches.map((coach) => <Link className="coach-card" key={coach.slug} href={`/trainers/${coach.slug}`}>
+          <div className="coach-image"><Image src={`/trainers/${coach.image}`} alt={`${coach.name}, a Forge AI coach`} width={500} height={500} sizes="(max-width: 600px) 45vw, (max-width: 900px) 40vw, 25vw" /><span className="coach-tag">{coach.tag}</span></div>
+          <div className="coach-info"><div><h3>{coach.name}</h3></div><p>{coach.description}</p></div>
+        </Link>)}</div>
+        <p className="coaches-note">Pick a style that works for you. You can switch coaches in the app.</p>
+      </div>
+    </section>
 
-        {/* 4. Problem - Validate past failures */}
-        <ProblemSection />
+    <section className="resources-section section-space" aria-labelledby="resources-heading">
+      <div className="site-width resources-layout">
+        <div><p className="eyebrow"><span>03</span> Keep learning</p><h2 id="resources-heading">A little knowledge.<br />A better session.</h2><p>Explore the exercise library or work out your next lifting target. These resources are free to use.</p></div>
+        <div className="resource-links">
+          <Link href="/exercises"><span><small>Learn the movement</small>Exercise library</span><ArrowRight aria-hidden="true" /></Link>
+          <Link href="/tools"><span><small>Do the numbers</small>Workout calculators</span><ArrowRight aria-hidden="true" /></Link>
+          <Link href="/blog"><span><small>Understand your training</small>Blog</span><ArrowRight aria-hidden="true" /></Link>
+        </div>
+      </div>
+    </section>
 
-        {/* 5. Solution - Unique mechanism reveal */}
-        <SolutionSection />
+    <section className="home-faq section-space" aria-labelledby="faq-heading">
+      <div className="site-width faq-layout">
+        <div><p className="eyebrow"><span>04</span> Before you start</p><h2 id="faq-heading">Good<br /> questions.</h2><p>Need something else?<br /><a className="text-link" href="mailto:support@forgetrainer.ai">Talk to the team</a></p></div>
+        <FAQAccordion items={faqs} />
+      </div>
+    </section>
 
-        {/* 6. Trainers - Personalization + differentiation */}
-        <MeetTheTrainersSection />
-
-        {/* 7. Transformation - Paint the "after" picture */}
-        <TransformationSection />
-
-        {/* 8. How It Works - Make it feel effortless */}
-        <HowItWorksSection />
-
-        {/* 9. FAQ - Handle final objections */}
-        <FAQSection
-          title="Frequently Asked Questions"
-          subtitle="Everything you need to know about training with Forge"
-          questions={homepageFAQs}
-        />
-
-        {/* 10. Final CTA - Close with emotional urgency */}
-        <CTASection />
-      </main>
-    </div>
-  );
+    <section className="home-cta" aria-labelledby="download-heading">
+      <div className="site-width cta-layout"><div><p className="eyebrow">Your next workout starts here</p><h2 id="download-heading">Make it<br />your own.</h2></div><div className="cta-copy"><p>Bring your goals.<br />We'll help you build the plan.</p><StoreLinks placement="cta-bottom" /><span>{APP_NAME} · iOS and Android</span></div></div>
+    </section>
+  </main>;
 }

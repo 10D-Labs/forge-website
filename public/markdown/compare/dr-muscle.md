@@ -137,5 +137,5 @@ Nothing imports automatically, so your logged history stays behind. Start Forge'
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

@@ -10,7 +10,9 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CookieConsentWrapper from "@/components/CookieConsentWrapper";
+import { APP_NAME } from "@/config/app";
 import "./globals.css";
+import "./redesign.css";
 
 const GOOGLE_ADS_ID = "AW-18087937976";
 
@@ -30,11 +32,11 @@ const barlowCondensed = Barlow_Condensed({
 
 export const metadata: Metadata = {
   title: {
-    default: "Forge Trainer: Gym & Strength Workout App | Under $5/mo",
-    template: "%s | Forge Trainer",
+    default: APP_NAME,
+    template: `%s | ${APP_NAME}`,
   },
   description:
-    "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
+    "Walk into your next workout with a plan. Personal workout plans and four AI coaching styles, built around your goals and schedule.",
   keywords: [
     "strength training app",
     "gym workout plans",
@@ -51,16 +53,16 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://forgetrainer.ai",
-    siteName: "Forge",
-    title: "Forge Trainer: Gym & Strength Workout App | Under $5/mo",
+    siteName: APP_NAME,
+    title: APP_NAME,
     description:
-      "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
+      "Personal workout plans and four AI coaching styles, built around your goals and schedule. Available on iOS and Android.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Forge Trainer: Gym & Strength Workout App | Under $5/mo",
+    title: APP_NAME,
     description:
-      "Stop wandering the gym without a plan. Forge builds custom workouts for your goals, schedule, and injuries. 4 AI coaches. Under $5/mo. Free 7-day trial.",
+      "Personal workout plans and four AI coaching styles, built around your goals and schedule. Available on iOS and Android.",
   },
   robots: {
     index: true,
@@ -88,7 +90,7 @@ export default function RootLayout({
             <Toaster />
             <Sonner />
             <Header />
-            <main>{children}</main>
+            <div id="main-content" tabIndex={-1}>{children}</div>
             <Footer />
             <CookieConsentWrapper />
           </TooltipProvider>

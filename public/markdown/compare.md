@@ -61,5 +61,5 @@ Every plan is $6.99 a week, $19.99 a month, or $59.99 a year, with a 7-day free 
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

@@ -139,5 +139,5 @@ Strong hands a beginner an empty logbook and no guidance, which is why its fans 
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

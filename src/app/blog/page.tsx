@@ -1,3 +1,4 @@
+import PageIntro from "@/components/PageIntro";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllPosts } from "@/lib/blog";
@@ -44,40 +45,16 @@ export default function BlogPage() {
         ]}
       />
 
-      <main className="pt-20" role="main">
-        {/* Header */}
-        <section
-          className="py-10 md:py-12 bg-surface-0 relative overflow-hidden"
-          aria-labelledby="blog-heading"
-        >
-          <div className="absolute inset-0 bg-mesh opacity-50" aria-hidden="true" />
-          <div className="container relative z-10">
-            <div className="max-w-3xl mx-auto text-center">
-              <p className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4">
-                Blog
-              </p>
-              <h1
-                id="blog-heading"
-                className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase mb-6"
-              >
-                Training Tips &{" "}
-                <span className="text-primary text-neon">Guidance</span>
-              </h1>
-              <p className="text-lg md:text-xl text-text-secondary leading-relaxed font-barlow">
-                Expert fitness advice to help you train smarter, get stronger,
-                and build the body you want.
-              </p>
-            </div>
-          </div>
-        </section>
+      <main className="resource-page">
+        <PageIntro eyebrow="Blog" title="Understand your training." accent="Make each session count." description="Practical guides to strength, technique, recovery, and building a routine you can keep." id="blog-heading" />
 
         {/* Topics */}
         <section
           className="py-8 bg-surface-1 border-y border-border-subtle"
           aria-label="Browse by topic"
         >
-          <div className="container">
-            <div className="flex flex-wrap items-center justify-center gap-3">
+          <div className="site-width">
+            <div className="flex flex-wrap items-center gap-3">
               <span className="text-sm text-text-tertiary font-barlow mr-2">
                 Browse:
               </span>
@@ -96,14 +73,14 @@ export default function BlogPage() {
 
         {/* Blog Posts Grid */}
         <section className="py-12 md:py-16 bg-surface-0">
-          <div className="container">
-            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+          <div className="site-width">
+            <div className="journal-grid">
               {posts.map((post) => (
                 <article
                   key={post.slug}
-                  className="group rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 hover:border-primary/50"
+                  className="journal-card group"
                 >
-                  <Link href={`/blog/${post.slug}`} className="block p-6">
+                  <Link href={`/blog/${post.slug}`} className="journal-card-link">
                     {post.category && (
                       <span className="inline-block px-3 py-1 text-xs font-barlow-condensed font-semibold text-primary uppercase tracking-wider rounded-[10px] border border-primary/30 bg-primary/10 mb-4">
                         <span className="relative z-10">
@@ -124,11 +101,11 @@ export default function BlogPage() {
                       )}
                     </time>
 
-                    <h2 className="font-barlow-condensed text-xl font-bold uppercase tracking-wide mb-3 group-hover:text-primary transition-colors line-clamp-2">
+                    <h2 className="font-barlow-condensed text-3xl font-bold uppercase tracking-wide mb-3 group-hover:text-primary transition-colors">
                       {post.title}
                     </h2>
 
-                    <p className="text-text-secondary font-barlow text-sm leading-relaxed line-clamp-3 mb-4">
+                    <p className="text-text-secondary font-barlow text-base leading-relaxed mb-6">
                       {post.excerpt}
                     </p>
 

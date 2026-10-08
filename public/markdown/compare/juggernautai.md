@@ -139,5 +139,5 @@ The Powerbuilding mode covers hypertrophy alongside strength, which widens the s
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

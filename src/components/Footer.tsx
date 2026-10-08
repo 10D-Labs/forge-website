@@ -1,136 +1,19 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Instagram, Mail } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
+import { APP_NAME } from "@/config/app";
 
-const TikTokIcon = () => (
-  <svg
-    viewBox="0 0 24 24"
-    fill="currentColor"
-    className="w-5 h-5"
-  >
-    <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z" />
-  </svg>
-);
-
-const Footer = () => {
-  const currentYear = new Date().getFullYear();
-
-  return (
-    <footer 
-      className="bg-forge-dark border-t border-border/50"
-      role="contentinfo"
-      itemScope
-      itemType="https://schema.org/WPFooter"
-    >
-      <div className="container py-12 md:py-16">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
-          {/* Logo & Description */}
-          <div className="md:col-span-2" itemScope itemType="https://schema.org/Organization">
-            <Link href="/" className="inline-block mb-4" aria-label="Forge - Home">
-              <Image
-                src="/forge-logo.png"
-                alt="Forge Trainer logo"
-                className="h-12 w-auto"
-                width={48}
-                height={48}
-                itemProp="logo"
-              />
-            </Link>
-            <p className="text-muted-foreground text-sm max-w-sm leading-relaxed" itemProp="description">
-              Your AI-powered personal trainer. Get custom workout plans, track your progress, and achieve your fitness goals. All for a fraction of the cost.
-            </p>
-          </div>
-
-          {/* Navigation */}
-          <nav aria-label="Footer navigation">
-            <h4 className="text-sm font-semibold mb-4">Navigation</h4>
-            <ul className="space-y-3 list-none">
-              <li>
-                <Link href="/" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Home
-                </Link>
-              </li>
-              <li>
-                <Link href="/about" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  About Us
-                </Link>
-              </li>
-              <li>
-                <Link href="/exercises" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Exercises
-                </Link>
-              </li>
-              <li>
-                <Link href="/tools" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Free Tools
-                </Link>
-              </li>
-              <li>
-                <Link href="/compare" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Compare
-                </Link>
-              </li>
-              <li>
-                <Link href="/blog" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Blog
-                </Link>
-              </li>
-            </ul>
-          </nav>
-
-          {/* Social */}
-          <div>
-            <h4 className="text-sm font-semibold mb-4">Connect</h4>
-            <div className="flex gap-4" role="list" aria-label="Social media links">
-              <a
-                href="https://www.instagram.com/forgetrainerapp"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"
-                aria-label="Follow Forge on Instagram"
-                role="listitem"
-              >
-                <Instagram className="w-5 h-5" aria-hidden="true" />
-              </a>
-              <a
-                href="https://www.tiktok.com/@forgetrainerapp"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"
-                aria-label="Follow Forge on TikTok"
-                role="listitem"
-              >
-                <TikTokIcon />
-              </a>
-              <a
-                href="mailto:support@forgetrainer.ai"
-                className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all"
-                aria-label="Email Forge support"
-                role="listitem"
-              >
-                <Mail className="w-5 h-5" aria-hidden="true" />
-              </a>
-            </div>
-          </div>
-        </div>
-
-        {/* Bottom */}
-        <div className="mt-12 pt-8 border-t border-border/50 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-xs text-muted-foreground">
-            © {currentYear} 10D Labs, LLC. Forge™ and the Forge logo are trademarks of 10D Labs, LLC.
-          </p>
-          <nav aria-label="Legal links" className="flex gap-6">
-            <Link href="/privacy-policy" className="text-xs text-muted-foreground hover:text-primary transition-colors">
-              Privacy Policy
-            </Link>
-            <Link href="/terms-of-service" className="text-xs text-muted-foreground hover:text-primary transition-colors">
-              Terms of Service
-            </Link>
-          </nav>
-        </div>
+export default function Footer() {
+  return <footer className="site-footer">
+    <div className="site-width">
+      <div className="footer-top">
+        <div><Link href="/" className="footer-logo" aria-label="Forge home"><Image src="/forge-logo.png" alt={`${APP_NAME} logo`} width={48} height={48} /></Link><p>Personal training.<br />Built around you.</p></div>
+        <nav aria-label="Explore Forge"><span className="eyebrow">Explore</span><Link href="/#trainers">Meet your coaches</Link><Link href="/compare">Compare Forge</Link><a href="/download">Get the app</a></nav>
+        <nav aria-label="Training resources"><span className="eyebrow">Keep learning</span><Link href="/exercises">Exercise library</Link><Link href="/tools">Free tools</Link><Link href="/blog">Blog</Link></nav>
+        <nav aria-label="Connect with Forge"><span className="eyebrow">Say hello</span><a href="mailto:support@forgetrainer.ai">Get in touch</a><a href="https://www.instagram.com/forgetrainerapp" target="_blank" rel="noopener noreferrer">Instagram <ArrowUpRight size={14} aria-hidden="true" /></a><a href="https://www.tiktok.com/@forgetrainerapp" target="_blank" rel="noopener noreferrer">TikTok <ArrowUpRight size={14} aria-hidden="true" /></a></nav>
       </div>
-    </footer>
-  );
-};
-
-export default Footer;
+      <div className="footer-signoff" aria-hidden="true">FORGE YOURSELF.</div>
+      <div className="footer-bottom"><p>© {new Date().getFullYear()} 10D Labs, LLC. Forge™</p><nav aria-label="Legal links"><Link href="/privacy-policy">Privacy</Link><Link href="/terms-of-service">Terms</Link><Link href="/delete-account">Delete account</Link></nav><span>Built for your next workout.</span></div>
+    </div>
+  </footer>;
+}

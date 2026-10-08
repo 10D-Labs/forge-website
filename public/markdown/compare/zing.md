@@ -139,5 +139,5 @@ There is no importer, so your Zing history stays in Zing. Set up your Forge plan
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

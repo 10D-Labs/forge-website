@@ -28,7 +28,9 @@ export function middleware(request: NextRequest) {
   }
 
   const url = request.nextUrl.clone();
-  url.pathname = destination;
+  const target = new URL(destination, request.url);
+  url.pathname = target.pathname;
+  url.hash = target.hash;
   return NextResponse.redirect(url, 302);
 }
 

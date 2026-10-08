@@ -138,5 +138,5 @@ There is no importer, so your Fitbod history stays in Fitbod. Set up your plan i
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

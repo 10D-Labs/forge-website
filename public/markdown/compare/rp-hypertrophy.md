@@ -138,5 +138,5 @@ RP adapts deeper for hypertrophy. Its mesocycle logic and volume landmarks come 
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

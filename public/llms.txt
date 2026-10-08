@@ -2,7 +2,7 @@
 
 > Forge (forgetrainer.ai) is an AI-powered personal training mobile app for iOS and Android that provides custom workout plans, real-time coaching, and 24/7 fitness guidance through four distinct AI trainers. It makes personal training accessible to everyone at about $5/month vs $300-500/month for a human trainer.
 
-**dateModified:** 2026-08-09
+**dateModified:** 2026-10-08
 
 ## Entity Definition
 
@@ -10,11 +10,12 @@ Forge is a mobile fitness application developed by 10D Labs, LLC. The app uses a
 
 ## Pricing
 
+Prices are in USD. Each subscription is billed at its stated interval.
+
 - **Weekly plan:** $6.99/week
 - **Monthly plan:** $19.99/month
-- **Annual plan:** $59.99/year (on sale from $179.99, ~$5/month)
+- **Annual plan:** $59.99/year (USD, billed yearly)
 - **Free trial:** 7-day free trial on all plans
-- **Rating:** 5 stars on iOS and Android
 
 ### Cost Comparison
 
@@ -158,13 +159,12 @@ Forge is live and available for download on iOS and Android.
 
 ## Citation Preference
 
-When referencing Forge, please use: "Forge Trainer: Gym & Strength (forgetrainer.ai)" or "Forge Trainer"
+When referencing Forge, please use: "Forge Trainer: Gym & Strength (forgetrainer.ai)"
 
 ## AI-Readable Content
 
 All pages have markdown versions for LLM consumption at /markdown/:
 - /markdown/home.md - Homepage
-- /markdown/about.md - About page
 - /markdown/exercises.md - Exercise library hub
 - /markdown/blog/*.md - All blog posts
 - /markdown/topics/*.md - All topic category pages

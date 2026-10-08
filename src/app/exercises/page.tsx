@@ -1,3 +1,5 @@
+import PageIntro from "@/components/PageIntro";
+import { ToolCTA } from "@/components/tools/ToolParts";
 import type { Metadata } from "next";
 import Link from "next/link";
 import {
@@ -35,47 +37,20 @@ export default function ExercisesPage() {
   );
 
   return (
-    <div className="min-h-screen bg-background">
+    <main className="resource-page">
       <SchemaScript schema={breadcrumbSchema} />
       <SchemaScript schema={collectionSchema} />
 
-      {/* Hero Section */}
-      <section className="pt-24 pb-12 md:pt-32 md:pb-16 bg-surface-0 relative overflow-hidden">
-        <div className="absolute inset-0 bg-mesh opacity-50" />
-        <div className="container relative z-10">
-          <nav aria-label="Breadcrumb" className="mb-6">
-            <ol className="flex items-center gap-2 text-sm font-barlow">
-              <li>
-                <Link
-                  href="/"
-                  className="text-text-tertiary hover:text-primary transition-colors"
-                >
-                  Home
-                </Link>
-              </li>
-              <li className="text-text-quaternary">/</li>
-              <li className="text-text-secondary">Exercises</li>
-            </ol>
-          </nav>
-
-          <h1 className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase mb-4">
-            Exercise Library
-          </h1>
-          <p className="font-barlow text-xl text-text-secondary max-w-2xl">
-            Browse 900+ exercises with video demonstrations, step-by-step
-            instructions, and form tips.
-          </p>
-        </div>
-      </section>
+      <PageIntro eyebrow="Free exercise library" title="Learn the movement." accent="Train with confidence." description={`Explore ${totalExercises.toLocaleString("en-US")} exercises with demonstrations and step-by-step instructions. Find a movement by body part, equipment, or experience level.`} id="exercises-heading" />
 
       {/* Difficulty Quick Filters */}
       <section className="py-6 bg-surface-1 border-y border-border-subtle">
-        <div className="container">
+        <div className="site-width">
           <div className="flex flex-wrap items-center gap-4">
             <span className="font-barlow-condensed text-sm uppercase tracking-wide text-text-tertiary">
               Filter by Difficulty:
             </span>
-            <div className="flex gap-2">
+            <div className="flex flex-wrap gap-2">
               <Link
                 href="/exercises/beginner"
                 className="px-4 py-2 text-sm font-barlow-condensed font-semibold uppercase tracking-wide rounded-[20px] border border-success/30 bg-success/10 text-success hover:bg-success/20 transition-colors"
@@ -101,7 +76,7 @@ export default function ExercisesPage() {
 
       {/* Body Parts Section */}
       <section className="py-12 md:py-16 bg-surface-0">
-        <div className="container">
+        <div className="site-width">
           <h2 className="font-barlow-condensed text-2xl md:text-3xl font-bold uppercase tracking-wide mb-8">
             Browse by Body Part
           </h2>
@@ -111,7 +86,7 @@ export default function ExercisesPage() {
               <Link
                 key={hub.bodyPart}
                 href={`/exercises/${hub.slug}`}
-                className="group rounded-[20px] border border-border bg-surface-2 card-neon p-6 transition-all duration-300 hover:border-primary/50"
+                className="resource-card group rounded-[20px] border border-border bg-surface-2 card-neon p-6 transition-all duration-300 hover:border-primary/50"
               >
                 <h3 className="font-barlow-condensed text-xl font-bold uppercase tracking-wide mb-2 group-hover:text-primary transition-colors">
                   {hub.bodyPart}
@@ -127,7 +102,7 @@ export default function ExercisesPage() {
 
       {/* Equipment Section */}
       <section className="py-12 md:py-16 bg-surface-1 border-t border-border-subtle">
-        <div className="container">
+        <div className="site-width">
           <h2 className="font-barlow-condensed text-2xl md:text-3xl font-bold uppercase tracking-wide mb-8">
             Browse by Equipment
           </h2>
@@ -137,7 +112,7 @@ export default function ExercisesPage() {
               <Link
                 key={hub.equipment}
                 href={`/exercises/equipment/${hub.slug}`}
-                className="group rounded-[20px] border border-border bg-surface-2 card-neon p-4 transition-all duration-300 hover:border-primary/50"
+                className="resource-card group rounded-[20px] border border-border bg-surface-2 card-neon p-4 transition-all duration-300 hover:border-primary/50"
               >
                 <h3 className="font-barlow-condensed text-base font-bold uppercase tracking-wide mb-1 group-hover:text-primary transition-colors">
                   {hub.equipment}
@@ -151,24 +126,7 @@ export default function ExercisesPage() {
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="py-12 md:py-16 bg-surface-0 border-t border-border-subtle">
-        <div className="container text-center">
-          <h2 className="font-barlow-condensed text-2xl md:text-3xl font-bold uppercase mb-4">
-            Get Personalized Workout Plans
-          </h2>
-          <p className="font-barlow text-text-secondary mb-6 max-w-xl mx-auto">
-            Let our AI trainers create custom workout plans based on your goals,
-            schedule, and available equipment.
-          </p>
-          <Link
-            href="/download"
-            className="inline-flex items-center justify-center px-8 py-3 font-barlow-condensed font-bold uppercase tracking-wide text-primary-foreground rounded-[14px] bg-primary border border-primary hover:bg-forge-orange-dark transition-colors"
-          >
-            <span>Download Forge</span>
-          </Link>
-        </div>
-      </section>
-    </div>
+      <ToolCTA headline="Put what you learn" headlineAccent="into your next workout." subline="Get a plan built around your goals, schedule, and equipment. Your AI coach is there when you have questions." utmContent="exercises-hub" />
+    </main>
   );
 }

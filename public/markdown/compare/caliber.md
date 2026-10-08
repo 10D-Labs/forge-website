@@ -138,5 +138,5 @@ For programming and questions, mostly yes, and at a tenth of Premium's price. Fo
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

@@ -139,5 +139,5 @@ There is no importer, so your JEFIT history stays in JEFIT. Set up your plan in 
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai*

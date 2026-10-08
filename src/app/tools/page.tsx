@@ -1,6 +1,6 @@
+import PageIntro from "@/components/PageIntro";
 import type { Metadata } from "next";
 import { Dumbbell } from "lucide-react";
-import { GlowOrbs } from "@/components/effects";
 import StructuredData from "@/components/StructuredData";
 import { ToolCardLink, ToolCTA } from "@/components/tools/ToolParts";
 import { tools } from "@/content/tools";
@@ -64,35 +64,12 @@ export default function ToolsHubPage() {
         }}
       />
 
-      <main className="pt-20" role="main">
-        {/* Hero */}
-        <section
-          className="relative py-14 md:py-20 bg-surface-0 overflow-hidden"
-          aria-labelledby="tools-heading"
-        >
-          <GlowOrbs variant="hero" />
-          <div className="container relative z-10">
-            <div className="max-w-3xl mx-auto text-center">
-              <p className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4">
-                Free for lifters
-              </p>
-              <h1
-                id="tools-heading"
-                className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase leading-none mb-6"
-              >
-                Tools for people who{" "}
-                <span className="text-primary text-neon">train</span>
-              </h1>
-              <p className="text-lg md:text-xl text-text-secondary font-barlow max-w-2xl mx-auto leading-relaxed">
-                Plan your next set. Estimate your max. Build a warm-up.
-              </p>
-            </div>
-          </div>
-        </section>
+      <main className="resource-page">
+        <PageIntro eyebrow="Free workout tools" title="Know your numbers." accent="Plan your next set." description="Estimate your max, load the bar, or plan your warm-up. Free calculators you can use between sets." id="tools-heading" />
 
         {/* Tool grid */}
         <section className="py-12 md:py-16 bg-surface-1 border-t border-border-subtle">
-          <div className="container">
+          <div className="site-width">
             <div className="max-w-6xl mx-auto grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {tools.map((tool) => (
                 <ToolCardLink key={tool.slug} tool={tool} />
@@ -103,7 +80,7 @@ export default function ToolsHubPage() {
 
         {/* App bridge */}
         <section className="py-14 md:py-20 bg-surface-0 border-t border-border-subtle">
-          <div className="container">
+          <div className="site-width">
             <div className="max-w-3xl mx-auto">
               <div className="flex items-center gap-3 mb-4">
                 <Dumbbell className="w-6 h-6 text-primary" aria-hidden="true" />

@@ -45,5 +45,5 @@ These tools answer one question at a time. The app handles the same math automat
 
 ---
 
-*Forge Trainer - personal training for everyone.*
+*Forge Trainer: Gym & Strength - personal training for everyone.*
 *https://forgetrainer.ai/tools*

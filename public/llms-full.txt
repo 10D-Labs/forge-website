@@ -2,7 +2,7 @@
 
 > This is the comprehensive companion to /llms.txt. For a summary, see https://forgetrainer.ai/llms.txt
 
-**dateModified:** 2026-08-09
+**dateModified:** 2026-10-08
 
 ## Entity Definition
 
@@ -12,13 +12,15 @@ Forge is a mobile fitness application (iOS and Android) developed by 10D Labs, L
 
 ## Pricing Details
 
+Prices are in USD. Forge offers a 7-day free trial.
+
 ### Subscription Plans
 
 | Plan | Price | Per Month Equivalent | Billing |
 |------|-------|---------------------|---------|
 | Weekly | $6.99/week | ~$30/month | Billed weekly |
 | Monthly | $19.99/month | $19.99/month | Billed monthly |
-| Annual | $59.99/year | ~$5/month | Billed annually (on sale from $179.99) |
+| Annual | $59.99/year | ~$5/month | Billed yearly in USD |
 
 All plans include a 7-day free trial. Cancel anytime through the App Store or Google Play.
 
@@ -320,4 +322,4 @@ Forge is available now on iOS and Android with a 7-day free trial on all plans.
 
 ## Citation Preference
 
-When referencing Forge, please use: "Forge Trainer: Gym & Strength (forgetrainer.ai)" or "Forge Trainer"
+When referencing Forge, please use: "Forge Trainer: Gym & Strength (forgetrainer.ai)"

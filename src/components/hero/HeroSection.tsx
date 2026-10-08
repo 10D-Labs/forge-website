@@ -1,5 +1,7 @@
 "use client";
 
+import { APP_NAME } from "@/config/app";
+
 import { ChevronDown } from "lucide-react";
 import { lazy, Suspense, useState, useEffect } from "react";
 import { GridBackground, GlowOrbs } from "@/components/effects";
@@ -73,10 +75,10 @@ const HeroSection = () => {
             <div className="hero-animate-item">
               <div id="hero-badges" className="flex flex-wrap items-center gap-4 mb-3">
                 <a
-                  href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?pt=128493451&ct=hero&mt=8"
+                  href="https://apps.apple.com/us/app/forge-trainer-gym-strength/id6758403402?pt=128493451&ct=hero&mt=8"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Download Forge on the App Store"
+                  aria-label={`Download ${APP_NAME} on the App Store`}
                   onClick={trackAppStoreClick}
                 >
                   <img
@@ -91,7 +93,7 @@ const HeroSection = () => {
                   href="https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=website&utm_medium=badge&utm_campaign=organic&utm_content=hero"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Get Forge on Google Play"
+                  aria-label={`Get ${APP_NAME} on Google Play`}
                 >
                   <img
                     src="/google-play-badge.svg"

@@ -3,11 +3,12 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import PageIntro from "@/components/PageIntro";
 import StructuredData from "@/components/StructuredData";
 import { getTopicBySlug, topics } from "@/content/topics";
 import { blogPosts } from "@/content/blog";
 import { staggerContainer, fadeInUp } from "@/lib/animations";
-import { ArrowLeft, Calendar } from "lucide-react";
+import { Calendar } from "lucide-react";
 
 interface TopicPageContentProps {
   topicSlug: string;
@@ -36,69 +37,30 @@ export default function TopicPageContent({ topicSlug }: TopicPageContentProps) {
         ]}
       />
 
-      <main className="pt-20" role="main">
-        {/* Hero Section */}
-        <section className="py-12 md:py-16 bg-surface-0 relative overflow-hidden">
-          <div className="absolute inset-0 bg-mesh opacity-50" aria-hidden="true" />
-          <div className="container relative z-10">
-            <nav aria-label="Breadcrumb" className="mb-6">
-              <Link
-                href="/blog"
-                className="inline-flex items-center gap-1 text-text-tertiary hover:text-primary transition-colors font-barlow text-sm"
-              >
-                <ArrowLeft className="h-4 w-4" aria-hidden="true" />
-                Back to Blog
-              </Link>
-            </nav>
-
-            <motion.header
-              initial="hidden"
-              animate="visible"
-              variants={staggerContainer}
-            >
-              <motion.p
-                variants={fadeInUp}
-                className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4"
-              >
-                Topic
-              </motion.p>
-              <motion.h1
-                variants={fadeInUp}
-                className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase mb-6 text-primary text-neon"
-              >
-                {topic.name}
-              </motion.h1>
-              <motion.p
-                variants={fadeInUp}
-                className="text-lg text-text-secondary font-barlow max-w-2xl"
-              >
-                {topic.description}
-              </motion.p>
-            </motion.header>
-          </div>
-        </section>
+      <main className="resource-page">
+        <PageIntro eyebrow="Blog" title={topic.name} accent="Put it into practice." description={topic.description} />
 
         {/* Posts Grid */}
         <section className="py-12 md:py-16 bg-surface-1 border-t border-border-subtle">
-          <div className="container">
+          <div className="site-width">
             <motion.div
-              className="grid gap-6 md:grid-cols-2 lg:grid-cols-3"
+              className="journal-grid"
               initial="hidden"
               animate="visible"
               variants={staggerContainer}
             >
               {topicPosts.map((post) => (
-                <motion.article key={post.slug} variants={fadeInUp}>
+                <motion.article key={post.slug} variants={fadeInUp} className="journal-card">
                   <Link
                     href={`/blog/${post.slug}`}
-                    className="group block p-6 rounded-[20px] border border-border bg-surface-2 card-neon transition-all duration-300 hover:border-primary/50 h-full"
+                    className="journal-card-link group"
                   >
                     <time
                       dateTime={post.date}
                       className="flex items-center gap-1 text-xs text-text-tertiary font-barlow uppercase tracking-wide mb-3"
                     >
                       <Calendar className="h-3 w-3" aria-hidden="true" />
-                      {new Date(post.date).toLocaleDateString("en-US", {
+                      {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
                         month: "short",
                         day: "numeric",
                         year: "numeric",
@@ -146,7 +108,7 @@ export default function TopicPageContent({ topicSlug }: TopicPageContentProps) {
 
         {/* Other Topics */}
         <section className="py-12 md:py-16 bg-surface-0 border-t border-border-subtle">
-          <div className="container">
+          <div className="site-width">
             <h2 className="font-barlow-condensed text-2xl font-bold uppercase tracking-wide mb-8">
               Explore Other Topics
             </h2>

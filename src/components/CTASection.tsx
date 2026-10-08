@@ -1,5 +1,7 @@
 "use client";
 
+import { APP_NAME } from "@/config/app";
+
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { Check } from "lucide-react";
@@ -72,10 +74,10 @@ const CTASection = () => {
           <motion.div className="mb-10 flex flex-col items-center" variants={fadeInUp}>
             <div className="flex flex-wrap items-center justify-center gap-4 mb-3">
               <a
-                href="https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402?pt=128493451&ct=cta-bottom&mt=8"
+                href="https://apps.apple.com/us/app/forge-trainer-gym-strength/id6758403402?pt=128493451&ct=cta-bottom&mt=8"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Download Forge on the App Store"
+                aria-label={`Download ${APP_NAME} on the App Store`}
                 onClick={trackAppStoreClick}
               >
                 <img
@@ -90,7 +92,7 @@ const CTASection = () => {
                 href="https://play.google.com/store/apps/details?id=com.tendylabs.forge&utm_source=website&utm_medium=badge&utm_campaign=organic&utm_content=cta-bottom"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Get Forge on Google Play"
+                aria-label={`Get ${APP_NAME} on Google Play`}
               >
                 <img
                   src="/google-play-badge.svg"

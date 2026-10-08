@@ -1,7 +1,7 @@
+import PageIntro from "@/components/PageIntro";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { GlowOrbs } from "@/components/effects";
 import StructuredData from "@/components/StructuredData";
 import { ToolCTA } from "@/components/tools/ToolParts";
 import { competitors, GROUP_LABELS, type Competitor } from "@/content/compare";
@@ -68,33 +68,8 @@ export default function CompareHubPage() {
         }}
       />
 
-      <main className="pt-20" role="main">
-        {/* Hero */}
-        <section
-          className="relative py-14 md:py-20 bg-surface-0 overflow-hidden"
-          aria-labelledby="compare-heading"
-        >
-          <GlowOrbs variant="hero" />
-          <div className="container relative z-10">
-            <div className="max-w-3xl mx-auto text-center">
-              <p className="font-barlow-condensed text-label-lg text-primary uppercase tracking-wider mb-4">
-                Honest comparisons
-              </p>
-              <h1
-                id="compare-heading"
-                className="font-barlow-condensed text-4xl md:text-5xl lg:text-6xl font-black uppercase leading-none mb-6"
-              >
-                Forge vs{" "}
-                <span className="text-primary text-neon">the field</span>
-              </h1>
-              <p className="text-lg md:text-xl text-text-secondary font-barlow max-w-2xl mx-auto leading-relaxed">
-                We put Forge head-to-head with every major workout app and call
-                the wins both ways. Each page names where the other app beats
-                us, then shows what a coach inside your pocket changes.
-              </p>
-            </div>
-          </div>
-        </section>
+      <main className="resource-page">
+        <PageIntro eyebrow="Workout app comparisons" title="Find what fits" accent="the way you train." description="Compare coaching, features, and cost. See where Forge fits your needs and where another app may suit you better." id="compare-heading" />
 
         {/* Grouped comparison cards */}
         {GROUP_ORDER.map((group) => (
@@ -102,7 +77,7 @@ export default function CompareHubPage() {
             key={group}
             className="py-12 md:py-16 bg-surface-1 border-t border-border-subtle odd:bg-surface-0"
           >
-            <div className="container">
+            <div className="site-width">
               <div className="max-w-6xl mx-auto">
                 <h2 className="font-barlow-condensed text-2xl md:text-3xl font-black uppercase mb-8">
                   {GROUP_LABELS[group]}
@@ -114,7 +89,7 @@ export default function CompareHubPage() {
                       <Link
                         key={c.slug}
                         href={`/compare/${c.slug}`}
-                        className="group p-6 rounded-[20px] border border-border bg-surface-2 hover:border-primary/50 transition-colors flex flex-col"
+                        className="resource-card group p-6 rounded-[20px] border border-border bg-surface-2 hover:border-primary/50 transition-colors flex flex-col"
                       >
                         <span className="font-barlow-condensed text-xs font-bold uppercase tracking-wider text-text-tertiary block mb-2">
                           {c.category}
@@ -142,7 +117,7 @@ export default function CompareHubPage() {
 
         {/* Method note */}
         <section className="py-14 md:py-20 bg-surface-0 border-t border-border-subtle">
-          <div className="container">
+          <div className="site-width">
             <div className="max-w-3xl mx-auto">
               <h2 className="font-barlow-condensed text-3xl md:text-4xl font-black uppercase mb-5">
                 How we write <span className="text-primary text-neon">these</span>
