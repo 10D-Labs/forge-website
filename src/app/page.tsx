@@ -7,6 +7,7 @@ import HomeScrollHandler from "@/components/HomeScrollHandler";
 import StoreLinks from "@/components/home/StoreLinks";
 import ProductTour from "@/components/home/ProductTour";
 import FAQAccordion from "@/components/home/FAQAccordion";
+import HeroTilt from "@/components/home/HeroTilt";
 import { pricing, pricingAnswer } from "@/content/pricing";
 import { APP_NAME } from "@/config/app";
 
@@ -53,10 +54,10 @@ export default function HomePage() {
           <p className="eyebrow"><span className="status-dot" /> Personal training, built around you</p>
           <h1 id="hero-heading">Get stronger.<br />Train with<br /><span>confidence.</span></h1>
           <p className="hero-description">You want to feel good in your body. Forge helps you work toward it with a workout plan that fits your life and a coach who knows where you're starting.</p>
-          <div id="hero-badges" className="hero-download"><StoreLinks /><p>{APP_NAME}<br />{pricing.trialDays}-day free trial · iOS and Android</p></div>
+          <div id="hero-badges" className="hero-download"><StoreLinks /><p>{APP_NAME}<br />{pricing.trialDays}-day free trial</p></div>
         </div>
         <div className="hero-visual hero-visual-home">
-          <Image src="/app-mockup-hero.webp" width={1080} height={1920} alt="Forge Home on iPhone, showing today's workout and a message from your coach" sizes="(max-width: 600px) calc(100vw - 40px), 360px" priority />
+          <HeroTilt><Image src="/app-mockup-hero.webp" width={1620} height={2880} quality={90} alt="Forge Home on iPhone, showing today's workout and a message from your coach" sizes="(max-width: 600px) calc(100vw - 40px), 360px" priority /></HeroTilt>
         </div>
       </div>
       <div className="site-width hero-footnote"><span>YOUR GOALS SET THE DIRECTION.</span><span>FORGE BUILDS THE PLAN.</span></div>
