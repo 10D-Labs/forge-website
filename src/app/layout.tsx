@@ -10,6 +10,7 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CookieConsentWrapper from "@/components/CookieConsentWrapper";
+import PostHogAnalytics from "@/components/PostHogAnalytics";
 import { APP_NAME } from "@/config/app";
 import "./globals.css";
 import "./redesign.css";
@@ -97,6 +98,7 @@ export default function RootLayout({
         </ThemeProvider>
         <Analytics />
         <SpeedInsights />
+        <PostHogAnalytics />
 
         {/* Google Ads tag (gtag.js) with Consent Mode v2 */}
         <Script

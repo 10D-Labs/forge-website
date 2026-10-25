@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
+import { setPostHogConsent } from "@/components/PostHogAnalytics";
 
 // gtag is injected globally by the Google Ads script in layout.tsx
 declare global {
@@ -22,6 +23,7 @@ const updateConsent = (granted: boolean) => {
     functionality_storage: state,
     personalization_storage: state,
   });
+  setPostHogConsent(granted);
 };
 
 const CookieConsent = () => {
