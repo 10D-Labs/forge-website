@@ -38,7 +38,7 @@ Compare 8 proven hypertrophy programs including PHUL, PHAT, and nSuns. Science-b
 - [Progressive Overload Explained: The Science-Backed Method to Build Muscle](/blog/progressive-overload-explained)
 - [Best Workout Split for Your Goals: Science-Based Guide](/blog/best-workout-split-guide)
 - [How to Break Through a Workout Plateau](/blog/break-through-workout-plateau)
-- [Best Hypertrophy Programs 2026](/blog/best-hypertrophy-programs)
+- [Best Hypertrophy Programs 2026](/blog/best-hypertrophy-programs-2026)
 
 ---
 

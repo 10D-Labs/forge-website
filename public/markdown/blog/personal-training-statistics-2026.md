@@ -429,7 +429,7 @@ We'll update this resource annually as new data comes out. The personal training
 
 ### How much does a personal trainer cost?
 
-Personal trainer costs vary by location and format. In-person training ranges from $40-100 per hour at gyms to $100-175+ for in-home sessions. Online training runs $50-300 per month depending on service level. AI personal training apps cost $10-40 monthly. Major metros command premium rates ($150+/session) while rural markets run $30-50/session.
+[Personal trainer costs](/tools/personal-trainer-cost-calculator) vary by location and format. In-person training ranges from $40-100 per hour at gyms to $100-175+ for in-home sessions. Online training runs $50-300 per month depending on service level. AI personal training apps cost $10-40 monthly. Major metros command premium rates ($150+/session) while rural markets run $30-50/session.
 
 ### How much do personal trainers make?
 

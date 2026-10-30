@@ -149,7 +149,7 @@ When you're under-recovered, pushing prescribed intensity accumulates more fatig
 - Motivation is low despite normally enjoying training
 - Lingering soreness from previous sessions
 
-On these days, drop to RPE 6-7, reduce total sets by 20-30%, or both. You're preventing [junk volume](https://forgetrainer.ai/blog/junk-volume-training) that digs a recovery hole.
+On these days, drop to RPE 6-7, reduce total sets by 20-30%, or both. You're preventing [junk volume](https://forgetrainer.ai/blog/junk-volume-explained) that digs a recovery hole.
 
 **Signs you can push harder:**
 - Well-rested (7+ hours, quality sleep)
@@ -201,7 +201,7 @@ Using failure on 10-20% of total weekly sets can provide benefit. Making it your
 
 **If you're advanced:** Foundation at RPE 7-8. Push specific sets to RPE 9-10 on final sets of isolation movements and occasional compounds. Use periodization to cycle intensity across training blocks.
 
-**Regardless of level:** Pay attention to daily readiness. Adjust intensity based on sleep, stress, and how warm-ups feel. [Track your workouts](https://forgetrainer.ai/blog/how-to-track-workouts) so you know whether you're progressing over time.
+**Regardless of level:** Pay attention to daily readiness. Adjust intensity based on sleep, stress, and how warm-ups feel. [Track your workouts](https://forgetrainer.ai/blog/how-to-track-your-workouts) so you know whether you're progressing over time.
 
 RPE and RIR are tools, not rules. Some days you'll nail the prescribed intensity. Other days you'll need to adjust. Both outcomes are fine as long as the trend across weeks shows progression.
 

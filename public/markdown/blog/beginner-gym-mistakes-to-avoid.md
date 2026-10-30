@@ -34,7 +34,7 @@ You walk in, load the bar, and start your working sets cold. Why waste time on a
 
 Because [cold muscles are significantly more prone to injury](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20045842). Your joints need synovial fluid circulation. Your nervous system needs to wake up. Your muscles need increased blood flow before you ask them to handle serious load.
 
-A proper warm-up doesn't mean 20 minutes on the treadmill. Five minutes of light cardio followed by dynamic stretches and movement-specific warm-up sets prepares your body for the work ahead. Before squats, do bodyweight squats and progressively loaded warm-up sets. Before bench press, do some band pull-aparts and empty bar reps.
+A proper warm-up doesn't mean 20 minutes on the treadmill. Five minutes of light cardio followed by dynamic stretches and movement-specific [warm-up sets](/tools/warm-up-calculator) prepares your body for the work ahead. Before squats, do bodyweight squats and progressively loaded warm-up sets. Before bench press, do some band pull-aparts and empty bar reps.
 
 [Learn exactly how to structure an effective warm-up](/blog/how-to-warm-up-before-lifting) that takes less than 10 minutes and dramatically reduces injury risk.
 
@@ -46,7 +46,7 @@ Bad form doesn't just limit your results. It's why [60% of gym injuries are stra
 
 Start lighter than you think you need to. Film yourself. Compare it to reputable form guides. Better yet, get feedback from someone who knows what they're doing. An AI trainer like [Forge](https://forgetrainer.ai) can correct issues before they become injuries.
 
-Perfect form with 135 pounds builds more muscle and strength than ego lifting 225 with your spine looking like a question mark. [Master proper exercise form](/blog/master-exercise-form) before you chase numbers.
+Perfect form with 135 pounds builds more muscle and strength than ego lifting 225 with your spine looking like a question mark. [Master proper exercise form](/blog/master-exercise-form-technique-guide) before you chase numbers.
 
 ## Loading the bar to impress people who aren't watching
 
@@ -70,7 +70,7 @@ Write down what you're doing. Follow a proven beginner program like Starting Str
 
 You think you'll remember what you lifted last week. You won't. You guess at weights. You repeat the same numbers for months because you have no idea if you're actually progressing.
 
-[Tracking workouts](/blog/how-to-track-workouts) turns guesswork into data. You know exactly what you need to beat. You can spot when you're stalling. You can see progress even when the mirror hasn't caught up yet, which matters because [self-efficacy is one of the biggest predictors of exercise adherence](https://pmc.ncbi.nlm.nih.gov/articles/PMC6003667/).
+[Tracking workouts](/blog/how-to-track-your-workouts) turns guesswork into data. You know exactly what you need to beat. You can spot when you're stalling. You can see progress even when the mirror hasn't caught up yet, which matters because [self-efficacy is one of the biggest predictors of exercise adherence](https://pmc.ncbi.nlm.nih.gov/articles/PMC6003667/).
 
 Use a notebook, a spreadsheet, or an app. Record exercises, sets, reps, and weight. Note how it felt. This simple habit will do more for your progress than any supplement.
 
@@ -98,7 +98,7 @@ Cardio feels productive. You're sweating, burning calories, getting your heart r
 
 Strength training builds muscle, which increases your resting metabolic rate. It improves bone density. It makes you functionally stronger for daily life. It changes your body shape in ways that cardio never will.
 
-You don't have to abandon cardio. But if you're spending 90% of your gym time on the elliptical and avoiding weights because they're intimidating, you're missing the most effective tool you have. [Gym intimidation](/blog/gym-intimidation) is real, but working through it is how you get results.
+You don't have to abandon cardio. But if you're spending 90% of your gym time on the elliptical and avoiding weights because they're intimidating, you're missing the most effective tool you have. [Gym intimidation](/blog/gym-intimidation-guide) is real, but working through it is how you get results.
 
 ## Doing the same workout for months because it feels comfortable
 
@@ -108,7 +108,7 @@ Your body adapts to stimulus and stops responding. The same workout that challen
 
 [Progressive overload](/blog/progressive-overload-explained) is the core principle of getting stronger. If you're not adding weight, reps, or sets over time, you're not overloading. If you're not overloading, you're not progressing.
 
-Track your workouts so you know when to add weight. Follow a structured program that builds in progression. Change up your [workout split](/blog/best-workout-split) every few months to keep providing new stimulus.
+Track your workouts so you know when to add weight. Follow a structured program that builds in progression. Change up your [workout split](/blog/best-workout-split-guide) every few months to keep providing new stimulus.
 
 ## Ignoring nutrition like it doesn't matter as long as you train hard
 
@@ -116,7 +116,7 @@ You're hitting the gym four days a week but eating like a teenager at a birthday
 
 You can't out-train a bad diet. If you're trying to lose fat, you need a caloric deficit. If you're trying to build muscle, you need adequate protein and a slight surplus. No amount of training will compensate for terrible nutrition.
 
-You don't need to eat perfectly. But you do need to understand the basics. Protein matters for muscle growth and recovery. Total calories matter for body composition. Timing around workouts can improve performance and recovery. [Pre- and post-workout nutrition](/blog/pre-post-workout-nutrition) doesn't need to be complicated, but it can't be ignored.
+You don't need to eat perfectly. But you do need to understand the basics. Protein matters for muscle growth and recovery. Total calories matter for body composition. Timing around workouts can improve performance and recovery. [Pre- and post-workout nutrition](/blog/pre-workout-post-workout-nutrition) doesn't need to be complicated, but it can't be ignored.
 
 ## Expecting transformation in four weeks, then quitting when it doesn't happen
 

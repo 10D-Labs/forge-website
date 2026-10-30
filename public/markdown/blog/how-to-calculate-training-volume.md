@@ -17,7 +17,7 @@ Training volume boils down to one number: hard working sets per muscle group per
 
 A working set means training within 0-3 reps of failure. If you stop at 12 reps but could've done 18, that set doesn't count. Your muscles respond to mechanical tension, and you only create meaningful tension when you push close enough to failure that high-threshold motor units activate.
 
-Warm-up sets don't count. That light set of 15 reps you did to feel the movement contributes nothing to hypertrophy. Only the challenging sets where you're genuinely working count, because [a 2024 meta-regression](https://www.researchgate.net/publication/384628335_The_Resistance_Training_Dose-Response_Meta-Regressions_Exploring_the_Effects_of_Weekly_Volume_and_Frequency_on_Muscle_Hypertrophy_and_Strength_Gain) found roughly 0.24% hypertrophy increase per additional set, with diminishing returns as volume climbs.
+[Warm-up sets](/tools/warm-up-calculator) don't count. That light set of 15 reps you did to feel the movement contributes nothing to hypertrophy. Only the challenging sets where you're genuinely working count, because [a 2024 meta-regression](https://www.researchgate.net/publication/384628335_The_Resistance_Training_Dose-Response_Meta-Regressions_Exploring_the_Effects_of_Weekly_Volume_and_Frequency_on_Muscle_Hypertrophy_and_Strength_Gain) found roughly 0.24% hypertrophy increase per additional set, with diminishing returns as volume climbs.
 
 ## The volume landmarks framework: MEV, MAV, and MRV
 

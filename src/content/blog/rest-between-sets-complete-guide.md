@@ -35,7 +35,7 @@ Rest periods should match your specific training objective. What works for build
 
 Strength development requires near-maximal force production. You need your ATP-CP system almost fully restored and your nervous system recovered. [Research shows](https://pubmed.ncbi.nlm.nih.gov/26605807/) that lifters who rested 3 minutes achieved significantly greater strength gains on both squat and bench press compared to those who rested only 1 minute.
 
-When you're squatting or deadlifting near your one-rep max, don't rush. Take the full 3-5 minutes. You'll lift heavier weights and accumulate more high-quality volume.
+When you're squatting or deadlifting near your [one-rep max](/tools/1rm-calculator), don't rush. Take the full 3-5 minutes. You'll lift heavier weights and accumulate more high-quality volume.
 
 **For muscle growth (hypertrophy, 6-12 reps):** Rest 1-3 minutes between sets.
 
@@ -103,7 +103,7 @@ This seems obvious, but many lifters follow programs without understanding why c
 
 Most lifters find a rest period they like and never change it. But as you adapt to training, your recovery capacity improves. A beginner might need 2 minutes between sets of bench press. An intermediate lifter with better work capacity might only need 90 seconds for the same stimulus.
 
-Periodically experiment with slightly shorter rest periods. You might find you've adapted enough to maintain performance with less rest, allowing you to complete workouts faster or fit in more training volume.
+Periodically experiment with slightly shorter rest periods. You might find you've adapted enough to maintain performance with less rest, allowing you to complete workouts faster or fit in more [training volume](/tools/training-volume-calculator).
 
 ## Should you autoregulate rest periods?
 

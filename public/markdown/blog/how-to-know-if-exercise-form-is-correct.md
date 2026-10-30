@@ -82,7 +82,7 @@ Position your phone 8-10 feet away so your entire body is in frame throughout th
 
 **Record your warm-up sets, not just heavy lifts**
 
-Most people only record when they're attempting a personal record. That's backwards. Your form is best during lighter sets, and that's when you should be establishing the reference standard. Record your warm-up sets to see what good form looks like for you, then compare your working sets to that baseline.
+Most people only record when they're attempting a personal record. That's backwards. Your form is best during lighter sets, and that's when you should be establishing the reference standard. Record your [warm-up sets](/tools/warm-up-calculator) to see what good form looks like for you, then compare your working sets to that baseline.
 
 **Watch for these specific indicators**
 

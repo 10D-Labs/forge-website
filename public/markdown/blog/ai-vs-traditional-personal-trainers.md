@@ -122,7 +122,7 @@ For most fitness goals and healthy individuals, AI trainers can provide effectiv
 
 ### How much can I save by using an AI personal trainer?
 
-The typical savings are substantial. At $10-30/month for AI vs. $500-1,500/month for traditional training (3x/week), you could save $5,000-$17,000+ annually while still receiving personalized, adaptive programming. For a full breakdown of what a personal trainer costs by trainer type, city, and session length, see our [2026 personal trainer cost guide](https://forgetrainer.ai/blog/how-much-does-personal-trainer-cost).
+The typical savings are substantial. At $10-30/month for AI vs. $500-1,500/month for traditional training (3x/week), you could save $5,000-$17,000+ annually while still receiving personalized, adaptive programming. For a full breakdown of what a [personal trainer costs](/tools/personal-trainer-cost-calculator) by trainer type, city, and session length, see our [2026 personal trainer cost guide](https://forgetrainer.ai/blog/how-much-does-personal-trainer-cost).
 
 ### Are AI workout programs as effective as human-designed programs?
 

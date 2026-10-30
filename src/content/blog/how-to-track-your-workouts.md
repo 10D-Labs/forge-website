@@ -67,7 +67,7 @@ These aren't required, but they add context that helps you train smarter:
 
 **Rest time between sets.** If you benched 225 for 8 reps with three minutes of rest last week and 8 reps with two minutes this week, you got stronger even though the weight and reps stayed the same. [Rest periods affect performance](https://pubmed.ncbi.nlm.nih.gov/36199287/) more than most people realize.
 
-**Rate of Perceived Exertion (RPE).** On a scale of 1 to 10, how hard was that set? An 8 RPE set at 185 pounds that drops to a 6 RPE at the same weight means you're getting stronger. RPE helps you understand effort separate from the numbers.
+**Rate of Perceived Exertion (RPE).** On a scale of 1 to 10, how hard was that set? An 8 [RPE](/tools/rpe-calculator) set at 185 pounds that drops to a 6 RPE at the same weight means you're getting stronger. RPE helps you understand effort separate from the numbers.
 
 **Notes about form or feel.** "Depth felt shallow today" or "lockout was easy, struggled off chest" gives you qualitative information that pure numbers miss. These notes help you troubleshoot sticking points and refine technique.
 

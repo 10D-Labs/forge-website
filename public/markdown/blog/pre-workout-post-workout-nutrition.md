@@ -49,7 +49,7 @@ The best pre-workout timing is the one you can actually do consistently. If you 
 
 Fasted cardio has become almost religious for some people. The logic sounds good: no insulin, so your body burns fat for fuel. But does it actually lead to more fat loss?
 
-Recent systematic reviews comparing fasted versus fed training for body composition show no significant differences in fat loss or lean mass retention between groups when total calories and protein were matched.
+Recent systematic reviews comparing fasted versus fed training for body composition show no significant differences in fat loss or [lean mass](/tools/lean-body-mass-calculator) retention between groups when total calories and protein were matched.
 
 You read that right. Whether you ate before training or not didn't matter for body composition outcomes. What mattered was total daily intake.
 

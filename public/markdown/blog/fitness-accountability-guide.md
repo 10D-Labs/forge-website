@@ -71,7 +71,7 @@ Works well for people who need external structure and have the budget. Falls apa
 
 This combines automated tracking, programmed check-ins, and intelligent adaptation based on your actual behavior. Modern AI trainers like [Forge](https://forgetrainer.ai) provide daily accountability through scheduled workouts, progress tracking, and regular check-ins at a fraction of the cost of human trainers.
 
-Works well for people who want structured accountability without the schedule rigidity or cost of a human trainer. Also a good fit for those who find traditional fitness apps too generic or who keep [switching programs](https://forgetrainer.ai/blog/program-hopping) without sticking to anything.
+Works well for people who want structured accountability without the schedule rigidity or cost of a human trainer. Also a good fit for those who find traditional fitness apps too generic or who keep [switching programs](https://forgetrainer.ai/blog/program-hopping-guide) without sticking to anything.
 
 Falls apart if you disengage from the technology entirely. If you ignore notifications and stop logging workouts, no system can hold you accountable.
 
@@ -97,7 +97,7 @@ The [fitness industry consensus](https://www.acefitness.org/continuing-education
 
 **Relying solely on motivation.** You feel fired up after watching a workout video, so you tell yourself you'll go every day this week. By Wednesday, the feeling fades and you skip. Accountability systems work precisely because they don't depend on how you feel.
 
-**Choosing the wrong type for your personality.** If you're an introvert who finds group settings draining, committing to group classes will backfire. If you need external pressure, telling yourself you'll track workouts alone won't work. [Be honest about what actually drives you](https://forgetrainer.ai/blog/do-you-need-personal-trainer), not what you think should drive you.
+**Choosing the wrong type for your personality.** If you're an introvert who finds group settings draining, committing to group classes will backfire. If you need external pressure, telling yourself you'll track workouts alone won't work. [Be honest about what actually drives you](https://forgetrainer.ai/blog/do-you-need-a-personal-trainer), not what you think should drive you.
 
 **Having no backup plan.** Single points of failure doom accountability systems. When your only source of accountability disappears, your consistency crumbles. Build redundancy in.
 

@@ -61,7 +61,7 @@ The frustrating truth is that there's no universal prescription for rest days. Y
 
 **For intermediate trainees** (six months to three years of consistent training), 1-2 rest days per week usually suffices. You've built the work capacity to handle more frequent training, but you still need regular recovery windows. Pay attention to how you feel. If you're consistently dreading workouts or your performance is declining, add a rest day.
 
-**Advanced trainees** (three-plus years) can often function on 1-2 rest days per week, but they need to be strategic. This is where deload weeks become essential—every 4-6 weeks, reduce your training volume or intensity by 40-50% for one week. Think of it as a planned step backward that allows you to leap forward afterward.
+**Advanced trainees** (three-plus years) can often function on 1-2 rest days per week, but they need to be strategic. This is where deload weeks become essential—every 4-6 weeks, reduce your [training volume](/tools/training-volume-calculator) or intensity by 40-50% for one week. Think of it as a planned step backward that allows you to leap forward afterward.
 
 But these are just starting points. Your actual needs fluctuate based on several factors:
 

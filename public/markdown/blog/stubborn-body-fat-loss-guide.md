@@ -37,7 +37,7 @@ When you lose roughly 10% of your body weight, your [total energy expenditure dr
 
 A 2010 study found that [adaptive thermogenesis accounts for about 30.9% of plateau compensation](https://pubmed.ncbi.nlm.nih.gov/19660148/), meaning nearly a third of the "missing" calorie burn at plateau comes from your metabolism actively downregulating beyond what your smaller body size would predict.
 
-This is covered in more depth in the article on [how to break through a workout plateau](/blog/how-to-break-workout-plateau), but the core point is this: a plateau is not a sign that what you're doing is wrong. It's a sign that your body has caught up to your deficit, and you need to change something.
+This is covered in more depth in the article on [how to break through a workout plateau](/blog/break-through-workout-plateau), but the core point is this: a plateau is not a sign that what you're doing is wrong. It's a sign that your body has caught up to your deficit, and you need to change something.
 
 ## What actually works
 
@@ -53,7 +53,7 @@ Resistance training is one of the most effective fat loss tools available, and i
 
 Muscle also changes how your body looks at a given [body fat percentage](/tools/body-fat-calculator). Losing fat without training produces a smaller version of the same shape. Losing fat while building muscle produces an entirely different one.
 
-[Progressive overload](/blog/progressive-overload-explained), consistently adding challenge over time, is what makes your training produce results rather than maintenance. [Your workout split](/blog/best-workout-split) matters less than the consistency and progressive demand you apply within it.
+[Progressive overload](/blog/progressive-overload-explained), consistently adding challenge over time, is what makes your training produce results rather than maintenance. [Your workout split](/blog/best-workout-split-guide) matters less than the consistency and progressive demand you apply within it.
 
 ### Use diet breaks strategically
 
@@ -77,7 +77,7 @@ If you're not tracking, you're flying blind. The [how to track fitness progress]
 
 ### Time your nutrition around training
 
-You cannot outwork a poor diet, and meal timing around training matters more as you get leaner. [Pre- and post-workout nutrition](/blog/pre-post-workout-nutrition) becomes increasingly relevant when you're trying to hold muscle while cutting fat.
+You cannot outwork a poor diet, and meal timing around training matters more as you get leaner. [Pre- and post-workout nutrition](/blog/pre-workout-post-workout-nutrition) becomes increasingly relevant when you're trying to hold muscle while cutting fat.
 
 ## Three myths worth clearing up
 

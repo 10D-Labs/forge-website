@@ -55,7 +55,7 @@ For years, this logic dominated bodybuilding circles and fitness magazines. Slow
 
 But the theory breaks down when you look at the actual research: you can have too much time under tension, and the relationship between TUT and muscle growth isn't as straightforward as it seems.
 
-A [2025 meta-analysis](https://rgu-repository.worktribe.com/output/3019974) examined 14 studies comparing slow and fast rep tempos. The researchers found something surprising: slow and fast tempos produced almost identical muscle growth. Rep durations ranging from 0.5 to 8 seconds per rep yielded similar hypertrophy results when training volume was equated.
+A [2025 meta-analysis](https://rgu-repository.worktribe.com/output/3019974) examined 14 studies comparing slow and fast rep tempos. The researchers found something surprising: slow and fast tempos produced almost identical muscle growth. Rep durations ranging from 0.5 to 8 seconds per rep yielded similar hypertrophy results when [training volume](/tools/training-volume-calculator) was equated.
 
 Even more interesting, super slow reps—those taking more than 10 seconds—were actually less effective for building muscle. [Research on super slow training](https://pubmed.ncbi.nlm.nih.gov/22328004/) (taking 10 seconds to lift and 4 seconds to lower) consistently shows it produces significantly less muscle growth than traditional tempo training, likely because the extremely light loads required compromise mechanical tension.
 
@@ -111,7 +111,7 @@ Different goals require different approaches to rep speed. Here's how to think a
 
 **Recommended tempo**: 2-0-X-0 (controlled eccentric, explosive concentric intent)
 **Rep range**: 2-6 reps
-**Load**: 85-95% of your one-rep max
+**Load**: 85-95% of your [one-rep max](/tools/1rm-calculator)
 
 For getting stronger, you want to move heavy weights with maximum intent. Take 2-3 seconds to lower the weight under control, then drive it up as explosively as you can while maintaining form.
 

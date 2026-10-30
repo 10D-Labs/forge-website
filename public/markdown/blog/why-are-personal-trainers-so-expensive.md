@@ -45,7 +45,7 @@ What if a client hurts themselves following your instructions? Personal trainers
 
 ## The structural problem: time is the product, and there is a hard ceiling on it
 
-This is the core of why the personal trainer cost breakdown looks the way it does. A lawyer can bill 60 hours a week without their physical capacity degrading. A trainer cannot. Cueing form, spotting heavy lifts, and staying mentally engaged across back-to-back clients is physically and cognitively exhausting.
+This is the core of why the [personal trainer cost](/tools/personal-trainer-cost-calculator) breakdown looks the way it does. A lawyer can bill 60 hours a week without their physical capacity degrading. A trainer cannot. Cueing form, spotting heavy lifts, and staying mentally engaged across back-to-back clients is physically and cognitively exhausting.
 
 [NASM recommends 15 to 20 billable sessions per week as a sustainable load for quality coaching](https://www.issaonline.com/blog/post/the-daily-schedule-and-work-hours-of-personal-trainers). Full-time trainers push to 25 to 30 sessions per week, but beyond 30, burnout and attrition rates climb. [Research from fitness business platforms puts the realistic ceiling at around 30 billable sessions per week for experienced trainers](https://www.mypthub.net/blog/how-many-clients-personal-trainer/).
 

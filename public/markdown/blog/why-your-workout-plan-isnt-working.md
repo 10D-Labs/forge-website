@@ -139,7 +139,7 @@ When you're ready to find a plan that fits your life instead of demanding your l
 
 **Plans recovery as carefully as training.** Strategic deload weeks, volume adjustments during high-stress periods, and training adaptations when life gets chaotic. Recovery isn't optional. It's where progress happens.
 
-This is exactly what we built [Forge](https://forgetrainer.ai) to do. AI trainers with distinct personalities who create genuinely personalized programs that adapt to your life. Programming that adjusts when you have a terrible sleep night or crush a workout and you're ready for more. Accountability that checks in when you miss sessions without making you feel like you've failed. And it [costs a fraction of what a human personal trainer charges](https://forgetrainer.ai/blog/ai-personal-trainer-vs-traditional-cost-breakdown).
+This is exactly what we built [Forge](https://forgetrainer.ai) to do. AI trainers with distinct personalities who create genuinely personalized programs that adapt to your life. Programming that adjusts when you have a terrible sleep night or crush a workout and you're ready for more. Accountability that checks in when you miss sessions without making you feel like you've failed. And it [costs a fraction of what a human personal trainer charges](https://forgetrainer.ai/blog/ai-trainer-vs-personal-trainer-cost).
 
 [84% of fitness consumers want AI features in their workouts](https://promo.com/blog/84-of-clients-want-ai-in-their-workouts-how-personal-trainers-can-stay-ahead-in-2024), not because they want to train with robots, but because they want training that responds to their individual reality instead of ignoring it.
 

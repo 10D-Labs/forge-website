@@ -53,7 +53,7 @@ The question isn't whether your brain limits you. It definitely does. The real q
 
 Here's where things get fascinating and a bit complicated. Your Rating of Perceived Exertion (RPE) is both reliable and unreliable at the same time.
 
-Studies show RPE has strong validity ([correlation of 0.88 with actual physiological markers](https://link.springer.com/article/10.1186/s40798-021-00386-8), according to a 2022 meta-analysis in Sports Medicine - Open), meaning there's a real relationship between how hard something feels and how hard your body is working. But the research also reveals massive variability in how accurately people estimate their proximity to failure.
+Studies show [RPE](/tools/rpe-calculator) has strong validity ([correlation of 0.88 with actual physiological markers](https://link.springer.com/article/10.1186/s40798-021-00386-8), according to a 2022 meta-analysis in Sports Medicine - Open), meaning there's a real relationship between how hard something feels and how hard your body is working. But the research also reveals massive variability in how accurately people estimate their proximity to failure.
 
 When lifters are asked to stop at "4 reps in reserve" (RIR), their actual capacity varies wildly. Some stop with 4 reps left. Others stop with 8 or 9 still possible. Beginning and intermediate lifters consistently underestimate how much they have left, particularly as they approach true failure ([as documented in research on RPE accuracy](https://pubmed.ncbi.nlm.nih.gov/31764439/)).
 
@@ -111,7 +111,7 @@ Research consistently shows people push harder in the presence of others, whethe
 
 ### 10. Brain Endurance Training
 
-Emerging research suggests you can train mental fatigue resistance just like physical capacity. This might involve performing cognitive tasks before training, practicing sustained focus during workouts, or progressively increasing training volume when mentally tired. The brain, like muscles, adapts to consistent challenges.
+Emerging research suggests you can train mental fatigue resistance just like physical capacity. This might involve performing cognitive tasks before training, practicing sustained focus during workouts, or progressively increasing [training volume](/tools/training-volume-calculator) when mentally tired. The brain, like muscles, adapts to consistent challenges.
 
 ## The Critical Distinction: Mental Barriers vs. Real Warnings
 

@@ -65,7 +65,7 @@ Recovery matters more now than it did at 25. Take at least one full rest day bet
 
 Your protein target is 1.2-1.5 grams per kilogram of bodyweight daily. The [PROT-AGE Study Group recommends](https://pubmed.ncbi.nlm.nih.gov/23867520/) this range for older adults, with the higher end for those actively training. For a 200-pound (91 kg) man, that's roughly 110-135 grams per day. Spread across 3-4 meals, that's 25-35 grams per meal.
 
-Don't obsess over macros beyond protein. Eat mostly whole foods. If you're carrying extra body fat, maintain a [moderate calorie deficit](/blog/calorie-deficit-for-weight-loss) of 300-500 calories below maintenance. You can lose fat and build muscle simultaneously when you're over 35 and new to consistent training.
+Don't obsess over macros beyond protein. Eat mostly whole foods. If you're carrying extra body fat, maintain a [moderate calorie deficit](/blog/calorie-deficit-weight-loss) of 300-500 calories below maintenance. You can lose fat and build muscle simultaneously when you're over 35 and new to consistent training.
 
 Losing excess weight can [significantly boost testosterone levels](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745839/), with research showing approximately 0.6% increase per kilogram lost. That effect compounds with resistance training. The fat around your midsection is metabolically active tissue that suppresses hormone production.
 

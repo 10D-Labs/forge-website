@@ -183,7 +183,7 @@ For some people, music tempo helps regulate breathing. Choose workout music with
 
 If your lower back aches during squats, deadlifts, or overhead presses, improper breathing is a likely culprit. Without sufficient IAP, your spinal erectors work overtime to stabilize your spine. They fatigue quickly, form breaks down, and pain develops.
 
-Film yourself from the side during warm-up sets. Watch your torso. If you see your lower back rounding during the lift or your chest collapsing forward, your core isn't creating enough stability. Focus on bigger belly breaths and harder bracing before each rep. You should see your midsection expand in all directions, and your torso should remain rigid throughout the lift.
+Film yourself from the side during [warm-up sets](/tools/warm-up-calculator). Watch your torso. If you see your lower back rounding during the lift or your chest collapsing forward, your core isn't creating enough stability. Focus on bigger belly breaths and harder bracing before each rep. You should see your midsection expand in all directions, and your torso should remain rigid throughout the lift.
 
 If pain persists despite proper breathing, the issue might be [form-related rather than breathing-related](https://forgetrainer.ai/blog/master-exercise-form-technique-guide). Have a qualified coach assess your movement pattern.
 
