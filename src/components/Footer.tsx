@@ -13,7 +13,7 @@ export default function Footer() {
         <nav aria-label="Connect with Forge"><span className="eyebrow">Say hello</span><a href="mailto:support@forgetrainer.ai">Get in touch</a><a href="https://www.instagram.com/forgetrainerapp" target="_blank" rel="noopener noreferrer">Instagram <ArrowUpRight size={14} aria-hidden="true" /></a><a href="https://www.tiktok.com/@forgetrainerapp" target="_blank" rel="noopener noreferrer">TikTok <ArrowUpRight size={14} aria-hidden="true" /></a></nav>
       </div>
       <div className="footer-signoff" aria-hidden="true">FORGE YOURSELF.</div>
-      <div className="footer-bottom"><p>© {new Date().getFullYear()} 10D Labs, LLC. Forge™</p><nav aria-label="Legal links"><Link href="/support">Support</Link><Link href="/privacy-policy">Privacy</Link><Link href="/terms-of-service">Terms</Link><Link href="/delete-account">Delete account</Link></nav><span>Built for your next workout.</span></div>
+      <div className="footer-bottom"><p>© {new Date().getFullYear()} 10D Labs LLC · Forge™</p><nav aria-label="Legal links"><Link href="/support">Support</Link><Link href="/privacy-policy">Privacy</Link><Link href="/terms-of-service">Terms</Link><Link href="/delete-account">Delete account</Link></nav><span>Built for your next workout.</span></div>
     </div>
   </footer>;
 }

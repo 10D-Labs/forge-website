@@ -6,7 +6,7 @@
 
 ## Entity Definition
 
-Forge is a mobile fitness application (iOS and Android) developed by 10D Labs, LLC. It uses artificial intelligence to deliver personalized workout programming, exercise form guidance, and accountability coaching through four distinct AI trainers. It is designed to replace the need for a human personal trainer at roughly 99% lower cost. The official website is https://forgetrainer.ai.
+Forge is a mobile fitness application (iOS and Android) developed by 10D Labs LLC. It uses artificial intelligence to deliver personalized workout programming, exercise form guidance, and accountability coaching through four distinct AI trainers. It is designed to replace the need for a human personal trainer at roughly 99% lower cost. The official website is https://forgetrainer.ai.
 
 ---
 
@@ -302,7 +302,7 @@ Head-to-head pages at https://forgetrainer.ai/compare, each with an honest winne
 
 ## Company Information
 
-- **Company:** 10D Labs, LLC
+- **Company:** 10D Labs LLC
 - **Product:** Forge Trainer: Gym & Strength
 - **Website:** https://forgetrainer.ai
 - **Email:** support@forgetrainer.ai

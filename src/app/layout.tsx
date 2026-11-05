@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     "affordable fitness coaching",
   ],
   authors: [{ name: "Forge", url: "https://forgetrainer.ai" }],
-  creator: "10D Labs, LLC",
+  creator: "10D Labs LLC",
   metadataBase: new URL("https://forgetrainer.ai"),
   openGraph: {
     type: "website",
