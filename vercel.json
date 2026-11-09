@@ -2,6 +2,11 @@
   "framework": "nextjs",
   "redirects": [
     {
+      "source": "/download-ig",
+      "destination": "https://appstack.link/eLlIMQiI",
+      "statusCode": 307
+    },
+    {
       "source": "/exercise/bear-crawl",
       "destination": "/exercise/bear-crawl-time",
       "statusCode": 301
