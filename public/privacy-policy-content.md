@@ -1,5 +1,5 @@
 # PRIVACY POLICY
-Last updated July 17, 2026
+Last updated November 9, 2026
 
 This Privacy Notice for 10D Labs LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice
@@ -212,6 +212,10 @@ We may need to share your personal information in the following situations:
 These service providers have access to your personal information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose, except for advertising and attribution providers which may use data as described in their own privacy policies. We do not sell your personal information to any third party.
 
 **AI Service Provider Data Practices.** When your data is processed by third-party AI service providers to deliver our coaching features, it is subject to those providers' data handling practices. We select providers whose terms prohibit the use of customer data for training their AI models. We do not train our own AI models on your personal data, and we do not intentionally provide your data to any third party for the purpose of training general-purpose AI models.
+
+**International Data Transfers.** 10D Labs LLC is based in the United States. We and our service providers store and process personal information in the United States and in other countries where those providers and their subprocessors operate. AI processing may take place in a different country from the one where your data is stored. These countries may have data protection laws that differ from the laws where you live.
+
+If you are located in the EEA, UK, or Switzerland, your personal information will be transferred outside your region. Where a recipient in the United States is certified under the EU-U.S. Data Privacy Framework, its UK Extension, or the Swiss-U.S. Data Privacy Framework, we rely on the adequacy decision that covers that framework. For transfers to other recipients, and to other countries without an adequacy decision, we use the European Commission's Standard Contractual Clauses (Implementing Decision (EU) 2021/914), together with the UK International Data Transfer Addendum and the adaptations required for Swiss data. You can request a copy of these safeguards by emailing support@forgetrainer.ai. We may redact commercial terms.
 
 ## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
