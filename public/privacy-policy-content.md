@@ -67,7 +67,7 @@ We collect personal information that you voluntarily provide to us when you regi
 - Fitness goals and workout preferences
 - Experience level
 - Equipment access (gym equipment available to you)
-- The gym you choose as a training location (Google's identifier for the place and the gym's name, which you can change)
+- The gym you choose as a training location (Google's identifier for the place and a name for it, which you can change)
 - Workout availability (days and times you prefer to exercise)
 - Activity level and sleep quality information
 - Body measurements (such as weight, height, and other physical measurements)
@@ -100,7 +100,7 @@ This information is generated automatically by our AI systems based on your use 
 
 **Location for gym search.** If you tap "Find gyms near me," the App asks for permission to use your device's location while you are using the App. The App sends your location (approximate or precise, depending on what you allow) to Google Maps Platform to find gyms near you, and shows the results on a Google map in the App. We do not store your location, and we do not send it to our analytics providers. If you decline, you can type a ZIP code instead. The App sends the ZIP code to Google for the same search, and we do not store it. You can turn off location access at any time in your device settings.
 
-**Your saved gym.** When you pick a gym, we save it to your account as a training location: Google's identifier for the place (its "place ID") and the gym's name, which you can rename. We do not save the gym's address or your location. When you ask for directions, the App sends the place ID to Google to look up the gym's address, then opens Apple Maps or Google Maps, which handle your directions under their own privacy policies.
+**Your saved gym.** When you pick a gym, we save it to your account as a training location: Google's identifier for the place (its "place ID") and a name for the gym, which you can change. We do not save the gym's address or your location. When you ask for directions, the App sends the place ID to Google to look up the gym's address, then opens Apple Maps or Google Maps, which handle your directions under their own privacy policies.
 
 **Calendar.** If you allow it, the App adds your planned workouts to your device's calendar with an alert before each one, and updates or removes the events it created when your plan changes. On iOS this needs full calendar access, because the App has to find its own events again to update them. The App does not read, upload, or store your other calendar events. Events the App has added stay in your calendar until you delete them, including after your trial or subscription ends. You can turn off calendar access at any time in your device settings.
 
