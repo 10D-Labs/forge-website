@@ -51,6 +51,7 @@ When you delete your account, the following data is permanently removed:
 - Personal records
 - Profile picture and any submitted feedback screenshots
 - Training preferences and goals
+- Saved gyms and other training locations
 
 ---
 

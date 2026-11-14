@@ -18,11 +18,13 @@ This summary provides key points from our Privacy Notice, but you can find out m
 
 **Do we use artificial intelligence?** Yes. Our Services are powered by AI that generates personalized workout plans, provides coaching responses, analyzes your progress, and builds a coaching profile to improve your experience over time. Your data is processed by third-party AI service providers to deliver these features. Learn more about how we use AI to process your information.
 
+**Do we use your location or calendar?** Only if you allow it. If you tap "Find gyms near me," the App sends your device's location to Google to find gyms near you. We do not store your location. If you allow calendar access, the App adds your planned workouts to your device's calendar. It does not read your other events. Learn more about device location and calendar.
+
 **Do we receive any information from third parties?** We may receive limited information from third-party services you use to interact with us. For example, if you sign in using a third-party authentication provider (such as Google Sign-In), we receive your name, email address, and profile picture from that provider. We may also receive subscription status information from payment and subscription management services to verify your access to premium features.
 
 **How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific categories of third parties, including AI service providers, analytics providers, advertising and attribution providers (such as Meta), and infrastructure providers. Learn more about when and with whom we share your personal information.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific categories of third parties, including AI service providers, analytics providers, advertising and attribution providers (such as Meta), mapping providers (Google Maps Platform), and infrastructure providers. Learn more about when and with whom we share your personal information.
 
 **How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
 
@@ -65,6 +67,7 @@ We collect personal information that you voluntarily provide to us when you regi
 - Fitness goals and workout preferences
 - Experience level
 - Equipment access (gym equipment available to you)
+- The gym you choose as a training location (Google's identifier for the place and the gym's name, which you can change)
 - Workout availability (days and times you prefer to exercise)
 - Activity level and sleep quality information
 - Body measurements (such as weight, height, and other physical measurements)
@@ -91,6 +94,16 @@ To provide personalized fitness coaching, our AI systems analyze your interactio
 
 This information is generated automatically by our AI systems based on your use of the Services. It is used solely to improve the quality and personalization of your AI coaching experience and is deleted when you delete your account.
 
+### Device location and calendar
+
+*In Short: The App uses your location to find gyms near you only when you ask, and adds your workouts to your calendar only if you allow it. We do not store your location or read your other calendar events.*
+
+**Location for gym search.** If you tap "Find gyms near me," the App asks for permission to use your device's location while you are using the App. The App sends your location (approximate or precise, depending on what you allow) to Google Maps Platform to find gyms near you, and shows the results on a Google map in the App. We do not store your location, and we do not send it to our analytics providers. If you decline, you can type a ZIP code instead. The App sends the ZIP code to Google for the same search, and we do not store it. You can turn off location access at any time in your device settings.
+
+**Your saved gym.** When you pick a gym, we save it to your account as a training location: Google's identifier for the place (its "place ID") and the gym's name, which you can rename. We do not save the gym's address or your location. When you ask for directions, the App sends the place ID to Google to look up the gym's address, then opens Apple Maps or Google Maps, which handle your directions under their own privacy policies.
+
+**Calendar.** If you allow it, the App adds your planned workouts to your device's calendar with an alert before each one, and updates or removes the events it created when your plan changes. On iOS this needs full calendar access, because the App has to find its own events again to update them. The App does not read, upload, or store your other calendar events. Events the App has added stay in your calendar until you delete them, including after your trial or subscription ends. You can turn off calendar access at any time in your device settings.
+
 ### Information received from third parties
 
 *In Short: We may receive limited information from third-party services you use to interact with us.*
@@ -108,7 +121,7 @@ We automatically collect certain information when you visit, use, or navigate ou
 - Device information (such as device type, operating system, and version)
 - Usage data (such as features used, actions taken, screens visited, and time spent in the app)
 - Advertising data (such as app install attribution, in-app events, and ad interaction data collected through third-party advertising SDKs)
-- Approximate location (such as the city or region derived from your IP address by our analytics and advertising attribution providers). We do not collect precise or GPS-based location.
+- Approximate location (such as the city or region derived from your IP address by our analytics and advertising attribution providers). Device location is used only for gym search, as described in "Device location and calendar" above.
 - Session recordings and touch interaction data (we may record how you interact with the App, including screen views and touch gestures, to understand usage patterns and improve the product)
 - Push notification tokens (to send you notifications if you have enabled them)
 - App version and update information
@@ -128,6 +141,7 @@ We process your personal information for a variety of reasons, depending on how 
 - **To generate and adapt workout plans.** We process your fitness goals, experience level, equipment access, injury information, workout history, and performance data to create and continuously adjust personalized workout programming.
 - **To analyze your progress and provide insights.** We process your workout logs, performance data, and historical trends to detect patterns, identify plateaus, track achievements, and generate progress reports.
 - **To maintain AI coaching context.** We process your conversations, preferences, and training history to build and maintain a coaching profile so your AI trainer can remember your context and provide consistent, personalized guidance across sessions.
+- **To help you find a gym and plan your workouts.** If you choose, we use your device's location or a ZIP code to find gyms near you, save the gym you pick, look up directions to it, and add your planned workouts to your device's calendar.
 - **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
 - **To manage subscriptions and AI usage.** We process information about your subscription status and track your AI feature usage to manage access to Services features and enforce usage limits.
 - **To improve our Services through analytics.** We process usage data, interaction patterns, and session recordings to understand how users engage with the App, identify issues, and improve the user experience.
@@ -162,7 +176,7 @@ We run scheduled automated processes to maintain and improve the quality of your
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
 - **Performance of a Contract.** We process your personal information to provide the AI fitness coaching Services you have subscribed to, including generating workout plans, providing coaching responses, maintaining your coaching profile, and tracking your progress. This processing is necessary to deliver the Services under our agreement with you.
-- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. In particular, we rely on your explicit consent to process health-related and sensitive fitness data. You can withdraw your consent at any time. Learn more about withdrawing your consent.
+- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. In particular, we rely on your explicit consent to process health-related and sensitive fitness data, and on the permissions you grant on your device to use your location for gym search and to add workouts to your calendar. You can withdraw your consent at any time. Learn more about withdrawing your consent.
 - **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
   - Send users information about special offers and discounts on our products and services
   - Understand how our users use our products and services so we can improve user experience
@@ -200,11 +214,12 @@ We may need to share your personal information in the following situations:
 **Third-Party Service Providers.** We share your information with the following categories of third-party service providers to perform services on our behalf:
 
 - **AI and machine learning service providers** that process your data to generate workout plans, coaching responses, progress analysis, and other AI-powered features. This includes providers of language model inference, text embedding, AI workflow orchestration, and AI system monitoring and observability. Relevant portions of your profile, fitness data, conversation history, and workout performance may be shared with these providers to deliver our AI coaching features.
-- **Analytics and product improvement providers** that help us understand how our Services are used, including providers of usage analytics, session recording, and interaction analysis
+- **Analytics and product improvement providers** that help us understand how our Services are used, including providers of usage analytics, session recording, and interaction analysis. We do not send your location, ZIP code, or saved gym to these providers.
 - **Subscription and payment management providers** that manage your subscription status, billing periods, and entitlement verification. These providers receive your user identifier and subscription status but do not receive your credit card or payment information, which is handled directly by Apple or Google.
 - **Paywall and feature management providers** that manage access to premium features based on your subscription status
 - **Cloud infrastructure and database providers** that host, store, and process your data securely, including your account information, workout data, AI coaching profiles, and conversation history
 - **Authentication providers** that facilitate account creation and login, including third-party sign-in services
+- **Mapping and place search providers.** We use Google Maps Platform to find gyms near you, show them on a map, and look up a gym's address for directions. Google receives your device's location or the ZIP code you enter, any gym name you search for, and the place ID of your saved gym, along with standard technical information such as your IP address. Your use of Google Maps features in the App is subject to the [Google Privacy Policy](https://policies.google.com/privacy).
 - **Push notification services** that deliver workout reminders and other notifications to your device
 - **App update and distribution services** that deliver software updates to the App on your device
 - **Advertising and attribution providers** that help us measure the effectiveness of our advertising campaigns. We use the Meta (Facebook) SDK, which collects your device's advertising identifier, app install and launch events, in-app purchase events, device information, and approximate location (the city or region derived from your IP address). This data is shared with Meta to attribute app installs to ad campaigns, measure ad performance, and create targeted audiences. Meta may use this data in accordance with its own data policy. You can limit ad tracking through your device settings (such as "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
@@ -226,6 +241,10 @@ We will only keep your personal information for as long as it is necessary for t
 **While your account is active:** We retain all information described in this Notice for as long as you maintain an account with us. AI coaching profiles, conversation history, and workout data are maintained to provide continuity and personalization in your training experience. Older conversation messages may be summarized and compressed to manage storage while preserving coaching context.
 
 **AI-derived data retention:** Coaching memories and profile information generated by our AI systems are maintained while your account is active. Certain low-relevance AI observations may be archived (excluded from active use but not deleted) after approximately 90 days. Outdated injury and health context records may be periodically removed as part of routine maintenance.
+
+**Location and ZIP codes:** We do not store the location or ZIP code used to search for gyms. Google handles them under its own privacy policy.
+
+**Saved gyms:** A saved gym stays in your account until you remove that training location or delete your account.
 
 **When you delete your account:** Upon account deletion, we delete your identifiable personal information from our active databases, including your profile, body measurements, conversation history, AI coaching profiles and memories, training programs, and workout plans. See Section 13 for full details on what is deleted and what may be retained.
 
@@ -308,7 +327,7 @@ The table below shows the categories of personal information we have collected i
 | D. Commercial information | Transaction information, purchase history, financial details, and payment information | YES |
 | E. Biometric information | Fingerprints and voiceprints | NO |
 | F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | YES |
-| G. Geolocation data | Approximate location, such as the city or region derived from your IP address by our analytics and advertising attribution providers. We do not collect precise or GPS-based device location. | YES |
+| G. Geolocation data | Approximate location, such as the city or region derived from your IP address by our analytics and advertising attribution providers; device location used to search for gyms (not stored); and the gym you save as a training location | YES |
 | H. Audio, electronic, sensory, or similar information | Images, session recordings of app interactions, and audio recordings created in connection with our business activities | YES |
 | I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
 | J. Education Information | Student records and directory information | NO |
@@ -327,7 +346,7 @@ We will use and retain the collected personal information as needed to provide t
 - Category C - As long as the user has an account with us
 - Category D - As long as the user has an account with us, plus any period required for tax and legal compliance
 - Category F - As long as the user has an account with us
-- Category G - Retained by our analytics and advertising attribution providers in accordance with their retention policies
+- Category G - IP-based location retained by our analytics and advertising attribution providers in accordance with their retention policies; device location and ZIP codes used for gym search are not stored by us; saved gyms kept as long as the user has an account with us
 - Category H - Session recordings retained for up to 90 days; profile pictures retained as long as the user has an account
 - Category K - As long as the user has an account with us; AI-derived profiles deleted upon account deletion
 - Category L - As long as the user has an account with us
@@ -418,6 +437,7 @@ Based on the applicable laws of your country or state of residence in the US, yo
 - Personal records
 - Profile picture and any submitted feedback screenshots
 - Training preferences and goals
+- Saved gyms and other training locations
 
 **What may be retained after account deletion:**
 - **Anonymized workout and usage data:** Workout session records and AI usage logs are anonymized (your user identifier is removed) and may be retained for product analytics and service improvement. This data cannot be linked back to you.
