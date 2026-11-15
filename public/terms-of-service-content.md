@@ -301,6 +301,10 @@ Inclusion of, linking to, or permitting the use or installation of any Third-Par
 
 Any purchases you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. You agree and acknowledge that we do not endorse the products or services offered on Third-Party Websites and you shall hold us blameless from any harm caused by your purchase of such products or services. Additionally, you shall hold us blameless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
 
+### Map Services
+
+The App uses Google Maps features and content to help you find gyms and get directions, and Mapbox to show maps while you record a run. Your use of Google Maps features and content is subject to the [Google Maps/Google Earth Additional Terms of Service](https://maps.google.com/help/terms_maps.html) and the [Google Privacy Policy](https://policies.google.com/privacy). Map results, locations, distances, opening hours, and directions come from these providers and may be inaccurate or out of date. Check them before you rely on them.
+
 ## 13. SERVICES MANAGEMENT
 
 We reserve the right, but not the obligation, to:
