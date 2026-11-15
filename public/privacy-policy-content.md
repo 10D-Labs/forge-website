@@ -1,5 +1,5 @@
 # PRIVACY POLICY
-Last updated November 9, 2026
+Last updated November 15, 2026
 
 This Privacy Notice for 10D Labs LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice

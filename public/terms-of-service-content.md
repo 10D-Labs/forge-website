@@ -1,5 +1,5 @@
 # TERMS OF SERVICE
-Last updated June 24, 2026
+Last updated November 15, 2026
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
