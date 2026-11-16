@@ -303,7 +303,7 @@ Any purchases you make through Third-Party Websites will be through other websit
 
 ### Map Services
 
-The App uses Google Maps features and content to help you find gyms and get directions, and Mapbox to show maps while you record a run. Your use of Google Maps features and content is subject to the [Google Maps/Google Earth Additional Terms of Service](https://maps.google.com/help/terms_maps.html) and the [Google Privacy Policy](https://policies.google.com/privacy). Map results, locations, distances, opening hours, and directions come from these providers and may be inaccurate or out of date. Check them before you rely on them.
+The App uses Google Maps features and content to help you find gyms, and Mapbox to show maps while you record a run. Your use of Google Maps features and content is subject to the [Google Maps/Google Earth Additional Terms of Service](https://maps.google.com/help/terms_maps.html) and the [Google Privacy Policy](https://policies.google.com/privacy). Map results, locations, distances, opening hours, and directions come from these providers and may be inaccurate or out of date. Check them before you rely on them.
 
 ## 13. SERVICES MANAGEMENT
 
