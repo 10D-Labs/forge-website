@@ -20,7 +20,7 @@ This summary provides key points from our Privacy Notice, but you can find out m
 
 **Do we use your location or calendar?** Only if you allow it. If you tap "Find gyms near me," the App sends your device's location to Google to find gyms near you, and we do not store it. If you record an outdoor run, the App tracks your location from the start of the run to the end and saves your route to your account. If you allow calendar access, the App adds your planned workouts to your device's calendar. It does not read your other events. Learn more about device location and calendar.
 
-**Do we use Apple Health?** Only on iPhone, and only if you turn it on. If you do, the App can save your finished workouts and the body weights you log to Apple Health, and read your body weight, daily step counts, and workout heart rate from it. Only body weight and daily step counts are stored in your account. We never use Apple Health data for advertising or marketing. Learn more about Apple Health.
+**Do we use Apple Health?** Only on iPhone, and only if you turn it on. If you do, the App can save your finished workouts and the body weights you log to Apple Health, and read your body weight, body fat percentage, lean body mass, daily step counts, and workout heart rate from it. Heart rate stays on your phone; the rest is stored in your account. We never use Apple Health data for advertising or marketing. Learn more about Apple Health.
 
 **Do we receive any information from third parties?** We may receive limited information from third-party services you use to interact with us. For example, if you sign in using a third-party authentication provider (such as Google Sign-In), we receive your name, email address, and profile picture from that provider. We may also receive subscription status information from payment and subscription management services to verify your access to premium features.
 
@@ -111,7 +111,7 @@ This information is generated automatically by our AI systems based on your use 
 
 ### Apple Health (iPhone)
 
-*In Short: If you turn it on, the App saves your workouts and logged body weight to Apple Health and reads your body weight, daily step counts, and workout heart rate. Only body weight and step counts leave your phone. We never use Apple Health data for advertising.*
+*In Short: If you turn it on, the App saves your workouts and logged body weight to Apple Health and reads your body weight, body fat percentage, lean body mass, daily step counts, and workout heart rate. Heart rate stays on your phone; the rest is stored in your account. We never use Apple Health data for advertising.*
 
 **Turning it on.** If you use the App on an iPhone, you can turn on Apple Health in the App's settings. iOS then asks which data the App may use, and you can allow or deny each type. Nothing moves between the App and Apple Health until you turn it on.
 
@@ -119,14 +119,15 @@ This information is generated automatically by our AI systems based on your use 
 
 **What the App reads from Apple Health.** With your permission, the App reads:
 - **Body weight,** for example from a smart scale or another app. We add these readings to the weight log in your account, the same as a weight you enter yourself. Your AI trainer uses your weight log, so these readings are processed by our AI service providers like your other weights.
+- **Body fat percentage and lean body mass,** for example from a smart scale, for about the last two weeks. We store the last reading of each day (the value and the date only) in your account. Your AI trainer uses the latest values and how they have changed, so they are processed by our AI service providers. The App never saves these to Apple Health.
 - **Daily step counts** for about the last 14 days. We store each day's total in your account, and your AI trainer uses them to understand how active you are, so they are processed by our AI service providers.
 - **Heart rate during a workout,** to show your average heart rate when you finish. It stays on your phone: we do not store it or send it to our servers or anyone else.
 
 The App does not read any other Apple Health data, such as sleep, calories, workouts from other apps, or medical records.
 
-**How we use and protect it.** We do not use Apple Health data for advertising, marketing, or data mining, and we do not sell it or send it to our analytics or advertising providers. No Apple Health data, such as your weights, step counts, heart rate, or workouts, goes to analytics. Our analytics record only that you turned the feature on or off, which permissions you allowed, that a workout was saved, and how many weights were imported.
+**How we use and protect it.** We do not use Apple Health data for advertising, marketing, or data mining, and we do not sell it or send it to our analytics or advertising providers. No Apple Health data, such as your weight, body composition, step counts, heart rate, or workouts, goes to analytics. Our analytics record only that you turned the feature on or off, which permissions you allowed, that a workout was saved, and how many weights were imported.
 
-**Turning it off.** You can turn off Apple Health in the App's settings or change the App's permissions in the Health app at any time. This stops new data moving between the App and Apple Health. Workouts and weights the App already saved to Apple Health stay there until you delete them in the Health app. Weights and step counts already imported stay in your account: you can delete weights in the App, and step counts are deleted with your account.
+**Turning it off.** You can turn off Apple Health in the App's settings or change the App's permissions in the Health app at any time. This stops new data moving between the App and Apple Health. Workouts and weights the App already saved to Apple Health stay there until you delete them in the Health app. Data already imported stays in your account: you can delete weights in the App, and step counts, body fat percentage, and lean body mass are deleted with your account.
 
 ### Information received from third parties
 
@@ -134,7 +135,7 @@ The App does not read any other Apple Health data, such as sleep, calories, work
 
 We may receive personal information about you from third parties, including:
 - **Authentication providers:** If you create an account or sign in using a third-party service (such as Google Sign-In), we receive your name, email address, and profile picture from that provider.
-- **Apple Health:** If you turn it on, body weight readings and daily step counts from Apple Health, as described in "Apple Health (iPhone)" above.
+- **Apple Health:** If you turn it on, body weight, body fat percentage, lean body mass, and daily step counts from Apple Health, as described in "Apple Health (iPhone)" above.
 - **Subscription management services:** We receive information about your subscription status, billing period, and entitlement from subscription management providers to verify your access to premium features.
 
 ### Information automatically collected
@@ -167,7 +168,7 @@ We process your personal information for a variety of reasons, depending on how 
 - **To analyze your progress and provide insights.** We process your workout logs, performance data, and historical trends to detect patterns, identify plateaus, track achievements, and generate progress reports.
 - **To maintain AI coaching context.** We process your conversations, preferences, and training history to build and maintain a coaching profile so your AI trainer can remember your context and provide consistent, personalized guidance across sessions.
 - **To help you find a gym and plan your workouts.** If you choose, we use your device's location or a ZIP code to find gyms near you, save the gym you pick, open directions to it in a maps app on your phone, and add your planned workouts to your device's calendar.
-- **To connect with Apple Health.** If you turn it on, we add body weights and daily step counts from Apple Health to your account and use them in your coaching, and the App saves your finished workouts and logged weights to Apple Health.
+- **To connect with Apple Health.** If you turn it on, we add body weight, body fat percentage, lean body mass, and daily step counts from Apple Health to your account and use them in your coaching, and the App saves your finished workouts and logged weights to Apple Health.
 - **To track your outdoor runs.** If you record a run, we use your device's location during the run to measure distance and pace, draw your route, and save the run to your workout history.
 - **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
 - **To manage subscriptions and AI usage.** We process information about your subscription status and track your AI feature usage to manage access to Services features and enforce usage limits.
@@ -254,7 +255,7 @@ We may need to share your personal information in the following situations:
 
 These service providers have access to your personal information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose, except for advertising and attribution providers which may use data as described in their own privacy policies. We do not sell your personal information to any third party.
 
-**Apple Health Data.** We do not share Apple Health data with advertising or analytics providers or use it for advertising, marketing, or data mining. Body weights and step counts imported from Apple Health are processed only by the providers that store your account and deliver your coaching (cloud infrastructure, database, and AI service providers), like weights you enter yourself.
+**Apple Health Data.** We do not share Apple Health data with advertising or analytics providers or use it for advertising, marketing, or data mining. Apple Health data stored in your account is processed only by the providers that store your account and deliver your coaching (cloud infrastructure, database, and AI service providers), like data you enter yourself.
 
 **AI Service Provider Data Practices.** When your data is processed by third-party AI service providers to deliver our coaching features, it is subject to those providers' data handling practices. We select providers whose terms prohibit the use of customer data for training their AI models. We do not train our own AI models on your personal data, and we do not intentionally provide your data to any third party for the purpose of training general-purpose AI models.
 
@@ -364,7 +365,7 @@ The table below shows the categories of personal information we have collected i
 | I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
 | J. Education Information | Student records and directory information | NO |
 | K. Inferences drawn from collected personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences, characteristics, fitness patterns, and coaching needs. This includes AI-generated coaching profiles, progress analysis, and behavioral insights. | YES |
-| L. Sensitive personal Information | Health-related information including injuries, physical limitations, body measurements, fitness data, and biological sex, including body weight and daily step counts imported from Apple Health if you turn it on; precise geolocation from outdoor runs you record | YES |
+| L. Sensitive personal Information | Health-related information including injuries, physical limitations, body measurements, fitness data, and biological sex, including body weight, body composition, and daily step counts imported from Apple Health if you turn it on; precise geolocation from outdoor runs you record | YES |
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 - Receiving help through our customer support channels;
@@ -458,7 +459,7 @@ Based on the applicable laws of your country or state of residence in the US, yo
 
 **Updating your data:** You can update your profile information, body measurements, training preferences, and other account details at any time through the App settings.
 
-**Apple Health:** Body weights imported from Apple Health are part of your weight log, and you can delete them in the App. Daily step counts imported from Apple Health are deleted when you delete your account. Workouts and weights the App saved to Apple Health are kept by Apple Health, not by us; you can delete them in the Health app.
+**Apple Health:** Body weights imported from Apple Health are part of your weight log, and you can delete them in the App. Daily step counts, body fat percentage, and lean body mass imported from Apple Health are deleted when you delete your account. Workouts and weights the App saved to Apple Health are kept by Apple Health, not by us; you can delete them in the Health app.
 
 **Deleting your data:** You can delete your account and associated data at any time through the App settings, or by emailing us at support@forgetrainer.ai. For full details on how to delete your account and what data is affected, please visit https://forgetrainer.ai/delete-account.
 
