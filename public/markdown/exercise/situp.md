@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The situp is a core exercise that targets the abdominal muscles. It can be performed with feet anchored under a stable surface or situp bench to provide stability during the movement. Beginner core exercise using machine. Targets abs, also works hip flexors.
+A situp with a partner holding your feet down, so you can curl all the way up. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
-- **Equipment:** Machine
+- **Equipment:** Body Weight
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Hip Flexors
 - **Difficulty:** Beginner
@@ -15,12 +15,10 @@ The situp is a core exercise that targets the abdominal muscles. It can be perfo
 
 ## How to perform
 
-1. Anchor your feet under a stable surface, situp bench, or weight.
-2. Lie flat on your back with your knees bent and feet flat on the ground.
-3. Place your hands behind your head with your elbows pointing outwards, or cross them over your chest.
-4. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is upright.
-5. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent and feet flat on the floor. Have a partner kneel at your feet and hold them down.
+2. Cross your arms over your chest.
+3. Curl your upper body up off the floor until your torso is upright.
+4. Lower your upper body slowly back to the floor.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ Yes, the Situp is rated as a beginner-level exercise. It's a great starting poin
 ## Related exercises
 
 - [More Core Exercises](https://forgetrainer.ai/exercises/core)
-- [More Machine Exercises](https://forgetrainer.ai/exercises/equipment/machine)
+- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
 - [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---

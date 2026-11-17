@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith wide grip bench press is a chest exercise performed on a smith machine with a wide grip to target the pectoral muscles. It also engages the tricep and shoulders as secondary muscles. The smith machine provides stability, making it accessible to those with less experience, but proper form and control are still required. Beginner chest exercise using smith machine. Targets chest, also works triceps, shoulders.
+A flat bench press on a Smith machine with your hands set wide. It works the chest, plus the triceps and shoulders, and the fixed bar path makes it easier to control. Beginner chest exercise using smith machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith wide grip bench press is a chest exercise performed on a smith machine
 
 ## How to perform
 
-1. Adjust the bench to a comfortable position on the smith machine.
-2. Lie down on the bench with your feet flat on the ground.
-3. Grasp the barbell with a wide grip, slightly wider than shoulder-width apart.
-4. Unrack the barbell and lower it slowly towards your chest, keeping your elbows out to the sides.
-5. Pause for a moment when the barbell touches your chest.
-6. Push the barbell back up to the starting position, fully extending your arms.
-7. Repeat for the desired number of repetitions.
+1. Set a flat bench in the Smith machine and lie on it with your feet flat on the floor.
+2. Grip the bar with your hands spaced wider than shoulder-width.
+3. Unhook the bar and lower it slowly to your chest, keeping your elbows out to the sides.
+4. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

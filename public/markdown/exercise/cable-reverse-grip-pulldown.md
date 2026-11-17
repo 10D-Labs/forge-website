@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable reverse grip pulldown targets the upper back and lats using a cable machine. It involves pulling a cable attachment down towards your torso with an underhand grip, emphasizing the lats and bicep. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
+A pulldown done sitting, pulling a bar from overhead down to your upper chest with your palms facing you. It works the upper back and lats, with extra help from the biceps. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable reverse grip pulldown targets the upper back and lats using a cable ma
 
 ## How to perform
 
-1. Sit on the seat facing the cable machine with your feet flat on the floor.
-2. Grasp the cable attachment with an underhand grip, palms facing up, and your hands shoulder-width apart.
-3. Keep your back straight and lean slightly forward from your hips.
-4. Pull the cable towards your torso by retracting your shoulder blades and squeezing your back muscles.
-5. Pause for a moment at the peak of the contraction, then slowly release the cable back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a bar to the high pulley. Sit facing the machine with your feet flat on the floor.
+2. Reach up and grip the bar with your hands shoulder-width apart, palms facing you, arms straight overhead.
+3. Pull the bar down to your upper chest, keeping your back straight and drawing your shoulder blades back and down.
+4. Let the bar rise slowly until your arms are straight overhead again.
 
 ## Pro tips
 

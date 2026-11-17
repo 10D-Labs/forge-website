@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell shrug is an isolation exercise that targets the trapezius muscles. It involves lifting the shoulders towards the ears while holding dumbbells, focusing on building strength and size in the upper back. Beginner back exercise using dumbbell. Targets traps, also works shoulders.
+A shrug with a dumbbell hanging at each side, lifting your shoulders toward your ears. It works the traps, the muscles between your neck and shoulders. Beginner back exercise using dumbbell. Targets traps, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell shrug is an isolation exercise that targets the trapezius muscles. 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body.
-2. Keep your arms straight and let the dumbbells hang by your sides.
-3. Raise your shoulders as high as possible, as if you are trying to touch your ears with your shoulders.
-4. Hold the contraction for a second, then slowly lower your shoulders back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a dumbbell hanging at each side, palms facing your body.
+2. Keep your arms straight and raise your shoulders as high as you can, as if trying to touch your ears with them.
+3. Lower your shoulders slowly back down.
 
 ## Pro tips
 

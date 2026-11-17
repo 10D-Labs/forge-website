@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The scapula pushup is a bodyweight exercise that targets the serratus anterior and helps improve scapular mobility and stability. It is performed in a high plank position, focusing on the movement of the shoulder blades rather than the elbows. Beginner core exercise using body weight. Targets serratus, also works triceps, shoulders.
+A small move in the pushup position where your arms stay straight and only your shoulder blades move. It works the serratus, the muscles along your ribs just below your armpits, and builds shoulder control. Beginner core exercise using body weight. Targets serratus, also works triceps, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The scapula pushup is a bodyweight exercise that targets the serratus anterior a
 
 ## How to perform
 
-1. Start in a high plank position with your hands directly under your shoulders and your body in a straight line.
-2. Lower your chest towards the ground, keeping your elbows close to your body.
-3. As you lower, squeeze your shoulder blades together and push your chest forward.
-4. Pause for a moment at the bottom, then push back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Get into a pushup position on straight arms, hands directly under your shoulders and body straight from head to heels.
+2. Keep your arms straight and let your chest sink toward the floor by pulling your shoulder blades together.
+3. Push the floor away to spread your shoulder blades apart and raise your chest back up.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable rope pushdown is an isolation exercise targeting the tricep. It is performed using a cable machine with a rope attachment, focusing on extending the elbows to work the tricep while also engaging the forearms as secondary muscles. Beginner arms exercise using cable. Targets triceps, also works forearms.
+A triceps pushdown with a rope on a high cable, straightening your arms while your elbows stay at your sides. It works the triceps, with some help from the forearms. Beginner arms exercise using cable. Targets triceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable rope pushdown is an isolation exercise targeting the tricep. It is per
 
 ## How to perform
 
-1. Attach a rope attachment to a high pulley on a cable machine.
-2. Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.
-3. Grasp the rope with an overhand grip, palms facing each other.
-4. Keep your elbows close to your sides and your upper arms stationary throughout the exercise.
-5. Exhale and push the rope downward by extending your elbows until your arms are fully extended.
-6. Pause for a moment, then inhale and slowly return to the starting position by allowing your elbows to flex.
-7. Repeat for the desired number of repetitions.
+1. Attach a rope to a high pulley. Stand facing it with your feet shoulder-width apart and your knees slightly bent.
+2. Hold the rope with your palms facing each other and your elbows tucked in at your sides.
+3. Push the rope down until your arms are straight, keeping your upper arms still.
+4. Let your elbows bend slowly as the rope rises back up.
 
 ## Pro tips
 

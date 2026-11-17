@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-121 exercises targeting your abs. Build strength and muscle with exercises organized by equipment type.
+118 exercises targeting your abs. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
@@ -23,33 +23,25 @@
 - **Barbell Standing Twist** — Beginner | Body Part: Core
 - **Landmine 180** — Intermediate | Body Part: Core
 
-### Body Weight (80 exercises)
+### Body Weight (72 exercises)
 
 - **Crunch Floor** — Beginner | Body Part: Core
 - **Three Quarter Situp** — Beginner | Body Part: Core
 - **Overhead Crunch** — Intermediate | Body Part: Core
-- **Decline Crunch** — Intermediate | Body Part: Core
 - **Decline Situp** — Intermediate | Body Part: Core
-- **Hanging Leg Raise** — Advanced | Body Part: Core
-- **Incline Twisting Situp** — Intermediate | Body Part: Core
+- **Hanging Knee Raise** — Advanced | Body Part: Core
+- **Decline Twisting Situp** — Intermediate | Body Part: Core
 - **Janda Situp** — Advanced | Body Part: Core
-- **Negative Crunch** — Beginner | Body Part: Core
+- **Decline Crunch** — Beginner | Body Part: Core
 - **Oblique Crunches Floor** — Beginner | Body Part: Core
 - **Russian Twist** — Intermediate | Body Part: Core
 - **Wall Seated Side Crunch** — Beginner | Body Part: Core
-- **Weighted Crunch** — Intermediate | Body Part: Core
-- **Legs Up Weighted Russian Twist** — Intermediate | Body Part: Core
-- **Weighted Russian Twist** — Intermediate | Body Part: Core
-- **Weighted Hanging Leg Hip Raise** — Advanced | Body Part: Core
 - **Reverse Crunch** — Beginner | Body Part: Core
-- **Potty Squat** — Beginner | Body Part: Core
+- **Situp** — Beginner | Body Part: Core
 - **Quarter Situp** — Beginner | Body Part: Core
-- **Half Situp** — Beginner | Body Part: Core
-- **Prisoner Half Situp** — Beginner | Body Part: Core
 - **Arms Overhead Full Situp** — Intermediate | Body Part: Core
 - **Knee Touch Crunch** — Beginner | Body Part: Core
-- **Power Point Plank** — Intermediate | Body Part: Core
-- **Weighted Decline Situp** — Intermediate | Body Part: Core
+- **Plank with Opposite Arm and Leg Raise** — Intermediate | Body Part: Core
 - **Situp with Arms on Chest** — Beginner | Body Part: Core
 - **45 Degree Side Bend** — Beginner | Body Part: Core
 - **Bicycle Crunch** — Beginner | Body Part: Core
@@ -69,9 +61,8 @@
 - **Leg Pull in Flat Bench** — Beginner | Body Part: Core
 - **Lying Leg Raise Flat Bench** — Intermediate | Body Part: Core
 - **Pushup to Side Plank** — Intermediate | Body Part: Core
-- **Seated Leg Raise** — Beginner | Body Part: Core
-- **Parallel Bars Oblique Swing** — Advanced | Body Part: Core
-- **Suspended Abdominal Fallout** — Advanced | Body Part: Core
+- **Seated Knee Tuck** — Beginner | Body Part: Core
+- **Captain's Chair Oblique Knee Raise** — Advanced | Body Part: Core
 - **Lying Leg Hip Raise** — Beginner | Body Part: Core
 - **Butt Up** — Beginner | Body Part: Core
 - **Tuck Crunch** — Beginner | Body Part: Core
@@ -100,11 +91,12 @@
 - **L-sit on Floor** — Advanced | Body Part: Core
 - **V-sit on Floor** — Advanced | Body Part: Core
 - **Bodyweight Incline Side Plank** — Beginner | Body Part: Core
-- **Reverse Plank with Leg Lift** — Advanced | Body Part: Core
+- **Bent Knee Lying Twist** — Beginner | Body Part: Core
+- **Reverse Tabletop Leg Lift** — Advanced | Body Part: Core
 - **Shoulder Tap** — Intermediate | Body Part: Core
 - **Alternate Heel Touchers** — Beginner | Body Part: Core
 - **Windshield Wiper** — Advanced | Body Part: Core
-- **Parallel Bars Vertical Knee Raise** — Advanced | Body Part: Core
+- **Captain's Chair Knee Raise** — Advanced | Body Part: Core
 
 ### Cable (11 exercises)
 
@@ -113,15 +105,16 @@
 - **Cable Side Crunch** — Intermediate | Body Part: Core
 - **Cable Standing Lift** — Intermediate | Body Part: Core
 - **Cable Twist** — Intermediate | Body Part: Core
-- **Cable Up Down Twist** — Intermediate | Body Part: Core
+- **Cable High to Low Woodchop** — Intermediate | Body Part: Core
 - **Cable Reverse Crunch** — Intermediate | Body Part: Core
 - **Cable Seated Twist** — Intermediate | Body Part: Core
 - **Cable Kneeling Crunch** — Intermediate | Body Part: Core
 - **Cable Side Bend** — Beginner | Body Part: Core
 - **Cable Standing Crunch** — Intermediate | Body Part: Core
 
-### Dumbbell (1 exercise)
+### Dumbbell (2 exercises)
 
+- **Weighted Hanging Leg Hip Raise** — Advanced | Body Part: Core
 - **Dumbbell Side Bend** — Beginner | Body Part: Core
 
 ### Kettlebell (5 exercises)
@@ -132,10 +125,9 @@
 - **Kettlebell Figure 8** — Intermediate | Body Part: Core
 - **Kettlebell Windmill** — Advanced | Body Part: Core
 
-### Machine (3 exercises)
+### Machine (2 exercises)
 
 - **Seated Crunch** — Beginner | Body Part: Core
-- **Situp** — Beginner | Body Part: Core
 - **Kneeling Twist** — Intermediate | Body Part: Core
 
 ### Medicine Ball (1 exercise)
@@ -155,9 +147,17 @@
 - **Band V-up** — Intermediate | Body Part: Core
 - **Band Vertical Pallof Press** — Beginner | Body Part: Core
 
-### Weight Plate (1 exercise)
+### Rings (1 exercise)
 
+- **Suspended Abdominal Fallout** — Advanced | Body Part: Core
+
+### Weight Plate (5 exercises)
+
+- **Weighted Crunch** — Intermediate | Body Part: Core
+- **Legs Up Weighted Russian Twist** — Intermediate | Body Part: Core
+- **Weighted Russian Twist** — Intermediate | Body Part: Core
 - **Weighted Front Plank** — Intermediate | Body Part: Core
+- **Weighted Decline Situp** — Intermediate | Body Part: Core
 
 ---
 
@@ -165,7 +165,7 @@
 
 Get a personalized workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

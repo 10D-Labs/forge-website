@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The rear deltoid stretch is a bodyweight exercise targeting the deltoid muscles, particularly the rear (posterior) delts. It also stretches the trapezius and rhomboids. This movement is commonly used to improve shoulder flexibility and relieve tension. Beginner shoulders exercise using body weight. Targets shoulders, also works trapezius, rhomboids.
+A standing stretch that pulls one arm across your chest. It stretches the back of the shoulder and the upper back. Beginner shoulders exercise using body weight. Targets shoulders, also works trapezius, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Body Weight
@@ -16,10 +16,9 @@ The rear deltoid stretch is a bodyweight exercise targeting the deltoid muscles,
 ## How to perform
 
 1. Stand tall with your feet shoulder-width apart.
-2. Extend your right arm across your chest, placing your left hand on your right elbow.
-3. Gently pull your right arm towards your left shoulder, feeling a stretch in your right shoulder.
-4. Hold the stretch for 15-30 seconds, then release.
-5. Repeat on the other side.
+2. Bring your left arm straight across your chest and place your right hand on your left elbow.
+3. Gently pull your left arm toward your right shoulder until you feel a stretch in your left shoulder.
+4. Hold for the set time, then let go and switch arms.
 
 ## Pro tips
 

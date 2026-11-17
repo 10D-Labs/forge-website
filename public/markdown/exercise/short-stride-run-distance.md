@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Short stride run is a cardiovascular exercise performed by running with quick, short steps. It primarily targets the cardiovascular system and also engages the quadriceps, hamstrings, and calves. The shorter stride length increases cadence and can help improve running efficiency. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves.
+Running with short, quick steps instead of long strides. It raises your heart rate, works the quads, hamstrings and calves, and can help you run more smoothly. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Short stride run is a cardiovascular exercise performed by running with quick, s
 
 ## How to perform
 
-1. Find an open space to perform the exercise.
-2. Stand tall with your feet hip-width apart.
-3. Start running with quick, short steps, maintaining rapid leg turnover.
-4. Keep your feet close to the ground and avoid overstriding.
-5. Continue running with short strides until you reach your target distance.
+1. Find an open space and stand tall with your feet hip-width apart.
+2. Start running with short, quick steps.
+3. Keep your feet close to the ground and don't reach too far forward with each step.
+4. Keep going for the set distance.
 
 ## Pro tips
 

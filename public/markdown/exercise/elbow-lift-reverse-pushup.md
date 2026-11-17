@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The elbow lift - reverse pushup is a bodyweight exercise that targets the upper back, with secondary emphasis on the tricep and shoulders. It involves lifting the upper body off the ground while keeping the elbows close to the sides, focusing on squeezing the upper back muscles. Beginner back exercise using body weight. Targets upper back, also works triceps, shoulders.
+A face-up lift where you press your elbows down into two raised pads to raise your body into a straight line. It works the upper back, with help from the shoulders. Beginner back exercise using body weight. Targets upper back, also works triceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The elbow lift - reverse pushup is a bodyweight exercise that targets the upper 
 
 ## How to perform
 
-1. Start by lying face down on the ground with your legs extended and your hands placed directly under your shoulders.
-2. Engage your core and press through your palms to lift your upper body off the ground, keeping your elbows close to your sides.
-3. Pause at the top for a moment, squeezing your upper back muscles.
-4. Slowly lower your body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set two padded stools of the same height side by side, a little wider than your shoulders apart.
+2. Lie face up between them with your legs straight and heels on the floor. Rest one elbow on each pad, forearms pointing up.
+3. Press your elbows down into the pads to lift your chest and hips until your body is straight from heels to shoulders.
+4. Lower slowly back to the start.
 
 ## Pro tips
 

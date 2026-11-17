@@ -12,7 +12,7 @@
 
 ### Beginner (9 exercises)
 
-- **Bicep Curl** — Target: Biceps | Secondary: Forearms
+- **Machine Bicep Curl** — Target: Biceps | Secondary: Forearms
 - **Overhand Tricep Dip** — Target: Triceps | Secondary: Chest, Shoulders
 - **Preacher Curl** — Target: Biceps | Secondary: Forearms
 - **Tricep Extension** — Target: Triceps | Secondary: Shoulders
@@ -28,7 +28,7 @@
 
 Our AI trainers design personalized arm workout plans using machine. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

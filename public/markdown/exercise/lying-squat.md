@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lying squat is a lower body exercise performed on a leg press machine, targeting the glutes as the primary muscle group. It also engages the quadriceps, hamstrings, and calves. The movement involves lying on your back, pushing The upward with your legs, and then lowering it back down in a controlled manner. Beginner legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat done lying on your back, pushing your body away from a fixed footplate on a machine. It works the glutes, with help from the quads, hamstrings and calves. Beginner legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,14 +15,10 @@ The lying squat is a lower body exercise performed on a leg press machine, targe
 
 ## How to perform
 
-1. Adjust the leg press machine to a comfortable weight.
-2. Lie on your back on the leg press machine with your feet on the footplate.
-3. Position your feet shoulder-width apart and slightly angled outwards.
-4. Grip the handles of the leg press machine for stability.
-5. Engage your glutes and core muscles.
-6. Push through your heels and extend your legs to lift the sled.
-7. Lower The back down by bending your knees and hips.
-8. Repeat for the desired number of repetitions.
+1. Set the weight, then lie on your back on the machine's sliding bench, shoulders under the pads and feet on the footplate.
+2. Place your feet shoulder-width apart, turned slightly out, and hold the handles by your shoulders.
+3. Push through your heels to straighten your legs, which slides your body away from the footplate.
+4. Bend your knees and hips slowly to slide back toward the footplate.
 
 ## Pro tips
 

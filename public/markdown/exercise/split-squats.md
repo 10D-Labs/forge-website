@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Split squats are a lower body exercise that primarily targets the quadriceps, while also engaging the glutes, hamstrings, and calves. This bodyweight movement involves stepping forward into a split stance and lowering the body until the front thigh is parallel to the ground, then returning to the starting position. Beginner legs exercise using body weight. Targets quads, also works glutes, hamstrings, calves.
+A bodyweight squat in a split stance, one foot in front of the other, with your feet staying in place. It works the quads, with help from the glutes and hamstrings. Beginner legs exercise using body weight. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ Split squats are a lower body exercise that primarily targets the quadriceps, wh
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Take a step forward with one foot and place it about two feet in front of the other foot.
-3. Lower your body by bending your knees and hips, keeping your back straight.
-4. Continue lowering until your front thigh is parallel to the ground, and your back knee is hovering just above the ground.
-5. Pause for a moment, then push through your front heel to return to the starting position.
-6. Repeat for the desired number of repetitions, then switch legs and repeat.
+1. Stand with your feet shoulder-width apart, then step one foot about two feet in front of the other.
+2. Keep your back straight and bend both knees and hips to lower your body.
+3. Stop when your front thigh is level with the floor and your back knee is just above it.
+4. Push through your front heel to rise back up, keeping your feet in place.
+5. Do all your reps on one side, then switch legs.
 
 ## Pro tips
 

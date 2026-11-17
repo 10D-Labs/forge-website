@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing close grip military press is a compound strength exercise targeting the deltoids, with secondary emphasis on the tricep and upper back. It is performed by pressing a barbell overhead from shoulder height with a close grip, requiring core stability and shoulder strength. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
+A standing barbell overhead press with your hands a little closer than shoulder-width. It works the shoulders, with help from the triceps and upper back. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell standing close grip military press is a compound strength exercise t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the barbell with an overhand grip, hands slightly closer than shoulder-width apart.
-2. Lift the barbell to shoulder height, keeping your elbows close to your body.
-3. Press the barbell overhead, extending your arms fully.
-4. Lower the barbell back to shoulder height.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and grip a barbell with your palms facing forward, hands slightly closer than shoulder-width.
+2. Bring the bar up to the front of your shoulders, keeping your elbows close to your body.
+3. Press the bar straight up until your arms are straight overhead.
+4. Lower the bar back to the front of your shoulders.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bodyweight standing one arm row is a unilateral exercise targeting the upper back, performed by hinging at the hips and pulling a weight toward the chest with one arm. Beginner back exercise using body weight. Targets upper back, also works biceps, forearms.
+A one-arm row using your body weight, leaning back from wall bars and pulling your chest in. It works the upper back, with help from the biceps and forearms. Beginner back exercise using body weight. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The bodyweight standing one arm row is a unilateral exercise targeting the upper
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, knees slightly bent, and hold a dumbbell in one hand.
-2. Bend forward at the hips, keeping your back straight and your core engaged.
-3. Let the dumbbell hang straight down in front of you, with your arm fully extended.
-4. Pull the dumbbell up towards your chest, keeping your elbow close to your body.
-5. Squeeze your shoulder blades together at the top of the movement.
-6. Lower the dumbbell back down to the starting position.
-7. Repeat for the desired number of repetitions, then switch sides.
+1. Stand facing wall bars with your toes near the base. Grab a rung at chest height with one hand, palm facing down.
+2. Lean back until your arm is straight, keeping your body in a straight line from head to heels.
+3. Pull your chest toward the bars, driving your elbow back past your side.
+4. Lower yourself slowly until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

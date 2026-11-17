@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar seated close grip concentration curl is an isolation exercise targeting the bicep, performed while seated with the elbow braced against the thigh for stability. It uses an EZ bar and emphasizes strict form to maximize bicep engagement. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
+A seated curl with an EZ bar, hands close together and elbows braced against your inner thighs. Bracing your elbows keeps the work on the biceps. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,11 +15,11 @@ The EZ bar seated close grip concentration curl is an isolation exercise targeti
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold an EZ barbell with an underhand grip.
-2. Rest your elbow on the inside of your thigh, just above the knee.
-3. Curl the barbell up towards your shoulder while keeping your upper arm stationary.
-4. Squeeze your biceps at the top of the movement, then slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench with your feet flat on the floor and lean forward.
+2. Hold an EZ bar with your palms facing up and your hands close together.
+3. Rest your elbows against the insides of your thighs, just above the knees.
+4. Curl the bar up toward your shoulders, keeping your upper arms still.
+5. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

@@ -2,46 +2,49 @@
 
 ## Quick answer
 
-The decline crunch is an abdominal exercise performed on a decline bench, targeting the abs and engaging the hip flexors as secondary muscles. It involves curling the torso upward while lying on a downward-sloping surface. Intermediate core exercise using body weight. Targets abs, also works hip flexors.
+A crunch on a decline bench, head lower than your feet, which makes it harder than a crunch on the floor. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Hip Flexors
-- **Difficulty:** Intermediate
+- **Difficulty:** Beginner
 - **Category:** Strength
 
 ---
 
 ## How to perform
 
-1. Lie on a decline bench with your feet secured and your knees bent at a 90 degree angle.
-2. Place your hands behind your head or across your chest.
-3. Engage your abs and lift your upper body towards your knees, curling your torso.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie back on a decline bench so your head is lower than your feet. Hook your ankles under the foot rollers.
+2. Place your hands behind your head, elbows out to the sides.
+3. Curl your head and shoulders up off the bench, keeping your lower back on the pad.
+4. Lower slowly back down.
 
 ## Pro tips
 
-- Secure your feet at the top of the decline bench and lie back. The decline angle increases the range of motion and gravity resistance compared to floor crunches.
-- Curl your spine segment by segment. Do not sit all the way up; stop when your abs are fully contracted, which is about 30-40 degrees off the bench.
-- Lower yourself slowly (3 seconds) back to the start. The decline forces a longer eccentric, which is great for ab development.
+- Hook your feet under the pads of a decline bench and cross your arms over your chest or lightly touch your head.
+- Curl your shoulders up toward your hips by rounding your upper back, rather than sitting all the way up.
+- Lower back down slowly over 2-3 seconds, stopping before your shoulders touch the bench to keep tension on the abs.
 
 ## Common mistakes
 
-- Sitting all the way up past the contraction point, which uses the hip flexors for the top half of the movement.
-- Using momentum to swing up rather than curling the spine with ab strength.
-- Setting the bench angle too steep, which makes the exercise hip-flexor dominant and increases lower back stress.
+- Lowering too quickly and letting gravity do the work.
+- Yanking on the neck with the hands, which strains the neck.
+- Swinging up with momentum instead of curling with the abs.
 
 ## FAQ
 
-### What angle should the decline bench be for Decline Crunches?
+### Is a Decline Crunch harder than a regular crunch?
 
-Start with a 30-degree decline. As you get stronger, increase to 45 degrees. Steeper angles are harder but can shift emphasis to the hip flexors if core strength is not sufficient.
+Yes. With your head lower than your feet, your abs lift more of your body weight through a longer range of motion.
 
-### Are Decline Crunches better than flat crunches?
+### How do I make Decline Crunches harder?
 
-Decline Crunches provide greater range of motion and more resistance due to gravity, making them harder and more effective for ab development than flat crunches. They are a natural progression from floor crunches.
+Increase the bench angle, hold a weight plate on your chest, or slow the lowering to 3-5 seconds.
+
+### What angle should the bench be?
+
+Start with a gentle decline and steepen it as you get stronger. If you can't control the lowering, the angle is too steep.
 
 ### What muscles does the Decline Crunch work?
 
@@ -49,7 +52,7 @@ The Decline Crunch primarily targets the abs, with secondary activation in the h
 
 ### Is the Decline Crunch good for beginners?
 
-The Decline Crunch is rated as intermediate. Beginners should build a base of abs strength with easier variations first.
+Yes, the Decline Crunch is rated as a beginner-level exercise. It's a great starting point for building abs strength.
 
 ## Related exercises
 

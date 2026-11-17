@@ -2,15 +2,15 @@
 
 ## Quick Answer
 
-22 effective leg exercises you can do with resistance band. Complete instructions and form tips included.
+20 effective leg exercises you can do with resistance band. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 17 Beginner | 5 Intermediate | 0 Advanced
+**Difficulty breakdown:** 16 Beginner | 4 Intermediate | 0 Advanced
 
 ---
 
 ## All Leg Resistance Band Exercises
 
-### Beginner (17 exercises)
+### Beginner (16 exercises)
 
 - **Band Bent Over Kickback** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Band Pull Through** — Target: Glutes | Secondary: Hamstrings, Lower Back
@@ -18,25 +18,23 @@
 - **Band Squat Row** — Target: Glutes | Secondary: Hamstrings, Quadriceps, Back
 - **Band Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Band Stepup** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
-- **Band Stiff Leg Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
-- **Band Straight Leg Deadlift** — Target: Lower Back | Secondary: Hamstrings, Glutes
+- **Band Straight Leg Deadlift** — Target: Hamstrings | Secondary: Glutes, Lower Back
 - **Band Straight Back Stiff Leg Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
-- **Calf Stretch with Rope** — Target: Calves | Secondary: Hamstrings
+- **Lying Calf Stretch with Band** — Target: Calves | Secondary: Hamstrings
 - **Peroneals Stretch** — Target: Calves | Secondary: Ankles, Feet
 - **Posterior Tibialis Stretch** — Target: Calves | Secondary: Hamstrings, Quadriceps
 - **Band Hip Lift** — Target: Glutes | Secondary: Hamstrings, Quadriceps
-- **Reclining Big Toe Pose with Rope** — Target: Hamstrings | Secondary: Calves, Glutes
-- **Standing Hamstring and Calf Stretch with Strap** — Target: Hamstrings | Secondary: Calves
+- **Reclining Big Toe Pose with Band** — Target: Hamstrings | Secondary: Calves, Glutes
+- **Standing Hamstring and Calf Stretch with Band** — Target: Hamstrings | Secondary: Calves
 - **Resistance Band Seated Hip Abduction** — Target: Abductors | Secondary: Glutes, Hamstrings
 - **Resistance Band Leg Extension** — Target: Quads | Secondary: Hamstrings
 
-### Intermediate (5 exercises)
+### Intermediate (4 exercises)
 
 - **Band Single Arm Single Leg Split Squat** — Target: Quads | Secondary: Glutes, Hamstrings
 - **Band Single Leg Calf Raise** — Target: Calves | Secondary: Ankles, Feet
-- **Band Single Leg Reverse Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
 - **Band Single Leg Split Squat** — Target: Quads | Secondary: Glutes, Hamstrings
-- **Intermediate Hip Flexor and Quad Stretch** — Target: Quads | Secondary: Hamstrings, Glutes
+- **Intermediate Hip Flexor and Quad Stretch** — Target: Quads | Secondary: Hip Flexors
 
 ---
 
@@ -44,7 +42,7 @@
 
 Our AI trainers design personalized leg workout plans using resistance band. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

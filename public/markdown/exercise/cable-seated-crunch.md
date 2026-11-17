@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable seated crunch is an abdominal exercise performed on a cable machine. It targets the abs and also works the obliques as secondary muscles. The movement involves curling the upper body forward against resistance, focusing on contracting the core. Intermediate core exercise using cable. Targets abs, also works obliques.
+A crunch done sitting with your back to a high cable, curling forward against a rope held behind your head. It works the abs, plus the obliques. Intermediate core exercise using cable. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable seated crunch is an abdominal exercise performed on a cable machine. I
 
 ## How to perform
 
-1. Sit on a cable machine with your feet flat on the ground and your knees bent.
-2. Hold the cable handle with both hands and position it behind your head.
-3. Engage your abs and slowly curl your upper body forward, bringing your chest towards your knees.
-4. Pause for a moment at the top, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Attach a rope to a high pulley. Sit on a bench with your back to the machine, feet flat on the floor and knees bent.
+2. Hold the rope with both hands behind your head.
+3. Tighten your abs and slowly curl your upper body forward, bringing your chest toward your knees.
+4. Uncurl slowly back to upright.
 
 ## Pro tips
 

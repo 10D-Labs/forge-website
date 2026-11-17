@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable seated rear lateral raise is an isolation exercise targeting the rear deltoids, with secondary emphasis on the traps and rhomboids. It is performed seated at a cable machine, raising the arms laterally to shoulder height. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, rhomboids.
+A rear raise done sitting on the end of a bench, bent forward, with each hand pulling the low cable from the opposite side. It works the backs of the shoulders and the upper back. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,11 +15,11 @@ The cable seated rear lateral raise is an isolation exercise targeting the rear 
 
 ## How to perform
 
-1. Sit on a bench facing the cable machine with your feet flat on the ground.
-2. Grasp the cable handles with an overhand grip and extend your arms straight in front of you.
-3. Keeping your arms straight, slowly raise them out to the sides until they are parallel to the floor.
-4. Pause for a moment at the top, then slowly lower your arms back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the end of a flat bench placed between two low pulleys, one on each side, with your feet flat on the floor.
+2. Lean forward until your chest rests over your thighs.
+3. Hold the left handle in your right hand and the right handle in your left, arms hanging by your ankles, palms facing back.
+4. Keeping a slight bend in your elbows, raise your arms out to the sides until they're level with your shoulders.
+5. Lower slowly until your hands are back by your ankles.
 
 ## Pro tips
 

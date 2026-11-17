@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated fly is a machine-based exercise targeting the pectoral muscles, performed by bringing the handles together in front of the chest while seated. Beginner chest exercise using machine. Targets chest, also works shoulders, trapezius.
+A machine fly done seated, sweeping your arms from out wide to together in front of your chest. It works the chest, with help from the front of the shoulders. Beginner chest exercise using machine. Targets chest, also works shoulders, trapezius.
 
 - **Body Part:** Chest
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The seated fly is a machine-based exercise targeting the pectoral muscles, perfo
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your back against the pad.
-2. Grasp the handles with a pronated grip and keep your elbows slightly bent.
-3. Exhale and push the handles forward, bringing them together in front of your chest.
-4. Pause for a moment, squeezing your chest muscles.
-5. Inhale and slowly return to the starting position, allowing your chest muscles to stretch.
-6. Repeat for the desired number of repetitions.
+1. Sit on the fly machine with your back against the pad and your feet flat. Set the seat so the handles line up with your chest.
+2. Grab the upright handles with your arms out to the sides, elbows slightly bent, palms facing forward.
+3. Bring your arms together in a wide arc until the handles meet in front of your chest.
+4. Let your arms open slowly back out to the sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lunge is a lower body exercise that targets the glutes, quadriceps, hamstrings, and calves. It involves stepping forward into a lunge position while holding dumbbells, then returning to the starting position and alternating legs. Intermediate legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A forward lunge holding a dumbbell in each hand, alternating legs. It works the glutes, plus the quads, hamstrings and calves. Intermediate legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -16,11 +16,8 @@ The dumbbell lunge is a lower body exercise that targets the glutes, quadriceps,
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-2. Take a step forward with your right foot, lowering your body into a lunge position.
-3. Keep your back straight and your chest up as you lower your body.
-4. Push through your right heel to return to the starting position.
-5. Repeat with your left leg.
-6. Alternate legs for the desired number of repetitions.
+2. Step forward with your right foot and bend both knees to lower your body into a lunge. Keep your back straight and your chest up.
+3. Push through your right heel to step back to standing, then lunge with your left leg. Keep alternating legs.
 
 ## Pro tips
 

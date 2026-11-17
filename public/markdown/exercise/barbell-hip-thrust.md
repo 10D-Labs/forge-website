@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell hip thrust exercise primarily targets the glutes and also works the hamstrings and quadriceps. It involves lying on your back on a bench, placing a barbell across your hips, and lifting your hips upward by engaging your glutes. Beginner legs exercise using barbell. Targets glutes, also works hamstrings, quadriceps.
+A hip lift with your upper back on a bench and a barbell across your hips. It works the glutes, with help from the hamstrings and quads. Beginner legs exercise using barbell. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell hip thrust exercise primarily targets the glutes and also works the 
 
 ## How to perform
 
-1. Lie flat on your back on a bench with your feet flat on the ground and your knees bent.
-2. Hold the barbell with an overhand grip and position it on your hips.
-3. Engaging your glutes, lift your hips off the bench until your body forms a straight line from your knees to your shoulders.
-4. Pause for a moment at the top, then slowly lower your hips back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the floor with your upper back against the edge of a flat bench and a loaded barbell across your hips.
+2. Plant your feet flat, about shoulder-width apart, knees bent. Hold the bar with your hands just outside your hips, palms facing down.
+3. Push through your feet and drive your hips up until your body is level from shoulders to knees.
+4. Lower your hips slowly until they are just above the floor.
 
 ## Pro tips
 

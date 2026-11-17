@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated row is a machine-based exercise targeting the upper back. It involves pulling handles towards the torso while seated, focusing on squeezing the shoulder blades together. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
+A seated row on a machine with a chest pad, pulling the handles back toward you. It works the upper back. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,14 +15,10 @@ The seated row is a machine-based exercise targeting the upper back. It involves
 
 ## How to perform
 
-1. Adjust the seat height and footrests to a comfortable position.
-2. Sit on the machine with your chest against the pad and your feet on the footrests.
-3. Grasp the handles with an overhand grip, shoulder-width apart.
-4. Keep your back straight and your core engaged.
-5. Pull the handles towards your body, squeezing your shoulder blades together.
-6. Pause for a moment at the peak of the movement.
-7. Slowly release the handles and return to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Adjust the seat height and footrests. Sit with your chest against the pad and your feet on the footrests.
+2. Hold the handles with your palms facing down, hands shoulder-width apart.
+3. Keep your back straight and pull the handles toward your body, squeezing your shoulder blades together.
+4. Let the handles go forward slowly until your arms are straight.
 
 ## Pro tips
 

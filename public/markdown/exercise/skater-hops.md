@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Skater hops are a dynamic, lateral jumping exercise that targets the cardiovascular system while also engaging the lower body muscles. The movement mimics a speed skater's motion, helping to improve agility, coordination, and cardiovascular endurance. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
+Side-to-side hops from one foot to the other, like a speed skater. They raise your heart rate, work the legs and train agility and coordination. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ Skater hops are a dynamic, lateral jumping exercise that targets the cardiovascu
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Bend your knees slightly and jump to the right, landing on your right foot.
-3. As you land, swing your left leg behind your right leg and tap the ground with your left toes.
-4. Immediately jump to the left, landing on your left foot.
-5. As you land, swing your right leg behind your left leg and tap the ground with your right toes.
-6. Continue alternating sides, jumping and tapping the ground with each leg.
-7. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your knees slightly bent.
+2. Jump to the right and land on your right foot.
+3. Swing your left leg behind your right as you land and tap the floor with your left toes.
+4. Jump to the left, land on your left foot and tap your right toes behind it. Keep alternating sides.
 
 ## Pro tips
 

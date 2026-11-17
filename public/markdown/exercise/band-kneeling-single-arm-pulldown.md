@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band kneeling one arm pulldown is a resistance band exercise targeting the latissimus dorsi (lats) and also engaging the bicep and rhomboids. It involves kneeling and pulling a resistance band from overhead down to your side, focusing on controlled movement and muscle engagement. Beginner back exercise using resistance band. Targets lats, also works biceps, rhomboids.
+A one-arm pulldown done kneeling on one knee, pulling a band from a high anchor down to your side. It works the lats, with help from the biceps and upper back. Beginner back exercise using resistance band. Targets lats, also works biceps, rhomboids.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,12 +15,11 @@ The band kneeling one arm pulldown is a resistance band exercise targeting the l
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point above your head.
-2. Kneel down and hold the band with one hand, palm facing down.
-3. Extend your arm fully overhead, keeping your elbow slightly bent.
-4. Engage your lat muscles and pull the band down towards your side, bringing your elbow towards your ribcage.
-5. Pause for a moment at the bottom, then slowly release the tension and return to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Attach a resistance band to a sturdy anchor above head height.
+2. Kneel on one knee facing the anchor and hold the band in one hand, palm facing down.
+3. Reach that arm up toward the anchor, keeping your elbow slightly bent.
+4. Pull the band down to your side, bringing your elbow in toward your ribs.
+5. Let your arm rise slowly back up. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

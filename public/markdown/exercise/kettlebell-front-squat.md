@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell front squat is a lower body exercise that targets the glutes and also works the quadriceps, hamstrings, and calves. It involves holding a kettlebell at chest height and performing a squat, emphasizing core engagement and proper squat mechanics. Intermediate legs exercise using kettlebell. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat with a kettlebell held at each shoulder. It works the glutes and quads, and holding the weight in front keeps your upper body upright. Intermediate legs exercise using kettlebell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Kettlebell
@@ -15,12 +15,10 @@ The kettlebell front squat is a lower body exercise that targets the glutes and 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, toes slightly turned out.
-2. Hold the kettlebell with both hands in front of your chest, close to your body.
-3. Engage your core and keep your chest up as you lower your hips down and back, as if sitting into a chair.
-4. Lower until your thighs are parallel to the ground, or as low as you can comfortably go.
-5. Drive through your heels to stand back up, squeezing your glutes at the top.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, toes turned slightly out, holding a kettlebell in each hand up at your shoulders.
+2. Keeping your chest up, sit your hips down and back as if into a chair.
+3. Lower until your thighs are level with the floor or lower, as far as you can comfortably go.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

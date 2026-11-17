@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The 'hug knees to chest' exercise is a bodyweight movement that involves squatting down and hugging your knees to your chest, targeting the glutes and also engaging the hamstrings and quadriceps. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
+A lying stretch where you pull both knees into your chest and hug them. It stretches the glutes and the lower back. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The 'hug knees to chest' exercise is a bodyweight movement that involves squatti
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart.
-2. Bend your knees and lower your body down into a squat position.
-3. As you squat down, bring your knees up towards your chest and hug them with your arms.
-4. Hold this position for a moment, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent, feet flat on the floor and hands resting on your knees.
+2. Lift your feet and pull both knees in toward your chest.
+3. Wrap your arms around your shins and hug your knees in close, letting your lower back round.
+4. Hold for the set time, then let go and lower your feet back to the floor.
 
 ## Pro tips
 

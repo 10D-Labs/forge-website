@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing one arm palm in press is a unilateral shoulder exercise that targets the deltoids while also engaging the tricep and core for stabilization. It is performed standing, pressing a dumbbell overhead with one arm at a time, palm facing inward. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, core.
+A standing one-arm overhead press with your palm facing in, your free hand holding a bench for balance. It works the shoulders, with help from the triceps and abs. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell standing one arm palm in press is a unilateral shoulder exercise th
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand at shoulder height with your palm facing inwards.
-2. Engage your core and keep your back straight.
-3. Press the dumbbell upwards until your arm is fully extended.
-4. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Stand with your feet shoulder-width apart, holding the top of an upright bench with one hand for balance.
+2. Hold a dumbbell in your other hand at shoulder height, palm facing in toward your head.
+3. Keep your back straight and press the dumbbell up until your arm is straight.
+4. Lower it slowly back to your shoulder. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The gripper hands exercise targets the forearms using a machine. It involves gripping and squeezing the handles to strengthen the forearm muscles, with secondary activation of the bicep and tricep. Beginner arms exercise using machine. Targets forearms, also works biceps, triceps.
+A hand squeeze against a loaded handle on a seated grip machine. It works the forearms and your grip. Beginner arms exercise using machine. Targets forearms, also works biceps, triceps.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The gripper hands exercise targets the forearms using a machine. It involves gri
 
 ## How to perform
 
-1. Adjust the seat height and grip the handles of the machine.
-2. Keep your back straight and your feet flat on the ground.
-3. Exhale and squeeze the handles, contracting your forearms.
-4. Hold the contraction for a second, then slowly release and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Adjust the seat height, sit down and grip the machine's handle.
+2. Keep your back straight and your feet flat on the floor.
+3. Squeeze the handle and hold the squeeze for a second.
+4. Release slowly until your hand opens back up.
 
 ## Pro tips
 

@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted hanging leg hip raise is an advanced core exercise that targets the abdominal muscles, with additional emphasis on the hip flexors and lower back. The movement requires hanging from a pullup bar while lifting weighted legs up to engage the core. Advanced core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A hanging knee raise with a dumbbell squeezed between your feet for extra weight. It works the abs and the front of the hips. Advanced core exercise using dumbbell. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
-- **Equipment:** Body Weight
+- **Equipment:** Dumbbell
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Hip Flexors, Lower Back
 - **Difficulty:** Advanced
@@ -15,11 +15,9 @@ The weighted hanging leg hip raise is an advanced core exercise that targets the
 
 ## How to perform
 
-1. Hang from a pullup bar with your arms fully extended and your palms facing away from you.
-2. Engage your core and lift your legs up in front of you, keeping them straight.
-3. Continue lifting until your legs are parallel to the ground or slightly higher.
-4. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your hands shoulder-width apart, palms facing away from you, and a dumbbell held upright between your feet.
+2. Bend your knees and pull them up to your chest, curling your hips up.
+3. Lower your legs slowly until you hang straight again. Don't swing.
 
 ## Pro tips
 
@@ -58,7 +56,7 @@ The Weighted Hanging Leg Hip Raise is an advanced exercise. Beginners should mas
 ## Related exercises
 
 - [More Core Exercises](https://forgetrainer.ai/exercises/core)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
 - [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---

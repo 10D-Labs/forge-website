@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band one arm standing low row is a resistance band exercise targeting the upper back, performed by pulling a band anchored at waist height towards your waist with one arm while standing. Beginner back exercise using resistance band. Targets upper back, also works biceps, shoulders.
+A one-arm row with a band anchored low in front of you, pulling your hand back to your hip. It works the upper back. Beginner back exercise using resistance band. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,13 +15,10 @@ The band one arm standing low row is a resistance band exercise targeting the up
 
 ## How to perform
 
-1. Attach the band to a stable anchor point at waist height.
-2. Stand facing the anchor point with your feet shoulder-width apart.
-3. Hold the band with one hand, palm facing inward, and step back to create tension in the band.
-4. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-5. Pull the band towards your waist, squeezing your shoulder blades together.
-6. Pause for a moment at the top of the movement, then slowly release the band back to the starting position.
-7. Repeat for the desired number of repetitions, then switch sides.
+1. Anchor the band near the floor. Stand facing it with one foot in front of the other and your knees slightly bent.
+2. Hold the band in one hand, palm facing in, and step back until it's tight. Lean forward a little, back straight.
+3. Pull the band back to your hip, drawing your shoulder blade back.
+4. Let your arm straighten slowly. Do all your reps on one side, then switch.
 
 ## Pro tips
 

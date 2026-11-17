@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bodyweight kneeling tricep extension is a bodyweight exercise that targets the tricep, with secondary emphasis on the shoulders and chest. It involves lowering your body by bending the elbows while keeping the core engaged and then pressing back up to the starting position. Intermediate arms exercise using body weight. Targets triceps, also works shoulders, chest.
+A kneeling bodyweight move that presses you up from your forearms onto straight arms. It works the triceps, with help from the shoulders and chest. Intermediate arms exercise using body weight. Targets triceps, also works shoulders, chest.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The bodyweight kneeling tricep extension is a bodyweight exercise that targets t
 
 ## How to perform
 
-1. Kneel down on the ground with your knees hip-width apart.
-2. Place your hands on the ground in front of you, shoulder-width apart, fingers pointing forward.
-3. Extend your legs straight behind you, balancing on your toes and hands, forming a straight line from head to heels.
-4. Bend your elbows and lower your upper body towards the ground, keeping your elbows close to your sides.
-5. Pause for a moment at the bottom, then push through your hands to straighten your arms and return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Kneel on the floor and lean forward onto your forearms, elbows under your shoulders, palms flat on the floor in front of your face.
+2. Keep your hips above your knees.
+3. Press your palms into the floor and straighten your arms, lifting your elbows and chest off the floor.
+4. Bend your elbows slowly to lower your forearms back to the floor.
 
 ## Pro tips
 

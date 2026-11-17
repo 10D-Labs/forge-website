@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline twisted flye is a chest exercise performed on an incline bench, targeting the upper pectorals with an added wrist rotation for increased muscle activation. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
+An incline chest fly that turns the wrists as the dumbbells open out and come back. It works the upper chest. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,12 +15,11 @@ The dumbbell incline twisted flye is a chest exercise performed on an incline be
 
 ## How to perform
 
-1. Set an incline bench to a 45 degree angle and sit on it with a dumbbell in each hand, palms facing each other.
-2. Lie back on the bench and press the dumbbells up to the starting position, directly above your chest, with your arms extended.
+1. Set an incline bench to 45 degrees and sit on it with a dumbbell in each hand.
+2. Lie back and press the dumbbells up until your arms are straight above your chest, palms facing your feet.
 3. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.
-4. As you lower the dumbbells, rotate your wrists so that your palms face forward at the bottom of the movement.
-5. Reverse the motion and bring the dumbbells back up to the starting position, squeezing your chest muscles together at the top.
-6. Repeat for the desired number of repetitions.
+4. Turn your wrists as you lower them, so your palms face up at the bottom.
+5. Reverse the motion, turning your palms back toward your feet as the dumbbells come up over your chest.
 
 ## Pro tips
 

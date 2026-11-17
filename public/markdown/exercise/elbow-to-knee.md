@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The elbow to knee exercise is a bodyweight movement targeting the abdominal muscles, especially the abs and obliques, through a twisting, crunch-like motion. Beginner core exercise using body weight. Targets abs, also works obliques.
+A lying twist crunch: one elbow comes toward the opposite knee while the other leg stays straight and off the floor, then you switch. It works the abs and obliques. Beginner core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The elbow to knee exercise is a bodyweight movement targeting the abdominal musc
 
 ## How to perform
 
-1. Start by lying flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engage your abs and lift your upper body off the ground, bringing your right elbow towards your left knee.
-4. At the same time, bring your left knee towards your right elbow, creating a twisting motion.
-5. Pause for a moment at the top, then slowly lower your upper body and extend your legs back to the starting position.
-6. Repeat the movement, this time bringing your left elbow towards your right knee and your right knee towards your left elbow.
-7. Continue alternating sides for the desired number of repetitions.
+1. Lie on your back with your hands behind your head, elbows pointing out. Lift both feet just off the floor, legs straight.
+2. Lift your upper body and twist to bring your right elbow toward your left knee as you pull that knee in.
+3. Keep your right leg straight and off the floor while you twist.
+4. Untwist and straighten your left leg, then bring your left elbow toward your right knee. Keep alternating sides.
 
 ## Pro tips
 

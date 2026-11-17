@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The situp with arms on chest is a classic abdominal exercise that targets the abs and also engages the hip flexors. It is performed by lying on your back, crossing your arms over your chest, and lifting your upper body towards your knees. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A full situp with your arms crossed over your chest. It works the abs, with help from the muscles at the front of your hips. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The situp with arms on chest is a classic abdominal exercise that targets the ab
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
+1. Lie on your back with your knees bent and your feet flat on the floor.
 2. Cross your arms over your chest.
-3. Engaging your abs, lift your upper body off the ground towards your knees.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+3. Sit all the way up, lifting your upper body off the floor toward your knees.
+4. Lower your upper body slowly back to the floor.
 
 ## Pro tips
 

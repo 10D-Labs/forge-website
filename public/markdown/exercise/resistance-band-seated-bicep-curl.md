@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The resistance band seated bicep curl is an upper arm exercise that targets the bicep using a resistance band while seated, making it accessible and safe for most fitness levels. Beginner arms exercise using resistance band. Targets biceps, also works forearms.
+A biceps curl done sitting down, using a resistance band instead of weights. It works the biceps. Beginner arms exercise using resistance band. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The resistance band seated bicep curl is an upper arm exercise that targets the 
 
 ## How to perform
 
-1. Sit on a chair or bench with your back straight and feet flat on the ground.
-2. Hold the resistance band with an underhand grip, palms facing up, and arms extended down by your sides.
-3. Keeping your upper arms stationary, exhale and curl the resistance band up towards your shoulders.
-4. Pause for a moment at the top, squeezing your biceps.
-5. Inhale and slowly lower the resistance band back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit on a bench or chair with your back straight and your feet flat on the floor.
+2. Hold the resistance band with your palms facing forward and your arms straight down by your sides.
+3. Keep your upper arms still and curl your hands up toward your shoulders.
+4. Lower your hands slowly until your arms are straight.
 
 ## Pro tips
 

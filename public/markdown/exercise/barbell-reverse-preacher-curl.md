@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell reverse preacher curl is an isolation exercise targeting the bicep and forearms. It is performed on a preacher bench with an overhand grip, emphasizing the brachialis and forearm extensors. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
+A preacher curl with your palms facing down, done on a bench with a slanted arm pad. It works the biceps and the forearms. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,12 +15,9 @@ The barbell reverse preacher curl is an isolation exercise targeting the bicep a
 
 ## How to perform
 
-1. Sit on a preacher bench with your chest against the pad and your arms extended straight down, holding a barbell with an overhand grip.
-2. Keeping your upper arms stationary, exhale and curl the barbell upward while contracting your biceps.
-3. Continue to raise the barbell until your biceps are fully contracted and the barbell is at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly lower the barbell back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit at a preacher bench with your chest against the pad and your arms straight down, holding a barbell with your palms facing down.
+2. Keep your upper arms still and curl the bar up to shoulder level.
+3. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

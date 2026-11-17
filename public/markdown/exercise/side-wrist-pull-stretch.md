@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The side wrist pull stretch is a bodyweight exercise that targets the forearms and helps improve flexibility and mobility in the wrists and hands. It is performed by extending one arm to the side and gently pulling the hand towards the body with the opposite hand, creating a stretch in the forearm. Beginner arms exercise using body weight. Targets forearms, also works wrists, hands.
+A standing stretch where you hold one arm across your chest and pull its fingers back with the other hand. It stretches the forearm and wrist. Beginner arms exercise using body weight. Targets forearms, also works wrists, hands.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The side wrist pull stretch is a bodyweight exercise that targets the forearms a
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your arms extended in front of you.
-2. Extend your right arm out to the side, parallel to the ground, with your palm facing down.
-3. With your left hand, grab your right hand and gently pull it towards your body, feeling a stretch in your right forearm.
-4. Hold the stretch for 15-30 seconds, then release.
-5. Repeat on the other side.
+1. Stand with your feet shoulder-width apart.
+2. Raise one arm straight across the front of your chest at shoulder height.
+3. With your other hand, take hold of its fingers and gently pull them back toward you until you feel a stretch in your forearm.
+4. Hold for the set time, then release and switch arms.
 
 ## Pro tips
 

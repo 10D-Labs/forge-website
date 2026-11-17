@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted kneeling step with swing is a dynamic exercise that targets the deltoids while also engaging the tricep and core. It involves swinging weights overhead from a kneeling position, requiring coordination, balance, and strength. Intermediate shoulders exercise using body weight. Targets shoulders, also works triceps, core.
+A step from tall kneeling onto one foot while you raise a weight plate overhead with straight arms. It works the front of the shoulders, while your core and legs keep you steady. Intermediate shoulders exercise using weight plate. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Shoulders
 - **Secondary Muscles:** Triceps, Core
 - **Difficulty:** Intermediate
@@ -15,10 +15,10 @@ The weighted kneeling step with swing is a dynamic exercise that targets the del
 
 ## How to perform
 
-1. Start in a kneeling position with your knees hip-width apart and your back straight.
-2. Hold a weight in each hand, with your arms extended straight down in front of you.
-3. Engage your core and swing the weights up and overhead, keeping your arms straight.
-4. Lower the weights back down to the starting position and repeat for the desired number of repetitions.
+1. Kneel tall on the floor with your knees hip-width apart and your hips over your knees.
+2. Hold a weight plate flat in front of your hips, one hand on each side, palms facing each other.
+3. Step one foot forward onto a flat foot while you swing the plate up in front of you to overhead, arms straight.
+4. Lower the plate to your hips as you step back to kneeling, then step with the other foot. Keep alternating sides.
 
 ## Pro tips
 
@@ -57,7 +57,7 @@ The Weighted Kneeling Step with Swing is rated as intermediate. Beginners should
 ## Related exercises
 
 - [More Shoulders Exercises](https://forgetrainer.ai/exercises/shoulders)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Shoulders Exercises](https://forgetrainer.ai/exercises/muscle/shoulders)
 
 ---

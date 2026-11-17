@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-39 smith machine exercises. Controlled, stable lifting. Great for solo training when you need a spotter-free setup.
+36 smith machine exercises. Controlled, stable lifting. Great for solo training when you need a spotter-free setup.
 
 ---
 
@@ -38,22 +38,19 @@
 
 - **Smith Incline Shoulder Raises** — Intermediate | Target: Serratus
 
-### Legs (16 exercises)
+### Legs (13 exercises)
 
 - **Smith Chair Squat** — Beginner | Target: Quads
 - **Smith Deadlift** — Beginner | Target: Glutes
-- **Smith Hack Squat** — Intermediate | Target: Glutes
+- **Smith Hack Squat** — Intermediate | Target: Quads
 - **Smith Leg Press** — Beginner | Target: Glutes
-- **Smith Reverse Calf Raises** — Beginner | Target: Calves
-- **Smith Squat** — Beginner | Target: Glutes
 - **Smith Standing Leg Calf Raise** — Beginner | Target: Calves
 - **Smith Machine Clean Grip Front Squat** — Intermediate | Target: Glutes
-- **Smith Low Bar Squat** — Intermediate | Target: Glutes
+- **Smith Squat** — Intermediate | Target: Glutes
 - **Smith Sumo Squat** — Beginner | Target: Glutes
-- **Smith Full Squat** — Beginner | Target: Glutes
 - **Smith Bent Knee Good Morning** — Intermediate | Target: Glutes
 - **Smith Single Leg Split Squat** — Intermediate | Target: Quads
-- **Smith Lunge** — Advanced | Target: Glutes
+- **Smith Split Squat** — Advanced | Target: Glutes
 - **Smith Single Leg Floor Calf Raise** — Intermediate | Target: Calves
 - **Smith Seated Single Leg Calf Raise** — Intermediate | Target: Calves
 
@@ -61,7 +58,7 @@
 
 - **Smith Rear Delt Row** — Beginner | Target: Shoulders
 - **Smith Seated Shoulder Press** — Beginner | Target: Shoulders
-- **Smith Shoulder Press** — Beginner | Target: Shoulders
+- **Smith Wide Grip Shoulder Press** — Beginner | Target: Shoulders
 - **Smith Standing Military Press** — Intermediate | Target: Shoulders
 - **Smith Upright Row** — Intermediate | Target: Shoulders
 
@@ -71,7 +68,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

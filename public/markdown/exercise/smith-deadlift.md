@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith deadlift is a compound lower body exercise performed using a smith machine. It primarily targets the glutes, with secondary emphasis on the hamstrings, quadriceps, and lower back. The smith machine provides a guided bar path, which can help with stability and form for those learning the deadlift movement. Beginner legs exercise using smith machine. Targets glutes, also works hamstrings, quadriceps, lower back.
+A deadlift done on a Smith machine, where the bar runs on fixed rails, which helps while you learn the move. It works the glutes, with help from the hamstrings, quads and lower back. Beginner legs exercise using smith machine. Targets glutes, also works hamstrings, quadriceps, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith deadlift is a compound lower body exercise performed using a smith mac
 
 ## How to perform
 
-1. Set up the smith machine with the bar at hip height.
-2. Stand with your feet shoulder-width apart, toes pointing slightly outward.
-3. Bend at the hips and knees, keeping your back straight and chest up, and grip the bar with an overhand grip slightly wider than shoulder-width apart.
-4. Engage your core and lift the bar by extending your hips and knees, keeping the bar close to your body.
-5. Stand up straight, fully extending your hips and knees.
-6. Lower the bar back down by bending at the hips and knees, maintaining control and keeping your back straight.
-7. Repeat for the desired number of repetitions.
+1. Set the Smith machine bar low, at about shin height. Stand close to it with your feet shoulder-width apart, toes turned slightly out.
+2. Bend your hips and knees to grab the bar, palms facing you, hands slightly wider than shoulder-width. Keep your back straight and chest up.
+3. Stand up by straightening your hips and knees, keeping the bar close to your body, until you're standing tall.
+4. Bend your hips and knees to lower the bar slowly back down, keeping your back straight.
 
 ## Pro tips
 

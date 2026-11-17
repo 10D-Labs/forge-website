@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell over bench one arm reverse wrist curl targets the forearms, specifically the extensors, and is performed by curling the wrist upwards while the forearm is supported on a bench. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
+A one-arm wrist curl with your palm facing down, lifting the back of your hand while your forearm rests on a bench. It works the top of the forearm. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell over bench one arm reverse wrist curl targets the forearms, specifi
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand, palm facing down.
-2. Rest your forearm on the bench with your wrist hanging off the edge.
-3. Slowly curl your wrist upwards, bringing the dumbbell towards your forearm.
-4. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Kneel beside a flat bench and lean over it, holding a dumbbell in one hand, palm facing down.
+2. Rest that forearm across the bench with your wrist and hand hanging off the far edge.
+3. Bend your wrist to lift the back of your hand and the dumbbell up as far as you can.
+4. Lower the dumbbell slowly until your wrist bends down. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell double snatch is a dynamic, full-body movement that targets the shoulders (delts) and also engages the trapezius, forearms, and core. It requires explosive power, coordination, and proper technique to perform safely and effectively. Advanced shoulders exercise using kettlebell. Targets shoulders, also works trapezius, forearms, core.
+A fast lift that takes two kettlebells from in front of your thighs to straight overhead in one move. It works the shoulders, with the upper back, forearms and abs helping. Advanced shoulders exercise using kettlebell. Targets shoulders, also works trapezius, forearms, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -16,10 +16,10 @@ The kettlebell double snatch is a dynamic, full-body movement that targets the s
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at arm's length in front of your thighs.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back flat and chest up.
-3. In one explosive motion, extend your hips, knees, and ankles, and simultaneously pull the kettlebells up towards your shoulders.
-4. As the kettlebells reach shoulder level, rotate your wrists and punch the kettlebells overhead, fully extending your arms.
-5. Lower the kettlebells back down to the starting position and repeat for the desired number of repetitions.
+2. Bend your knees slightly and lean forward from your hips, keeping your back flat and your chest up.
+3. Straighten your hips, knees and ankles in one fast move, pulling the kettlebells up toward your shoulders.
+4. Turn your wrists as the kettlebells reach shoulder height and punch them straight overhead until your arms are straight.
+5. Lower the kettlebells back down in front of your thighs.
 
 ## Pro tips
 

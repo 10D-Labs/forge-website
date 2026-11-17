@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band front raise is an exercise targeting the deltoid muscles of the shoulders. It is performed by standing on a resistance band and raising the arms straight in front of the body to shoulder height, then lowering them back down. This movement helps build shoulder strength and stability, with secondary activation of the tricep and upper back. Beginner shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
+A front raise against a resistance band under your feet, lifting both straight arms to shoulder height. It works the front of the shoulders. Beginner shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,10 +15,9 @@ The band front raise is an exercise targeting the deltoid muscles of the shoulde
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the band in front of your thighs with your palms facing down.
-2. Keep your arms straight and slowly raise them forward until they are parallel to the ground.
-3. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand on a resistance band with your feet shoulder-width apart. Hold an end in each hand in front of your thighs, palms facing down.
+2. Keep your arms straight and raise them forward until they are level with the floor, at shoulder height.
+3. Lower your arms slowly back to your thighs.
 
 ## Pro tips
 

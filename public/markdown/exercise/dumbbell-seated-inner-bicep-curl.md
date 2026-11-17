@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated inner bicep curl targets the bicep and forearms by having the lifter sit on a bench, rest their upper arms on their thighs, and curl dumbbells upward. This isolates the bicep and minimizes momentum, making it an effective strength-building exercise. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A seated curl where the dumbbells travel out wide and finish outside your shoulders, both arms at once. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell seated inner bicep curl targets the bicep and forearms by having th
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand, palms facing up.
-2. Rest your upper arms on your thighs, allowing the dumbbells to hang down.
-3. Keeping your upper arms stationary, curl the dumbbells up towards your shoulders by contracting your biceps.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on an upright bench with your back against the pad and your feet flat.
+2. Hold a dumbbell in each hand, arms hanging at your sides, palms facing forward.
+3. Keep your upper arms close to your sides and curl both dumbbells up and out, so they finish wide, just outside your shoulders.
+4. Lower slowly until your arms are straight again.
 
 ## Pro tips
 

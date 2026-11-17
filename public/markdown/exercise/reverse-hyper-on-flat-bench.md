@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The reverse hyper on flat bench is a bodyweight exercise targeting the glutes, with secondary emphasis on the hamstrings and lower back. It involves lying face down on a flat bench and lifting the legs upward, focusing on squeezing the glutes at the top of the movement. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, lower back.
+A face-down leg raise off the end of a flat bench, lifting your straight legs behind you. It works the glutes, with help from the hamstrings and lower back. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The reverse hyper on flat bench is a bodyweight exercise targeting the glutes, w
 
 ## How to perform
 
-1. Lie face down on a flat bench with your hips at the edge and your legs hanging off the bench.
-2. Hold onto the bench for stability.
-3. Keeping your legs straight, raise them up towards the ceiling as high as you can.
-4. Squeeze your glutes at the top of the movement.
-5. Slowly lower your legs back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie face down on a flat bench with your hips at the end and your legs hanging off.
+2. Hold the bench to keep yourself steady.
+3. Keep your legs straight and raise them toward the ceiling as high as you can.
+4. Lower your legs slowly back down.
 
 ## Pro tips
 

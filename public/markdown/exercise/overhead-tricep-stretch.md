@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The overhead tricep stretch is a static stretching exercise that targets the tricep and also stretches the shoulders. It is performed by extending one arm overhead, bending at the elbow, and using the opposite hand to gently pull the elbow for a deeper stretch. Beginner arms exercise using body weight. Targets triceps, also works shoulders.
+A stretch for the back of the upper arm: bend one arm overhead and gently pull the elbow across with your other hand. It stretches the triceps and shoulders. Beginner arms exercise using body weight. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The overhead tricep stretch is a static stretching exercise that targets the tri
 
 ## How to perform
 
-1. Stand or sit upright with your feet shoulder-width apart.
-2. Extend one arm overhead, bending at the elbow so that your hand reaches towards the opposite shoulder blade.
-3. With your other hand, gently pull the elbow of the extended arm towards the opposite side of your head, feeling a stretch in your triceps.
-4. Hold the stretch for 15-30 seconds, then release.
-5. Repeat on the other side.
+1. Stand tall with your feet shoulder-width apart, or sit up straight.
+2. Raise one arm overhead and bend the elbow so your hand reaches down toward the opposite shoulder blade.
+3. Pull the elbow gently toward the other side of your head with your free hand until you feel a stretch.
+4. Hold for the set time, then let go and switch sides.
 
 ## Pro tips
 

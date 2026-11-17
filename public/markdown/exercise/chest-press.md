@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The chest press is a machine-based exercise targeting the pectoral muscles. It provides a controlled pressing movement, making it suitable for building chest strength with added support and stability from the machine. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
+A chest press done sitting in a machine, pushing the handles forward from your chest. It works the chest. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The chest press is a machine-based exercise targeting the pectoral muscles. It p
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your back flat against the pad.
-2. Grasp the handles with an overhand grip and position your elbows at a 90 degree angle.
-3. Push the handles forward until your arms are fully extended, exhaling during the movement.
-4. Pause briefly at the end of the movement, then slowly return to the starting position, inhaling as you do so.
-5. Repeat for the desired number of repetitions.
+1. Adjust the seat height and sit in the machine with your back flat against the pad.
+2. Grab the handles with your palms facing down and your elbows bent to 90 degrees.
+3. Push the handles forward until your arms are straight.
+4. Let the handles come back slowly until your elbows are bent to 90 degrees again.
 
 ## Pro tips
 

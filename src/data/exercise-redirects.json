@@ -1,0 +1,506 @@
+[
+  {
+    "source": "/exercise/alternate-lateral-pulldown",
+    "destination": "/exercise/single-arm-lat-pulldown"
+  },
+  {
+    "source": "/exercise/parallel-close-grip-pullup",
+    "destination": "/exercise/assisted-close-neutral-grip-pullup"
+  },
+  {
+    "source": "/exercise/barbell-single-leg-split-squat",
+    "destination": "/exercise/barbell-bulgarian-split-squat"
+  },
+  {
+    "source": "/exercise/bicep-narrow-pullup",
+    "destination": "/exercise/narrow-reverse-grip-inverted-row"
+  },
+  {
+    "source": "/exercise/cable-alternate-tricep-extension",
+    "destination": "/exercise/cable-single-arm-tricep-extension"
+  },
+  {
+    "source": "/exercise/cable-incline-pushdown",
+    "destination": "/exercise/cable-incline-bench-pullover"
+  },
+  {
+    "source": "/exercise/incline-pushup",
+    "destination": "/exercise/feet-elevated-pushup"
+  },
+  {
+    "source": "/exercise/dumbbell-alternate-side-press",
+    "destination": "/exercise/dumbbell-standing-alternate-shoulder-press"
+  },
+  {
+    "source": "/exercise/dumbbell-decline-shrug",
+    "destination": "/exercise/dumbbell-chest-supported-shrug"
+  },
+  {
+    "source": "/exercise/dumbbell-incline-palms-in-press",
+    "destination": "/exercise/dumbbell-incline-reverse-grip-press"
+  },
+  {
+    "source": "/exercise/dumbbell-incline-raise",
+    "destination": "/exercise/dumbbell-incline-front-raise"
+  },
+  {
+    "source": "/exercise/dumbbell-neutral-grip-bench-press",
+    "destination": "/exercise/dumbbell-lying-neutral-grip-tricep-extension"
+  },
+  {
+    "source": "/exercise/dumbbell-plyo-squat",
+    "destination": "/exercise/dumbbell-sumo-squat"
+  },
+  {
+    "source": "/exercise/dumbbell-pronated-grip-tricep-extension",
+    "destination": "/exercise/dumbbell-lying-pronated-grip-tricep-extension"
+  },
+  {
+    "source": "/exercise/dumbbell-rear-delt-row",
+    "destination": "/exercise/dumbbell-single-arm-rear-delt-row"
+  },
+  {
+    "source": "/exercise/dumbbell-rear-fly",
+    "destination": "/exercise/dumbbell-seated-bent-over-rear-fly"
+  },
+  {
+    "source": "/exercise/dumbbell-reverse-fly",
+    "destination": "/exercise/dumbbell-incline-reverse-fly"
+  },
+  {
+    "source": "/exercise/dumbbell-rotation-reverse-fly",
+    "destination": "/exercise/dumbbell-incline-rotation-reverse-fly"
+  },
+  {
+    "source": "/exercise/dumbbell-single-leg-split-squat",
+    "destination": "/exercise/dumbbell-bulgarian-split-squat"
+  },
+  {
+    "source": "/exercise/dumbbell-standing-alternate-raise",
+    "destination": "/exercise/dumbbell-standing-alternate-front-raise"
+  },
+  {
+    "source": "/exercise/dumbbell-standing-tricep-extension",
+    "destination": "/exercise/dumbbell-standing-single-arm-tricep-extension"
+  },
+  {
+    "source": "/exercise/flutter-kicks",
+    "destination": "/exercise/prone-bench-flutter-kicks"
+  },
+  {
+    "source": "/exercise/hanging-leg-raise",
+    "destination": "/exercise/hanging-knee-raise"
+  },
+  {
+    "source": "/exercise/decline-close-grip-pushup",
+    "destination": "/exercise/hands-elevated-close-grip-pushup"
+  },
+  {
+    "source": "/exercise/decline-pushup",
+    "destination": "/exercise/hands-elevated-pushup"
+  },
+  {
+    "source": "/exercise/incline-twisting-situp",
+    "destination": "/exercise/decline-twisting-situp"
+  },
+  {
+    "source": "/exercise/kettlebell-single-arm-jerk",
+    "destination": "/exercise/kettlebell-single-arm-overhead-squat"
+  },
+  {
+    "source": "/exercise/kettlebell-squat-style-turkish-get-up",
+    "destination": "/exercise/kettlebell-turkish-get-up"
+  },
+  {
+    "source": "/exercise/bent-over-row",
+    "destination": "/exercise/landmine-t-bar-row"
+  },
+  {
+    "source": "/exercise/bicep-curl",
+    "destination": "/exercise/machine-bicep-curl"
+  },
+  {
+    "source": "/exercise/deadlift",
+    "destination": "/exercise/machine-deadlift"
+  },
+  {
+    "source": "/exercise/lateral-raise",
+    "destination": "/exercise/machine-lateral-raise"
+  },
+  {
+    "source": "/exercise/military-press",
+    "destination": "/exercise/machine-shoulder-press"
+  },
+  {
+    "source": "/exercise/single-arm-bent-over-row",
+    "destination": "/exercise/single-arm-landmine-row"
+  },
+  {
+    "source": "/exercise/negative-crunch",
+    "destination": "/exercise/decline-crunch"
+  },
+  {
+    "source": "/exercise/raise-single-arm-pushup",
+    "destination": "/exercise/pushup-with-arm-raise"
+  },
+  {
+    "source": "/exercise/rear-decline-bridge",
+    "destination": "/exercise/glute-bridge"
+  },
+  {
+    "source": "/exercise/seated-leg-raise",
+    "destination": "/exercise/seated-knee-tuck"
+  },
+  {
+    "source": "/exercise/seated-lower-back-stretch",
+    "destination": "/exercise/seated-overhead-lat-stretch"
+  },
+  {
+    "source": "/exercise/parallel-bars-oblique-swing",
+    "destination": "/exercise/captain-s-chair-oblique-knee-raise"
+  },
+  {
+    "source": "/exercise/side-hip-abduction",
+    "destination": "/exercise/side-lying-hip-abduction"
+  },
+  {
+    "source": "/exercise/single-leg-platform-slide",
+    "destination": "/exercise/lying-heel-slide"
+  },
+  {
+    "source": "/exercise/closer-hack-squat",
+    "destination": "/exercise/close-stance-hack-squat"
+  },
+  {
+    "source": "/exercise/smith-shoulder-press",
+    "destination": "/exercise/smith-wide-grip-shoulder-press"
+  },
+  {
+    "source": "/exercise/smith-lunge",
+    "destination": "/exercise/smith-split-squat"
+  },
+  {
+    "source": "/exercise/spider-crawl-push-up",
+    "destination": "/exercise/plank-knee-to-elbow"
+  },
+  {
+    "source": "/exercise/parallel-bars-vertical-knee-raise",
+    "destination": "/exercise/captain-s-chair-knee-raise"
+  },
+  {
+    "source": "/exercise/weighted-squat",
+    "destination": "/exercise/weighted-squat-between-benches"
+  },
+  {
+    "source": "/exercise/weighted-standing-hand-squeeze",
+    "destination": "/exercise/plate-pinch-hold"
+  },
+  {
+    "source": "/exercise/cable-kickback",
+    "destination": "/exercise/cable-bent-over-tricep-kickback"
+  },
+  {
+    "source": "/exercise/cable-up-down-twist",
+    "destination": "/exercise/cable-high-to-low-woodchop"
+  },
+  {
+    "source": "/exercise/band-single-leg-reverse-calf-raise",
+    "destination": "/exercise/single-leg-tibialis-raise"
+  },
+  {
+    "source": "/exercise/band-stiff-leg-deadlift",
+    "destination": "/exercise/band-straight-leg-deadlift"
+  },
+  {
+    "source": "/exercise/single-arm-isometric-lat-pull",
+    "destination": "/exercise/single-arm-lat-stretch-against-wall"
+  },
+  {
+    "source": "/exercise/calf-stretch-with-rope",
+    "destination": "/exercise/lying-calf-stretch-with-band"
+  },
+  {
+    "source": "/exercise/seated-squat-calf-raise-on-leg-press-machine",
+    "destination": "/exercise/seated-leg-press"
+  },
+  {
+    "source": "/exercise/bench-dip-on-floor",
+    "destination": "/exercise/bench-dip"
+  },
+  {
+    "source": "/exercise/straight-leg-outer-hip-abductor",
+    "destination": "/exercise/standing-cross-leg-outer-hip-stretch"
+  },
+  {
+    "source": "/exercise/smith-low-bar-squat",
+    "destination": "/exercise/smith-squat"
+  },
+  {
+    "source": "/exercise/single-leg-squat",
+    "destination": "/exercise/bodyweight-bulgarian-split-squat"
+  },
+  {
+    "source": "/exercise/reclining-big-toe-pose-with-rope",
+    "destination": "/exercise/reclining-big-toe-pose-with-band"
+  },
+  {
+    "source": "/exercise/standing-hamstring-and-calf-stretch-with-strap",
+    "destination": "/exercise/standing-hamstring-and-calf-stretch-with-band"
+  },
+  {
+    "source": "/exercise/dumbbell-incline-bench-curl",
+    "destination": "/exercise/dumbbell-single-arm-preacher-curl-on-incline-bench"
+  },
+  {
+    "source": "/exercise/cable-single-arm-reverse-grip-tricep-extension",
+    "destination": "/exercise/cable-single-arm-reverse-grip-overhead-tricep-extension"
+  },
+  {
+    "source": "/exercise/dumbbell-standing-bent-over-tricep-extension",
+    "destination": "/exercise/dumbbell-bent-over-single-arm-tricep-extension"
+  },
+  {
+    "source": "/exercise/dumbbell-rear-delt-raise",
+    "destination": "/exercise/dumbbell-standing-rear-delt-row"
+  },
+  {
+    "source": "/exercise/inverted-row-on-bench",
+    "destination": "/exercise/inverted-row-with-feet-on-bench"
+  },
+  {
+    "source": "/exercise/dumbbell-lying-on-floor-rear-delt-raise",
+    "destination": "/exercise/dumbbell-side-lying-rear-delt-raise"
+  },
+  {
+    "source": "/exercise/weighted-close-grip-chinup-on-dip-cage",
+    "destination": "/exercise/weighted-close-grip-chinup"
+  },
+  {
+    "source": "/exercise/decline-scapula-push-up",
+    "destination": "/exercise/hands-elevated-scapula-pushup"
+  },
+  {
+    "source": "/exercise/bench-pullup",
+    "destination": "/exercise/bench-assisted-pullup"
+  },
+  {
+    "source": "/exercise/potty-squat",
+    "destination": "/exercise/bodyweight-squat"
+  },
+  {
+    "source": "/exercise/weighted-ring-muscle-up",
+    "destination": "/exercise/weighted-ring-pull-up"
+  },
+  {
+    "source": "/exercise/reverse-plank-with-leg-lift",
+    "destination": "/exercise/reverse-tabletop-leg-lift"
+  },
+  {
+    "source": "/exercise/power-point-plank",
+    "destination": "/exercise/plank-with-opposite-arm-and-leg-raise"
+  },
+  {
+    "source": "/exercise/box-decline-pushup",
+    "destination": "/exercise/hands-elevated-box-pushup"
+  },
+  {
+    "source": "/exercise/prone-hamstring",
+    "destination": "/exercises/legs"
+  },
+  {
+    "source": "/exercise/barbell-single-leg-squat",
+    "destination": "/exercise/barbell-bulgarian-split-squat"
+  },
+  {
+    "source": "/exercise/barbell-speed-squat",
+    "destination": "/exercise/barbell-full-squat"
+  },
+  {
+    "source": "/exercise/barbell-standing-reverse-grip-curl",
+    "destination": "/exercise/barbell-reverse-curl"
+  },
+  {
+    "source": "/exercise/bicep-pullup",
+    "destination": "/exercise/chinup"
+  },
+  {
+    "source": "/exercise/cable-crossover-lateral-pulldown",
+    "destination": "/exercises/back"
+  },
+  {
+    "source": "/exercise/cable-seated-high-row",
+    "destination": "/exercise/cable-lateral-pulldown-with-v-bar"
+  },
+  {
+    "source": "/exercise/cable-standing-single-arm-tricep-extension",
+    "destination": "/exercise/cable-single-arm-tricep-pushdown"
+  },
+  {
+    "source": "/exercise/dumbbell-cuban-press",
+    "destination": "/exercises/shoulders"
+  },
+  {
+    "source": "/exercise/dumbbell-standing-bicep-curl",
+    "destination": "/exercise/dumbbell-bicep-curl"
+  },
+  {
+    "source": "/exercise/dumbbell-stiff-leg-deadlift",
+    "destination": "/exercise/dumbbell-straight-leg-deadlift"
+  },
+  {
+    "source": "/exercise/incline-push-up-depth-jump",
+    "destination": "/exercises/chest"
+  },
+  {
+    "source": "/exercise/kettlebell-double-alternating-hang-clean",
+    "destination": "/exercise/kettlebell-alternating-hang-clean"
+  },
+  {
+    "source": "/exercise/kettlebell-single-arm-military-press-to-the-side",
+    "destination": "/exercise/kettlebell-arnold-press"
+  },
+  {
+    "source": "/exercise/smith-reverse-calf-raises",
+    "destination": "/exercise/single-leg-tibialis-raise"
+  },
+  {
+    "source": "/exercise/bench-tricep-dip",
+    "destination": "/exercise/bench-dip"
+  },
+  {
+    "source": "/exercise/between-benches-tricep-dip",
+    "destination": "/exercise/bench-dip"
+  },
+  {
+    "source": "/exercise/tricep-stretch",
+    "destination": "/exercise/rear-deltoid-stretch"
+  },
+  {
+    "source": "/exercise/weighted-donkey-calf-raise",
+    "destination": "/exercises/legs"
+  },
+  {
+    "source": "/exercise/wrist-roller",
+    "destination": "/exercises/arms"
+  },
+  {
+    "source": "/exercise/dumbbell-single-arm-incline-chest-press",
+    "destination": "/exercise/dumbbell-incline-single-arm-press"
+  },
+  {
+    "source": "/exercise/dumbbell-reverse-grip-incline-bench-arm-row",
+    "destination": "/exercise/dumbbell-lying-rear-delt-row"
+  },
+  {
+    "source": "/exercise/calf-press-on-leg-press",
+    "destination": "/exercise/calf-raise-on-leg-press"
+  },
+  {
+    "source": "/exercise/standing-chinup",
+    "destination": "/exercise/assisted-chinup"
+  },
+  {
+    "source": "/exercise/standing-pullup",
+    "destination": "/exercise/assisted-pullup"
+  },
+  {
+    "source": "/exercise/hamstring-stretch",
+    "destination": "/exercise/leg-up-hamstring-stretch"
+  },
+  {
+    "source": "/exercise/chair-leg-extended-stretch",
+    "destination": "/exercise/seated-knee-tuck"
+  },
+  {
+    "source": "/exercise/dumbbell-palms-in-incline-bench-press",
+    "destination": "/exercise/dumbbell-incline-hammer-press"
+  },
+  {
+    "source": "/exercise/dumbbell-bicep-reverse-curl",
+    "destination": "/exercise/dumbbell-reverse-grip-bicep-curl"
+  },
+  {
+    "source": "/exercise/lying-calves-stretch",
+    "destination": "/exercises/legs"
+  },
+  {
+    "source": "/exercise/lying-glutes-stretch",
+    "destination": "/exercises/legs"
+  },
+  {
+    "source": "/exercise/lying-gluteus-and-piriformis-stretch",
+    "destination": "/exercises/legs"
+  },
+  {
+    "source": "/exercise/side-lying-adductor-stretch",
+    "destination": "/exercises/legs"
+  },
+  {
+    "source": "/exercise/prone-lying-quads-stretch",
+    "destination": "/exercises/legs"
+  },
+  {
+    "source": "/exercise/dumbbell-seated-bent-arm-lateral-raise",
+    "destination": "/exercise/dumbbell-seated-lateral-raise"
+  },
+  {
+    "source": "/exercise/chest-dip-on-straight-bar",
+    "destination": "/exercise/chest-dip"
+  },
+  {
+    "source": "/exercise/dumbbell-sumo-pull-through",
+    "destination": "/exercise/dumbbell-sumo-squat"
+  },
+  {
+    "source": "/exercise/low-glute-bridge-on-floor",
+    "destination": "/exercise/glute-bridge"
+  },
+  {
+    "source": "/exercise/bent-over-row-with-v-bar",
+    "destination": "/exercise/landmine-t-bar-row"
+  },
+  {
+    "source": "/exercise/half-situp",
+    "destination": "/exercise/situp"
+  },
+  {
+    "source": "/exercise/prisoner-half-situp",
+    "destination": "/exercise/situp"
+  },
+  {
+    "source": "/exercise/half-knee-bends",
+    "destination": "/exercises/cardio"
+  },
+  {
+    "source": "/exercise/two-toe-touch",
+    "destination": "/exercise/basic-toe-touch"
+  },
+  {
+    "source": "/exercise/smith-full-squat",
+    "destination": "/exercise/smith-squat"
+  },
+  {
+    "source": "/exercise/skin-the-cat",
+    "destination": "/exercises/back"
+  },
+  {
+    "source": "/exercise/back-and-forth-step",
+    "destination": "/exercise/skater-hops"
+  },
+  {
+    "source": "/exercise/compare/deadlift-vs-barbell-bent-over-row",
+    "destination": "/exercise/compare/barbell-deadlift-vs-barbell-bent-over-row"
+  },
+  {
+    "source": "/exercise/compare/deadlift-vs-barbell-romanian-deadlift",
+    "destination": "/exercise/compare/barbell-deadlift-vs-barbell-romanian-deadlift"
+  },
+  {
+    "source": "/exercise/compare/lateral-raise-vs-cable-lateral-raise",
+    "destination": "/exercise/compare/dumbbell-lateral-raise-vs-cable-lateral-raise"
+  },
+  {
+    "source": "/exercise/compare/hanging-leg-raise-vs-cable-kneeling-crunch",
+    "destination": "/exercise/compare/hanging-straight-leg-raise-vs-cable-kneeling-crunch"
+  }
+]

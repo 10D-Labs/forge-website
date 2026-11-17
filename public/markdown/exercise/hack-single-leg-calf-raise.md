@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hack one leg calf raise is performed on a leg press machine, targeting the calves with additional engagement of the hamstrings and glutes. It is executed one leg at a time, requiring balance and unilateral strength. Intermediate legs exercise using machine. Targets calves, also works hamstrings, glutes.
+A one-leg calf raise in a hack squat machine, with the weight on your shoulders through the pads. It works the calves. Intermediate legs exercise using machine. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The hack one leg calf raise is performed on a leg press machine, targeting the c
 
 ## How to perform
 
-1. Adjust the leg press machine to an appropriate weight.
-2. Stand on the leg press machine with one foot, keeping the other foot off the ground.
-3. Hold onto the handles for stability.
-4. Raise your heel as high as possible, lifting your body up on the ball of your foot.
-5. Pause for a moment at the top, then slowly lower your heel back down to the starting position.
-6. Repeat for the desired number of repetitions.
-7. Switch legs and repeat the exercise.
+1. Stand in a hack squat machine, back on the pad, shoulders under the pads. Put the ball of one foot on the platform's lower edge.
+2. Lift your other foot off the platform and keep your standing leg straight.
+3. Push through the ball of your foot to raise your heel as high as you can.
+4. Lower your heel slowly back down. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell side bend is an isolation exercise targeting the oblique muscles and abs. It involves holding a dumbbell in one hand and bending sideways at the waist to work the core. Beginner core exercise using dumbbell. Targets abs, also works obliques.
+A standing side bend with one dumbbell, lowering it down the side of your leg and coming back up. It works the obliques along your sides, plus the abs. Beginner core exercise using dumbbell. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Dumbbell
@@ -15,10 +15,10 @@ The dumbbell side bend is an isolation exercise targeting the oblique muscles an
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, letting it hang down by your side.
-2. Keeping your back straight and your core engaged, slowly bend sideways at the waist towards the opposite side of the dumbbell, lowering the weight as far as you comfortably can.
-3. Pause for a moment, then slowly return to the starting position.
-4. Repeat for the desired number of repetitions, then switch sides and repeat.
+1. Stand tall with your feet shoulder-width apart, a dumbbell hanging at your side in one hand and your other hand behind your head.
+2. Keeping your back straight, bend sideways at the waist toward the dumbbell, lowering it down your leg as far as is comfortable.
+3. Return slowly to standing straight.
+4. Do all your reps on one side, then switch.
 
 ## Pro tips
 

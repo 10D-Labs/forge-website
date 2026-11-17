@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell straight leg deadlift is a strength exercise targeting the glutes, hamstrings, and lower back. It involves hinging at the hips while keeping the back straight and lowering dumbbells toward the ground, then returning to the starting position. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
+A deadlift with your legs nearly straight, lowering two dumbbells toward the floor by bending forward at the hips. It works the glutes, hamstrings and lower back. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell straight leg deadlift is a strength exercise targeting the glutes, 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.
-2. Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing your torso to lean forward.
-3. Continue lowering the dumbbells until you feel a stretch in your hamstrings, keeping your knees slightly bent.
-4. Pause for a moment at the bottom, then engage your glutes and hamstrings to lift your torso back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand in front of your thighs, palms facing your thighs.
+2. Keep your back straight and bend forward at your hips, lowering the dumbbells toward the floor.
+3. Keep your knees slightly bent and go down until you feel a stretch in the backs of your thighs.
+4. Lift your upper body back up to standing.
 
 ## Pro tips
 

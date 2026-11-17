@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell prone incline curl is an isolation exercise targeting the bicep, performed while lying face down on an incline bench. This position minimizes cheating and emphasizes strict bicep contraction. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
+A two-arm curl lying chest-down on an incline bench with your arms hanging straight down. The bench stops you from swinging, so the biceps do the work. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,14 +15,10 @@ The dumbbell prone incline curl is an isolation exercise targeting the bicep, pe
 
 ## How to perform
 
-1. Adjust the bench to a 45 degree incline.
-2. Lie face down on the bench with your chest and stomach resting against it.
-3. Hold a dumbbell in each hand with your palms facing down and your arms fully extended.
-4. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-5. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-6. Hold the contracted position for a brief pause as you squeeze your biceps.
-7. Inhale and slowly begin to lower the dumbbells back to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Set a bench to a 45-degree incline and lie face down on it, chest and stomach against the pad.
+2. Let your arms hang straight down with a dumbbell in each hand, palms facing forward.
+3. Keeping your upper arms still, curl the dumbbells up toward your shoulders.
+4. Lower slowly until your arms are straight.
 
 ## Pro tips
 

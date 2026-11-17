@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The sphinx exercise is a gentle back extension movement that targets the spine and helps improve flexibility and mobility in the lower back. It is performed lying face down, lifting the chest off the ground while keeping the forearms and toes on the floor. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
+A gentle back bend: lie face down and prop your chest up on your forearms. It stretches the lower back and helps it bend more easily. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The sphinx exercise is a gentle back extension movement that targets the spine a
 
 ## How to perform
 
-1. Lie face down on the ground with your forearms flat on the floor, elbows directly under your shoulders.
-2. Engage your core and lift your chest off the ground, keeping your forearms and toes on the floor.
-3. Hold this position for a few seconds, making sure to keep your neck in a neutral position.
-4. Slowly lower your chest back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie face down with your forearms flat on the floor and your elbows right under your shoulders.
+2. Lift your chest up, keeping your forearms and toes on the floor.
+3. Hold for the set time, keeping your neck long and in line with your back, then lower your chest slowly back down.
 
 ## Pro tips
 

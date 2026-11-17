@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The groin crunch is a bodyweight exercise targeting the abdominal muscles, with secondary emphasis on the hip flexors and inner thighs. It involves lying on your back, bringing your knees towards your chest while engaging your core. Beginner core exercise using body weight. Targets abs, also works hip flexors, inner thighs.
+A crunch done with the soles of your feet together and your knees dropped open to the sides. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors, inner thighs.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The groin crunch is a bodyweight exercise targeting the abdominal muscles, with 
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, lift your legs off the ground, bringing your knees towards your chest.
-4. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with the soles of your feet together and your knees dropped out to the sides. Cross your arms over your chest.
+2. Keep your legs still and curl your head and shoulders up until your shoulder blades leave the floor.
+3. Lower slowly back to the floor.
 
 ## Pro tips
 

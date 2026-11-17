@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell close grip bench press is a compound exercise primarily targeting the tricep, with secondary emphasis on the chest and shoulders. It is performed by lying on a bench, gripping the barbell with a close grip, and pressing the weight up and down while keeping the elbows close to the body. Intermediate arms exercise using barbell. Targets triceps, also works chest, shoulders.
+A bench press with your hands closer together than usual and your elbows kept in near your body. It works the triceps, with help from the chest and shoulders. Intermediate arms exercise using barbell. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell close grip bench press is a compound exercise primarily targeting th
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.
-2. Grasp the barbell with a close grip, slightly narrower than shoulder-width apart.
-3. Unrack the barbell and lower it slowly towards your chest, keeping your elbows close to your body.
-4. Pause for a moment when the barbell touches your chest.
-5. Push the barbell back up to the starting position, fully extending your arms.
-6. Repeat for the desired number of repetitions.
+1. Lie on a flat bench with your feet flat on the floor and your back against the bench.
+2. Hold the barbell with your hands a little narrower than shoulder-width, and lift it off the rack.
+3. Lower the bar slowly to your chest, keeping your elbows close to your body.
+4. Push the bar back up until your arms are straight.
 
 ## Pro tips
 

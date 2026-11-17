@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell incline close grip bench press is a compound upper body exercise that primarily targets the tricep, with secondary emphasis on the chest and shoulders. It is performed on an incline bench using a barbell with a close grip to maximize tricep activation. Intermediate arms exercise using barbell. Targets triceps, also works chest, shoulders.
+An incline bench press with your hands closer than shoulder-width. It works the triceps, with help from the upper chest and shoulders. Intermediate arms exercise using barbell. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,13 +15,10 @@ The barbell incline close grip bench press is a compound upper body exercise tha
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Lie down on the bench with your feet flat on the ground.
-3. Grasp the barbell with a close grip, slightly narrower than shoulder-width apart.
-4. Unrack the barbell and lower it slowly towards your chest, keeping your elbows close to your body.
-5. Pause for a moment when the barbell touches your chest.
-6. Push the barbell back up to the starting position, fully extending your arms.
-7. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees and lie back on it with your feet flat on the floor.
+2. Grip the bar with your hands slightly closer than shoulder-width and lift it off the rack.
+3. Lower the bar slowly until it touches your chest, keeping your elbows close to your body.
+4. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

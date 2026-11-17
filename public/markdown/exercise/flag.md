@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The flag is an advanced bodyweight exercise that targets the abs and requires significant core, shoulder, and grip strength. It involves gripping a vertical pole and lifting the body horizontally, holding a straight line parallel to the ground. Advanced core exercise using body weight. Targets abs, also works obliques, shoulders.
+An advanced hold where you grip a vertical pole and hold your body straight out to the side, level with the floor. It works the abs, along with the shoulders and grip. Advanced core exercise using body weight. Targets abs, also works obliques, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The flag is an advanced bodyweight exercise that targets the abs and requires si
 
 ## How to perform
 
-1. Start by gripping a vertical pole with both hands, palms facing each other, and arms fully extended.
-2. Engage your core and lift your legs off the ground, keeping them straight.
-3. Using your core and upper body strength, raise your legs until they are parallel to the ground.
-4. Hold this position for as long as you can, maintaining a straight body line.
-5. Slowly lower your legs back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Grip a vertical pole with both hands, one above the other, palms facing each other and arms straight.
+2. Tighten your abs and lift your feet off the floor, legs straight.
+3. Raise your legs until your body is straight and level with the floor.
+4. Hold for the set time, keeping your body in a straight line.
+5. Lower your legs slowly back to the floor.
 
 ## Pro tips
 

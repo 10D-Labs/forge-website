@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable low seated row is a strength exercise targeting the upper back, performed on a cable machine. It also engages the bicep and forearms as secondary muscles. The movement involves pulling the cable handles toward the torso while maintaining a straight back and squeezing the shoulder blades together. Beginner back exercise using cable. Targets upper back, also works biceps, forearms.
+A seated cable row from a low pulley, pulling a straight bar to your lower chest. It works the upper back, with help from the biceps and forearms. Beginner back exercise using cable. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The cable low seated row is a strength exercise targeting the upper back, perfor
 
 ## How to perform
 
-1. Sit on the machine with your feet flat on the footrests and your knees slightly bent.
-2. Grasp the handles with an overhand grip, palms facing down.
-3. Keep your back straight and lean slightly forward, maintaining a slight bend in your elbows.
-4. Pull the handles towards your body, squeezing your shoulder blades together.
-5. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit at the machine with your feet flat on the footrests and your knees slightly bent.
+2. Grip the straight bar with your palms facing down.
+3. Keep your back straight and lean slightly forward, with a slight bend in your elbows.
+4. Pull the bar to your lower chest, squeezing your shoulder blades together.
+5. Let the bar go back slowly until your elbows are only slightly bent.
 
 ## Pro tips
 

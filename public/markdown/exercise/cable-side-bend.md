@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable side bend is an isolation exercise targeting the oblique muscles and the abs. It involves standing upright and bending sideways at the waist against resistance provided by a cable machine. Beginner core exercise using cable. Targets abs, also works obliques.
+A standing side bend against a low cable, holding the handle in one hand. It works the abs, especially the obliques at the side of your waist. Beginner core exercise using cable. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The cable side bend is an isolation exercise targeting the oblique muscles and t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and grasp the cable handle with one hand.
-2. Keep your back straight and your core engaged.
-3. Slowly bend sideways at the waist, lowering the cable handle towards your knee.
-4. Pause for a moment, then return to the starting position.
-5. Repeat on the other side.
-6. Alternate sides for the desired number of repetitions.
+1. Set a handle on the low pulley. Stand side-on to the machine with your feet shoulder-width apart, holding the handle in the hand nearest the machine.
+2. Rest your other hand on your hip and keep your back straight.
+3. Bend sideways at the waist toward the machine, letting the handle lower toward your knee.
+4. Pull yourself back up and lean slightly away from the machine, using the side of your waist.
+5. Do all your reps on one side, then turn around and switch hands.
 
 ## Pro tips
 

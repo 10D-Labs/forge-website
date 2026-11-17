@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable close grip curl is an isolation exercise targeting the bicep using a cable machine. It involves curling a straight bar attached to a low pulley with a close grip, emphasizing the bicep and forearms. Beginner arms exercise using cable. Targets biceps, also works forearms.
+A cable curl on a straight bar with your hands close together and palms facing up. It works the biceps and forearms. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,14 +15,10 @@ The cable close grip curl is an isolation exercise targeting the bicep using a c
 
 ## How to perform
 
-1. Attach a straight bar to a low pulley cable machine.
-2. Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.
-3. Grasp the bar with an underhand grip, hands shoulder-width apart.
-4. Keep your elbows close to your sides and your upper arms stationary throughout the exercise.
-5. Exhale and curl the bar up towards your shoulders, contracting your biceps.
-6. Pause for a moment at the top of the movement, squeezing your biceps.
-7. Inhale and slowly lower the bar back to the starting position, fully extending your arms.
-8. Repeat for the desired number of repetitions.
+1. Attach a straight bar to a low pulley and stand facing the machine, feet shoulder-width apart and knees slightly bent.
+2. Hold the bar with your palms facing up and your hands close together, no wider than your shoulders.
+3. Keeping your elbows at your sides, curl the bar up toward your shoulders.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

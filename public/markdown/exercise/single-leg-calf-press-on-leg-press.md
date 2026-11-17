@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one leg calf press on leg press is a machine-based exercise targeting the calves, performed one leg at a time for increased isolation and intensity. It also engages the hamstrings and glutes as secondary muscles. Intermediate legs exercise using machine. Targets calves, also works hamstrings, glutes.
+A calf raise done one leg at a time on a 45-degree leg press, pushing the platform with the ball of your foot. It works the calves. Intermediate legs exercise using machine. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The one leg calf press on leg press is a machine-based exercise targeting the ca
 
 ## How to perform
 
-1. Adjust the seat of the leg press machine so that your knees are slightly bent when your feet are on the sled.
-2. Sit on the machine with your back against the backrest and your feet on the sled, shoulder-width apart.
-3. Place your toes and the balls of your feet on the sled, keeping your heels off.
-4. Push The forward by extending your ankles, keeping your knees slightly bent.
-5. Pause for a moment at the top, then slowly lower The back down by flexing your ankles.
-6. Repeat for the desired number of repetitions.
+1. Sit in a 45-degree leg press with your back against the pad and rest one foot on the floor.
+2. Put the ball of your other foot on the platform's bottom edge, heel hanging off. Straighten that leg and release the safety handles.
+3. Keeping your leg straight, point your toes to push the platform up as far as your ankle allows.
+4. Let your heel sink slowly back toward you. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

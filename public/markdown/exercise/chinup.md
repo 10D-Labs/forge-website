@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The chinup is a bodyweight exercise that targets the latissimus dorsi (lats) and also works the bicep and forearms. It involves pulling your body up towards a bar with an underhand grip until your chin clears the bar. Intermediate back exercise using body weight. Targets lats, also works biceps, forearms.
+A pullup with your palms facing you and your hands shoulder-width apart, pulling until your chin clears the bar. It works the lats, plus the biceps and forearms. Intermediate back exercise using body weight. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The chinup is a bodyweight exercise that targets the latissimus dorsi (lats) and
 
 ## How to perform
 
-1. Hang from a pullup bar with your palms facing towards you and your hands shoulder-width apart.
-2. Engage your core and pull your body up towards the bar, leading with your chest.
-3. Continue pulling until your chin is above the bar.
-4. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your palms facing you and your hands shoulder-width apart.
+2. Tighten your abs and pull yourself up, leading with your chest, until your chin is above the bar.
+3. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

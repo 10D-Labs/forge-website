@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell contralateral forward lunge is a lower body exercise that targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves stepping forward with one leg while holding a dumbbell in the opposite hand, challenging strength, balance, and coordination. Intermediate legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A forward lunge holding one dumbbell in the hand opposite your front leg. It works the glutes and quads, and your trunk works to keep you from leaning. Intermediate legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell contralateral forward lunge is a lower body exercise that targets t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-2. Take a step forward with your right foot, keeping your back straight and core engaged.
-3. Lower your body by bending both knees until your right thigh is parallel to the ground.
-4. Push through your right heel to return to the starting position.
-5. Repeat with your left leg.
-6. Alternate legs for the desired number of repetitions.
+1. Stand with feet hip-width apart, a dumbbell in your right hand at your side, palm facing in, and your left hand on your hip.
+2. Step forward with your left foot and bend both knees until your back knee is just above the floor.
+3. Push through your front foot to step back to standing.
+4. Do all your reps on one side, then hold the dumbbell in your left hand and step with your right foot.
 
 ## Pro tips
 

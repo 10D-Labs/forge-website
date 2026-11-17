@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying hamstring curl exercise targets the hamstrings and also works the glutes. It involves lying on your back, bending your knees, and using a dumbbell for resistance as you bring your feet towards your glutes. Beginner legs exercise using dumbbell. Targets hamstrings, also works glutes.
+A hamstring curl done lying face down on a bench, holding a dumbbell between your feet. It works the hamstrings on the back of the thigh. Beginner legs exercise using dumbbell. Targets hamstrings, also works glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,10 +15,10 @@ The dumbbell lying hamstring curl exercise targets the hamstrings and also works
 
 ## How to perform
 
-1. Lie flat on your back with your legs extended and a dumbbell resting on your lower abdomen.
-2. Bend your knees and bring the dumbbell towards your glutes, keeping your feet flat on the ground.
-3. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Lie face down on a flat bench with your knees just past the end, and hold the bench near your head.
+2. Hold a dumbbell upright between your feet, legs straight.
+3. Keep your hips pressed into the bench and bend your knees to curl your heels up until your lower legs point straight up.
+4. Lower slowly until your legs are straight.
 
 ## Pro tips
 

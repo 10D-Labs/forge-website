@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The reverse hyperextension is a machine-based exercise targeting the glutes, with secondary emphasis on the hamstrings and lower back. It involves lying face down on a machine and lifting the legs upward using the glutes and hamstrings. Intermediate legs exercise using machine. Targets glutes, also works hamstrings, lower back.
+A machine exercise where you lie face down and swing your straight legs up behind you against a weighted lever. It works the glutes, hamstrings and lower back. Intermediate legs exercise using machine. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The reverse hyperextension is a machine-based exercise targeting the glutes, wit
 
 ## How to perform
 
-1. Adjust the machine to fit your body and secure your feet in the foot pads.
-2. Lie face down on the machine with your upper body hanging off the edge and your hips resting on the pad.
-3. Cross your arms over your chest or place them behind your head.
-4. Engage your glutes and hamstrings to lift your legs upward until they are parallel to the ground.
-5. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie face down on the machine's pad with your hips at the back edge and your legs hanging straight down.
+2. Hold the handles at the front, palms facing each other, and hook your ankles between the roller pads.
+3. Keep your legs straight and raise them up behind you until they are level with your body.
+4. Lower slowly until your legs hang straight down again.
 
 ## Pro tips
 

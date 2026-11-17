@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline shrug targets the trapezius muscles by having the lifter sit on an incline bench and perform a shrugging motion with dumbbells. This variation emphasizes the upper traps and can help improve posture and upper back strength. Beginner back exercise using dumbbell. Targets traps, also works shoulders.
+A shrug done sitting back on an incline bench with a dumbbell in each hand. It works the traps, the muscles that run from your neck to your shoulders. Beginner back exercise using dumbbell. Targets traps, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell incline shrug targets the trapezius muscles by having the lifter si
 
 ## How to perform
 
-1. Set an incline bench to a 45 degree angle and sit on it with a dumbbell in each hand.
-2. Place your feet flat on the ground and let your arms hang straight down with your palms facing your body.
-3. Keeping your arms straight, shrug your shoulders up towards your ears as high as possible.
-4. Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees and sit back on it with a dumbbell in each hand and your feet flat on the floor.
+2. Let your arms hang straight down, palms facing your body.
+3. Keep your arms straight and shrug your shoulders up toward your ears as high as you can.
+4. Lower your shoulders slowly back down.
 
 ## Pro tips
 

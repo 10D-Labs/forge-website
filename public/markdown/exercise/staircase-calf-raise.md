@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The staircase calf raise is a bodyweight exercise that targets the calves by raising and lowering the heels while standing on the edge of a stair or step. This allows for a greater range of motion compared to flat ground calf raises. Beginner legs exercise using body weight. Targets calves, also works ankles, feet.
+A calf raise on the edge of a stair, so your heels can travel further than they do on flat floor. It works the calves. Beginner legs exercise using body weight. Targets calves, also works ankles, feet.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The staircase calf raise is a bodyweight exercise that targets the calves by rai
 
 ## How to perform
 
-1. Stand on the edge of a step or a sturdy platform with your heels hanging off and your toes on the step.
-2. Hold onto a railing or wall for balance if needed.
-3. Slowly raise your heels as high as possible, lifting your body weight onto the balls of your feet.
-4. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand on the edge of a stair or sturdy step with your toes on it and your heels hanging off.
+2. Hold a railing or wall for balance if you need to.
+3. Raise your heels as high as you can, lifting your weight onto the balls of your feet.
+4. Lower your heels slowly back down.
 
 ## Pro tips
 

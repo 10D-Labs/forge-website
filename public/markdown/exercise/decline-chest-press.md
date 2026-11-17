@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The decline chest press is a machine-based exercise targeting the pectoral muscles, with secondary emphasis on the tricep and shoulders. It is performed on a machine, providing guided movement for safety and stability. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
+A seated machine press set at a decline, pushing the handles forward from your chest. It works the lower chest, with help from the triceps and shoulders. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The decline chest press is a machine-based exercise targeting the pectoral muscl
 
 ## How to perform
 
-1. Adjust the seat height and backrest of the machine to a comfortable position.
-2. Sit on the machine with your back against the backrest and your feet flat on the floor.
-3. Grasp the handles with an overhand grip and position your hands slightly wider than shoulder-width apart.
-4. Push the handles forward and away from your body until your arms are fully extended.
-5. Slowly lower the handles back towards your chest, keeping your elbows slightly bent.
-6. Pause for a moment at the bottom, then push the handles back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Adjust the seat height and backrest to fit you, then sit with your back against the backrest and your feet flat on the floor.
+2. Hold the handles with your palms facing forward, hands a little wider than your shoulders.
+3. Press the handles forward and away from your body until your arms are straight.
+4. Bring the handles slowly back toward your chest.
 
 ## Pro tips
 

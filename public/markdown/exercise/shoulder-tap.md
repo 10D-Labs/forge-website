@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Shoulder taps are a bodyweight exercise performed in a high plank position, targeting the abs while also engaging the shoulders and tricep. The movement requires you to alternate tapping your shoulders with the opposite hand, challenging core stability and coordination. Intermediate core exercise using body weight. Targets abs, also works shoulders, triceps.
+A pushup-position hold where you lift one hand at a time to tap the opposite shoulder. It works the abs, with the shoulders and triceps helping. Intermediate core exercise using body weight. Targets abs, also works shoulders, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Shoulder taps are a bodyweight exercise performed in a high plank position, targ
 
 ## How to perform
 
-1. Start in a high plank position with your hands directly under your shoulders and your body in a straight line.
-2. Engage your core and lift your right hand off the ground, reaching across to tap your left shoulder.
-3. Place your right hand back on the ground and repeat with your left hand tapping your right shoulder.
-4. Continue alternating shoulder taps while keeping your hips and torso stable.
-5. Repeat for the desired number of repetitions.
+1. Start in a pushup position with your arms straight, hands under your shoulders and body in a straight line.
+2. Lift your right hand and tap your left shoulder.
+3. Put your right hand back down, then tap your right shoulder with your left hand.
+4. Keep alternating sides, keeping your hips and upper body still.
 
 ## Pro tips
 

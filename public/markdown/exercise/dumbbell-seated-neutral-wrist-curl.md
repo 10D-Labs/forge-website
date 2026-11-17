@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The dumbbell seated neutral wrist curl targets the bicep and forearms by having the lifter curl dumbbells with a neutral grip while seated, focusing on wrist and forearm strength. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A seated wrist exercise with your palms facing each other: the dumbbells tip forward and your wrists lift them back up. It works the forearms. Beginner arms exercise using dumbbell. Targets forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
-- **Target Muscle:** Biceps
-- **Secondary Muscles:** Forearms
+- **Target Muscle:** Forearms
+
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,11 +15,10 @@ The dumbbell seated neutral wrist curl targets the bicep and forearms by having 
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand, palms facing each other.
-2. Rest your forearms on your thighs, allowing the dumbbells to hang down.
-3. Keeping your wrists in a neutral position, curl the dumbbells up towards your shoulders.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the end of a flat bench, feet flat on the floor, and lean forward.
+2. Rest your forearms on your thighs with your wrists just past your knees. Hold a dumbbell in each hand, palms facing each other, dumbbells upright.
+3. Keep your forearms on your thighs and let your hands drop forward, so the dumbbells tip away from you.
+4. Bend your wrists back up until the dumbbells stand upright again.
 
 ## Pro tips
 
@@ -49,17 +48,17 @@ Ideally yes, to develop balanced forearm strength. Train palms-up, palms-down, a
 
 ### What muscles does the Dumbbell Seated Neutral Wrist Curl work?
 
-The Dumbbell Seated Neutral Wrist Curl primarily targets the biceps, with secondary activation in the forearms. It's classified as a strength exercise for the arms.
+The Dumbbell Seated Neutral Wrist Curl primarily targets the forearms. It's classified as a strength exercise for the arms.
 
 ### Is the Dumbbell Seated Neutral Wrist Curl good for beginners?
 
-Yes, the Dumbbell Seated Neutral Wrist Curl is rated as a beginner-level exercise. It's a great starting point for building biceps strength.
+Yes, the Dumbbell Seated Neutral Wrist Curl is rated as a beginner-level exercise. It's a great starting point for building forearms strength.
 
 ## Related exercises
 
 - [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
 - [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
-- [More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)
+- [More Forearms Exercises](https://forgetrainer.ai/exercises/muscle/forearms)
 
 ---
 

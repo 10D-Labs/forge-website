@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The arms overhead full situp is a bodyweight abdominal exercise where you lie on your back with arms extended overhead and perform a full situp, engaging the abs, hip flexors, and lower back. Intermediate core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A full situp with straight legs that starts with your arms overhead and ends folded forward, hands at your toes. It works the abs, with help from the front of the hips and the lower back. Intermediate core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The arms overhead full situp is a bodyweight abdominal exercise where you lie on
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Extend your arms overhead, keeping them straight.
-3. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is upright.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie flat on your back with your legs straight and together and your arms straight on the floor above your head.
+2. Swing your arms up and forward as you sit up, peeling your back off the floor.
+3. Keep your legs straight on the floor and fold forward over them until your hands reach your toes.
+4. Roll back down slowly until your back and arms are flat on the floor again.
 
 ## Pro tips
 

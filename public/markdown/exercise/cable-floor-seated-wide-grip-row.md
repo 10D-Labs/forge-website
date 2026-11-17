@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable floor seated wide grip row is a strength exercise targeting the upper back, performed seated on the floor using a cable machine. It emphasizes scapular retraction and upper back engagement, with secondary activation of the bicep and forearms. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
+A cable row done sitting on the floor with a long bar, hands wide and elbows out to the sides. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable floor seated wide grip row is a strength exercise targeting the upper 
 
 ## How to perform
 
-1. Sit on the floor with your legs extended and your back straight.
-2. Attach a cable handle to a low pulley and position the cable machine behind you.
-3. Grasp the handle with a wide overhand grip, palms facing down.
-4. Lean back slightly, keeping your back straight and your chest lifted.
-5. Pull the handle towards your waist, squeezing your shoulder blades together.
-6. Pause for a moment at the top of the movement, then slowly release the handle back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Attach a long straight bar to the low pulley. Sit on the floor facing the machine, legs straight and feet against its base.
+2. Hold the bar with your hands wider than your shoulders, palms facing down, and sit up tall with your arms straight.
+3. Pull the bar to your lower chest, letting your elbows flare out to the sides.
+4. Return slowly until your arms are straight.
 
 ## Pro tips
 

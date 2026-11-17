@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band twisting overhead press is a dynamic shoulder exercise that combines an overhead press with a torso twist, engaging the deltoids, tricep, and upper back while also challenging core stability and coordination. Intermediate shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
+A one-arm band press that drives up on a diagonal from a low anchor, twisting your torso as you go. It works the front of the shoulders, with help from the triceps and core. Intermediate shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,13 +15,10 @@ The band twisting overhead press is a dynamic shoulder exercise that combines an
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place the band under your feet.
-2. Hold the band handles at shoulder height with your palms facing forward.
-3. Engage your core and press the band overhead, fully extending your arms.
-4. As you press, twist your torso to one side, keeping your hips stable.
-5. Pause for a moment at the top, then return to the starting position.
-6. Repeat the press and twist on the opposite side.
-7. Continue alternating sides for the desired number of repetitions.
+1. Anchor the band near the floor to one side of you. Stand with your feet wide.
+2. Hold the band in the hand nearer the anchor, at your shoulder, palm facing forward.
+3. Press the band up on a diagonal, turning your torso away from the anchor, until your arm is straight overhead.
+4. Lower it slowly back to your shoulder.
 
 ## Pro tips
 

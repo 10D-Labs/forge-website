@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell close grip press is an upper arm exercise that primarily targets the tricep, with secondary emphasis on the chest and shoulders. It is performed using dumbbells on a flat bench, focusing on pressing the weights with a close grip to maximize tricep activation. Intermediate arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
+A dumbbell bench press with the dumbbells pressed together, palms facing each other and elbows tucked in. It works the triceps, with help from the chest and shoulders. Intermediate arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,9 @@ The dumbbell close grip press is an upper arm exercise that primarily targets th
 
 ## How to perform
 
-1. Sit on a flat bench with a dumbbell in each hand, resting on your thighs.
-2. Using your thighs to help raise the dumbbells, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width.
-3. Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.
-4. As you breathe in, slowly lower the dumbbells to your side until they are about level with your chest.
-5. As you exhale, use your triceps to lift the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench with your feet flat on the floor. Hold two dumbbells above your chest, arms straight, palms facing each other, dumbbells pressed together.
+2. Keep the dumbbells touching and your elbows close to your sides as you lower them to the middle of your chest.
+3. Press them back up until your arms are straight.
 
 ## Pro tips
 

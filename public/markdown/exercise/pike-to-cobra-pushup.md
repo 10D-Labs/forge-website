@@ -2,11 +2,11 @@
 
 ## Quick answer
 
-The pike to cobra pushup is a dynamic bodyweight exercise that combines elements of a pushup, pike, and cobra pose. It targets the glutes primarily, while also engaging the core, shoulders, and tricep. The movement requires transitioning between an inverted V (pike) position and a cobra pose, demanding strength, flexibility, and coordination. Advanced legs exercise using body weight. Targets glutes, also works core, shoulders, triceps.
+A flowing pushup: start in an upside-down V, swoop your chest down close to the floor, then rise into an arch with your chest lifted. It works the chest, with help from the shoulders, triceps and abs. Advanced chest exercise using body weight. Targets chest, also works core, shoulders, triceps.
 
-- **Body Part:** Legs
+- **Body Part:** Chest
 - **Equipment:** Body Weight
-- **Target Muscle:** Glutes
+- **Target Muscle:** Chest
 - **Secondary Muscles:** Core, Shoulders, Triceps
 - **Difficulty:** Advanced
 - **Category:** Strength
@@ -16,13 +16,11 @@ The pike to cobra pushup is a dynamic bodyweight exercise that combines elements
 ## How to perform
 
 1. Start in a pushup position with your hands slightly wider than shoulder-width apart and your feet together.
-2. Engage your core and lift your hips up towards the ceiling, forming an inverted V shape with your body.
-3. Lower your upper body towards the ground by bending your elbows, keeping them close to your body.
-4. As you lower down, shift your weight forward and transition into a cobra pose by straightening your arms and lifting your chest up.
-5. Reverse the movement by bending your elbows and lowering your chest back down towards the ground.
-6. Push through your hands to return to the inverted V position.
-7. Continue the movement by lowering your hips back down towards the ground, returning to the starting pushup position.
-8. Repeat for the desired number of repetitions.
+2. Lift your hips toward the ceiling so your body makes an upside-down V.
+3. Bend your elbows, keeping them close to your body, and lower your chest toward the floor as you shift your weight forward.
+4. Straighten your arms and lift your chest up, letting your hips drop low so your back arches.
+5. Bend your elbows to lower your chest again, then push back up into the upside-down V.
+6. Lower your hips back down to the pushup position.
 
 ## Pro tips
 
@@ -52,17 +50,17 @@ Very similar. The Pike to Cobra Pushup and Hindu Pushup follow the same movement
 
 ### What muscles does the Pike to Cobra Pushup work?
 
-The Pike to Cobra Pushup primarily targets the glutes, with secondary activation in the core, shoulders, triceps. It's classified as a strength exercise for the legs.
+The Pike to Cobra Pushup primarily targets the chest, with secondary activation in the core, shoulders, triceps. It's classified as a strength exercise for the chest.
 
 ### Is the Pike to Cobra Pushup good for beginners?
 
-The Pike to Cobra Pushup is an advanced exercise. Beginners should master fundamental legs movements first.
+The Pike to Cobra Pushup is an advanced exercise. Beginners should master fundamental chest movements first.
 
 ## Related exercises
 
-- [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
+- [More Chest Exercises](https://forgetrainer.ai/exercises/chest)
 - [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
-- [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
+- [More Chest Exercises](https://forgetrainer.ai/exercises/muscle/chest)
 
 ---
 

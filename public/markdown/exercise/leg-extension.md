@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The leg extension is an isolation exercise performed on a machine to target the quadriceps. It involves extending the knees to lift a weight, primarily working the front of the thighs. Beginner legs exercise using machine. Targets quads, also works hamstrings.
+A seated machine exercise, straightening your knees to lift a pad with your lower legs. It works the quads on the front of the thigh. Beginner legs exercise using machine. Targets quads.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
 - **Target Muscle:** Quads
-- **Secondary Muscles:** Hamstrings
+
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -16,11 +16,10 @@ The leg extension is an isolation exercise performed on a machine to target the 
 ## How to perform
 
 1. Adjust the seat height and backrest of the machine to fit your body.
-2. Sit on the machine with your back against the backrest and your feet on the footpad.
-3. Grasp the handles or sidebars for stability.
-4. Extend your legs forward by straightening your knees, lifting the weight.
-5. Pause for a moment at the top, then slowly lower the weight back to the starting position.
-6. Repeat for the desired number of repetitions.
+2. Sit with your back against the backrest and the foot pad resting against the front of your ankles.
+3. Hold the handles or the sides of the seat to stay steady.
+4. Straighten your knees to lift the pad until your legs are straight.
+5. Lower the pad slowly back down.
 
 ## Pro tips
 
@@ -46,7 +45,7 @@ They're excellent for quad isolation and hypertrophy, especially the rectus femo
 
 ### What muscles does the Leg Extension work?
 
-The Leg Extension primarily targets the quads, with secondary activation in the hamstrings. It's classified as a strength exercise for the legs.
+The Leg Extension primarily targets the quads. It's classified as a strength exercise for the legs.
 
 ### Is the Leg Extension good for beginners?
 

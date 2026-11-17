@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm decline chest press is a unilateral chest exercise performed on a decline bench, targeting the pectorals while also engaging the tricep and shoulders. It requires good stability and control due to the single arm movement and the decline angle. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
+A one-arm dumbbell press on a decline bench, with your head lower than your hips. It works the lower chest, with help from the triceps and shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell one arm decline chest press is a unilateral chest exercise performe
 
 ## How to perform
 
-1. Lie on a decline bench with a dumbbell in one hand, resting on your chest.
-2. Place your feet flat on the ground and keep your back pressed against the bench.
-3. Extend your arm and push the dumbbell up towards the ceiling, fully extending your elbow.
-4. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Lie on a decline bench with your legs hooked over the high end and your feet under the pads.
+2. Hold a dumbbell in one hand at your chest, with your back pressed against the bench.
+3. Press the dumbbell up toward the ceiling until your arm is straight.
+4. Lower it slowly back to your chest. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

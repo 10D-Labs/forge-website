@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm upright row is a unilateral shoulder exercise that targets the deltoids, with secondary emphasis on the traps and bicep. It involves lifting a dumbbell with one arm in an upright rowing motion. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, biceps.
+An upright row with one dumbbell, lifted from your thighs toward your chin with the elbow leading. It works the sides of the shoulders, plus the upper back and biceps. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell one arm upright row is a unilateral shoulder exercise that targets 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand with an overhand grip.
-2. Let the dumbbell hang at arm's length in front of your thighs, with your palm facing your body.
-3. Keeping your back straight and your core engaged, exhale and lift the dumbbell straight up towards your chin, leading with your elbow.
-4. Pause for a moment at the top, then inhale and slowly lower the dumbbell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand in front of your thighs, arm straight and palm facing your body.
+2. Lift the dumbbell straight up toward your chin, leading with your elbow. Keep your back straight.
+3. Lower it slowly until your arm is straight.
+4. Do all your reps on one side, then switch.
 
 ## Pro tips
 

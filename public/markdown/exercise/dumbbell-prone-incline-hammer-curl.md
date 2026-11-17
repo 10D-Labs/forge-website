@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell prone incline hammer curl is an isolation exercise targeting the bicep and forearms. It is performed lying face down on an incline bench, which helps minimize momentum and focus the work on the bicep. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
+A curl done lying chest down on an incline bench, with your palms facing each other. Lying on the bench cuts out swinging, so the biceps and forearms do the work. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,14 +15,10 @@ The dumbbell prone incline hammer curl is an isolation exercise targeting the bi
 
 ## How to perform
 
-1. Adjust the bench to a 45 degree incline.
-2. Lie face down on the bench with a dumbbell in each hand, palms facing each other.
-3. Allow your arms to hang straight down towards the floor, keeping your elbows slightly bent.
-4. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-5. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.
-6. Hold the contracted position for a brief pause as you squeeze your biceps.
-7. Inhale and slowly begin to lower the dumbbells back to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees and lie face down on it with a dumbbell in each hand.
+2. Let your arms hang straight down toward the floor, elbows slightly bent, palms facing each other (thumbs up).
+3. Keep your upper arms still and curl the dumbbells up to your shoulders.
+4. Lower them slowly until your arms hang straight down again.
 
 ## Pro tips
 

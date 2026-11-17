@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell one arm side deadlift is a unilateral deadlift variation that targets the glutes, hamstrings, quadriceps, and lower back. It requires holding a barbell in one hand and performing a deadlift motion to the side of the body, challenging balance, grip strength, and core stability. Advanced legs exercise using barbell. Targets glutes, also works hamstrings, quadriceps, lower back.
+A deadlift with the barbell held in one hand at your side. It works the glutes, hamstrings, quads and lower back, and your core has to keep you from leaning. Advanced legs exercise using barbell. Targets glutes, also works hamstrings, quadriceps, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell one arm side deadlift is a unilateral deadlift variation that target
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a barbell in one hand with an overhand grip.
-2. Keep your back straight and your core engaged.
-3. Bend at the hips and lower the barbell towards the outside of your leg, keeping your arm straight and your chest up.
-4. Lower the barbell as far as you can while maintaining good form.
-5. Pause for a moment, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet shoulder-width apart, holding a barbell at your side in one hand, palm facing your leg.
+2. Bend your hips and knees to lower the bar along the outside of your leg, keeping your arm straight and your chest up.
+3. Go as low as you can while keeping your back straight.
+4. Stand back up. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -46,7 +46,7 @@ Users can switch between trainers at any time.
 - Injury memory: automatically programs around limitations and never forgets
 - Periodized programming with progressive overload
 - Programming transparency: explains WHY each exercise is in your plan
-- 909+ exercise database with step-by-step instructions
+- 870+ exercise database with step-by-step instructions
 
 ## Comparisons
 
@@ -111,7 +111,7 @@ A 2026 peer-reviewed study published in the Journal of Sports Science and Medici
 
 ## Exercise Library
 
-909+ exercises, each with:
+870+ exercises, each with:
 - Step-by-step instructions
 - Target muscles and secondary muscles worked
 - Difficulty level (Beginner, Intermediate, Advanced)
@@ -169,7 +169,7 @@ All pages have markdown versions for LLM consumption at /markdown/:
 - /markdown/blog/*.md - All blog posts
 - /markdown/topics/*.md - All topic category pages
 - /markdown/trainers/*.md - All trainer profiles
-- /markdown/exercise/*.md - All 909 individual exercises
+- /markdown/exercise/*.md - All 873 individual exercises
 - /markdown/tools.md - Free workout tools hub
 - /markdown/tools/*.md - All 12 free calculators
 - /markdown/compare.md - App comparisons hub

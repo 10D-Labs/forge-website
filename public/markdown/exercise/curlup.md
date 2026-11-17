@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The curlup is a bodyweight exercise targeting the abdominal muscles. It involves lying on your back, bending your knees, and curling your upper body towards your knees to engage the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A small curl-up with one knee bent, the other leg straight and your hands under your lower back. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The curlup is a bodyweight exercise targeting the abdominal muscles. It involves
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with one knee bent and that foot flat, and your other leg straight on the floor.
+2. Slide your hands, palms down, under the small of your back.
+3. Keep your lower back still and lift your head and shoulders just off the floor.
+4. Lower slowly back to the floor.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell clean-grip front squat is a compound lower body exercise that targets the glutes, quadriceps, and hamstrings, while also engaging the core for stability. It requires holding a barbell in the clean grip position on the front of the shoulders, demanding good mobility and strength. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A front squat with the barbell resting on your upper chest, fingers under the bar and elbows high. It works the glutes, plus the quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell clean-grip front squat is a compound lower body exercise that target
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and the barbell resting on your upper chest, with your elbows pointing forward.
-2. Lower your body by bending your knees and pushing your hips back, as if you are sitting back into a chair.
-3. Keep your chest up and your back straight as you lower down, making sure your knees do not go past your toes.
-4. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.
-5. Pause for a moment at the bottom, then push through your heels to stand back up, extending your hips and knees.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart. Rest the barbell on your upper chest, fingers under the bar and elbows pointing forward and high.
+2. Bend your knees and push your hips back, as if sitting back into a chair. Keep your chest up and your back straight.
+3. Go down until your thighs are level with the floor, or as low as you comfortably can.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

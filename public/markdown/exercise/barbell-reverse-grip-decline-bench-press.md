@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell reverse grip decline bench press is a chest exercise performed on a decline bench using a barbell with a reverse (underhand) grip. This variation targets the lower chest and places additional emphasis on the tricep and shoulders. Advanced chest exercise using barbell. Targets chest, also works triceps, shoulders.
+A decline bench press with your palms facing your head instead of your feet. It works the lower chest, with extra work for the triceps and shoulders. Advanced chest exercise using barbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell reverse grip decline bench press is a chest exercise performed on a 
 
 ## How to perform
 
-1. Lie on a decline bench with your feet secured and your head lower than your hips.
-2. Grasp the barbell with a reverse grip, slightly wider than shoulder-width apart.
-3. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in.
-4. Pause for a moment at the bottom, then push the barbell back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on a decline bench with your legs hooked under the pads and your head lower than your hips.
+2. Grip the bar with your palms facing your head, hands slightly wider than your shoulders.
+3. Lift the bar off the rack and lower it slowly to your chest, keeping your elbows close to your sides.
+4. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

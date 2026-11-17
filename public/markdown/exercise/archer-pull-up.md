@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The archer pull up is a challenging bodyweight exercise that targets the lats and requires significant strength, coordination, and control. It involves pulling up with one arm while the other remains straight, alternating sides with each repetition. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
+A wide pullup where one arm does the pulling while the other stays straight, switching sides each rep. It works the lats, the wide muscles of your back. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The archer pull up is a challenging bodyweight exercise that targets the lats an
 
 ## How to perform
 
-1. Start by hanging from a pullup bar with an overhand grip, slightly wider than shoulder-width apart.
-2. Engage your core and pull your shoulder blades down and back.
-3. As you pull yourself up, bend one arm and bring your elbow towards your side, while keeping the other arm straight.
-4. Continue pulling until your chin is above the bar and your bent arm is fully flexed.
-5. Lower yourself back down with control, straightening the bent arm and repeating the movement on the other side.
-6. Alternate sides with each repetition.
+1. Hang from a pullup bar with your palms facing away from you and your hands a bit wider than shoulder-width.
+2. Pull your shoulder blades down and back.
+3. Pull yourself up, bending one arm and bringing that elbow toward your side while the other arm stays straight.
+4. Keep pulling until your chin is above the bar.
+5. Lower yourself slowly until both arms are straight, then pull up on the other side. Keep alternating sides.
 
 ## Pro tips
 

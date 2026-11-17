@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable reverse crunch is an abdominal exercise that utilizes a cable machine to add resistance to the traditional reverse crunch movement. It primarily targets the abs and also engages the hip flexors. Intermediate core exercise using cable. Targets abs, also works hip flexors.
+A reverse crunch with a low cable strapped to your ankles, curling your hips off the floor against the pull. It works the abs, with help from the front of the hips. Intermediate core exercise using cable. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable reverse crunch is an abdominal exercise that utilizes a cable machine 
 
 ## How to perform
 
-1. Attach a cable to a low pulley and lie down facing up on a mat.
-2. Hold the cable with both hands and extend your arms straight up towards the ceiling.
-3. Bend your knees and lift your legs up, bringing your thighs towards your chest.
-4. While keeping your upper body stable, curl your pelvis up towards your chest, lifting your hips off the mat.
-5. Pause for a moment at the top, then slowly lower your hips back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Strap your ankles to a low pulley and lie on your back, feet toward the machine, arms at your sides, palms down.
+2. Lift your legs so your thighs point straight up and your knees are bent, lower legs level with the floor.
+3. Curl your hips off the floor, pulling your knees in toward your chest.
+4. Lower your hips slowly back to the floor, keeping your knees bent.
 
 ## Pro tips
 

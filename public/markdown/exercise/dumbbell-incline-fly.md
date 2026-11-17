@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline fly is a chest exercise performed on an incline bench, targeting the upper pectoral muscles. It involves lowering dumbbells out to the sides in a wide arc and then bringing them back together, emphasizing a stretch and contraction of the chest. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
+A chest fly on a 45-degree incline bench, opening the dumbbells out to the sides in a wide arc. It works the upper chest. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell incline fly is a chest exercise performed on an incline bench, targ
 
 ## How to perform
 
-1. Set an incline bench to a 45 degree angle.
-2. Sit on the bench with a dumbbell in each hand, palms facing each other.
-3. Lie back on the bench and press the dumbbells up to the starting position, directly above your chest.
-4. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.
-5. Pause for a moment, then squeeze your chest muscles to bring the dumbbells back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Sit on it with a dumbbell in each hand, palms facing each other.
+2. Lie back and press the dumbbells up until they are directly above your chest.
+3. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.
+4. Bring them back up along the same arc until they are above your chest again.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell single arm tricep extension on bench is an isolation exercise targeting the tricep, performed while seated on a bench. It involves extending one arm overhead while holding a dumbbell, then lowering the weight behind the head by bending the elbow. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+An overhead triceps extension done sitting on a bench, one arm at a time, lowering a dumbbell behind your head. It works the triceps on the back of the upper arm. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell single arm tricep extension on bench is an isolation exercise targe
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a dumbbell in one hand and place your other hand on the bench for support.
-3. Raise the dumbbell overhead, keeping your upper arm close to your head and your elbow pointing forward.
-4. Lower the dumbbell behind your head by bending your elbow, keeping your upper arm stationary.
-5. Extend your arm back up to the starting position, fully straightening your elbow.
-6. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on a flat bench, back straight and feet flat on the floor. Hold a dumbbell in one hand and rest the other on your hip.
+2. Press the dumbbell straight up overhead, keeping your upper arm close to your head and your elbow pointing up.
+3. Bend your elbow to lower the dumbbell behind your head, keeping your upper arm still.
+4. Straighten your arm to lift the dumbbell back overhead. Do all your reps, then switch arms.
 
 ## Pro tips
 

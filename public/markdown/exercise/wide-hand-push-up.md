@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The wide hand push up is a bodyweight exercise that targets the pectoral muscles by increasing the distance between the hands, placing more emphasis on the chest compared to a standard push up. It also engages the tricep and shoulders as secondary muscles. Intermediate chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A pushup with your hands set wide, which puts more of the work on your chest than a standard pushup. The triceps and shoulders help. Intermediate chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The wide hand push up is a bodyweight exercise that targets the pectoral muscles
 
 ## How to perform
 
-1. Start in a high plank position with your hands wider than shoulder-width apart.
-2. Keep your body in a straight line from head to toe.
-3. Lower your chest towards the ground by bending your elbows, keeping them close to your sides.
-4. Push through your palms to extend your arms and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Get into a pushup position on straight arms, hands wider than shoulder-width apart, body straight from head to toe.
+2. Bend your elbows out to the sides to lower your chest toward the floor.
+3. Push through your palms to straighten your arms and come back up.
 
 ## Pro tips
 

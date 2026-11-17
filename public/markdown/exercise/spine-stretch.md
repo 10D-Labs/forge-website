@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The spine stretch is a bodyweight exercise that focuses on stretching and mobilizing the spine. It also provides a gentle stretch to the hamstrings and glutes. This movement is performed seated and emphasizes spinal flexibility and posture. Beginner back exercise using body weight. Targets lower back, also works hamstrings, glutes.
+A seated stretch where you round your back forward over straight legs, arms reaching ahead. It stretches the lower back, with some stretch in the hamstrings. Beginner back exercise using body weight. Targets lower back, also works hamstrings, glutes.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,9 @@ The spine stretch is a bodyweight exercise that focuses on stretching and mobili
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you.
-2. Place your hands on the ground behind you, fingers pointing towards your body.
-3. Engage your core and slowly lean back, keeping your back straight.
-4. Continue leaning back until you feel a stretch in your spine.
-5. Hold the stretch for a few seconds, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit tall on the floor, legs straight, feet hip-width apart. Hold your arms straight out in front at shoulder height, palms facing down.
+2. Tuck your chin and round your back forward, reaching your hands toward or past your feet.
+3. Roll back up slowly until you're sitting tall again.
 
 ## Pro tips
 

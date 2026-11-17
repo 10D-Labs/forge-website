@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bicycle crunch is a bodyweight exercise targeting the abdominal muscles and hip flexors. It involves a pedaling motion while lying on your back, alternating elbow to knee contact to engage the core. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A crunch where you twist one elbow toward the opposite knee while your legs pedal in the air. It works the abs, especially the obliques at your sides, and the front of your hips. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The bicycle crunch is a bodyweight exercise targeting the abdominal muscles and 
 
 ## How to perform
 
-1. Lie flat on your back with your hands placed behind your head.
-2. Lift your legs off the ground and bend your knees at a 90 degree angle.
-3. Bring your right elbow towards your left knee while simultaneously straightening your right leg.
-4. Return to the starting position and repeat the movement on the opposite side, bringing your left elbow towards your right knee while straightening your left leg.
-5. Continue alternating sides in a pedaling motion for the desired number of repetitions.
+1. Lie on your back with your hands behind your head.
+2. Lift your legs off the floor with your knees bent to 90 degrees.
+3. Bring your right elbow toward your left knee as you straighten your right leg.
+4. Switch sides, bringing your left elbow toward your right knee as you straighten your left leg. Keep alternating in a pedaling motion.
 
 ## Pro tips
 

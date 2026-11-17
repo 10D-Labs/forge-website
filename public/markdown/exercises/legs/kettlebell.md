@@ -2,9 +2,9 @@
 
 ## Quick Answer
 
-7 effective leg exercises you can do with kettlebell. Complete instructions and form tips included.
+8 effective leg exercises you can do with kettlebell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 1 Beginner | 4 Intermediate | 2 Advanced
+**Difficulty breakdown:** 1 Beginner | 5 Intermediate | 2 Advanced
 
 ---
 
@@ -14,17 +14,18 @@
 
 - **Kettlebell Goblet Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 
-### Intermediate (4 exercises)
+### Intermediate (5 exercises)
 
 - **Kettlebell Front Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Kettlebell Lunge Pass Through** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Kettlebell Hang Clean** — Target: Hamstrings | Secondary: Glutes, Quadriceps, Calves
 - **Kettlebell Swing** — Target: Glutes | Secondary: Hamstrings, Core
+- **Kettlebell Single Arm Overhead Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Core, Front Delts
 
 ### Advanced (2 exercises)
 
 - **Kettlebell Pistol Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
-- **Kettlebell Squat Style Turkish Get Up** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Core
+- **Kettlebell Turkish Get Up** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Core
 
 ---
 
@@ -32,7 +33,7 @@
 
 Our AI trainers design personalized leg workout plans using kettlebell. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

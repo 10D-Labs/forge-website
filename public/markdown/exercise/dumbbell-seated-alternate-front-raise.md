@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated alternate front raise is a shoulder exercise that targets the deltoids, with secondary emphasis on the trapezius and bicep. It is performed seated, which helps stabilize the body and isolate the shoulder muscles. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, biceps.
+A front raise done sitting on a bench, lifting one dumbbell at a time straight out in front of you to shoulder height. It works the front of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell seated alternate front raise is a shoulder exercise that targets th
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a dumbbell in each hand with your palms facing your body and arms extended down by your sides.
-3. Keeping your arms straight, raise one dumbbell in front of you until it is parallel to the ground.
-4. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-5. Repeat with the other arm.
-6. Alternate between arms for the desired number of repetitions.
+1. Sit on a flat bench with your back straight and your feet flat on the floor.
+2. Hold a dumbbell in each hand with your arms straight down at your sides, palms facing your body.
+3. Keep your arm straight and raise one dumbbell in front of you until your arm is level with the floor.
+4. Lower it slowly, then raise the other arm. Keep alternating sides.
 
 ## Pro tips
 

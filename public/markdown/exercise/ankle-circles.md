@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Ankle circles are a bodyweight exercise that targets the calves and ankle stabilizers. This movement involves rotating the ankle in a circular motion while seated, helping to improve mobility and flexibility in the ankle joint. Beginner legs exercise using body weight. Targets calves, also works ankle stabilizers.
+A standing warm-up where you turn one lifted foot in slow circles. It loosens the ankle and works the calves and the small muscles that keep the ankle steady. Beginner legs exercise using body weight. Targets calves, also works ankle stabilizers.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ Ankle circles are a bodyweight exercise that targets the calves and ankle stabil
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you.
-2. Lift one leg off the ground and rotate your ankle in a circular motion.
-3. Perform the desired number of circles in one direction, then switch to the other direction.
-4. Repeat with the other leg.
+1. Stand tall with your hands on your hips and your weight on one leg.
+2. Lift your other foot just off the floor.
+3. Turn that ankle in slow circles, moving only your foot. Do all your circles on one foot, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable alternate shoulder press is a strength exercise targeting the deltoid muscles. It involves pressing one cable handle overhead at a time, alternating arms, and requires stability and coordination. Intermediate shoulders exercise using cable. Targets shoulders, also works triceps, upper back.
+A standing shoulder press between two low cables, pressing one handle overhead at a time while the other waits at your shoulder. It works the front of the shoulders. Intermediate shoulders exercise using cable. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable alternate shoulder press is a strength exercise targeting the deltoid 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and grasp the handles of the cable machine with an overhand grip.
-2. Position your hands at shoulder height, with your palms facing forward.
-3. Keep your core engaged and your back straight.
-4. Press one handle up and forward until your arm is fully extended.
-5. Pause for a moment at the top, then slowly lower the handle back to the starting position.
-6. Repeat with the other arm.
-7. Alternate between arms for the desired number of repetitions.
+1. Stand between two low cable pulleys with your feet shoulder-width apart and a handle in each hand.
+2. Bring the handles up to shoulder height, palms facing forward. Keep your back straight.
+3. Press one handle up and forward until your arm is straight overhead.
+4. Lower it slowly back to shoulder height, then press the other arm. Keep alternating sides.
 
 ## Pro tips
 

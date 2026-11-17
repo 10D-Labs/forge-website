@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The tricep extension is an isolation exercise performed on a machine to target the tricep. It involves extending the arms against resistance, focusing on tricep activation while minimizing shoulder involvement. Beginner arms exercise using machine. Targets triceps, also works shoulders.
+A seated machine extension where your upper arms rest on a pad and you straighten your elbows to push the handles forward. It works the triceps. Beginner arms exercise using machine. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The tricep extension is an isolation exercise performed on a machine to target t
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your back against the pad.
-2. Grasp the handles with an overhand grip and fully extend your arms in front of you.
-3. Keeping your upper arms stationary, slowly lower the handles towards your forehead by bending your elbows.
-4. Pause for a moment at the bottom, then push the handles back up to the starting position by extending your arms.
-5. Repeat for the desired number of repetitions.
+1. Sit on the machine and lean forward so your upper arms rest on the arm pad in front of you.
+2. Grip the handles near your chin, palms facing away from you.
+3. Keep your upper arms on the pad and straighten your elbows, pushing the handles forward and down until your arms are straight.
+4. Bend your elbows slowly to bring the handles back toward your chin.
 
 ## Pro tips
 

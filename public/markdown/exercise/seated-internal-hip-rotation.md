@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated internal hip rotation is an exercise that targets the glutes and helps improve hip mobility and strength. It is performed while seated, using a resistance band to provide external resistance as you rotate your knees outward. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, quadriceps.
+A seated hip move where you swing one foot outward against a band while your knee stays still, turning the thigh inward. It works the glutes and outer hips. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The seated internal hip rotation is an exercise that targets the glutes and help
 
 ## How to perform
 
-1. Sit on a chair or bench with your back straight and feet flat on the ground.
-2. Place a resistance band around your thighs, just above your knees.
-3. Keep your knees bent at a 90 degree angle and your feet shoulder-width apart.
-4. Engage your glutes and slowly rotate your knees outward, pushing against the resistance of the band.
-5. Pause for a moment at the end of the movement, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit tall on a box with your knees bent and your hands resting on the box beside your hips.
+2. Loop a band around one ankle and anchor it low on the inside, past your other leg, so it pulls that foot inward.
+3. Keeping your knee still, swing that foot out to the side as far as you can.
+4. Let it come back slowly toward your other foot. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

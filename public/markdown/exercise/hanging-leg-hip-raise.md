@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hanging leg hip raise is a bodyweight exercise that targets the abdominal muscles by requiring you to hang from a pullup bar and lift your legs, engaging your core and hip flexors. Intermediate core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A hanging raise where you lift your bent knees until your thighs are level with the floor. It works the abs and the muscles at the front of your hips. Intermediate core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ The hanging leg hip raise is a bodyweight exercise that targets the abdominal mu
 
 ## How to perform
 
-1. Hang from a pullup bar with your arms fully extended and your palms facing away from you.
-2. Engage your core and lift your legs up by flexing your hips and knees until your thighs are parallel to the ground.
-3. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your arms straight and your palms facing away from you.
+2. Bend your knees and lift them toward your chest until your thighs are level with the floor.
+3. Lower your legs slowly until they hang straight again.
 
 ## Pro tips
 

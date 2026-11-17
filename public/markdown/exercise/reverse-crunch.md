@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The reverse crunch is a bodyweight exercise that targets the abdominal muscles, especially the lower abs, by curling the hips off the floor and bringing the knees toward the chest. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A crunch done by curling your hips off the floor and bringing your knees toward your chest. It works the abs, especially the lower part. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The reverse crunch is a bodyweight exercise that targets the abdominal muscles, 
 
 ## How to perform
 
-1. Lie flat on your back with your arms extended along your sides.
-2. Bend your knees and lift your feet off the ground, bringing your thighs perpendicular to the floor.
-3. Contract your abs and curl your hips off the floor, bringing your knees towards your chest.
-4. Pause for a moment at the top, then slowly lower your hips back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your arms flat along your sides.
+2. Bend your knees and lift your feet off the floor until your thighs point straight up.
+3. Tighten your abs and curl your hips off the floor, bringing your knees toward your chest.
+4. Lower your hips slowly until your thighs point straight up again.
 
 ## Pro tips
 

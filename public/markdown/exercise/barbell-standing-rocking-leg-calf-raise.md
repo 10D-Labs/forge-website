@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing rocking leg calf raise targets the calves and involves raising your heels while balancing a barbell across your upper back. This exercise also engages the hamstrings and quadriceps as secondary muscles. Intermediate legs exercise using barbell. Targets calves, also works hamstrings, quadriceps.
+A standing calf raise with a barbell across your upper back, rocking your body slightly forward and back as you rise and lower. It works the calves. Intermediate legs exercise using barbell. Targets calves, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,10 +15,9 @@ The barbell standing rocking leg calf raise targets the calves and involves rais
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell across your upper back.
-2. Raise your heels off the ground as high as possible, balancing on the balls of your feet.
-3. Slowly lower your heels back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a barbell across your upper back, holding it with both hands.
+2. Raise your heels as high as you can, balancing on the balls of your feet. Let your body rock slightly forward as you rise.
+3. Lower your heels slowly back to the floor, rocking slightly back.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell advanced windmill is a challenging exercise that targets the abs and obliques while also engaging the shoulders. It requires balance, coordination, and strength, particularly in the core and shoulders, as you hold a kettlebell overhead and hinge at the hips to lower your torso. Advanced core exercise using kettlebell. Targets abs, also works obliques, shoulders.
+A standing bend down and to the side with a kettlebell held straight overhead the whole time. It works the abs and obliques, and the shoulder holding the bell. Advanced core exercise using kettlebell. Targets abs, also works obliques, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Kettlebell
@@ -15,15 +15,11 @@ The kettlebell advanced windmill is a challenging exercise that targets the abs 
 
 ## How to perform
 
-1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward.
-2. Hold a kettlebell in your right hand, with your arm extended overhead and your palm facing forward.
-3. Rotate your left foot slightly to the right, and shift your weight onto your left leg.
-4. Bend your left knee and hinge at the hip, lowering your torso towards the left side.
-5. Keep your right arm extended overhead and your eyes on the kettlebell.
-6. As you lower your torso, allow your right leg to straighten and your right foot to pivot slightly.
-7. Lower your torso until you feel a stretch in your left hamstring and your right arm is pointing towards the ground.
-8. Pause for a moment, then engage your core and push through your left heel to return to the starting position.
-9. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet wider than shoulder-width apart, toes turned slightly out. Put your left hand on your hip.
+2. Hold a kettlebell straight overhead in your right hand, palm facing forward. Keep your eyes on it and your arm straight up throughout.
+3. Keep both legs straight and bend at your hips to lower your upper body down and to the left.
+4. Stop when you feel a stretch in the back of your left thigh, then push through your left heel to stand back up.
+5. Do all your reps, then switch sides.
 
 ## Pro tips
 

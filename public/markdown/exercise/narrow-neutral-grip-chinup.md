@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Chinup (narrow parallel grip) are a bodyweight exercise targeting the upper back, with significant involvement of the bicep and forearms. The movement requires pulling the body up to a bar using a narrow, parallel grip, emphasizing upper back and arm strength. Intermediate back exercise using body weight. Targets upper back, also works biceps, forearms.
+A chinup on a V-shaped handle hooked over the bar, with your hands close together and palms facing each other. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using body weight. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ Chinup (narrow parallel grip) are a bodyweight exercise targeting the upper back
 
 ## How to perform
 
-1. Hang from a pullup bar with a narrow parallel grip, palms facing towards you.
-2. Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body.
-3. Continue pulling until your chin is above the bar.
-4. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Hang a V-shaped handle (the kind used for cable rows) over a pullup bar. Grab both grips, hands close together and palms facing each other, and hang with arms straight.
+2. Pull yourself up until your chin is above your hands.
+3. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

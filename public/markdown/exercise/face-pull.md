@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The face pull targets the rear deltoids and upper back muscles using a cable machine and rope attachment. It requires proper form to effectively engage the shoulders and upper back while maintaining core stability. Intermediate shoulders exercise using cable. Targets shoulders, also works trapezius, rhomboids, biceps.
+A rope pull on a cable machine, drawing the rope toward your face with your elbows high. It works the rear shoulders and upper back. Intermediate shoulders exercise using cable. Targets shoulders, also works trapezius, rhomboids, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The face pull targets the rear deltoids and upper back muscles using a cable mac
 
 ## How to perform
 
-1. Stand facing a cable machine with your feet shoulder-width apart.
-2. Hold the cable attachment with both hands, palms facing each other, and step back to create tension in the cable.
-3. Keep your back straight and your core engaged.
-4. Pull the cable towards your body, squeezing your shoulder blades together.
-5. Pause for a moment at the peak of the movement, then slowly release the cable back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a rope to a pulley set at about shoulder height. Stand facing the machine with your feet shoulder-width apart.
+2. Hold the rope with both hands, palms facing each other, and step back until your arms are straight and the cable is tight.
+3. Pull the rope toward your face, elbows high and out to the sides, drawing your shoulder blades together. Keep your back straight.
+4. Return slowly until your arms are straight again.
 
 ## Pro tips
 

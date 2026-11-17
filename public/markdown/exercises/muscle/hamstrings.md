@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-20 exercises targeting your hamstrings. Build strength and muscle with exercises organized by equipment type.
+18 exercises targeting your hamstrings. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
@@ -14,18 +14,16 @@
 - **Barbell Good Morning** — Intermediate | Body Part: Legs
 - **Power Clean** — Advanced | Body Part: Legs
 
-### Body Weight (10 exercises)
+### Body Weight (8 exercises)
 
 - **Nordic Hamstring Curl** — Advanced | Body Part: Legs
-- **Kick Out Sit** — Beginner | Body Part: Legs
 - **Standing Single Leg Curl** — Beginner | Body Part: Legs
-- **Hamstring Stretch** — Beginner | Body Part: Legs
 - **Leg Up Hamstring Stretch** — Beginner | Body Part: Legs
 - **Runners Stretch** — Beginner | Body Part: Legs
 - **Seated Wide Angle Pose Sequence** — Beginner | Body Part: Legs
 - **World's Greatest Stretch** — Intermediate | Body Part: Legs
 - **Glute Ham Raise** — Advanced | Body Part: Legs
-- **Single Leg Platform Slide** — Intermediate | Body Part: Legs
+- **Lying Heel Slide** — Intermediate | Body Part: Legs
 
 ### Dumbbell (1 exercise)
 
@@ -35,16 +33,16 @@
 
 - **Kettlebell Hang Clean** — Intermediate | Body Part: Legs
 
-### Machine (3 exercises)
+### Machine (2 exercises)
 
 - **Lying Leg Curl** — Beginner | Body Part: Legs
 - **Seated Leg Curl** — Beginner | Body Part: Legs
-- **Prone Hamstring** — Beginner | Body Part: Legs
 
-### Resistance Band (2 exercises)
+### Resistance Band (3 exercises)
 
-- **Reclining Big Toe Pose with Rope** — Beginner | Body Part: Legs
-- **Standing Hamstring and Calf Stretch with Strap** — Beginner | Body Part: Legs
+- **Band Straight Leg Deadlift** — Beginner | Body Part: Legs
+- **Reclining Big Toe Pose with Band** — Beginner | Body Part: Legs
+- **Standing Hamstring and Calf Stretch with Band** — Beginner | Body Part: Legs
 
 ---
 
@@ -52,7 +50,7 @@
 
 Get a personalized workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

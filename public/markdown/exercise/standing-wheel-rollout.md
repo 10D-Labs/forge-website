@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The standing wheel rollout is an advanced core exercise that primarily targets the abdominal muscles, while also engaging the lower back and shoulders. It requires significant core strength, balance, and control to perform safely and effectively. Advanced core exercise using ab wheel. Targets abs, also works lower back, shoulders.
+An advanced ab wheel rollout started from standing, not from your knees. It works the abs, with help from the lower back and shoulders. Advanced core exercise using ab wheel. Targets abs, also works lower back, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Ab Wheel
@@ -15,11 +15,10 @@ The standing wheel rollout is an advanced core exercise that primarily targets t
 
 ## How to perform
 
-1. Start by standing tall with your feet shoulder-width apart and the wheel roller in front of you.
-2. Bend at your waist and slowly roll the wheel forward, keeping your back straight and your core engaged.
-3. Continue rolling forward until you feel a stretch in your abs and your body is extended as far as possible.
-4. Pause for a moment, then slowly roll the wheel back towards your body, returning to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall with your feet shoulder-width apart and an ab wheel on the floor in front of you.
+2. Bend at your waist and hold the wheel's handles.
+3. Roll the wheel slowly forward with your back straight until your body is stretched out as far as you can go.
+4. Roll the wheel slowly back toward your feet.
 
 ## Pro tips
 

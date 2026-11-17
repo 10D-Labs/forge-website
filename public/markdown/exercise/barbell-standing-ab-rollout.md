@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing ab rollout is an advanced core exercise that targets the abs, with secondary emphasis on the shoulders and lower back. It requires significant core strength, stability, and control to perform safely and effectively. Advanced core exercise using barbell. Targets abs, also works shoulders, lower back.
+An advanced rollout done on your feet instead of your knees, rolling a barbell out until your body is stretched long and pulling it back. It works the abs, with help from the shoulders and lower back. Advanced core exercise using barbell. Targets abs, also works shoulders, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,11 +15,9 @@ The barbell standing ab rollout is an advanced core exercise that targets the ab
 
 ## How to perform
 
-1. Stand upright with your feet shoulder-width apart and hold the barbell with both hands in front of your thighs.
-2. Engage your core and slowly roll the barbell down towards the ground, keeping your back straight and your arms extended.
-3. Continue rolling the barbell forward until your body is fully extended and your hands are directly above your head.
-4. Pause for a moment, then slowly roll the barbell back towards your thighs, maintaining control and keeping your core engaged.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, bend forward, and hold a barbell on the floor in front of your feet with both hands.
+2. Keeping your arms and back straight, roll the bar forward slowly until you're in a pushup position, hands under your shoulders.
+3. Pull the bar back toward your feet with your abs until you're bent over again.
 
 ## Pro tips
 

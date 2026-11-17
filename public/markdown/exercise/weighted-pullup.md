@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted pullup is an advanced variation of the standard pullup, where additional weight is used to increase resistance. This exercise primarily targets the latissimus dorsi (lats) and also engages the bicep and forearms. It requires significant upper body strength, coordination, and experience to perform safely and effectively. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
+A pullup with a weight plate hung from a belt around your hips for extra load. It works the lats, the large muscles down the sides of your back, plus the biceps and forearms. Advanced back exercise using weight plate. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Lats
 - **Secondary Muscles:** Biceps, Forearms
 - **Difficulty:** Advanced
@@ -15,12 +15,10 @@ The weighted pullup is an advanced variation of the standard pullup, where addit
 
 ## How to perform
 
-1. Grab the pullup bar with an overhand grip, slightly wider than shoulder-width apart.
-2. Hang from the bar with your arms fully extended and your body straight.
-3. Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body.
-4. Continue pulling until your chin is above the bar.
-5. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Put on a dip belt (a belt that goes around your hips) and hang a weight plate from it.
+2. Grab a pullup bar with your palms facing away from you, hands slightly wider than shoulder-width apart, and hang with your arms straight.
+3. Pull yourself up, bringing your elbows down toward your sides, until your chin is above the bar.
+4. Lower yourself slowly until your arms are straight again.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Weighted Pullup is an advanced exercise. Beginners should master fundamental
 ## Related exercises
 
 - [More Back Exercises](https://forgetrainer.ai/exercises/back)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)
 
 ---

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar standing wide grip bicep curl is a strength exercise targeting the bicep, with secondary emphasis on the forearms. It involves curling an EZ barbell with a wide grip while standing. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
+A standing curl with an EZ bar, hands set wider than your shoulders. It works the biceps, with help from the forearms. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,11 +15,10 @@ The EZ bar standing wide grip bicep curl is a strength exercise targeting the bi
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold the ez barbell with an underhand grip, hands wider than shoulder-width apart.
-2. Keep your elbows close to your torso and your upper arms stationary throughout the movement.
-3. Curl the barbell up towards your shoulders by contracting your biceps.
-4. Pause for a moment at the top, then slowly lower the barbell back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand up straight with your feet shoulder-width apart, holding an EZ bar with your palms facing up and your hands wider than your shoulders.
+2. Keep your elbows close to your sides and your upper arms still.
+3. Curl the bar up toward your shoulders.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

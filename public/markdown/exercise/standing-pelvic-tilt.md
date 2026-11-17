@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The standing pelvic tilt is a bodyweight exercise that targets the spine and helps improve core engagement and lower back mobility. It is performed by tilting the pelvis forward while standing, engaging the core and gently mobilizing the lower back. Beginner back exercise using body weight. Targets lower back, also works abdominals.
+A small standing move where you tilt your pelvis to flatten your lower back. It helps the lower back move better and trains your abs to brace. Beginner back exercise using body weight. Targets lower back, also works abdominals.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The standing pelvic tilt is a bodyweight exercise that targets the spine and hel
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Place your hands on your hips or let them hang by your sides.
-3. Engage your core muscles and tilt your pelvis forward, pushing your lower back towards the wall behind you.
-4. Hold the position for a few seconds, then release and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, knees slightly bent, and your hands on your hips.
+2. Tighten your stomach and tuck your hips under, flattening your lower back as if pressing it toward a wall behind you.
+3. Hold for a few seconds, then relax back to the start.
 
 ## Pro tips
 

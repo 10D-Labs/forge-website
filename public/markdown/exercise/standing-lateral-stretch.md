@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The standing lateral stretch is a bodyweight exercise that targets the lats and stretches the sides of the torso. It also engages the shoulders and obliques. This movement is performed by standing with feet shoulder-width apart, extending the arms, and leaning to each side to stretch the lateral muscles. Beginner back exercise using body weight. Targets lats, also works shoulders, obliques.
+A standing side bend with one hand behind your head and that elbow pointing up. It stretches the lats and the side of your waist. Beginner back exercise using body weight. Targets lats, also works shoulders, obliques.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -16,11 +16,9 @@ The standing lateral stretch is a bodyweight exercise that targets the lats and 
 ## How to perform
 
 1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Extend your arms straight out to the sides, parallel to the ground.
-3. Slowly lean your upper body to one side, feeling a stretch in your side and lats.
-4. Hold the stretch for 15-30 seconds.
-5. Return to the starting position and repeat on the other side.
-6. Repeat for the desired number of repetitions.
+2. Raise one arm and put that hand behind your head, elbow pointing up. Let your other arm hang at your side.
+3. Lean your upper body slowly away from the raised elbow until you feel a stretch along that side.
+4. Hold for the set time, then come back up to standing straight and switch sides.
 
 ## Pro tips
 

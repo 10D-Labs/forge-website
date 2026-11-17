@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The basic toe touch is a bodyweight exercise that primarily targets the glutes, with secondary emphasis on the hamstrings and calves. It involves bending forward at the waist to reach towards the toes, providing a stretch to the posterior chain. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, calves.
+A standing forward bend from arms overhead down to your toes. It stretches the glutes, hamstrings and calves. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The basic toe touch is a bodyweight exercise that primarily targets the glutes, 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your arms by your sides.
-2. Bend forward at the waist, keeping your back straight and your knees slightly bent.
-3. Reach down towards your toes with your hands, keeping your legs as straight as possible.
-4. Pause for a moment at the bottom, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your arms reaching straight overhead.
+2. Bend forward at the waist and reach your hands down toward your toes.
+3. Keep your legs as straight as you can, with a slight bend in your knees.
+4. Rise slowly and reach your arms back overhead.
 
 ## Pro tips
 

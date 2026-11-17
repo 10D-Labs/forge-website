@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The squat to overhead reach with twist is a dynamic bodyweight exercise that combines a traditional squat with an overhead reach and torso twist, targeting the quads, glutes, hamstrings, and core. It enhances lower body strength, core stability, and rotational mobility. Beginner legs exercise using body weight. Targets quads, also works glutes, hamstrings, core.
+A bodyweight squat that ends with an overhead reach and a twist, turning to the other side each rep. It works the quads and glutes, plus the abs and obliques. Beginner legs exercise using body weight. Targets quads, also works glutes, hamstrings, core.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The squat to overhead reach with twist is a dynamic bodyweight exercise that com
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and toes slightly turned out.
-2. Lower your body into a squat position by bending your knees and pushing your hips back.
-3. As you come up from the squat, raise your arms overhead and twist your torso to one side.
-4. Return to the starting position and repeat the squat, this time twisting your torso to the opposite side.
-5. Continue alternating sides with each squat repetition.
+1. Stand with your feet shoulder-width apart and your toes turned slightly out.
+2. Bend your knees and push your hips back to lower into a squat.
+3. Stand back up, reaching your arms overhead and turning your upper body to one side.
+4. Turn back to face forward, then squat again and turn to the other side this time. Keep alternating sides.
 
 ## Pro tips
 

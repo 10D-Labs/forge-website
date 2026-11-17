@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The elliptical is a cardiovascular exercise performed on an elliptical machine. It simulates a walking or running motion with low impact on the joints, making it suitable for a wide range of fitness levels. The exercise targets the cardiovascular system while also engaging the quadriceps, hamstrings, glutes, and calves. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
+Cardio on an elliptical machine that is easy on the joints, your legs moving in a walking or running motion while your arms push and pull the handles. It works your heart and lungs, plus your legs and glutes. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Cardio Machine
@@ -15,13 +15,11 @@ The elliptical is a cardiovascular exercise performed on an elliptical machine. 
 
 ## How to perform
 
-1. Adjust the resistance level and incline of the elliptical machine to your desired settings.
-2. Step onto the pedals of the machine and grip the handles lightly.
-3. Begin by pushing down with your feet and pulling the handles towards your body.
-4. Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion.
-5. Maintain a steady pace and keep your core engaged throughout the exercise.
-6. Continue for your target duration.
-7. Gradually decrease the intensity before stepping off.
+1. Set the elliptical's resistance and incline to the level you want.
+2. Step onto the pedals and hold the moving handles lightly.
+3. Push down with your feet and pull the handles toward you. Keep pushing and pulling in turn, in a walking or running motion.
+4. Keep a steady pace and your abs tight.
+5. Keep going for the set time.
 
 ## Pro tips
 

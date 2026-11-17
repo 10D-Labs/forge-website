@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The wheel rollout is an advanced core exercise that targets the abdominal muscles and also engages the lower back. It requires significant core strength, stability, and control to perform safely and effectively. Advanced core exercise using ab wheel. Targets abs, also works lower back.
+An ab wheel rollout done from your knees, rolling out until your body is nearly straight and then pulling back. It works the abs, with help from the lower back. Advanced core exercise using ab wheel. Targets abs, also works lower back.
 
 - **Body Part:** Core
 - **Equipment:** Ab Wheel
@@ -15,12 +15,10 @@ The wheel rollout is an advanced core exercise that targets the abdominal muscle
 
 ## How to perform
 
-1. Kneel on the floor and place the wheel roller in front of you.
-2. Place your hands on the handles of the wheel roller and extend your arms straight out in front of you.
-3. Engage your core muscles and slowly roll the wheel forward, keeping your back straight and your abs tight.
-4. Continue rolling forward until your body is fully extended and your arms are overhead.
-5. Pause for a moment, then slowly roll the wheel back towards your knees, maintaining control and keeping your abs engaged.
-6. Repeat for the desired number of repetitions.
+1. Kneel on the floor with an ab wheel in front of you.
+2. Hold the handles with your arms straight out in front of you.
+3. Roll the wheel slowly forward with your back straight until your body is nearly stretched out and your arms reach past your head.
+4. Roll the wheel slowly back toward your knees.
 
 ## Pro tips
 

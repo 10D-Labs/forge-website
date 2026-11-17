@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Scapula dips are a bodyweight exercise targeting the traps and upper back, focusing on scapular retraction and depression. This movement helps improve shoulder stability and strength. Beginner back exercise using body weight. Targets traps, also works rhomboids, shoulders.
+A small dip with straight arms and your hands on a bench, raising your body by pushing your shoulders down. It works the traps, with help from the upper back and shoulders. Beginner back exercise using body weight. Targets traps, also works rhomboids, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Scapula dips are a bodyweight exercise targeting the traps and upper back, focus
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and your arms extended in front of you.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Lower your body by bending your elbows and retracting your shoulder blades, as if you are trying to squeeze a pencil between them.
-4. Pause for a moment at the bottom, then push through your hands to extend your elbows and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the edge of a flat bench, knees bent and feet flat. Place your hands on the edge beside your hips, palms down, fingers forward.
+2. Straighten your arms and slide your hips just off the front of the bench.
+3. Keep your arms straight and let your body sink as your shoulders rise toward your ears.
+4. Push your shoulders down away from your ears to lift your body back up.
 
 ## Pro tips
 

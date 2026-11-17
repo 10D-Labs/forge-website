@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band one arm single leg split squat is a lower body exercise that targets the quadriceps, with secondary emphasis on the glutes and hamstrings. It involves performing a split squat on one leg with the rear foot elevated and a resistance band around the ankles, challenging balance and unilateral strength. Intermediate legs exercise using resistance band. Targets quads, also works glutes, hamstrings.
+A split squat with your back foot up on a box, holding a band anchored low in front of you in one hand. It works the quads, with the glutes and hamstrings helping. Intermediate legs exercise using resistance band. Targets quads, also works glutes, hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,12 +15,11 @@ The band one arm single leg split squat is a lower body exercise that targets th
 
 ## How to perform
 
-1. Stand with your feet hip-width apart and place a resistance band around your ankles.
-2. Extend one leg forward and rest the top of your foot on a bench or step behind you.
-3. Hold onto a support with one hand for balance.
-4. Bend your standing leg and lower your body down into a squat position, keeping your knee in line with your toes.
-5. Push through your heel to return to the starting position.
-6. Repeat for the desired number of repetitions, then switch legs.
+1. Stand a big step in front of a box and rest the top of your back foot on it.
+2. Anchor a band low in front of you and hold its handle in one hand at your hip, palm facing in.
+3. Bend your front knee and lower straight down until your front thigh is about level with the floor.
+4. Keep your chest up and your front knee in line with your toes.
+5. Push through your front foot to stand back up. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

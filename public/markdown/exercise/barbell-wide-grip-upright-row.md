@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell wide grip upright row is a compound exercise targeting the deltoids, with secondary emphasis on the traps and bicep. It involves lifting a barbell with a wide grip from the thighs to the upper chest, focusing on leading with the elbows. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, biceps.
+An upright row with your hands set wide, lifting a barbell from your thighs to your upper chest with your elbows leading. It works the sides of the shoulders, plus the upper back and biceps. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,11 +15,9 @@ The barbell wide grip upright row is a compound exercise targeting the deltoids,
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands wider than shoulder-width apart.
-2. Let the barbell hang in front of your thighs, arms fully extended.
-3. Keeping your back straight, exhale and lift the barbell straight up towards your chin, leading with your elbows.
-4. Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart. Hold a barbell in front of your thighs with your palms facing you, hands wider than shoulder-width and arms straight.
+2. Lift the bar straight up toward your chin until it reaches your upper chest, leading with your elbows. Keep your back straight.
+3. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable incline fly is an isolation exercise targeting the pectoral muscles using a cable machine. It involves bringing the arms together in front of the body from a low starting position, emphasizing the upper chest. Intermediate chest exercise using cable. Targets chest, also works shoulders, triceps.
+A standing cable fly that sweeps your arms from low at your sides up to chest height, with no bench. It works the upper chest. Intermediate chest exercise using cable. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable incline fly is an isolation exercise targeting the pectoral muscles us
 
 ## How to perform
 
-1. Attach the handles to the low pulleys of a cable machine and select an appropriate weight.
-2. Stand in the middle of the machine with your feet shoulder-width apart and a slight bend in your knees.
-3. Grasp the handles with an overhand grip and extend your arms out to the sides, keeping a slight bend in your elbows.
-4. Maintaining control, slowly bring your arms forward in a sweeping motion, crossing them in front of your body.
-5. Pause for a moment at the peak of the movement, feeling the stretch in your chest muscles.
-6. Reverse the motion and slowly return your arms to the starting position, keeping tension on your chest muscles throughout.
-7. Repeat for the desired number of repetitions.
+1. Attach handles to both low pulleys. Stand in the middle of the machine with your feet shoulder-width apart and knees slightly bent.
+2. Hold a handle in each hand, arms down and slightly out to your sides, palms facing forward and elbows slightly bent.
+3. Sweep your arms forward and up until your hands meet in front of your chest.
+4. Lower your arms slowly back down to your sides, keeping the slight bend in your elbows.
 
 ## Pro tips
 

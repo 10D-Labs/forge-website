@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell reverse wrist curl is an isolation exercise targeting the forearms, specifically the wrist extensors. It is performed seated, with the forearms resting on the thighs and the wrists curling a barbell upward using an overhand grip. Beginner arms exercise using barbell. Targets forearms, also works biceps, brachialis.
+A wrist curl with your palms facing down, lifting the bar by bending your wrists back. It works the muscles on top of your forearms. Beginner arms exercise using barbell. Targets forearms, also works biceps, brachialis.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell reverse wrist curl is an isolation exercise targeting the forearms, 
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a barbell with an overhand grip, palms facing down.
-2. Rest your forearms on your thighs, allowing your wrists to hang off the edge.
-3. Slowly curl your wrists upward, bringing the barbell towards your body.
-4. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on a flat bench with your feet flat on the floor and hold a barbell with your palms facing down.
+2. Lean forward and rest your forearms on the bench, with your wrists hanging off the end.
+3. Keep your forearms still and bend your wrists to lift the barbell as high as you can.
+4. Lower the barbell slowly until your wrists hang down again.
 
 ## Pro tips
 

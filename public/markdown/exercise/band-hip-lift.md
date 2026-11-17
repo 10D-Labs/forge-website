@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band hip lift is a glute-focused exercise performed on the floor with a resistance band placed above the knees. It targets the glutes and also works the hamstrings and quadriceps. The movement involves lifting the hips off the ground while keeping the core engaged and squeezing the glutes at the top. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, quadriceps.
+A glute bridge with a band across your hips, held down by weight plates at your sides. It works the glutes, with help from the hamstrings and quads. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band hip lift is a glute-focused exercise performed on the floor with a resi
 
 ## How to perform
 
-1. Lie on your back with your knees bent and feet flat on the ground.
-2. Place a resistance band just above your knees.
-3. Engage your glutes and core muscles.
-4. Press your heels into the ground and lift your hips off the floor, squeezing your glutes at the top.
-5. Pause for a moment at the top, then slowly lower your hips back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent and feet flat, hip-width apart. Run a band across your hips, each end pinned under a weight plate.
+2. Press your palms down on the plates to hold them in place.
+3. Push through your heels and lift your hips until your body forms a straight line from shoulders to knees.
+4. Lower slowly until your hips almost touch the floor.
 
 ## Pro tips
 

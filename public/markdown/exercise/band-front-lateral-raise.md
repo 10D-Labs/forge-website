@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band front lateral raise is a shoulder exercise that targets the deltoid muscles. Using a resistance band, you lift your arms straight in front of you, working the shoulders and upper back. Beginner shoulders exercise using resistance band. Targets shoulders, also works traps, upper back.
+A one-arm front raise with a resistance band under your foot, lifting your straight arm to shoulder height. It works the shoulders. Beginner shoulders exercise using resistance band. Targets shoulders, also works traps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,10 +15,9 @@ The band front lateral raise is a shoulder exercise that targets the deltoid mus
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the band in front of your thighs with your palms facing down.
-2. Keep your arms straight and lift the band up in front of you until your arms are parallel to the ground.
-3. Pause for a moment at the top, then slowly lower the band back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand on one end of a resistance band, feet shoulder-width apart. Hold the other end in one hand at your thigh, palm facing your thigh.
+2. Raise your straight arm in front of you until it is level with your shoulder.
+3. Lower it slowly back to your thigh.
 
 ## Pro tips
 

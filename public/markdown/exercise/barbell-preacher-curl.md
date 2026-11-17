@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell preacher curl is an isolation exercise that targets the bicep by using a preacher bench to stabilize the upper arms, minimizing shoulder movement and maximizing bicep engagement. It is performed with a barbell and is effective for building bicep strength and size. Beginner arms exercise using barbell. Targets biceps, also works forearms.
+A barbell curl done with your upper arms resting on a slanted pad, which keeps them from swinging. It works the biceps. Beginner arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell preacher curl is an isolation exercise that targets the bicep by usi
 
 ## How to perform
 
-1. Sit on a preacher bench with your upper arms resting on the pad and your chest against the support.
-2. Grasp the barbell with an underhand grip, slightly wider than shoulder-width apart.
-3. Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders.
-4. Pause for a moment at the top, squeezing your biceps.
-5. Inhale and slowly lower the barbell back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit at a preacher bench with your upper arms resting on the slanted pad and your chest against it.
+2. Grip the barbell with your palms facing up, hands slightly wider than shoulder-width apart.
+3. Curl the bar up toward your shoulders, keeping your upper arms on the pad.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

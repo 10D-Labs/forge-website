@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The suspended row is a bodyweight exercise performed using a suspension trainer. It targets the upper back and also engages the bicep and shoulders. The movement requires pulling your chest towards the handles while maintaining a straight body position, making it effective for building upper body strength and stability. Intermediate back exercise using body weight. Targets upper back, also works biceps, shoulders.
+A row on gymnastic rings where you pull your own body up from a nearly flat lean. It works the upper back, with help from the biceps and shoulders. Intermediate back exercise using rings. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
-- **Equipment:** Body Weight
+- **Equipment:** Rings
 - **Target Muscle:** Upper Back
 - **Secondary Muscles:** Biceps, Shoulders
 - **Difficulty:** Intermediate
@@ -15,13 +15,10 @@ The suspended row is a bodyweight exercise performed using a suspension trainer.
 
 ## How to perform
 
-1. Set up a suspension trainer at an appropriate height.
-2. Stand facing the anchor point with your feet shoulder-width apart.
-3. Hold the handles with an overhand grip, palms facing each other.
-4. Lean back, keeping your body straight and your heels on the ground.
-5. Pull your chest towards the handles, squeezing your shoulder blades together.
-6. Pause for a moment at the top, then slowly lower yourself back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Hang under a pair of low gymnastic rings, holding one in each hand with your palms facing your feet.
+2. Keep your arms straight, your heels on the floor, and your body straight and nearly level with the floor.
+3. Pull your chest up to the rings, drawing your shoulder blades together and keeping your body straight.
+4. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 
@@ -60,7 +57,7 @@ The Suspended Row is rated as intermediate. Beginners should build a base of upp
 ## Related exercises
 
 - [More Back Exercises](https://forgetrainer.ai/exercises/back)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Rings Exercises](https://forgetrainer.ai/exercises/equipment/rings)
 - [More Upper Back Exercises](https://forgetrainer.ai/exercises/muscle/upper-back)
 
 ---

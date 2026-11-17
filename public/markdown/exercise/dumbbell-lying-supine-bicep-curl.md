@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying supine bicep curl is an isolation exercise targeting the bicep, performed while lying flat on a bench. It emphasizes strict form and minimizes cheating by stabilizing the upper body. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A dumbbell curl done lying on your back on a flat bench, with your arms hanging below the bench. Lying down keeps your body still, so the biceps do the work. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell lying supine bicep curl is an isolation exercise targeting the bice
 
 ## How to perform
 
-1. Lie flat on a bench with your back and head supported, and your feet flat on the ground.
-2. Hold a dumbbell in each hand with your palms facing up and your arms fully extended.
-3. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-4. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly begin to lower the dumbbells back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench with your head supported and your feet flat on the floor.
+2. Hold a dumbbell in each hand and let your arms hang straight down below the sides of the bench, palms facing up.
+3. Keep your upper arms still and curl the dumbbells up to your shoulders.
+4. Lower them slowly until your arms are straight again.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Alternate heel touchers is a bodyweight exercise targeting the abdominal muscles, particularly the obliques. It involves lying on your back, lifting your shoulders, and reaching side to side to touch your heels, engaging your core throughout. Beginner core exercise using body weight. Targets abs, also works obliques.
+A crunch-style move done on your back with your shoulders lifted, reaching side to side toward your heels. It works the abs, especially the obliques at your sides. Beginner core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Alternate heel touchers is a bodyweight exercise targeting the abdominal muscles
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Extend your arms straight out to the sides, parallel to the ground.
-3. Engaging your abs, lift your shoulders off the ground and reach your right hand towards your right heel.
-4. Return to the starting position and repeat on the left side, reaching your left hand towards your left heel.
-5. Continue alternating sides for the desired number of repetitions.
+1. Lie on your back with your knees bent and feet flat on the floor. Hold your arms straight by your sides, just off the floor.
+2. Use your abs to lift your shoulders off the floor.
+3. Reach your right hand toward your right heel by bending to the side.
+4. Come back to the middle, then reach your left hand toward your left heel. Keep alternating sides.
 
 ## Pro tips
 

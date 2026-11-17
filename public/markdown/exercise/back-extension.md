@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The back extension is a machine-based exercise targeting the muscles of the lower back (spine extensors), with secondary emphasis on the glutes and hamstrings. It is performed by sitting on a machine, securing the feet, and extending the back against resistance. Beginner back exercise using machine. Targets lower back, also works glutes, hamstrings.
+A seated machine exercise where you lean forward, then push your upper body back against a pad. It works the lower back, plus the glutes and hamstrings. Beginner back exercise using machine. Targets lower back, also works glutes, hamstrings.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,13 +15,9 @@ The back extension is a machine-based exercise targeting the muscles of the lowe
 
 ## How to perform
 
-1. Adjust the machine to fit your body size and range of motion.
-2. Sit on the machine with your back against the pad and your feet secured.
-3. Place your hands on the handles or grip bars.
-4. Engage your core and slowly lean forward, allowing your back to round slightly.
-5. Pause for a moment at the bottom position, feeling a stretch in your lower back.
-6. Using your back muscles, slowly raise your torso back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Adjust the machine to fit your body. Sit with your back against the pad, secure your feet and hold the handles.
+2. Lean forward slowly, letting your back round slightly, until you feel a stretch in your lower back.
+3. Push back against the pad with your back muscles until you're sitting upright again.
 
 ## Pro tips
 

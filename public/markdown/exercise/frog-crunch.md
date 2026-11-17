@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The frog crunch is a bodyweight abdominal exercise that targets the abs and also engages the hip flexors. It is performed lying on your back, curling your torso up while keeping your feet together and knees bent. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A crunch with the soles of your feet together and knees out to the sides, pulling your knees in as you curl up. It works the abs and the front of the hips. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The frog crunch is a bodyweight abdominal exercise that targets the abs and also
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your hands behind your head, elbows out.
+2. Bend your knees, let them fall out to the sides, and press the soles of your feet together.
+3. Curl your head and shoulders up while lifting your feet and pulling your knees toward your chest.
+4. Lower your upper body and feet slowly back to the floor, soles still together.
 
 ## Pro tips
 

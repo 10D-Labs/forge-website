@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The stationary bike walk is a cardiovascular exercise performed on a stationary bike. It primarily targets the cardiovascular system and also engages the quadriceps, hamstrings, and calves. The exercise involves pedaling at a steady pace, with the option to adjust resistance for increased intensity. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, calves.
+Easy, steady pedaling on an upright stationary bike. It works your heart and lungs, plus the quads, hamstrings and calves. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Cardio Machine
@@ -15,13 +15,10 @@ The stationary bike walk is a cardiovascular exercise performed on a stationary 
 
 ## How to perform
 
-1. Adjust the seat height and position on the stationary bike to ensure proper alignment.
-2. Place your feet on the pedals and secure them with the straps if available.
-3. Start pedaling at a comfortable pace, keeping your back straight and core engaged.
-4. Maintain a steady rhythm and increase the resistance level if desired.
-5. Continue pedaling for your target duration.
-6. Cool down by gradually reducing your pace and resistance level.
-7. Stretch your leg muscles after the workout to prevent tightness and promote recovery.
+1. Adjust the seat height and position on the bike to fit you.
+2. Put your feet on the pedals, tighten the straps if there are any, and hold the handlebars.
+3. Pedal at an easy, comfortable pace with your back straight.
+4. Keep a steady rhythm, adding resistance if you want it harder. Keep going for the set time.
 
 ## Pro tips
 

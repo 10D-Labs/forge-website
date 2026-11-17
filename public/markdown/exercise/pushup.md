@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pushup is a classic bodyweight exercise that targets the pectoral muscles, tricep, deltoids, and core. It is performed by lowering and raising the body using the arms while maintaining a straight line from head to heels. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
+A basic floor pushup, lowering and raising your body with your arms while keeping it straight from head to heels. It works the chest, plus the triceps and shoulders. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ The pushup is a classic bodyweight exercise that targets the pectoral muscles, t
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.
-2. Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line.
-3. Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms.
-4. Repeat for the desired number of repetitions.
+1. Get into a plank on your hands, arms straight, hands slightly wider than shoulder-width apart and feet together.
+2. Bend your elbows to lower your body until your chest is just above the floor, keeping your body in a straight line.
+3. Push back up until your arms are straight.
 
 ## Pro tips
 

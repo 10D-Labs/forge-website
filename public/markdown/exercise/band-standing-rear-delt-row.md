@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band standing rear delt row is an exercise targeting the rear deltoids, with secondary emphasis on the trapezius, rhomboids, and bicep. It uses a resistance band and involves pulling the band towards the chest while hinging at the hips, focusing on squeezing the shoulder blades together. Beginner shoulders exercise using resistance band. Targets shoulders, also works trapezius, rhomboids, biceps.
+A standing band row pulled toward your face with your elbows high and wide. It works the rear shoulders, along with the upper back and biceps. Beginner shoulders exercise using resistance band. Targets shoulders, also works trapezius, rhomboids, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band standing rear delt row is an exercise targeting the rear deltoids, with
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place the band under your feet.
-2. Hold the band handles with your palms facing each other and your arms extended in front of you.
-3. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-4. Pull the band towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly release the tension and return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Anchor a band above head height. Facing it, hold an end in each hand, palms facing down, and step back with one foot ahead, arms straight.
+2. Pull the band toward your face, bending your elbows and lifting them out to the sides.
+3. Stop when your hands are in front of your shoulders and your upper arms are level with the floor.
+4. Return slowly until your arms are straight.
 
 ## Pro tips
 

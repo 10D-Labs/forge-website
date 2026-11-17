@@ -2,15 +2,51 @@
 
 ## Quick Answer
 
-1 weight plate exercise. undefined
+22 weight plate exercises. undefined
 
 ---
 
 ## All Weight Plate Exercises by Body Part
 
-### Core (1 exercise)
+### Arms (3 exercises)
 
+- **Weighted Standing Curl** — Beginner | Target: Biceps
+- **Plate Pinch Hold** — Beginner | Target: Forearms
+- **Weighted Tricep Dips** — Advanced | Target: Triceps
+
+### Back (3 exercises)
+
+- **Weighted Pullup** — Advanced | Target: Lats
+- **Weighted Close Grip Chinup** — Advanced | Target: Lats
+- **Weighted Muscle Up** — Advanced | Target: Lats
+
+### Chest (3 exercises)
+
+- **Weighted Svend Press** — Intermediate | Target: Chest
+- **Weighted Drop Push Up** — Advanced | Target: Chest
+- **Weighted Straight Bar Dip** — Advanced | Target: Chest
+
+### Core (5 exercises)
+
+- **Weighted Crunch** — Intermediate | Target: Abs
+- **Legs Up Weighted Russian Twist** — Intermediate | Target: Abs
+- **Weighted Russian Twist** — Intermediate | Target: Abs
 - **Weighted Front Plank** — Intermediate | Target: Abs
+- **Weighted Decline Situp** — Intermediate | Target: Abs
+
+### Legs (5 exercises)
+
+- **Weighted Sissy Squat** — Advanced | Target: Quads
+- **Weighted Squat Between Benches** — Intermediate | Target: Glutes
+- **Weighted Stretch Lunge** — Intermediate | Target: Glutes
+- **Weighted Cossack Squats** — Advanced | Target: Glutes
+- **Weighted Lunge with Swing** — Intermediate | Target: Glutes
+
+### Shoulders (3 exercises)
+
+- **Weighted Front Raise** — Beginner | Target: Shoulders
+- **Bus Driver** — Intermediate | Target: Shoulders
+- **Weighted Kneeling Step with Swing** — Intermediate | Target: Shoulders
 
 ---
 
@@ -18,7 +54,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

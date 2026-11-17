@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The captain's chair straight leg raise is an abdominal exercise performed on a captain's chair apparatus. It primarily targets the abdominal muscles and also engages the hip flexors. The movement requires core strength and stability to lift and control the legs while keeping the upper body stable. Intermediate core exercise using body weight. Targets abs, also works hip flexors.
+A straight-leg raise done while held up on your forearms in a captain's chair. It works the abs, with help from the front of the hips. Intermediate core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The captain's chair straight leg raise is an abdominal exercise performed on a c
 
 ## How to perform
 
-1. Sit on the captain's chair with your back against the backrest and your forearms resting on the arm pads.
-2. Keep your upper body stable and your back straight.
-3. Engage your abs and lift your legs up in front of you, keeping them straight.
-4. Continue lifting until your legs are parallel to the ground or as high as you can comfortably go.
-5. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Hold yourself up in a captain's chair with your forearms on the arm pads, hands on the handles, and back against the back pad.
+2. Let your legs hang straight down and keep your upper body still.
+3. Keeping your legs straight, raise them in front of you until they're level with the floor, or as high as you can.
+4. Lower your legs slowly back down.
 
 ## Pro tips
 

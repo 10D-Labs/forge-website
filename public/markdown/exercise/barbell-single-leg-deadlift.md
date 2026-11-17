@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell single leg deadlift is a unilateral lower body exercise that targets the glutes, with secondary emphasis on the hamstrings and lower back. It challenges balance, coordination, and strength by requiring you to hinge at the hips on one leg while holding a barbell. Advanced legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
+A one-leg deadlift with a barbell, reaching your free leg back as you lean forward. It works the glutes, with the hamstrings and lower back helping, and tests your balance. Advanced legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell single leg deadlift is a unilateral lower body exercise that targets
 
 ## How to perform
 
-1. Stand with your feet hip-width apart, holding a barbell in front of your thighs with an overhand grip.
-2. Shift your weight onto your left foot and lift your right foot slightly off the ground.
-3. Hinge forward at the hips, keeping your back straight and your right leg extended behind you for balance.
-4. Lower the barbell towards the ground, keeping it close to your body and your left leg slightly bent.
-5. Pause for a moment at the bottom, then engage your glutes and hamstrings to lift your torso back up to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet hip-width apart, holding a barbell in front of your thighs with your palms facing you.
+2. Shift your weight onto your left foot and lift your right foot slightly off the floor.
+3. Bend forward at the hips with your back straight, reaching your right leg straight back behind you.
+4. Lower the bar toward the floor, keeping it close to your body and your left knee slightly bent.
+5. Lift your upper body back up to standing. Do all your reps on one side, then switch.
 
 ## Pro tips
 

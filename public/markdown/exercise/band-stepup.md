@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band stepup is a lower body exercise that targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves stepping onto a platform with resistance provided by a band around the thighs, enhancing muscle activation and stability. Beginner legs exercise using resistance band. Targets glutes, also works quadriceps, hamstrings, calves.
+A step-up onto a box while standing on a band held at your shoulders, so the band gets tighter as you rise. It works the glutes, with help from the quads, hamstrings and calves. Beginner legs exercise using resistance band. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,13 +15,10 @@ The band stepup is a lower body exercise that targets the glutes, with secondary
 
 ## How to perform
 
-1. Place a band around your thighs, just above your knees.
-2. Stand facing a step or platform with your feet hip-width apart.
-3. Step up onto the platform with your right foot, pushing through your heel.
-4. Extend your left leg behind you, keeping it straight.
-5. Lower your left foot back down to the ground.
-6. Repeat with your left foot stepping up onto the platform.
-7. Continue alternating legs for the desired number of repetitions.
+1. Stand facing a box with one foot on top of it and a band under that foot.
+2. Hold the band's handles in front of your shoulders, elbows down, palms facing you.
+3. Push through the foot on the box to step up until that leg is straight, letting your other foot hang behind you.
+4. Lower slowly back down until your other foot touches the floor. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

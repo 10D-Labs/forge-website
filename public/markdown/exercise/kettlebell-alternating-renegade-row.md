@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell alternating renegade row is a compound exercise that targets the upper back while also engaging the core and shoulders. It requires maintaining a plank position while performing alternating rows with kettlebells, challenging both strength and stability. Advanced back exercise using kettlebell. Targets upper back, also works core, shoulders.
+A row done from the top of a pushup, pulling one kettlebell up at a time while the other arm holds you up. It works the upper back, plus the abs and shoulders as you stay steady. Advanced back exercise using kettlebell. Targets upper back, also works core, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Kettlebell
@@ -15,11 +15,10 @@ The kettlebell alternating renegade row is a compound exercise that targets the 
 
 ## How to perform
 
-1. Start in a high plank position with your hands gripping the kettlebells and your feet hip-width apart.
-2. Engage your core and keep your body in a straight line from head to heels.
-3. Pull one kettlebell up towards your chest, keeping your elbow close to your body.
-4. Lower the kettlebell back down to the starting position and repeat with the other arm.
-5. Continue alternating arms for the desired number of repetitions.
+1. Get into a pushup position with straight arms, gripping the handles of two kettlebells on the floor.
+2. Keep your body in a straight line from head to heels.
+3. Row one kettlebell up toward your hip, keeping your elbow close to your body.
+4. Lower it back to the floor, then row the other one. Keep alternating sides.
 
 ## Pro tips
 

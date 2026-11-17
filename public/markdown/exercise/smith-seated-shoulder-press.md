@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith seated shoulder press is a machine-based exercise targeting the deltoid muscles of the shoulders. It provides stability and support, making it suitable for those looking to build shoulder strength with reduced risk of losing balance. The movement also engages the tricep and upper back as secondary muscles. Beginner shoulders exercise using smith machine. Targets shoulders, also works triceps, upper back.
+A shoulder press done seated in a Smith machine, with the bar moving on fixed rails in front of your face. It works the front of the shoulders, with help from the triceps and upper back. Beginner shoulders exercise using smith machine. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith seated shoulder press is a machine-based exercise targeting the deltoi
 
 ## How to perform
 
-1. Adjust the seat height so that the handles are at shoulder level.
-2. Sit on the machine with your back against the pad and your feet flat on the floor.
-3. Grasp the handles with an overhand grip and lift them off the supports, extending your arms fully.
-4. Lower the handles down to shoulder level, keeping your elbows slightly bent.
-5. Press the handles up overhead until your arms are fully extended.
-6. Pause for a moment at the top, then slowly lower the handles back down to shoulder level.
-7. Repeat for the desired number of repetitions.
+1. Set the seat so the bar is about shoulder height. Sit with your back against the pad and your feet flat on the floor.
+2. Grab the bar with your palms facing forward and unhook it, holding it at shoulder level in front of your face.
+3. Press the bar up until your arms are straight overhead.
+4. Lower it slowly back to shoulder level.
 
 ## Pro tips
 

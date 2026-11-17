@@ -2,16 +2,33 @@
 
 ## Quick Answer
 
-2 rings exercises. Elite upper body strength. Master bodyweight training with one of the most challenging tools in the gym.
+7 rings exercises. Elite upper body strength. Master bodyweight training with one of the most challenging tools in the gym.
 
 ---
 
 ## All Rings Exercises by Body Part
 
-### Back (2 exercises)
+### Arms (1 exercise)
 
-- **Weighted Ring Muscle Up** — Advanced | Target: Lats
+- **Ring Dips** — Advanced | Target: Triceps
+
+### Back (3 exercises)
+
+- **Weighted Ring Pull Up** — Advanced | Target: Lats
 - **Ring Muscle Up** — Advanced | Target: Lats
+- **Suspended Row** — Intermediate | Target: Upper Back
+
+### Chest (1 exercise)
+
+- **Suspended Pushup** — Advanced | Target: Chest
+
+### Core (1 exercise)
+
+- **Suspended Abdominal Fallout** — Advanced | Target: Abs
+
+### Legs (1 exercise)
+
+- **Suspended Split Squat** — Advanced | Target: Quads
 
 ---
 
@@ -19,7 +36,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

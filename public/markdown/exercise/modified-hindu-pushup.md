@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The modified Hindu pushup is a bodyweight exercise that targets the pectorals while also engaging the tricep, shoulders, and core. It involves a dynamic movement pattern that combines elements of a pushup with a downward dog-like position, challenging both strength and mobility. Intermediate chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
+A pushup that flows into an upside-down V: lower your chest, push your hips up high, then drop back into a plank. It works the chest, with help from the triceps, shoulders and abs. Intermediate chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The modified Hindu pushup is a bodyweight exercise that targets the pectorals wh
 
 ## How to perform
 
-1. Start in a pushup position with your hands slightly wider than shoulder-width apart and your feet hip-width apart.
-2. Lower your body towards the ground, bending your elbows and keeping your core engaged.
-3. As you lower your body, shift your weight back and lift your hips up towards the ceiling, creating an inverted V shape with your body.
-4. Continue to lower your body until your chest is just above the ground, then reverse the movement, pushing your hips back down and extending your arms to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Start in a pushup position with your arms straight, hands slightly wider than shoulder-width apart and feet hip-width apart.
+2. Bend your elbows to lower your chest until it is just above the floor.
+3. Push through your hands and lift your hips up and back until your body makes an upside-down V, arms straight.
+4. Lower your hips back down into the pushup position, then start the next rep.
 
 ## Pro tips
 

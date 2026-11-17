@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The resistance band seated chest press is a chest-focused exercise performed while sitting, using a resistance band to provide tension. It targets the pectoral muscles and also works the shoulders and tricep. This movement is performed by pressing the band forward from the chest while seated, making it accessible and safe for most fitness levels. Beginner chest exercise using resistance band. Targets chest, also works shoulders, triceps.
+A seated chest press with a resistance band wrapped behind your back. It works the chest, with help from the shoulders and triceps. Beginner chest exercise using resistance band. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The resistance band seated chest press is a chest-focused exercise performed whi
 
 ## How to perform
 
-1. Sit on a chair or bench with your back straight and feet flat on the ground.
-2. Hold the resistance band handles in each hand, with your palms facing down and elbows bent at a 90 degree angle.
-3. Extend your arms forward, pushing the resistance band away from your chest.
-4. Pause for a moment at the end of the movement, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench or chair with your back straight and your feet flat on the floor.
+2. Wrap a resistance band behind your back and hold a handle in each hand, palms facing down, elbows bent to 90 degrees.
+3. Push your hands straight forward until your arms are straight.
+4. Let your hands come back slowly until your elbows are bent to 90 degrees again.
 
 ## Pro tips
 

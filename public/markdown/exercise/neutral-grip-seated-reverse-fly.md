@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated reverse fly (parallel grip) is a machine-based exercise targeting the rear deltoids, with secondary emphasis on the trapezius and rhomboids. It involves pulling the handles back and outward while seated, focusing on squeezing the shoulder blades together. Beginner shoulders exercise using machine. Targets shoulders, also works trapezius, rhomboids.
+A machine fly done facing the chest pad, moving your arms backward with your palms facing each other. It works the back of the shoulders and the upper back. Beginner shoulders exercise using machine. Targets shoulders, also works trapezius, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The seated reverse fly (parallel grip) is a machine-based exercise targeting the
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the floor.
-2. Grasp the handles with a parallel grip, palms facing each other, and keep your arms slightly bent.
-3. Exhale and squeeze your shoulder blades together as you pull the handles back and outward, away from your body.
-4. Pause for a moment at the peak contraction, then inhale and slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit facing the machine, chest against the pad, feet flat on the floor. Set the seat so the handles are at shoulder height.
+2. Grab the handles in front of you with your palms facing each other (thumbs up), arms almost straight.
+3. Sweep your arms back and out to the sides until they're in line with your shoulders.
+4. Return slowly until your hands are back in front of you.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The quadriceps stretch is a bodyweight exercise that targets the quadriceps, with secondary emphasis on the hip flexors. It involves extending one leg back and lowering the hips to stretch the front of the thigh. Beginner legs exercise using body weight. Targets quads, also works hamstrings, glutes.
+A quad stretch done on hands and knees, lifting one leg behind you and holding the foot. It stretches the quads on the front of the thigh. Beginner legs exercise using body weight. Targets quads, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The quadriceps stretch is a bodyweight exercise that targets the quadriceps, wit
 
 ## How to perform
 
-1. Start on all fours with your hands directly under your shoulders and your knees directly under your hips.
-2. Extend one leg straight back, keeping your knee bent and your foot flexed.
-3. Slowly lower your hips towards the ground, feeling a stretch in your quads.
-4. Hold this position for 20-30 seconds.
-5. Switch legs and repeat the stretch on the other side.
+1. Get on your hands and knees, hands flat under your shoulders and knees under your hips.
+2. Lift one knee off the floor and raise that leg behind you, knee bent, until your thigh is level with the floor.
+3. Reach back with the same-side hand and hold the top of that foot until the front of your thigh stretches.
+4. Hold for the set time, then let go, lower your knee back to the floor and switch sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Finger curls are an isolation exercise targeting the forearms, specifically the finger flexors and grip muscles. This movement helps improve grip strength and forearm development. Beginner arms exercise using barbell. Targets forearms, also works wrist flexors, grip muscles.
+A seated forearm exercise where you roll a barbell from your fingers up into your palms. It works the forearms and grip. Beginner arms exercise using barbell. Targets forearms, also works wrist flexors, grip muscles.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ Finger curls are an isolation exercise targeting the forearms, specifically the 
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a barbell with an underhand grip, palms facing up.
-2. Rest your forearms on your thighs, allowing your wrists to hang off the edge.
-3. Slowly curl your fingers towards your palms, squeezing the barbell tightly.
-4. Hold the contraction for a moment, then slowly release your fingers back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the end of a bench with your feet flat on the floor. Hold a barbell with your palms facing up.
+2. Rest your forearms on your thighs so your wrists hang off past your knees. Let the bar roll down into your fingers.
+3. Curl your fingers to roll the bar up into your palms.
+4. Uncurl slowly, letting the bar roll back down to your fingers.
 
 ## Pro tips
 

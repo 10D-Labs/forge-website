@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell double push press is a compound movement that targets the shoulders (delts) and involves explosive power from the lower body to drive two kettlebells overhead. It requires coordination, strength, and proper technique to perform safely. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
+An overhead press with two kettlebells, using a quick knee dip and leg drive to help push them up. It works the front of the shoulders, with the legs adding power. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,12 +15,10 @@ The kettlebell double push press is a compound movement that targets the shoulde
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height.
-2. Bend your knees slightly and engage your core.
-3. Initiate the movement by explosively extending your hips, knees, and ankles, driving the kettlebells overhead.
-4. As the kettlebells reach the top, press them fully overhead, locking out your arms.
-5. Lower the kettlebells back to the starting position by bending your elbows and bringing them back down to shoulder height.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height.
+2. Bend your knees slightly to dip down.
+3. Straighten your hips, knees and ankles hard, using that drive to push the kettlebells overhead until your arms are locked straight.
+4. Bend your elbows to lower the kettlebells back to your shoulders.
 
 ## Pro tips
 

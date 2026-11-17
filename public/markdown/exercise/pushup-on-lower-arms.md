@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pushup on lower arms is a bodyweight exercise targeting the tricep, performed from a plank position on the forearms. It also engages the chest and shoulders. Intermediate arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A pushup where you lower from your hands onto your forearms and press back up. It works the triceps, with help from the chest and shoulders. Intermediate arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The pushup on lower arms is a bodyweight exercise targeting the tricep, performe
 
 ## How to perform
 
-1. Start in a plank position with your forearms on the ground and elbows directly below your shoulders.
-2. Engage your core and keep your body in a straight line from head to toe.
-3. Lower your chest towards the ground by bending your elbows, keeping them close to your body.
-4. Pause for a moment at the bottom, then push yourself back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Start in a high plank with your hands flat on the floor under your shoulders, arms straight, body straight from head to heels.
+2. Keep your hands in place and bend your elbows to lower onto your forearms, keeping your body straight.
+3. Press your palms into the floor to straighten your arms and push back up to the high plank.
 
 ## Pro tips
 

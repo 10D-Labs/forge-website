@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell bench front squat is a compound lower body exercise that targets the quadriceps, with secondary emphasis on the hamstrings, glutes, and calves. It requires holding a barbell in the front rack position and performing a squat, demanding good core stability, balance, and mobility. Intermediate legs exercise using barbell. Targets quads, also works hamstrings, glutes, calves.
+A front squat where you sit down onto a bench at the bottom of each rep, with the bar resting on the front of your shoulders. It works the quads, with help from the glutes and hamstrings. Intermediate legs exercise using barbell. Targets quads, also works hamstrings, glutes, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell bench front squat is a compound lower body exercise that targets the
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and the barbell resting on your upper chest, just below your collarbone.
-2. Hold the barbell with an overhand grip, keeping your elbows up and your upper arms parallel to the ground.
-3. Lower your body down into a squat position by bending at the knees and hips, keeping your back straight and your chest up.
-4. Pause for a moment at the bottom of the squat, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand just in front of a flat bench, facing away from it, with your feet shoulder-width apart.
+2. Rest a barbell across the front of your shoulders, just below your collarbone. Keep your elbows up and your upper arms level with the floor.
+3. Bend your knees and hips to sit back and down until you're seated on the bench. Keep your back straight and your chest up.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

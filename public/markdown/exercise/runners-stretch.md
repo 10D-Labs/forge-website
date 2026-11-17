@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The runner's stretch is a bodyweight exercise primarily targeting the hamstrings, with secondary emphasis on the calves and quadriceps. It is performed by stepping forward, bending the front knee, and keeping the back leg straight to stretch the hamstrings. Beginner legs exercise using body weight. Targets hamstrings, also works calves, quadriceps.
+A standing stretch where you fold over a straight front leg with the toes pulled up. It stretches the hamstrings and calves of the front leg. Beginner legs exercise using body weight. Targets hamstrings, also works calves, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The runner's stretch is a bodyweight exercise primarily targeting the hamstrings
 
 ## How to perform
 
-1. Stand with your feet hip-width apart.
-2. Take a step forward with your right foot, keeping your left foot planted.
-3. Bend your right knee and lower your body down, keeping your left leg straight.
-4. Place your hands on your right thigh for support.
-5. Hold the stretch for 20-30 seconds, then switch sides and repeat.
+1. Stand tall with your feet together and your arms at your sides.
+2. Step one foot a short way forward and rest it on the heel, toes pointing up.
+3. Keep your front leg straight, bend your back knee slightly, and fold forward from your hips to reach both hands toward your front toes.
+4. Hold for the set time, then rise slowly back to standing, bring your feet together and switch legs.
 
 ## Pro tips
 

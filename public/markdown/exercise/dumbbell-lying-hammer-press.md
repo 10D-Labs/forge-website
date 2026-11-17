@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying hammer press is a chest exercise performed on a bench with dumbbells held in a neutral grip (palms facing each other). It targets the pectorals while also engaging the tricep and shoulders. Beginner chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
+A flat-bench dumbbell press with your palms facing each other. It works the chest, with help from the triceps and shoulders. Beginner chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell lying hammer press is a chest exercise performed on a bench with du
 
 ## How to perform
 
-1. Lie flat on a bench with a dumbbell in each hand, palms facing each other and arms extended straight up.
-2. Lower the dumbbells to the sides of your chest, keeping your elbows at a 90 degree angle.
-3. Press the dumbbells back up to the starting position, fully extending your arms.
-4. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with a dumbbell in each hand, arms straight up and palms facing each other.
+2. Lower the dumbbells to the sides of your chest, until your elbows are bent to 90 degrees.
+3. Press them back up until your arms are straight.
 
 ## Pro tips
 

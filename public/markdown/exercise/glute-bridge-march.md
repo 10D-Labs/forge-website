@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The glute bridge march is a bodyweight exercise that targets the glutes while also engaging the hamstrings and quadriceps. It involves holding a glute bridge position and alternately lifting each knee towards the chest in a marching motion, challenging hip stability and core strength. Intermediate legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
+A glute bridge held at the top while you lift one knee at a time, as if marching. It works the glutes, with help from the hamstrings and quads. Intermediate legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The glute bridge march is a bodyweight exercise that targets the glutes while al
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Engage your glutes and lift your hips off the ground, forming a straight line from your knees to your shoulders.
-3. While keeping your hips lifted, lift one foot off the ground and bring your knee towards your chest.
-4. Lower your foot back to the ground and repeat the movement with the other leg.
-5. Continue alternating legs in a marching motion while maintaining the bridge position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent and your feet flat on the floor.
+2. Lift your hips until your body forms a straight line from your knees to your shoulders.
+3. Keep your hips up and lift one foot, bringing that knee toward your chest.
+4. Put the foot back down and lift the other knee. Keep alternating legs, like marching.
 
 ## Pro tips
 

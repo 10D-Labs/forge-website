@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band kneeling twisting crunch is an abdominal exercise that targets the abs and obliques using a resistance band. It involves kneeling and twisting the torso against the resistance of the band, engaging the core muscles. Intermediate core exercise using resistance band. Targets abs, also works obliques.
+A kneeling crunch with a twist, pulling against a band anchored high behind you with your hands by your head. It works the abs and the obliques along your sides. Intermediate core exercise using resistance band. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band kneeling twisting crunch is an abdominal exercise that targets the abs 
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point at waist height.
-2. Kneel down facing away from the anchor point and hold the band with both hands, keeping your elbows bent and close to your sides.
-3. Engage your abs and slowly twist your torso to one side, bringing your hands towards your opposite hip.
-4. Pause for a moment, then slowly return to the starting position.
-5. Repeat on the other side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Anchor a band high behind you. Kneel upright on the floor and hold a handle in each hand beside your head, palms facing in.
+2. Crunch forward and down, rounding your back and turning your shoulders so your head moves toward one knee.
+3. Keep your hands by your head and your hips still.
+4. Rise slowly back to upright. Do all your reps on one side, then switch.
 
 ## Pro tips
 

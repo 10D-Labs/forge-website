@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell stepup lunge is a compound lower body exercise that targets the quadriceps while also engaging the glutes, hamstrings, and calves. It involves stepping onto a raised platform while holding dumbbells, requiring balance, coordination, and lower body strength. Intermediate legs exercise using dumbbell. Targets quads, also works glutes, hamstrings, calves.
+A step-up done with your back foot resting on a bench behind you, lifting your front foot onto a second bench into a lunge. It works the quads, with help from the glutes and hamstrings. Intermediate legs exercise using dumbbell. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell stepup lunge is a compound lower body exercise that targets the qua
 
 ## How to perform
 
-1. Stand in front of a step or platform with a dumbbell in each hand, palms facing your sides.
-2. Place your right foot on the step, ensuring your entire foot is on the surface.
-3. Push through your right heel and lift your body up onto the step, bringing your left foot up as well.
-4. Once both feet are on the step, lower your left foot back down to the starting position, keeping your right foot on the step.
-5. Repeat the movement, alternating which foot you step up with each time.
-6. Continue for the desired number of repetitions.
+1. Set two flat benches in a line with about a stride's gap between them. Stand in the gap facing the front bench.
+2. Hold a dumbbell in each hand at your sides, palms facing your thighs. Reach one foot back and rest its top on the rear bench.
+3. Lift your standing foot off the floor and place it flat on the front bench, so you're in a lunge with both feet up.
+4. Step that foot back down to the floor. Do all your reps on one side, then switch.
 
 ## Pro tips
 

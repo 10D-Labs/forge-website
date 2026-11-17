@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell lateral lunge is a lower body exercise that targets the glutes and also works the quadriceps, hamstrings, and calves. It involves stepping laterally while supporting a barbell on your upper back, requiring strength, balance, and coordination. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A side lunge with a barbell across your upper back, bending one knee while the other leg stays straight. It works the glutes, with help from the quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell lateral lunge is a lower body exercise that targets the glutes and a
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a barbell across your upper back.
+1. Stand with your feet shoulder-width apart and a barbell across your upper back.
 2. Take a big step to the side with your right foot, keeping your left foot planted.
-3. Bend your right knee and lower your body down into a lunge position, keeping your left leg straight.
-4. Push off with your right foot and return to the starting position.
-5. Repeat on the other side, stepping with your left foot.
+3. Bend your right knee to lower your body, keeping your left leg straight.
+4. Push off your right foot to return to the start, then do the same stepping out with your left foot.
 
 ## Pro tips
 

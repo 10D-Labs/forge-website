@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying one arm rear lateral raise is an isolation exercise targeting the rear deltoids, performed lying face down on a bench. It helps develop shoulder strength and stability, with additional engagement of the traps and rhomboids. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
+A one-arm raise out to the side while lying face down on a flat bench. It works the back of the shoulders, with the upper back helping. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell lying one arm rear lateral raise is an isolation exercise targeting
 
 ## How to perform
 
-1. Lie face down on a flat bench with a dumbbell in one hand, hanging towards the floor.
-2. Keep your arm straight and lift the dumbbell out to the side, away from your body.
-3. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-4. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Lie face down on a flat bench with a dumbbell in one hand, arm hanging straight toward the floor.
+2. Keep your arm straight and raise the dumbbell out to the side, away from your body.
+3. Lower it slowly until it hangs straight down again. Do all your reps on one side, then switch.
 
 ## Pro tips
 

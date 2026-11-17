@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable standing twist row is a compound exercise that targets the upper back while also engaging the bicep and shoulders. It incorporates a twisting motion, which adds a rotational component to the traditional row, enhancing core engagement and coordination. Intermediate back exercise using cable. Targets upper back, also works biceps, shoulders.
+A standing cable row with a twist: as you pull the bar in, you turn your upper body to one side. It works the upper back, with help from the biceps, shoulders and obliques. Intermediate back exercise using cable. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,16 +15,11 @@ The cable standing twist row is a compound exercise that targets the upper back 
 
 ## How to perform
 
-1. Attach a V bar attachment to a cable machine at chest height.
-2. Stand facing the cable machine with your feet shoulder-width apart.
-3. Grasp the V bar with an overhand grip, palms facing down.
-4. Take a step back to create tension in the cable.
-5. Keep your back straight and core engaged throughout the exercise.
-6. Pull the V bar towards your torso by retracting your shoulder blades and bending your elbows.
-7. As you pull, twist your torso to one side, squeezing your shoulder blades together.
-8. Pause for a moment at the top of the movement, feeling the contraction in your upper back.
-9. Slowly release the tension and return to the starting position, untwisting your torso.
-10. Repeat the movement for the desired number of repetitions, alternating the twisting direction with each rep.
+1. Attach a V-bar to a pulley at chest height and stand facing it, feet shoulder-width apart.
+2. Hold the bar with both hands, palms facing down, and step back until the cable is tight and your arms are straight.
+3. Keeping your back straight, pull the bar toward your torso and twist your upper body to one side as you pull.
+4. Return slowly, untwisting until your arms are straight.
+5. Twist to the other side on the next rep. Keep alternating sides.
 
 ## Pro tips
 

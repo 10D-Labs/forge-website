@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable lat pulldown is a strength exercise targeting the latissimus dorsi (lats) using a cable machine and a straight bar attachment. It also engages the bicep, rhomboids, and rear deltoids. The movement involves pulling the bar down towards the chest while maintaining proper posture and control. Beginner back exercise using cable. Targets lats, also works biceps, rhomboids, rear deltoids.
+A seated pulldown, pulling a long bar from a high cable down to your upper chest. It works the lats, plus the biceps, upper back and backs of the shoulders. Beginner back exercise using cable. Targets lats, also works biceps, rhomboids, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,13 +15,11 @@ The cable lat pulldown is a strength exercise targeting the latissimus dorsi (la
 
 ## How to perform
 
-1. Adjust the cable pulley to a high position and attach a straight bar.
-2. Sit facing the cable machine with your feet flat on the ground and your knees slightly bent.
-3. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart.
-4. Lean back slightly and keep your chest up, maintaining a slight arch in your lower back.
-5. Pull the bar down towards your chest, leading with your elbows and squeezing your shoulder blades together.
-6. Pause for a moment at the bottom of the movement, then slowly return the bar to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Attach a long straight bar to a high pulley. Sit on the bench facing the machine, feet flat on the floor and knees slightly bent.
+2. Grip the bar with your palms facing away from you, hands slightly wider than shoulder-width apart.
+3. Lean back slightly with your chest up and a slight arch in your lower back.
+4. Pull the bar down to your upper chest, leading with your elbows and squeezing your shoulder blades together.
+5. Let the bar rise slowly until your arms are straight.
 
 ## Pro tips
 

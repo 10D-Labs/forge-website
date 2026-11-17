@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell seated close grip concentration curl is an isolation exercise targeting the bicep, performed while seated with a barbell using a close grip. It emphasizes strict form and bicep contraction by bracing the upper arms against the inner thighs. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
+A seated barbell curl done leaning forward with your upper arms braced against your inner thighs, which stops them from swinging. It works the biceps. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell seated close grip concentration curl is an isolation exercise target
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the floor and hold a barbell with an underhand grip, hands shoulder-width apart.
-2. Rest your upper arms against your inner thighs, just above your knees, and let the barbell hang down in front of you.
-3. Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders, contracting your biceps.
-4. Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench with your feet flat on the floor. Hold a barbell with your palms facing forward, hands shoulder-width apart.
+2. Lean forward and rest your upper arms against your inner thighs, just above your knees, letting the bar hang in front of you.
+3. Curl the bar up toward your shoulders, keeping your upper arms still.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

@@ -2,9 +2,9 @@
 
 ## Quick Answer
 
-22 effective arm exercises you can do with cable. Complete instructions and form tips included.
+21 effective arm exercises you can do with cable. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 15 Beginner | 7 Intermediate | 0 Advanced
+**Difficulty breakdown:** 15 Beginner | 6 Intermediate | 0 Advanced
 
 ---
 
@@ -15,9 +15,9 @@
 - **Cable Preacher Curl** — Target: Biceps | Secondary: Forearms
 - **Cable Tricep Pushdown** — Target: Triceps | Secondary: Forearms
 - **Cable Reverse Wrist Curl** — Target: Forearms | Secondary: Forearms, Wrists
-- **Cable Standing Back Wrist Curl** — Target: Forearms | Secondary: Biceps, Brachialis
+- **Cable Standing Back Wrist Curl** — Target: Forearms
 - **Cable Wrist Curl** — Target: Forearms | Secondary: Biceps, Brachialis
-- **Cable Kickback** — Target: Triceps | Secondary: Shoulders
+- **Cable Bent Over Tricep Kickback** — Target: Triceps | Secondary: Shoulders
 - **Cable Curl** — Target: Biceps | Secondary: Forearms
 - **Cable Concentration Curl** — Target: Biceps | Secondary: Forearms
 - **Cable Seated Curl** — Target: Biceps | Secondary: Forearms
@@ -28,15 +28,14 @@
 - **Cable Close Grip Curl** — Target: Biceps | Secondary: Forearms
 - **Cable Single Arm Tricep Pushdown** — Target: Triceps | Secondary: Forearms
 
-### Intermediate (7 exercises)
+### Intermediate (6 exercises)
 
 - **Cable Reverse Preacher Curl** — Target: Biceps | Secondary: Forearms
 - **Cable Lying Bicep Curl** — Target: Biceps | Secondary: Forearms
 - **Cable Overhead Tricep Extension** — Target: Triceps | Secondary: Shoulders
-- **Cable Alternate Tricep Extension** — Target: Triceps | Secondary: Shoulders
+- **Cable Single Arm Tricep Extension** — Target: Triceps | Secondary: Shoulders
 - **Cable Drag Curl** — Target: Biceps | Secondary: Forearms
-- **Cable Single Arm Reverse Grip Tricep Extension** — Target: Triceps | Secondary: Shoulders
-- **Cable Standing Single Arm Tricep Extension** — Target: Triceps | Secondary: Shoulders
+- **Cable Single Arm Reverse Grip Overhead Tricep Extension** — Target: Triceps | Secondary: Shoulders
 
 ---
 
@@ -44,7 +43,7 @@
 
 Our AI trainers design personalized arm workout plans using cable. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

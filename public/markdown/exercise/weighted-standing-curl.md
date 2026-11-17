@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted standing curl is a classic strength exercise targeting the bicep, performed with dumbbells while standing. It also engages the forearms as secondary muscles. Beginner arms exercise using body weight. Targets biceps, also works forearms.
+A curl done with one weight plate held by its top edge in both hands, palms facing you. It works the biceps and forearms. Beginner arms exercise using weight plate. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Biceps
 - **Secondary Muscles:** Forearms
 - **Difficulty:** Beginner
@@ -15,10 +15,9 @@ The weighted standing curl is a classic strength exercise targeting the bicep, p
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing forward.
-2. Keep your elbows close to your torso and exhale as you curl the weights up to shoulder level.
-3. Pause for a moment at the top, then inhale as you slowly lower the weights back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand tall with your feet hip-width apart. Hold a weight plate upright in front of your thighs by its top edge, palms facing you.
+2. Keep your elbows at your sides and curl the plate up to chest height.
+3. Lower it slowly until your arms are straight.
 
 ## Pro tips
 
@@ -57,7 +56,7 @@ Yes, the Weighted Standing Curl is rated as a beginner-level exercise. It's a gr
 ## Related exercises
 
 - [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)
 
 ---

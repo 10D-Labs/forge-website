@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell alternating press is a shoulder exercise where you press one kettlebell overhead at a time, alternating arms. This movement targets the deltoids and also engages the tricep and core for stability. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
+A standing overhead press with two kettlebells, pressing one arm at a time and switching each rep. It works the shoulders, with help from the triceps and abs. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -16,10 +16,8 @@ The kettlebell alternating press is a shoulder exercise where you press one kett
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height.
-2. Press one kettlebell overhead, fully extending your arm.
-3. Lower the kettlebell back to shoulder height.
-4. Repeat with the other arm.
-5. Continue alternating arms for the desired number of repetitions.
+2. Press one kettlebell straight up until your arm is straight overhead.
+3. Lower it back to your shoulder, then press the other one. Keep alternating sides.
 
 ## Pro tips
 

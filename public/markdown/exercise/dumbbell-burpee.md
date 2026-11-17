@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell burpee is a full-body exercise that combines a squat, pushup, and overhead press using dumbbells. It targets the cardiovascular system while also engaging multiple muscle groups, including the legs, shoulders, triceps, and core. Advanced cardio exercise using dumbbell. Targets cardiovascular, also works quadriceps, hamstrings, calves, shoulders, triceps, core.
+A burpee done holding a dumbbell in each hand: squat, jump back to a plank on the dumbbells, jump in, then stand and jump. It works the whole body and raises your heart rate. Advanced cardio exercise using dumbbell. Targets cardiovascular, also works quadriceps, hamstrings, calves, shoulders, triceps, core.
 
 - **Body Part:** Cardio
 - **Equipment:** Dumbbell
@@ -15,14 +15,11 @@ The dumbbell burpee is a full-body exercise that combines a squat, pushup, and o
 
 ## How to perform
 
-1. Start in a standing position with your feet shoulder-width apart and a dumbbell in each hand.
-2. Lower your body into a squat position, placing the dumbbells on the ground in front of you.
-3. Kick your feet back into a pushup position, keeping your body in a straight line.
-4. Perform a pushup, bending your elbows and lowering your chest towards the ground.
-5. Jump your feet back towards your hands, landing in a squat position.
-6. Stand up explosively, lifting the dumbbells off the ground and bringing them to your shoulders.
-7. Press the dumbbells overhead, fully extending your arms.
-8. Lower the dumbbells back to your shoulders and repeat the entire sequence for the desired number of repetitions.
+1. Stand tall with a dumbbell in each hand, arms at your sides, palms facing your thighs.
+2. Squat down and set the dumbbells on the floor in front of your feet, keeping hold of the handles.
+3. Jump your feet back into a plank with your arms straight, body in a line from head to heels.
+4. Jump your feet back in toward your hands, landing in a squat.
+5. Stand up quickly with the dumbbells and jump straight up, keeping them at your sides. Land softly and start the next rep.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying supination is an isolation exercise targeting the forearms, specifically focusing on the supinator muscles. It also engages the bicep and shoulders as secondary muscles. The movement involves curling dumbbells while lying on a bench, emphasizing forearm rotation and strength. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
+A forearm twist done lying on your side on a bench, turning a dumbbell from upright to level. It works the forearms and biceps. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,11 @@ The dumbbell lying supination is an isolation exercise targeting the forearms, s
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground.
-2. Hold a dumbbell in each hand with your palms facing up and your arms fully extended.
-3. Keeping your upper arms stationary, curl the dumbbells towards your shoulders by contracting your forearms.
-4. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your side on a flat bench, propped up on your bottom elbow near the edge.
+2. Hold a dumbbell by the middle of the handle in your bottom hand, forearm sticking out past the edge of the bench.
+3. Start with your palm facing your feet and the dumbbell standing upright.
+4. Keep your elbow still and turn your forearm until your palm faces the ceiling and the dumbbell lies level along the bench.
+5. Turn it back slowly until the dumbbell stands upright again. Do all your reps on one side, then switch.
 
 ## Pro tips
 

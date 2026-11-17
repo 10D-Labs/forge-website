@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bench kickback is a bodyweight exercise targeting the glutes and hamstrings. It involves lifting the hips off a bench to form a straight line from knees to shoulders, emphasizing glute activation and kickback strength. Beginner legs exercise using body weight. Targets glutes, also works hamstrings.
+A glute kickback done kneeling on a flat bench, kicking one straight leg back and up. It works the glutes and hamstrings. Beginner legs exercise using body weight. Targets glutes, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The bench kickback is a bodyweight exercise targeting the glutes and hamstrings.
 
 ## How to perform
 
-1. Sit on a bench with your back against the bench and your feet flat on the ground.
-2. Place your hands on the bench for support.
-3. Engage your glutes and hamstrings, then lift your hips off the bench until your body forms a straight line from your knees to your shoulders.
-4. Pause for a moment at the top, then slowly lower your hips back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Kneel on one knee near the end of a flat bench and put both hands on the bench in front of you, arms straight.
+2. Let your other leg hang down beside the bench, knee bent, foot near the floor.
+3. Keep your back flat and kick that leg back and up until it's straight and level with your body.
+4. Lower it slowly back down beside the bench. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

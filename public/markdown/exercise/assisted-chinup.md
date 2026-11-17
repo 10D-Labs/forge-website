@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The assisted chinup is a machine-based exercise that helps users perform chinup with assistance, making it easier to build strength in the lats, bicep, and forearms. It is ideal for those who are not yet able to perform unassisted chinup. Beginner back exercise using machine. Targets lats, also works biceps, forearms.
+A chin-up on a machine that takes some of your body weight, so you can do full reps before you can do them alone. It works the lats, with help from the biceps and forearms. Beginner back exercise using machine. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The assisted chinup is a machine-based exercise that helps users perform chinup 
 
 ## How to perform
 
-1. Adjust the machine to your desired resistance level.
-2. Stand on the foot platform and grip the handles with an overhand grip, slightly wider than shoulder-width apart.
-3. Hang with your arms fully extended, keeping your body straight.
-4. Engage your back muscles and pull your body up towards the handles, leading with your chest.
-5. Continue pulling until your chin is above the handles.
-6. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set the weight stack to the amount of help you need, then kneel on the pad.
+2. Grab the handles above you, hands about shoulder-width apart. Hang with your arms straight and your body upright.
+3. Pull yourself up, leading with your chest, until your chin is above the handles.
+4. Lower yourself slowly until your arms are straight again.
 
 ## Pro tips
 

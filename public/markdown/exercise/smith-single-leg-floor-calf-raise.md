@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith one leg floor calf raise is a lower leg exercise performed using a Smith machine. It targets the calves and also engages the hamstrings and glutes as secondary muscles. The exercise involves raising your heel off the ground while balancing on one leg, with the Smith machine bar providing resistance. Intermediate legs exercise using smith machine. Targets calves, also works hamstrings, glutes.
+A one-leg calf raise on the floor with a Smith machine bar across your upper back. It works the calves. Intermediate legs exercise using smith machine. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith one leg floor calf raise is a lower leg exercise performed using a Smi
 
 ## How to perform
 
-1. Position yourself on the floor under the smith machine bar, facing away from the machine.
-2. Place the balls of your feet on a raised surface, such as a weight plate or block.
-3. Position the smith machine bar across your lower legs, just above your ankles.
-4. Hold onto the bar with your hands for stability.
-5. Raise your heels off the ground by extending your ankles, lifting your body up.
-6. Pause at the top of the movement, then slowly lower your heels back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Stand in a Smith machine with the bar across your upper back. Hold it a little wider than your shoulders, palms facing forward.
+2. Unhook the bar. Bend one knee and lift that foot behind you so you stand on one foot.
+3. Rise onto the ball of your standing foot, lifting your heel as high as you can.
+4. Lower your heel slowly back to the floor. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

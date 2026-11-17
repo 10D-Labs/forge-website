@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The chest tap pushup is a challenging bodyweight exercise that targets the pectorals while also engaging the tricep and shoulders. It requires strength, coordination, and balance as you momentarily support your body with one hand while tapping your chest with the other. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A pushup with a one-handed chest tap at the top of each rep, so you balance on one hand for a moment. It works the chest, with help from the triceps and shoulders. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The chest tap pushup is a challenging bodyweight exercise that targets the pecto
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line.
-2. Lower your body towards the ground by bending your elbows, keeping them close to your sides.
-3. As you lower yourself, tap your chest with your right hand.
-4. Push yourself back up to the starting position.
-5. Repeat the movement, this time tapping your chest with your left hand.
-6. Continue alternating sides for the desired number of repetitions.
+1. Get into a pushup position on straight arms, hands slightly wider than shoulder-width apart, body straight from head to heels.
+2. Bend your elbows to lower your chest toward the floor, keeping your elbows close to your sides.
+3. Push back up. At the top, lift your right hand, tap your chest, and put the hand back down.
+4. Do the next pushup and tap with your left hand. Keep alternating sides.
 
 ## Pro tips
 

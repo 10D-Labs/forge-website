@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell kickback is an isolation exercise targeting the tricep. It involves extending the arm backward while keeping the upper arm stationary, effectively working the tricep and engaging the shoulders as secondary muscles. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+A one-arm triceps kickback with one knee and one hand braced on a flat bench. It works the triceps. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell kickback is an isolation exercise targeting the tricep. It involves
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Bring your upper arms close to your sides, with your elbows bent at a 90 degree angle.
-4. Extend your arms straight back, squeezing your triceps at the top of the movement.
-5. Pause for a moment, then slowly lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Put one knee and the hand on the same side on a flat bench, with your other foot on the floor.
+2. Hold a dumbbell in your free hand, palm facing your body. Raise your upper arm level with your back, forearm hanging straight down.
+3. Keep your upper arm still and straighten your elbow to push the dumbbell back until your arm is straight.
+4. Bend your elbow slowly to bring the dumbbell back down. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

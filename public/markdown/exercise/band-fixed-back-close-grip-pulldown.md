@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band fixed back close grip pulldown is an exercise targeting the latissimus dorsi (lats) using a resistance band anchored above the user. It mimics the traditional cable pulldown but uses a band for resistance, making it accessible and effective for building back strength. Beginner back exercise using resistance band. Targets lats, also works biceps, forearms.
+A seated pulldown on a band anchored above you, with your hands close together and palms facing you. It works the lats, the big muscles along the sides of your back. Beginner back exercise using resistance band. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,14 +15,11 @@ The band fixed back close grip pulldown is an exercise targeting the latissimus 
 
 ## How to perform
 
-1. Attach the band to a fixed point above you, such as a pullup bar or sturdy beam.
-2. Sit down on a bench or chair facing the band, with your feet flat on the ground and your knees bent.
-3. Grasp the band with a close grip, palms facing towards you.
-4. Keep your back straight and engage your core.
-5. Pull the band down towards your chest, squeezing your shoulder blades together.
-6. Pause for a moment at the bottom of the movement, feeling the contraction in your lats.
-7. Slowly release the band back to the starting position, maintaining control throughout the movement.
-8. Repeat for the desired number of repetitions.
+1. Attach a resistance band to a sturdy point above you, such as a pullup bar or beam.
+2. Sit on a box, bench or chair facing the band, feet flat on the floor and knees bent.
+3. Hold the band with your hands close together, palms facing you, and keep your back straight.
+4. Pull the band down toward your chest, drawing your shoulder blades together.
+5. Let your arms rise slowly until they are straight.
 
 ## Pro tips
 

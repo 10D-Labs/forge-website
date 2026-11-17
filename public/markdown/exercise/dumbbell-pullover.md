@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell pullover is a chest exercise that also targets the lats and tricep. It involves lying on a bench and moving a dumbbell in an arc over and behind your head while keeping your arms straight. Intermediate chest exercise using dumbbell. Targets chest, also works lats, triceps.
+A lying dumbbell exercise: with straight arms, lower one dumbbell in an arc behind your head, then bring it back over your chest. It works the chest, plus the lats and triceps. Intermediate chest exercise using dumbbell. Targets chest, also works lats, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell pullover is a chest exercise that also targets the lats and tricep.
 
 ## How to perform
 
-1. Lie flat on a bench with your head at one end and your feet planted firmly on the ground.
-2. Hold a dumbbell with both hands and extend your arms straight above your chest.
-3. Keeping your arms straight, slowly lower the dumbbell behind your head in an arc-like motion.
-4. Pause for a moment, then raise the dumbbell back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on a flat bench with your head at one end and your feet flat on the floor.
+2. Hold one dumbbell with both hands, arms straight up over your chest.
+3. Keep your arms straight and lower the dumbbell back behind your head in an arc.
+4. Bring it back up along the same arc until it's over your chest.
 
 ## Pro tips
 

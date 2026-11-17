@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The close grip chinup is a bodyweight exercise targeting the lats, with significant involvement of the bicep and forearms. It requires pulling your body up to a bar with a close, underhand grip, emphasizing upper body strength. Intermediate back exercise using body weight. Targets lats, also works biceps, forearms.
+A chinup with your hands close together and your palms facing you. It works the lats, with a lot of help from the biceps and forearms. Intermediate back exercise using body weight. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The close grip chinup is a bodyweight exercise targeting the lats, with signific
 
 ## How to perform
 
-1. Grab the pullup bar with your palms facing towards you and your hands shoulder-width apart.
-2. Hang from the bar with your arms fully extended and your feet off the ground.
-3. Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body.
-4. Continue pulling until your chin is above the bar.
-5. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Grab a pullup bar with your palms facing you and your hands close together.
+2. Hang with your arms straight and your feet off the floor.
+3. Pull yourself up, keeping your elbows close to your body, until your chin is above the bar.
+4. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

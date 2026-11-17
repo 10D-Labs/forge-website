@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated shoulder press (parallel grip) is a strength exercise targeting the deltoids, performed while seated with dumbbells held in a neutral grip. It also engages the tricep and upper back as secondary muscles. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, upper back.
+A seated dumbbell shoulder press with your palms facing each other the whole time. It works the front of the shoulders, with help from the triceps and upper back. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell seated shoulder press (parallel grip) is a strength exercise target
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in each hand, palms facing inward.
-2. Raise the dumbbells to shoulder height, elbows bent and palms facing forward.
-3. Press the dumbbells upward until your arms are fully extended overhead.
-4. Pause for a moment at the top, then slowly lower the dumbbells back to shoulder height.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench with an upright back support, feet flat on the floor. Hold a dumbbell in each hand at shoulder height, palms facing each other, elbows pointing forward.
+2. Press the dumbbells straight up until your arms are straight above your head, keeping your palms facing each other.
+3. Lower them slowly back to shoulder height.
 
 ## Pro tips
 

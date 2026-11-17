@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell pistol squat is a challenging single leg squat variation that targets the glutes, quadriceps, hamstrings, and calves. It requires significant strength, balance, and mobility, as well as experience with both pistol squats and kettlebell handling. Advanced legs exercise using kettlebell. Targets glutes, also works quadriceps, hamstrings, calves.
+A one-leg squat holding a kettlebell at your chest, with the other leg held straight out in front. It works the glutes, quads, hamstrings and calves, and takes real strength, balance and flexibility. Advanced legs exercise using kettlebell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Kettlebell
@@ -16,10 +16,10 @@ The kettlebell pistol squat is a challenging single leg squat variation that tar
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a kettlebell in front of your chest with both hands.
-2. Lift your left foot off the ground and extend it forward, keeping it parallel to the ground.
-3. Slowly lower your body down into a squat position, keeping your right foot flat on the ground and your left leg extended.
-4. Pause for a moment at the bottom of the squat, then push through your right heel to return to the starting position.
-5. Repeat for the desired number of repetitions, then switch legs.
+2. Lift your left foot and stretch that leg out in front of you, level with the floor.
+3. Squat down slowly on your right leg, keeping your right foot flat and your left leg out in front.
+4. Push through your right heel to stand back up.
+5. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

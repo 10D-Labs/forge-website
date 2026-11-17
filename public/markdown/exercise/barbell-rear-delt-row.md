@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell rear delt row is a compound exercise targeting the rear deltoids, with secondary emphasis on the trapezius, rhomboids, and bicep. It involves pulling a barbell towards the chest while bent over, focusing on squeezing the shoulder blades together to engage the upper back and rear shoulders. Intermediate shoulders exercise using barbell. Targets shoulders, also works trapezius, rhomboids, biceps.
+A bent-over barbell row with a wide grip, pulling the bar to your chest. It works the backs of the shoulders, plus the upper back and biceps. Intermediate shoulders exercise using barbell. Targets shoulders, also works trapezius, rhomboids, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell rear delt row is a compound exercise targeting the rear deltoids, wi
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and knees slightly bent.
-2. Hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Bend forward at the hips, keeping your back straight and chest up.
-4. Pull the barbell towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly lower the barbell back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your knees slightly bent, holding a barbell with your palms facing your thighs and your hands wide apart.
+2. Bend forward at the hips, keeping your back straight and your chest up.
+3. Pull the bar up to your chest, squeezing your shoulder blades together.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

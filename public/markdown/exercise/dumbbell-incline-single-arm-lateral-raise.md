@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline one arm lateral raise is a shoulder isolation exercise performed on an incline bench. It targets the deltoid muscles and helps improve shoulder strength and stability. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works trapezius, triceps.
+A one-arm side raise done lying on your side on an incline bench, lifting the dumbbell from your hip until your arm points straight up. It works the side of the shoulder. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works trapezius, triceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell incline one arm lateral raise is a shoulder isolation exercise perf
 
 ## How to perform
 
-1. Sit on an incline bench with a dumbbell in one hand, resting it on your thigh.
-2. Lean forward and position your upper arm against the inside of your thigh.
-3. Raise the dumbbell to the side, keeping your arm slightly bent and your palm facing down.
-4. Continue lifting until your arm is parallel to the floor.
-5. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-6. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Set an adjustable bench to about 45 degrees. Lie on your side against the backrest with your feet stacked on the floor.
+2. Hold a dumbbell in your top hand, resting on your hip, palm facing your thigh and elbow slightly bent.
+3. Raise the dumbbell out to the side and up in an arc until your arm points straight up at the ceiling.
+4. Lower it slowly back to your hip. Do all your reps on one side, then switch.
 
 ## Pro tips
 

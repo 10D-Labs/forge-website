@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band one arm twisting seated row is a resistance exercise targeting the upper back, with secondary emphasis on the bicep and shoulders. It incorporates a twisting motion to engage the core and improve rotational strength. Intermediate back exercise using resistance band. Targets upper back, also works biceps, shoulders.
+A one-arm band row done sitting on the floor, turning your upper body as you pull. It works the upper back, with help from the biceps and shoulders. Intermediate back exercise using resistance band. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band one arm twisting seated row is a resistance exercise targeting the uppe
 
 ## How to perform
 
-1. Sit on a bench or chair with your feet flat on the ground and your back straight.
-2. Hold the band with one hand and extend your arm fully in front of you.
-3. Keeping your back straight, pull the band towards your body by bending your elbow and squeezing your shoulder blades together.
-4. At the same time, twist your torso towards the side of the pulling arm.
-5. Pause for a moment at the top, then slowly release the tension in the band and return to the starting position.
-6. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Anchor a band in front of you at about chest height. Sit on the floor facing it with your legs straight.
+2. Hold the handle in one hand, palm facing in (thumb up), arm straight and that shoulder reaching forward. Rest your other hand on your hip.
+3. Pull the handle to the side of your waist, driving your elbow back and turning your chest toward that side.
+4. Return slowly until your arm is straight. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

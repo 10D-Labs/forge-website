@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The side plank hip adduction is a bodyweight exercise that targets the adductors while also engaging the obliques and glutes. It requires maintaining a side plank position while lifting the top leg, challenging both strength and balance. Advanced legs exercise using body weight. Targets adductors, also works obliques, glutes.
+A side plank with your top foot on a bench, lifting your bottom leg up to meet it. It works the inner thighs, with help from the obliques and glutes. Advanced legs exercise using body weight. Targets adductors, also works obliques, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The side plank hip adduction is a bodyweight exercise that targets the adductors
 
 ## How to perform
 
-1. Start by lying on your side with your legs extended and stacked on top of each other.
-2. Prop yourself up on your forearm, keeping your elbow directly below your shoulder.
-3. Engage your core and lift your hips off the ground, creating a straight line from your head to your feet.
-4. While maintaining the side plank position, lift your top leg towards the ceiling, keeping it straight.
-5. Slowly lower your leg back down to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Lie on your side next to a flat bench, propped on your forearm, elbow under your shoulder, top hand on your chest.
+2. Rest your top foot on the bench with that leg straight, and let your bottom leg lie on the floor.
+3. Lift your hips until your body is in a straight line, raising your bottom leg up to meet the bench.
+4. Lower your hips and bottom leg slowly toward the floor. Do all your reps on one side, then switch.
 
 ## Pro tips
 

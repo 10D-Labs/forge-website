@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated hammer curl is an isolation exercise targeting the bicep and forearms. It is performed while seated, using a neutral grip (palms facing in) to emphasize the brachialis and brachioradialis muscles. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A two-arm curl done sitting against a back rest, with your palms facing each other, thumbs up. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,9 @@ The dumbbell seated hammer curl is an isolation exercise targeting the bicep and
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in each hand, palms facing your torso and arms extended straight down.
-2. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-3. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly begin to lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit on a bench with a back rest, holding a dumbbell in each hand with your arms straight down and palms facing your body.
+2. Keep your upper arms still and your palms facing in (thumbs up) as you curl both dumbbells up to shoulder level.
+3. Lower the dumbbells slowly until your arms are straight.
 
 ## Pro tips
 

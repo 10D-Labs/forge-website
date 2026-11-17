@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hanging straight leg raise is an advanced core exercise performed by hanging from a pullup bar and lifting the legs straight up in front of the body. It primarily targets the abdominal muscles and also engages the hip flexors. Advanced core exercise using body weight. Targets abs, also works hip flexors.
+A hard hanging ab exercise: hang from a pullup bar and lift your straight legs in front of you to hip height. It works the abs and the front of the hips. Advanced core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The hanging straight leg raise is an advanced core exercise performed by hanging
 
 ## How to perform
 
-1. Hang from a pullup bar with your arms fully extended and your palms facing away from you.
-2. Engage your core and lift your legs up in front of you, keeping them straight.
-3. Continue lifting until your legs are parallel to the ground or as high as you can comfortably go.
-4. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your arms straight and your palms facing away from you.
+2. Keep your legs straight and together and lift them in front of you until they're level with the floor, or as high as you can.
+3. Lower your legs slowly back down.
 
 ## Pro tips
 

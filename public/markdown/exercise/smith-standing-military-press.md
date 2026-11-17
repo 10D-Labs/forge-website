@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The Smith standing military press is a compound exercise targeting the deltoid muscles of the shoulders, performed using a Smith machine for added stability. It also engages the tricep and upper back as secondary muscles. The fixed bar path of the Smith machine can make the movement more accessible for those learning the overhead press, but it still requires good shoulder mobility and core stability. Intermediate shoulders exercise using smith machine. Targets shoulders, also works triceps, upper back.
+A standing overhead press on a Smith machine, pushing the bar up from your shoulders. It works the front of the shoulders, with help from the triceps and upper back. Intermediate shoulders exercise using smith machine. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Smith Machine
@@ -15,12 +15,11 @@ The Smith standing military press is a compound exercise targeting the deltoid m
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.
-3. Lift the barbell off the rack and bring it down to shoulder level, with your palms facing forward.
-4. Press the barbell upward until your arms are fully extended overhead.
-5. Pause for a moment at the top, then slowly lower the barbell back down to shoulder level.
-6. Repeat for the desired number of repetitions.
+1. Stand at the Smith machine with your feet shoulder-width apart and knees slightly bent.
+2. Grip the bar with your palms facing forward, hands slightly wider than shoulder-width.
+3. Unhook the bar and bring it down to shoulder level.
+4. Press the bar up until your arms are straight overhead.
+5. Lower it slowly back to shoulder level.
 
 ## Pro tips
 

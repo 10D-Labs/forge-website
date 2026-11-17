@@ -34,21 +34,20 @@ const COMPARISON_PAIRS: [string, string][] = [
   // Back comparisons
   ["barbell-bent-over-row", "dumbbell-bent-over-row"],
   ["cable-lat-pulldown", "barbell-bent-over-row"],
-  ["deadlift", "barbell-bent-over-row"],
+  ["barbell-deadlift", "barbell-bent-over-row"],
   ["barbell-bent-over-row", "cable-floor-seated-wide-grip-row"],
-  ["deadlift", "barbell-romanian-deadlift"],
+  ["barbell-deadlift", "barbell-romanian-deadlift"],
   ["barbell-deadlift", "barbell-sumo-deadlift"],
   // Leg comparisons
   ["barbell-full-squat", "leg-press"],
   ["barbell-front-squat", "barbell-full-squat"],
-  ["deadlift", "barbell-romanian-deadlift"],
   ["leg-extension", "barbell-full-squat"],
   ["barbell-lunge", "dumbbell-lunge"],
   ["barbell-lunge", "walking-lunge"],
   ["barbell-hack-squat", "leg-press"],
   // Shoulder comparisons
   ["barbell-seated-overhead-press", "dumbbell-arnold-press"],
-  ["lateral-raise", "cable-lateral-raise"],
+  ["dumbbell-lateral-raise", "cable-lateral-raise"],
   ["face-pull", "barbell-rear-delt-row"],
   ["cable-front-raise", "barbell-front-raise"],
   // Arm comparisons
@@ -60,7 +59,7 @@ const COMPARISON_PAIRS: [string, string][] = [
   // Core comparisons
   ["bicycle-crunch", "cable-kneeling-crunch"],
   ["front-plank-with-twist", "dead-bug"],
-  ["hanging-leg-raise", "cable-kneeling-crunch"],
+  ["hanging-straight-leg-raise", "cable-kneeling-crunch"],
   ["decline-situp", "bicycle-crunch"],
 ];
 

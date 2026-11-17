@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell bench squat is a lower body exercise that targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves squatting down to a bench while holding a dumbbell, which helps guide depth and form. Beginner legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat down to a bench behind you with a dumbbell in each hand, so the bench sets how low you go. It works the glutes and quads. Beginner legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell bench squat is a lower body exercise that targets the glutes, with 
 
 ## How to perform
 
-1. Place a dumbbell on the ground in front of a bench.
-2. Stand facing away from the bench with your feet shoulder-width apart.
-3. Bend at the knees and hips to lower yourself down towards the bench, keeping your chest up and back straight.
-4. Once your glutes touch the bench, push through your heels to stand back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your back to a flat bench, feet shoulder-width apart, holding a dumbbell in each hand at your sides, palms facing your thighs.
+2. Bend your knees and push your hips back to sit down until your butt touches the bench. Keep your chest up.
+3. Push through your feet to stand back up straight.
 
 ## Pro tips
 

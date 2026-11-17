@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Impossible dips are a challenging bodyweight exercise performed between two parallel bars, focusing on the tricep while also engaging the chest and shoulders. The movement requires significant upper body strength and control, as well as experience with dip variations. Advanced arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A dip on parallel bars with your legs held straight out in front, leaning back as you lower until your forearms nearly touch the bars. It works the triceps, with help from the chest and shoulders. Advanced arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Impossible dips are a challenging bodyweight exercise performed between two para
 
 ## How to perform
 
-1. Position yourself between two parallel bars with your arms fully extended and your body suspended in the air.
-2. Bend your knees and cross your ankles.
-3. Lower your body by bending your elbows until your upper arms are parallel to the ground.
-4. Pause for a moment, then push yourself back up to the starting position by straightening your arms.
-5. Repeat for the desired number of repetitions.
+1. Grip a pair of parallel bars, palms facing each other, and press up until your arms are straight.
+2. Hold your legs straight and together, angled forward in front of you, and keep them there the whole time.
+3. Bend your elbows and let them travel back as you lower, leaning your body back, until your forearms are almost flat along the bars.
+4. Push through your hands to straighten your arms and return to the start.
 
 ## Pro tips
 

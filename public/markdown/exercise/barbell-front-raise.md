@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell front raise is a shoulder exercise that targets the deltoids by lifting a barbell from the thighs to shoulder height with straight arms. Beginner shoulders exercise using barbell. Targets shoulders, also works biceps, triceps.
+A standing raise, lifting a barbell with straight arms from your thighs to shoulder height. It works the front of the shoulders. Beginner shoulders exercise using barbell. Targets shoulders, also works biceps, triceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,10 +15,9 @@ The barbell front raise is a shoulder exercise that targets the deltoids by lift
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell in front of your thighs with an overhand grip.
-2. Keep your arms straight and lift the barbell forward and upward until it reaches shoulder level.
-3. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a barbell in front of your thighs with your palms facing your thighs.
+2. Keep your arms straight and lift the bar forward and up until it reaches shoulder height.
+3. Lower the bar slowly back to your thighs.
 
 ## Pro tips
 

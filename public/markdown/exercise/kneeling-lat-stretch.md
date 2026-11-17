@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kneeling lat stretch is a bodyweight exercise that targets the latissimus dorsi (lats) and helps improve flexibility and mobility in the upper back and shoulders. It is performed by kneeling, extending the arms overhead, and leaning side to side to stretch each lat muscle. Beginner back exercise using body weight. Targets lats, also works shoulders, triceps.
+A stretch on your hands and knees, sliding one arm forward along the floor and letting your chest sink. It stretches the lats along the side of your back and the shoulder. Beginner back exercise using body weight. Targets lats, also works shoulders, triceps.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The kneeling lat stretch is a bodyweight exercise that targets the latissimus do
 
 ## How to perform
 
-1. Kneel on the ground with your knees hip-width apart and your toes pointing back.
-2. Extend your arms overhead and interlace your fingers.
-3. Keeping your back straight, slowly lean to the right side, feeling a stretch in your left lat muscle.
-4. Hold the stretch for 20-30 seconds, then return to the starting position.
-5. Repeat the stretch on the left side, leaning to the left and feeling a stretch in your right lat muscle.
-6. Continue alternating sides for the desired number of repetitions.
+1. Get on your hands and knees with your hands under your shoulders and your knees under your hips.
+2. Slide one hand forward along the floor until that forearm rests flat on it. Keep your other hand where it is.
+3. Let your chest sink toward the floor until you feel a stretch down that side of your back.
+4. Hold for the set time, then slide your hand back slowly and switch sides.
 
 ## Pro tips
 

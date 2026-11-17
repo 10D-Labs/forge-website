@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable middle fly is an isolation exercise targeting the pectoral muscles using a cable machine. It emphasizes chest development and also engages the deltoids and tricep as secondary muscles. Intermediate chest exercise using cable. Targets chest, also works shoulders, triceps.
+A standing cable fly with the pulleys at chest height, sweeping your arms together in front of you. It works the chest, with some help from the shoulders and triceps. Intermediate chest exercise using cable. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Cable
@@ -15,13 +15,11 @@ The cable middle fly is an isolation exercise targeting the pectoral muscles usi
 
 ## How to perform
 
-1. Attach cables to both sides of a cable machine at chest height.
-2. Stand in the center of the machine with one foot slightly in front of the other.
-3. Grasp the handles with an overhand grip and extend your arms out to the sides.
-4. Keep a slight bend in your elbows and maintain a slight forward lean.
-5. Engage your chest muscles and bring your arms forward in a sweeping motion.
-6. Pause for a moment at the center, then slowly return your arms back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set both pulleys of a cable machine at chest height. Stand in the middle with one foot slightly in front of the other.
+2. Hold a handle in each hand with your arms out to the sides and your palms facing forward.
+3. Keep a slight bend in your elbows and lean forward slightly.
+4. Bring your arms forward in a wide arc until your hands come together in front of you.
+5. Open your arms slowly back out to the sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Walking on an incline treadmill is a cardiovascular exercise performed on a treadmill with the incline set to increase intensity. It primarily targets the cardiovascular system while also engaging the quadriceps, hamstrings, and calves. Beginner cardio exercise using treadmill. Targets cardiovascular, also works quadriceps, hamstrings, calves.
+Uphill walking on a treadmill, with the incline raised to make it harder. It raises your heart rate and works the quads, hamstrings and calves. Beginner cardio exercise using treadmill. Targets cardiovascular, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Treadmill
@@ -15,12 +15,10 @@ Walking on an incline treadmill is a cardiovascular exercise performed on a trea
 
 ## How to perform
 
-1. Adjust the incline level on the treadmill to your desired intensity.
+1. Set the treadmill incline to suit how hard you want to work.
 2. Stand on the treadmill with your feet shoulder-width apart.
-3. Start walking at a comfortable pace, ensuring that you maintain proper form.
-4. Engage your core muscles and keep your back straight throughout the exercise.
-5. Continue walking on the incline treadmill until you reach your target distance.
-6. Gradually decrease the incline and speed of the treadmill to cool down before stopping.
+3. Start walking at a comfortable pace, keeping your back straight.
+4. Keep going for the set distance.
 
 ## Pro tips
 

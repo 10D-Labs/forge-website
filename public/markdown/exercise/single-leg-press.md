@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The single leg press is a unilateral lower body exercise performed on a leg press machine, focusing on one leg at a time to target the quads, glutes, and hamstrings. This variation helps identify and correct strength imbalances between legs while improving stability. Intermediate legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A leg press done one leg at a time on a 45-degree machine. It works the glutes, quads and hamstrings and can help even out strength differences between your legs. Intermediate legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,12 +15,12 @@ The single leg press is a unilateral lower body exercise performed on a leg pres
 
 ## How to perform
 
-1. Sit in the leg press machine and place one foot in the center of the footplate.
-2. Keep your other foot resting to the side or hovering near the platform.
+1. Sit in a 45-degree leg press and put one foot in the middle of the footplate.
+2. Rest your other foot to the side, or let it hover near the platform.
 3. Release the safety handles and lower the weight by bending your knee toward your chest.
-4. Push through your heel to extend your leg back to the starting position without locking your knee.
-5. Complete all reps on one leg before switching to the other.
-6. When finished, carefully re-engage the safety handles.
+4. Push through your heel to straighten your leg, without locking your knee.
+5. Do all your reps on one leg, then switch.
+6. Lock the safety handles back in place when you finish.
 
 ## Pro tips
 

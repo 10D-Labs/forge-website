@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable wrist curl is an isolation exercise targeting the forearm muscles, particularly the wrist flexors. It is performed using a cable machine and a straight bar, focusing on curling the wrists upward while keeping the forearms stationary. Beginner arms exercise using cable. Targets forearms, also works biceps, brachialis.
+A seated wrist curl with your palms facing up, using a low cable. It works the muscles on the underside of your forearms. Beginner arms exercise using cable. Targets forearms, also works biceps, brachialis.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable wrist curl is an isolation exercise targeting the forearm muscles, par
 
 ## How to perform
 
-1. Attach a straight bar to a low pulley cable machine.
-2. Stand facing the machine with your feet shoulder-width apart.
-3. Grasp the bar with an underhand grip, palms facing up, and your hands shoulder-width apart.
-4. Rest your forearms on a bench or pad, with your wrists hanging off the edge.
-5. Keeping your forearms stationary, exhale and curl your wrists upward as far as possible.
-6. Pause for a moment at the top, then inhale and slowly lower the bar back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Attach a bar to a low pulley. Sit on a bench facing the machine, feet flat on the floor.
+2. Grip the bar with your palms facing up, hands shoulder-width apart. Rest your forearms on your thighs with your wrists past your knees.
+3. Keep your forearms still and curl your wrists up as far as you can.
+4. Lower the bar slowly until your wrists bend back down.
 
 ## Pro tips
 

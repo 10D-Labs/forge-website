@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted one hand pull up is an advanced bodyweight exercise that targets the latissimus dorsi (lats) and also engages the bicep and forearms. By adding weight, this movement significantly increases the strength and coordination required, making it a challenging exercise for experienced athletes. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
+An advanced one-arm pullup done holding a dumbbell in your free hand for extra weight. It works the lats, the large muscles down the sides of your back, plus the biceps and forearms. Advanced back exercise using dumbbell. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
-- **Equipment:** Body Weight
+- **Equipment:** Dumbbell
 - **Target Muscle:** Lats
 - **Secondary Muscles:** Biceps, Forearms
 - **Difficulty:** Advanced
@@ -15,12 +15,10 @@ The weighted one hand pull up is an advanced bodyweight exercise that targets th
 
 ## How to perform
 
-1. Grab the pullup bar with an overhand grip, slightly wider than shoulder-width apart.
-2. Hang from the bar with your arm fully extended and your body straight.
-3. Engage your core and pull your body up towards the bar by bending your elbow and squeezing your back muscles.
-4. Continue pulling until your chin is above the bar.
-5. Lower your body back down to the starting position with control.
-6. Repeat for the desired number of repetitions.
+1. Hold a dumbbell in one hand and grab a pullup bar with the other, palm facing away from you.
+2. Hang with your arm straight and the dumbbell hanging at your side.
+3. Bend your elbow to pull yourself up until your chin is above the bar.
+4. Lower yourself slowly until your arm is straight again.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Weighted One Hand Pull Up is an advanced exercise. Beginners should master f
 ## Related exercises
 
 - [More Back Exercises](https://forgetrainer.ai/exercises/back)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
 - [More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)
 
 ---

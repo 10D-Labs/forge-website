@@ -2,52 +2,46 @@
 
 ## Quick Answer
 
-31 effective chest exercises you can do with no equipment. Complete instructions and form tips included.
+25 effective chest exercises you can do with no equipment. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 9 Beginner | 6 Intermediate | 16 Advanced
+**Difficulty breakdown:** 8 Beginner | 5 Intermediate | 12 Advanced
 
 ---
 
 ## All Chest Body Weight Exercises
 
-### Beginner (9 exercises)
+### Beginner (8 exercises)
 
 - **Pushup** — Target: Chest | Secondary: Triceps, Shoulders, Core
-- **Decline Pushup** — Target: Chest | Secondary: Triceps, Shoulders
+- **Hands Elevated Pushup** — Target: Chest | Secondary: Triceps, Shoulders
 - **Wall Pushup** — Target: Chest | Secondary: Triceps, Shoulders
-- **Box Decline Pushup** — Target: Chest | Secondary: Triceps, Shoulders
+- **Hands Elevated Box Pushup** — Target: Chest | Secondary: Triceps, Shoulders
 - **Dynamic Chest Stretch** — Target: Chest | Secondary: Shoulders, Triceps
 - **Drop Push Up** — Target: Chest | Secondary: Triceps, Shoulders
 - **Kneeling Pushup** — Target: Chest | Secondary: Triceps, Shoulders
-- **Chest and Front of Shoulder Stretch** — Target: Chest | Secondary: Shoulders
 - **Isometric Chest Squeeze** — Target: Chest | Secondary: Triceps, Shoulders
 
-### Intermediate (6 exercises)
+### Intermediate (5 exercises)
 
-- **Incline Pushup** — Target: Chest | Secondary: Triceps, Shoulders
+- **Feet Elevated Pushup** — Target: Chest | Secondary: Triceps, Shoulders
 - **Shoulder Tap Pushup** — Target: Chest | Secondary: Triceps, Core
-- **Weighted Svend Press** — Target: Chest | Secondary: Shoulders, Triceps
 - **Wide Hand Push Up** — Target: Chest | Secondary: Triceps, Shoulders
 - **Pushup Plus** — Target: Chest | Secondary: Triceps, Shoulders
 - **Modified Hindu Pushup** — Target: Chest | Secondary: Triceps, Shoulders, Core
 
-### Advanced (16 exercises)
+### Advanced (12 exercises)
 
 - **Chest Dip** — Target: Chest | Secondary: Triceps, Shoulders
 - **Superman Pushup** — Target: Chest | Secondary: Core, Shoulders
-- **Suspended Pushup** — Target: Chest | Secondary: Triceps, Shoulders, Core
-- **Weighted Drop Push Up** — Target: Chest | Secondary: Triceps, Shoulders
-- **Chest Dip on Straight Bar** — Target: Chest | Secondary: Triceps, Shoulders
 - **Chest Tap Pushup** — Target: Chest | Secondary: Triceps, Shoulders
 - **Korean Dips** — Target: Chest | Secondary: Triceps, Shoulders
-- **Weighted Straight Bar Dip** — Target: Chest | Secondary: Triceps, Shoulders
 - **Full Planche Pushup** — Target: Chest | Secondary: Shoulders, Triceps, Core
-- **Incline Push Up Depth Jump** — Target: Chest | Secondary: Triceps, Shoulders, Core
-- **Raise Single Arm Pushup** — Target: Chest | Secondary: Triceps, Shoulders, Core
+- **Pushup with Arm Raise** — Target: Chest | Secondary: Triceps, Shoulders, Core
 - **Single Arm Pushup** — Target: Chest | Secondary: Triceps, Shoulders, Core
 - **Clap Push Up** — Target: Chest | Secondary: Triceps, Shoulders
 - **Plyo Push Up** — Target: Chest | Secondary: Triceps, Shoulders, Core
 - **Archer Push Up** — Target: Chest | Secondary: Triceps, Shoulders, Core
+- **Pike to Cobra Pushup** — Target: Chest | Secondary: Core, Shoulders, Triceps
 - **Isometric Wipers** — Target: Chest | Secondary: Shoulders, Triceps, Core
 
 ---
@@ -56,7 +50,7 @@
 
 Our AI trainers design personalized chest workout plans using bodyweight exercises. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

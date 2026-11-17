@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hanging oblique knee raise is a core exercise performed by hanging from a pullup bar and raising the knees towards the chest while twisting the torso to target the abs and obliques. Advanced core exercise using body weight. Targets abs, also works obliques.
+A hanging knee raise with a twist, bringing your knees up to one side, then the other. It works the abs and the obliques along your sides. Advanced core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The hanging oblique knee raise is a core exercise performed by hanging from a pu
 
 ## How to perform
 
-1. Hang from a pullup bar with your arms fully extended and your palms facing away from you.
-2. Engage your core and lift your knees towards your chest, twisting your torso to the side as you do so.
-3. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-4. Repeat on the other side, twisting your torso in the opposite direction.
-5. Continue alternating sides for the desired number of repetitions.
+1. Hang from a pullup bar with your arms straight and your palms facing away from you.
+2. Lift your knees toward your chest, twisting your body so they come up to one side.
+3. Lower your legs slowly back down.
+4. Raise your knees again, twisting to the other side. Keep alternating sides.
 
 ## Pro tips
 

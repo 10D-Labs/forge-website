@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable one arm lateral raise is an isolation exercise targeting the deltoid muscles, particularly the lateral (side) head. It is performed using a cable machine, which provides constant tension throughout the movement. This exercise helps build shoulder width and strength. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, triceps.
+A one-arm side raise with a low cable that runs across the front of your body. It works the side of the shoulder. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, triceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable one arm lateral raise is an isolation exercise targeting the deltoid m
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, facing the cable machine.
-2. Hold the cable handle with one hand, palm facing down, and stand far enough away from the machine so that there is tension on the cable.
-3. Keep your arm straight and slowly raise it out to the side until it is parallel to the ground.
-4. Pause for a moment at the top, then slowly lower your arm back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch sides.
+1. Attach a handle to a low pulley and stand side-on to the machine, feet shoulder-width apart.
+2. Hold the handle in your far hand in front of your hips, the cable crossing your body. Put your other hand on your hip.
+3. Keeping your arm straight, raise it out to the side, palm facing down, until it's level with your shoulder.
+4. Lower slowly back across your body. Do all your reps on one side, then switch.
 
 ## Pro tips
 

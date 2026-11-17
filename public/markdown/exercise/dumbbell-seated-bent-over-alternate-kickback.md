@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated bent over alternate kickback is an isolation exercise targeting the tricep. It is performed seated on a bench, bent forward at the waist, and involves extending each arm back alternately while holding dumbbells. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders, back.
+A triceps kickback done sitting on a bench and bent forward, straightening one arm back at a time. It works the triceps. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders, back.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell seated bent over alternate kickback is an isolation exercise target
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in each hand, palms facing inwards.
-2. Bend forward at the waist, keeping your back straight and parallel to the ground.
-3. Extend one arm straight back, keeping it close to your body, until your arm is fully extended.
-4. Pause for a moment, then slowly lower the dumbbell back to the starting position.
-5. Repeat with the other arm.
-6. Continue alternating arms for the desired number of repetitions.
+1. Sit on the end of a bench with a dumbbell in each hand, palms facing in.
+2. Bend forward at the waist until your back is straight and level with the floor.
+3. Push one dumbbell straight back, keeping your arm close to your body, until your arm is fully straight.
+4. Lower the dumbbell slowly back down, then do the other arm. Keep alternating sides.
 
 ## Pro tips
 

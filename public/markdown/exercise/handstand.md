@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The handstand is a bodyweight exercise that primarily targets the tricep, while also engaging the shoulders and core. It requires significant balance, strength, and coordination to perform safely and effectively. Advanced arms exercise using body weight. Targets triceps, also works shoulders, core.
+Balancing upside down on your hands after kicking up from standing, with no wall for support. It works the triceps and shoulders, and your abs help you hold the balance. Advanced arms exercise using body weight. Targets triceps, also works shoulders, core.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,13 +15,11 @@ The handstand is a bodyweight exercise that primarily targets the tricep, while 
 
 ## How to perform
 
-1. Find an open space with enough room to perform a handstand.
-2. Place your hands on the ground shoulder-width apart, fingers pointing forward.
-3. Kick your legs up towards the wall, using your core and shoulders to maintain balance.
-4. Once in a handstand position, engage your triceps to support your body weight.
-5. Hold the handstand for as long as you can maintain balance.
-6. To come down, slowly lower your legs back to the ground.
-7. Repeat for the desired number of repetitions.
+1. Stand in an open space with your arms straight overhead.
+2. Step one foot forward and reach down to place your hands on the floor, shoulder-width apart, fingers pointing forward.
+3. Kick your back leg up and bring the other to meet it, until you are upside down over your hands with no wall behind you.
+4. Hold for the set time, keeping your body in a straight line. Push through straight arms and use your shoulders and abs to stay up.
+5. Lower your legs slowly back to the floor.
 
 ## Pro tips
 

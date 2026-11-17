@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-A seated exercise using a resistance band to target the hip abductors by pushing the knees apart against resistance. This movement also engages the glutes and hamstrings. Beginner legs exercise using resistance band. Targets abductors, also works glutes, hamstrings.
+A seated move where you push your knees apart against a band looped just above them. It works the outer hips, with help from the glutes. Beginner legs exercise using resistance band. Targets abductors, also works glutes, hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ A seated exercise using a resistance band to target the hip abductors by pushing
 
 ## How to perform
 
-1. Sit on a chair or bench with your back straight and feet flat on the ground.
-2. Wrap the resistance band around your thighs, just above your knees.
-3. Place your hands on the sides of the chair or bench for support.
-4. Engage your abductors (outer thigh muscles) and slowly push your knees apart, against the resistance of the band.
-5. Pause for a moment at the end of the movement, then slowly bring your knees back together.
-6. Repeat for the desired number of repetitions.
+1. Sit on a bench or chair with your back straight and your feet flat on the floor.
+2. Loop a resistance band around your thighs, just above your knees, and hold the sides of the seat for support.
+3. Push your knees apart slowly against the band.
+4. Bring your knees slowly back together.
 
 ## Pro tips
 

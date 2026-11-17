@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing one arm concentration curl is an isolation exercise targeting the bicep, performed while standing and focusing on one arm at a time for increased muscle engagement. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A one-arm curl done standing but bent far forward, with the working arm hanging straight down. It works the biceps. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell standing one arm concentration curl is an isolation exercise target
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, palm facing up.
-2. Place your free hand on your thigh for support.
-3. Keeping your upper arm stationary, exhale and curl the dumbbell towards your shoulder by contracting your biceps.
-4. Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly lower the dumbbell back to the starting position.
-7. Repeat for the desired number of repetitions, then switch arms.
+1. Stand with your feet hip-width apart and knees slightly bent. Lean forward from your hips until your back is nearly level with the floor.
+2. Rest your free hand on your thigh just above the knee. Hold a dumbbell in the other hand, arm hanging straight down, palm facing forward.
+3. Keep your upper arm hanging still and curl the dumbbell up toward your chest.
+4. Lower it slowly until your arm is straight. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

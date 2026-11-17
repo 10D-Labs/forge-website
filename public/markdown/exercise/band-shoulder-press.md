@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band shoulder press is a resistance exercise targeting the deltoid muscles of the shoulders, using a resistance band for added tension. It also engages the tricep and upper back as secondary muscles. The movement involves pressing the band overhead from shoulder height, making it a fundamental strength exercise for the upper body. Beginner shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
+An overhead press using a resistance band under your front foot instead of weights. It works the shoulders, with help from the triceps and upper back. Beginner shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band shoulder press is a resistance exercise targeting the deltoid muscles o
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place the band under your feet.
-2. Hold the band with your palms facing forward and raise your hands to shoulder height, elbows bent.
-3. Press the band overhead, fully extending your arms.
-4. Pause for a moment at the top, then slowly lower the band back to shoulder height.
-5. Repeat for the desired number of repetitions.
+1. Stand with one foot in front of the other and the middle of a resistance band under your front foot.
+2. Hold an end in each hand at shoulder height, elbows bent, palms facing forward.
+3. Press your hands straight up until your arms are straight overhead.
+4. Lower your hands slowly back to shoulder height.
 
 ## Pro tips
 

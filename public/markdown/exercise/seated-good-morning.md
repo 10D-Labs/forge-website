@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The seated good morning is a machine-based exercise targeting the glutes, with secondary emphasis on the hamstrings and lower back. It involves hinging at the hips while seated, using a machine to provide resistance. Intermediate legs exercise using machine. Targets glutes, also works hamstrings, lower back.
+A forward bend done sitting at a low cable: holding the handle with straight arms, you fold forward from the hips and sit back up. It works the glutes, hamstrings and lower back. Intermediate legs exercise using cable. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
-- **Equipment:** Machine
+- **Equipment:** Cable
 - **Target Muscle:** Glutes
 - **Secondary Muscles:** Hamstrings, Lower Back
 - **Difficulty:** Intermediate
@@ -15,12 +15,9 @@ The seated good morning is a machine-based exercise targeting the glutes, with s
 
 ## How to perform
 
-1. Adjust the seat height so that your hips are slightly higher than your knees.
-2. Sit on the machine with your back against the pad and your feet flat on the footrests.
-3. Grasp the handles or the sides of the seat for stability.
-4. Keeping your back straight, slowly lean forward from your hips until your upper body is parallel to the ground.
-5. Pause for a moment, then slowly return to the starting position by pushing through your glutes and hamstrings.
-6. Repeat for the desired number of repetitions.
+1. Sit on a cable row bench facing the low pulley, feet on the foot plates, knees bent. Hold the handle in both hands, palms facing each other, arms straight.
+2. Keep your arms straight and your back flat as you fold forward from your hips until your chest is close to your thighs.
+3. Pull your upper body back up from the hips until you're sitting tall, leaning slightly back.
 
 ## Pro tips
 
@@ -59,7 +56,7 @@ The Seated Good Morning is rated as intermediate. Beginners should build a base 
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
-- [More Machine Exercises](https://forgetrainer.ai/exercises/equipment/machine)
+- [More Cable Exercises](https://forgetrainer.ai/exercises/equipment/cable)
 - [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
 
 ---

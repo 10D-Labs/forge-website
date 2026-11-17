@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell one arm clean and jerk is a dynamic, compound exercise that targets the deltoids while also engaging the tricep and core. It requires coordination, explosive power, and proper technique to perform safely and effectively. Advanced shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
+A one-arm kettlebell lift in two parts: you pull it from between your legs to your shoulder, then use a quick knee dip to drive it overhead. It works the front of the shoulders, plus the triceps and core. Advanced shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,11 +15,11 @@ The kettlebell one arm clean and jerk is a dynamic, compound exercise that targe
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand with an overhand grip.
-2. Bend your knees slightly and hinge at the hips, lowering the kettlebell between your legs.
-3. Explosively extend your hips, knees, and ankles, using the momentum to swing the kettlebell up to shoulder height.
-4. As the kettlebell reaches shoulder height, rotate your wrist and punch your hand straight up, locking out your arm overhead.
-5. Lower the kettlebell back down to the starting position and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand, palm facing your body.
+2. Bend your knees and hinge at your hips to lower the kettlebell between your legs.
+3. Stand up fast, pulling the kettlebell to your shoulder. Let it rest on the back of your forearm, palm facing in.
+4. Dip your knees slightly, then straighten them hard and punch the kettlebell straight up until your arm locks out overhead.
+5. Lower it to your shoulder, then back down between your legs.
 
 ## Pro tips
 

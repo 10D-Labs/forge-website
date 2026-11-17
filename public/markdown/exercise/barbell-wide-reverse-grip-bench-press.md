@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell wide reverse grip bench press is a chest exercise that targets the pectorals, with secondary emphasis on the tricep and shoulders. It involves lying on a bench and pressing a barbell with a wide, reverse (underhand) grip. Advanced chest exercise using barbell. Targets chest, also works triceps, shoulders.
+A flat bench press with a wide grip and your palms facing your head. It works the upper chest, with help from the triceps and shoulders. Advanced chest exercise using barbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell wide reverse grip bench press is a chest exercise that targets the p
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.
-2. Grasp the barbell with a wide reverse grip, slightly wider than shoulder-width apart.
-3. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.
-4. Lower the barbell slowly towards your chest, keeping your elbows tucked in and your wrists straight.
-5. Pause for a moment when the barbell touches your chest, then push it back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with your feet flat on the floor and your back against the bench.
+2. Grip the bar wide, hands wider than your shoulders, with your palms facing your head.
+3. Lift the bar off the rack and hold it straight above your chest with your arms straight.
+4. Lower the bar slowly until it touches your chest, keeping your elbows close to your sides and your wrists straight.
+5. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

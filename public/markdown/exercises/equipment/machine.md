@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-77 machine exercises. Guided, safe resistance training. Ideal for beginners learning movement patterns or advanced lifters isolating muscles.
+65 machine exercises. Guided, safe resistance training. Ideal for beginners learning movement patterns or advanced lifters isolating muscles.
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### Arms (9 exercises)
 
-- **Bicep Curl** — Beginner | Target: Biceps
+- **Machine Bicep Curl** — Beginner | Target: Biceps
 - **Overhand Tricep Dip** — Beginner | Target: Triceps
 - **Preacher Curl** — Beginner | Target: Biceps
 - **Tricep Extension** — Beginner | Target: Triceps
@@ -20,7 +20,7 @@
 - **Reverse Grip Preacher Curl** — Beginner | Target: Biceps
 - **Gripper Hands** — Beginner | Target: Forearms
 
-### Back (21 exercises)
+### Back (18 exercises)
 
 - **Assisted Pullup** — Beginner | Target: Lats
 - **Assisted Chinup** — Beginner | Target: Lats
@@ -30,16 +30,13 @@
 - **T-Bar Row** — Beginner | Target: Upper Back
 - **Reverse T-Bar Row** — Beginner | Target: Upper Back
 - **Seated Row** — Beginner | Target: Upper Back
-- **Standing Pullup** — Beginner | Target: Lats
-- **Parallel Close Grip Pullup** — Beginner | Target: Lats
+- **Assisted Close Neutral Grip Pullup** — Beginner | Target: Lats
 - **Alternating Narrow Grip Seated Row** — Intermediate | Target: Upper Back
 - **Back Extension** — Beginner | Target: Lower Back
 - **High Row** — Beginner | Target: Upper Back
 - **Single Arm Lateral Wide Pulldown** — Intermediate | Target: Lats
 - **T-Bar Reverse Grip Row** — Intermediate | Target: Upper Back
-- **Standing Chinup** — Beginner | Target: Lats
 - **Reverse Grip Lat Pulldown** — Beginner | Target: Lats
-- **Bent Over Row with V Bar** — Intermediate | Target: Upper Back
 - **Unilateral Row** — Beginner | Target: Upper Back
 - **Single Arm Lateral High Row** — Intermediate | Target: Upper Back
 - **Pullover** — Beginner | Target: Lats
@@ -54,52 +51,43 @@
 - **Kneeling Chest Dip** — Beginner | Target: Chest
 - **Kneeling Wide Grip Chest Dip** — Beginner | Target: Chest
 
-### Core (3 exercises)
+### Core (2 exercises)
 
 - **Seated Crunch** — Beginner | Target: Abs
-- **Situp** — Beginner | Target: Abs
 - **Kneeling Twist** — Intermediate | Target: Abs
 
-### Legs (33 exercises)
+### Legs (25 exercises)
 
 - **Leg Extension** — Beginner | Target: Quads
 - **Lying Leg Curl** — Beginner | Target: Hamstrings
 - **Seated Leg Curl** — Beginner | Target: Hamstrings
 - **Standing Calf Raise** — Beginner | Target: Calves
 - **Leg Press** — Beginner | Target: Glutes
-- **Deadlift** — Beginner | Target: Glutes
+- **Machine Deadlift** — Beginner | Target: Glutes
 - **Reverse Hyperextension** — Intermediate | Target: Glutes
 - **Seated Calf Raise** — Beginner | Target: Calves
-- **Closer Hack Squat** — Intermediate | Target: Glutes
+- **Close Stance Hack Squat** — Intermediate | Target: Quads
 - **Forward Angled Calf Raise** — Beginner | Target: Calves
 - **Hack Squat** — Intermediate | Target: Glutes
 - **Lying Squat** — Beginner | Target: Glutes
 - **Machine Donkey Calf Raise** — Beginner | Target: Calves
 - **Hack Calf Raise** — Beginner | Target: Calves
-- **Seated Squat Calf Raise on Leg Press Machine** — Beginner | Target: Calves
-- **Calf Press on Leg Press** — Beginner | Target: Calves
+- **Seated Leg Press** — Beginner | Target: Quads
 - **Seated Hip Abduction** — Beginner | Target: Abductors
 - **Seated Hip Adduction** — Beginner | Target: Adductors
 - **Calf Raise on Leg Press** — Beginner | Target: Calves
 - **Hack Single Leg Calf Raise** — Intermediate | Target: Calves
 - **Single Leg Press** — Intermediate | Target: Glutes
-- **Lying Calves Stretch** — Beginner | Target: Calves
-- **Lying Glutes Stretch** — Beginner | Target: Glutes
-- **Lying Gluteus and Piriformis Stretch** — Beginner | Target: Glutes
-- **Side Lying Adductor Stretch** — Beginner | Target: Adductors
 - **Alternate Leg Press** — Beginner | Target: Quads
 - **Calf Press** — Beginner | Target: Calves
 - **Seated Calf Press** — Beginner | Target: Calves
 - **Horizontal Single Leg Press** — Intermediate | Target: Glutes
-- **Seated Good Morning** — Intermediate | Target: Glutes
-- **Prone Hamstring** — Beginner | Target: Hamstrings
 - **Single Leg Calf Press on Leg Press** — Intermediate | Target: Calves
-- **Prone Lying Quads Stretch** — Beginner | Target: Quads
 
 ### Shoulders (4 exercises)
 
-- **Lateral Raise** — Beginner | Target: Shoulders
-- **Military Press** — Beginner | Target: Shoulders
+- **Machine Lateral Raise** — Beginner | Target: Shoulders
+- **Machine Shoulder Press** — Beginner | Target: Shoulders
 - **Seated Reverse Fly** — Beginner | Target: Shoulders
 - **Neutral Grip Seated Reverse Fly** — Beginner | Target: Shoulders
 
@@ -109,7 +97,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

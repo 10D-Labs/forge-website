@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell side split squat is a lower body exercise that targets the quadriceps while also engaging the glutes, hamstrings, and calves. It requires holding a barbell across the upper back and performing a wide-stance squat, emphasizing lateral movement and stability. Intermediate legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves.
+A wide-stance squat with a barbell on your back, shifting your weight from one bent leg to the other while the opposite leg stays straight. It works the quads and glutes. Intermediate legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell side split squat is a lower body exercise that targets the quadricep
 
 ## How to perform
 
-1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward.
-2. Hold a barbell across your upper back, resting it on your traps.
-3. Engage your core and keep your chest up as you lower your body down into a squat position, bending at the knees and hips.
-4. As you lower, push your knees out to the sides and keep your weight on your heels.
-5. Lower until your thighs are parallel to the ground, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Rest a barbell across your upper back, hands wider than your shoulders, palms facing forward. Set your feet about twice shoulder-width apart, toes out a little.
+2. Bend one knee and shift your hips toward that side, keeping the other leg straight, until the bent thigh is nearly level with the floor.
+3. Stay low and shift across to the other side, straightening the first leg as you bend the other knee.
+4. Keep alternating sides without standing up in between, with the bent knee pointing over your toes.
 
 ## Pro tips
 

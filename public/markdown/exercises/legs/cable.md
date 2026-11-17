@@ -2,9 +2,9 @@
 
 ## Quick Answer
 
-5 effective leg exercises you can do with cable. Complete instructions and form tips included.
+6 effective leg exercises you can do with cable. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 2 Beginner | 3 Intermediate | 0 Advanced
+**Difficulty breakdown:** 2 Beginner | 4 Intermediate | 0 Advanced
 
 ---
 
@@ -15,11 +15,12 @@
 - **Cable Hip Adduction** — Target: Adductors | Secondary: Glutes, Quadriceps
 - **Cable Standing Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
 
-### Intermediate (3 exercises)
+### Intermediate (4 exercises)
 
 - **Cable Deadlift** — Target: Glutes | Secondary: Hamstrings, Quadriceps, Lower Back
 - **Cable Standing Kickback** — Target: Glutes | Secondary: Hamstrings, Quadriceps
 - **Cable Pull Through** — Target: Glutes | Secondary: Hamstrings, Lower Back
+- **Seated Good Morning** — Target: Glutes | Secondary: Hamstrings, Lower Back
 
 ---
 
@@ -27,7 +28,7 @@
 
 Our AI trainers design personalized leg workout plans using cable. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

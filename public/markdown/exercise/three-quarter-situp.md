@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The 3/4 situp is an abdominal exercise performed with body weight. It involves curling the torso up to a 45 degree angle, engaging the abs, hip flexors, and lower back. This movement is commonly used to build core strength and stability. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A situp that stops about three quarters of the way up, just short of sitting fully upright. It works the abs, plus the front of the hips and the lower back. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The 3/4 situp is an abdominal exercise performed with body weight. It involves c
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent and your feet flat on the floor.
+2. Put your hands at the sides of your head with your elbows pointing toward your knees.
+3. Tighten your abs and slowly curl your upper body up until it's almost upright.
+4. Lower your upper body slowly back to the floor.
 
 ## Pro tips
 

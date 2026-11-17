@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable forward raise is an isolation exercise targeting the deltoid muscles of the shoulders. It involves lifting a cable handle in front of the body to shoulder height, emphasizing shoulder strength and stability. Beginner shoulders exercise using cable. Targets shoulders, also works triceps, forearms.
+A one-arm front raise, lifting a low cable handle from your thigh to shoulder height. It works the front of the shoulders. Beginner shoulders exercise using cable. Targets shoulders, also works triceps, forearms.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable forward raise is an isolation exercise targeting the deltoid muscles o
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Hold the cable handle with an overhand grip, palms facing down, and your arms fully extended in front of you.
-3. Keeping your arms straight, raise the cable handle up to shoulder level.
-4. Pause for a moment at the top, then slowly lower the cable handle back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your back to a low pulley, feet shoulder-width apart and knees slightly bent, so the cable runs between your legs.
+2. Hold the handle in one hand, arm straight and in front of your thigh.
+3. Keep your arm straight and raise the handle in front of you to shoulder height, palm facing down.
+4. Lower it slowly back in front of your thigh.
 
 ## Pro tips
 

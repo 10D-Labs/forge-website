@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The calf press is a machine-based exercise targeting the calf muscles. It involves pressing a pad with the toes while the heels hang off the edge, focusing on ankle extension to contract the calves. The movement is controlled and supported by the machine, making it accessible for most users. Beginner legs exercise using machine. Targets calves, also works hamstrings.
+A machine calf raise done sitting with your legs straight, pushing a platform away with the balls of your feet. It works the calves. Beginner legs exercise using machine. Targets calves, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The calf press is a machine-based exercise targeting the calf muscles. It involv
 
 ## How to perform
 
-1. Adjust the seat of the machine so that your shoulders are aligned with The pad.
-2. Place your toes on The pad, with your heels hanging off the edge.
-3. Grasp the handles or side supports for stability.
-4. Push The pad down by extending your ankles, contracting your calf muscles.
-5. Pause for a moment at the bottom of the movement.
-6. Slowly return to the starting position by allowing your heels to rise back up.
-7. Repeat for the desired number of repetitions.
+1. Sit in the machine with your back against the pad and your legs straight out in front of you.
+2. Put the balls of your feet on the bottom edge of the platform, heels hanging off. Hold the handles at your sides.
+3. Push the platform away by pointing your toes, keeping your legs straight.
+4. Let the platform come back slowly, bending your ankles to stretch your calves.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The handstand pushup is a challenging bodyweight exercise that targets the tricep, shoulders, chest, and core. It requires significant upper body strength, balance, and coordination, as well as experience with inversion movements. Advanced arms exercise using body weight. Targets triceps, also works shoulders, chest, core.
+A pushup done upside down in a handstand, lowering your head toward the floor and pressing back up. It works the triceps and shoulders and takes strong balance. Advanced arms exercise using body weight. Targets triceps, also works shoulders, chest, core.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The handstand pushup is a challenging bodyweight exercise that targets the trice
 
 ## How to perform
 
-1. Find a wall and face away from it, standing a few feet away.
-2. Place your hands on the ground shoulder-width apart and kick your feet up against the wall, coming into a handstand position.
-3. Bend your elbows and lower your head towards the ground, keeping your body in a straight line.
-4. Push through your hands and extend your arms to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Place your hands on the floor shoulder-width apart and kick up into a handstand, body straight. Use a wall for balance if you need it.
+2. Bend your elbows to lower your head toward the floor, keeping your body in a straight line.
+3. Push through your hands until your arms are straight again.
 
 ## Pro tips
 

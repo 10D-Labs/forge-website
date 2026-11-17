@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The T-bar reverse grip row is a machine-based exercise targeting the upper back, with secondary emphasis on the bicep and forearms. It involves pulling a towards the chest while keeping the chest supported on a pad, promoting upper back strength and muscle development. Intermediate back exercise using machine. Targets upper back, also works biceps, forearms.
+A standing, bent-over row on a T-bar machine, holding the handles with your palms facing forward. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,12 +15,9 @@ The T-bar reverse grip row is a machine-based exercise targeting the upper back,
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the floor.
-2. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-3. Keep your back straight and engage your core.
-4. Pull the handles towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top of the movement, then slowly release and extend your arms back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand on the T-bar row's foot plates facing the weight, knees slightly bent. Lean forward, back flat, and hold the handles, palms facing forward.
+2. Pull the handles up toward your belly, driving your elbows back past your body.
+3. Lower the handles slowly until your arms are straight.
 
 ## Pro tips
 

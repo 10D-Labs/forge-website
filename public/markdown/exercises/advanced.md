@@ -2,19 +2,17 @@
 
 ## Quick Answer
 
-117 advanced-level exercises. Challenging exercises for experienced lifters. These require significant strength, mobility, or skill to perform safely.
+112 advanced-level exercises. Challenging exercises for experienced lifters. These require significant strength, mobility, or skill to perform safely.
 
 ---
 
 ## All Advanced Exercises by Body Part
 
-### Arms (11 exercises)
+### Arms (9 exercises)
 
-- **Bicep Narrow Pullup** — Body Weight | Target: Biceps
-- **Bicep Pullup** — Body Weight | Target: Biceps
 - **Handstand Pushup** — Body Weight | Target: Triceps
-- **Ring Dips** — Body Weight | Target: Triceps
-- **Weighted Tricep Dips** — Body Weight | Target: Triceps
+- **Ring Dips** — Rings | Target: Triceps
+- **Weighted Tricep Dips** — Weight Plate | Target: Triceps
 - **Impossible Dips** — Body Weight | Target: Triceps
 - **Single Arm Dip** — Body Weight | Target: Triceps
 - **Stalder Press** — Body Weight | Target: Triceps
@@ -25,18 +23,18 @@
 ### Back (16 exercises)
 
 - **Pullup** — Body Weight | Target: Lats
-- **Weighted Pullup** — Body Weight | Target: Lats
-- **Weighted Close Grip Chinup on Dip Cage** — Body Weight | Target: Lats
-- **Weighted Ring Muscle Up** — Rings | Target: Lats
-- **Weighted One Hand Pull Up** — Body Weight | Target: Lats
-- **Weighted Muscle Up** — Body Weight | Target: Lats
+- **Narrow Reverse Grip Inverted Row** — Body Weight | Target: Upper Back
+- **Weighted Pullup** — Weight Plate | Target: Lats
+- **Weighted Close Grip Chinup** — Weight Plate | Target: Lats
+- **Weighted Ring Pull Up** — Rings | Target: Lats
+- **Weighted One Hand Pull Up** — Dumbbell | Target: Lats
+- **Weighted Muscle Up** — Weight Plate | Target: Lats
 - **L-pullup** — Body Weight | Target: Lats
 - **Ring Muscle Up** — Rings | Target: Lats
 - **Muscle Up** — Body Weight | Target: Lats
 - **Wide Grip Pullup** — Body Weight | Target: Lats
 - **Archer Pull Up** — Body Weight | Target: Lats
 - **Back Lever** — Body Weight | Target: Upper Back
-- **Skin the Cat** — Body Weight | Target: Upper Back
 - **Single Arm Chinup** — Body Weight | Target: Lats
 - **Dumbbell Side Plank with Rear Fly** — Dumbbell | Target: Upper Back
 - **Kettlebell Alternating Renegade Row** — Kettlebell | Target: Upper Back
@@ -46,23 +44,22 @@
 - **Dumbbell Burpee** — Dumbbell | Target: Cardiovascular
 - **Dumbbell Burpee (Time)** — Dumbbell | Target: Cardiovascular
 
-### Chest (20 exercises)
+### Chest (19 exercises)
 
 - **Chest Dip** — Body Weight | Target: Chest
 - **Superman Pushup** — Body Weight | Target: Chest
-- **Suspended Pushup** — Body Weight | Target: Chest
-- **Weighted Drop Push Up** — Body Weight | Target: Chest
-- **Chest Dip on Straight Bar** — Body Weight | Target: Chest
+- **Suspended Pushup** — Rings | Target: Chest
+- **Weighted Drop Push Up** — Weight Plate | Target: Chest
 - **Chest Tap Pushup** — Body Weight | Target: Chest
 - **Korean Dips** — Body Weight | Target: Chest
-- **Weighted Straight Bar Dip** — Body Weight | Target: Chest
+- **Weighted Straight Bar Dip** — Weight Plate | Target: Chest
 - **Full Planche Pushup** — Body Weight | Target: Chest
-- **Incline Push Up Depth Jump** — Body Weight | Target: Chest
-- **Raise Single Arm Pushup** — Body Weight | Target: Chest
+- **Pushup with Arm Raise** — Body Weight | Target: Chest
 - **Single Arm Pushup** — Body Weight | Target: Chest
 - **Clap Push Up** — Body Weight | Target: Chest
 - **Plyo Push Up** — Body Weight | Target: Chest
 - **Archer Push Up** — Body Weight | Target: Chest
+- **Pike to Cobra Pushup** — Body Weight | Target: Chest
 - **Barbell Reverse Grip Decline Bench Press** — Barbell | Target: Chest
 - **Barbell Reverse Grip Incline Bench Press** — Barbell | Target: Chest
 - **Barbell Wide Reverse Grip Bench Press** — Barbell | Target: Chest
@@ -72,9 +69,9 @@
 ### Core (33 exercises)
 
 - **Barbell Press Situp** — Barbell | Target: Abs
-- **Hanging Leg Raise** — Body Weight | Target: Abs
+- **Hanging Knee Raise** — Body Weight | Target: Abs
 - **Janda Situp** — Body Weight | Target: Abs
-- **Weighted Hanging Leg Hip Raise** — Body Weight | Target: Abs
+- **Weighted Hanging Leg Hip Raise** — Dumbbell | Target: Abs
 - **Barbell Rollout From Bench** — Barbell | Target: Abs
 - **Barbell Rollout** — Barbell | Target: Abs
 - **Barbell Standing Ab Rollout** — Barbell | Target: Abs
@@ -82,8 +79,8 @@
 - **Hanging Pike** — Body Weight | Target: Abs
 - **Hanging Straight Leg Hip Raise** — Body Weight | Target: Abs
 - **Hanging Straight Leg Raise** — Body Weight | Target: Abs
-- **Parallel Bars Oblique Swing** — Body Weight | Target: Abs
-- **Suspended Abdominal Fallout** — Body Weight | Target: Abs
+- **Captain's Chair Oblique Knee Raise** — Body Weight | Target: Abs
+- **Suspended Abdominal Fallout** — Rings | Target: Abs
 - **Hanging Oblique Knee Raise** — Body Weight | Target: Abs
 - **Front Lever** — Body Weight | Target: Abs
 - **Straddle Planche** — Body Weight | Target: Abs
@@ -95,47 +92,45 @@
 - **Full Maltese** — Body Weight | Target: Abs
 - **L-sit on Floor** — Body Weight | Target: Abs
 - **V-sit on Floor** — Body Weight | Target: Abs
-- **Reverse Plank with Leg Lift** — Body Weight | Target: Abs
+- **Reverse Tabletop Leg Lift** — Body Weight | Target: Abs
 - **Windshield Wiper** — Body Weight | Target: Abs
 - **Kettlebell Advanced Windmill** — Kettlebell | Target: Abs
 - **Kettlebell Bent Press** — Kettlebell | Target: Abs
 - **Kettlebell Double Windmill** — Kettlebell | Target: Abs
 - **Kettlebell Windmill** — Kettlebell | Target: Abs
 - **Standing Wheel Rollout** — Ab Wheel | Target: Abs
-- **Parallel Bars Vertical Knee Raise** — Body Weight | Target: Abs
+- **Captain's Chair Knee Raise** — Body Weight | Target: Abs
 - **Wheel Rollout** — Ab Wheel | Target: Abs
 
-### Legs (31 exercises)
+### Legs (29 exercises)
 
 - **Barbell Jump Squat** — Barbell | Target: Glutes
 - **Barbell Overhead Squat** — Barbell | Target: Quads
 - **Barbell Zercher Squat** — Barbell | Target: Glutes
 - **Outside Leg Kick Pushup** — Body Weight | Target: Glutes
 - **Squat Jerk** — Barbell | Target: Quads
-- **Suspended Split Squat** — Body Weight | Target: Quads
-- **Weighted Sissy Squat** — Body Weight | Target: Quads
+- **Suspended Split Squat** — Rings | Target: Quads
+- **Weighted Sissy Squat** — Weight Plate | Target: Quads
 - **Sissy Squat** — Body Weight | Target: Quads
 - **Barbell Full Zercher Squat** — Barbell | Target: Glutes
 - **Nordic Hamstring Curl** — Body Weight | Target: Hamstrings
-- **Weighted Cossack Squats** — Body Weight | Target: Glutes
+- **Weighted Cossack Squats** — Weight Plate | Target: Glutes
 - **Barbell Clean and Press** — Barbell | Target: Quads
 - **Barbell Single Arm Side Deadlift** — Barbell | Target: Glutes
-- **Barbell Single Leg Squat** — Barbell | Target: Quads
 - **Barbell Stiff Leg Good Morning** — Barbell | Target: Glutes
-- **Dumbbell Plyo Squat** — Dumbbell | Target: Glutes
+- **Dumbbell Sumo Squat** — Dumbbell | Target: Glutes
 - **Dumbbell Single Leg Squat** — Dumbbell | Target: Glutes
 - **Kettlebell Pistol Squat** — Kettlebell | Target: Glutes
 - **Power Clean** — Barbell | Target: Hamstrings
-- **Smith Lunge** — Smith Machine | Target: Glutes
+- **Smith Split Squat** — Smith Machine | Target: Glutes
 - **Snatch Pull** — Barbell | Target: Quads
-- **Spider Crawl Push Up** — Body Weight | Target: Glutes
-- **Single Leg Squat** — Body Weight | Target: Glutes
+- **Plank Knee to Elbow** — Body Weight | Target: Glutes
+- **Bodyweight Bulgarian Split Squat** — Body Weight | Target: Glutes
 - **Barbell Single Leg Deadlift** — Barbell | Target: Glutes
 - **Side Plank Hip Adduction** — Body Weight | Target: Adductors
 - **Glute Ham Raise** — Body Weight | Target: Hamstrings
 - **Lunge with Jump** — Body Weight | Target: Glutes
-- **Pike to Cobra Pushup** — Body Weight | Target: Glutes
-- **Kettlebell Squat Style Turkish Get Up** — Kettlebell | Target: Glutes
+- **Kettlebell Turkish Get Up** — Kettlebell | Target: Glutes
 - **Pistol Squat** — Body Weight | Target: Glutes
 - **Dumbbell Single Arm Snatch** — Dumbbell | Target: Glutes
 
@@ -152,7 +147,7 @@
 
 Our AI trainers create workout plans matched to your fitness level, progressing you safely as you get stronger.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

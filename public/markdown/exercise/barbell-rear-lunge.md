@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell rear lunge is a compound lower body exercise that targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves stepping backward into a lunge position while supporting a barbell on the upper back, requiring balance, coordination, and strength. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A reverse lunge, stepping backward with a barbell across your upper back. It works the glutes, plus the quads, hamstrings and calves. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,11 @@ The barbell rear lunge is a compound lower body exercise that targets the glutes
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and a barbell resting on your upper back.
-2. Take a step backward with your right foot, landing on the ball of your foot.
-3. Bend both knees to lower your body until your left thigh is parallel to the ground.
-4. Push through your left heel to return to the starting position.
-5. Repeat with the other leg.
+1. Stand with your feet shoulder-width apart and a barbell resting across your upper back.
+2. Step back with your right foot, landing on the ball of your foot.
+3. Bend both knees to lower your body until your left thigh is level with the floor.
+4. Push through your left heel to bring your right foot back to standing.
+5. Do the same stepping back with your left foot.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The side pushup is a bodyweight exercise that primarily targets the tricep, while also engaging the shoulders, chest, and core. It is performed by lying on your side and pressing your body up using your bottom arm, which challenges your upper arm strength and stability. Intermediate arms exercise using body weight. Targets triceps, also works shoulders, chest, core.
+A pushup done lying on your side, pressing your upper body up with your top arm. It works the triceps, with help from the shoulders, chest and core. Intermediate arms exercise using body weight. Targets triceps, also works shoulders, chest, core.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The side pushup is a bodyweight exercise that primarily targets the tricep, whil
 
 ## How to perform
 
-1. Start by lying on your side with your legs extended and stacked on top of each other.
-2. Place your bottom hand on the ground directly under your shoulder, fingers pointing forward.
-3. Press through your bottom hand to lift your body off the ground, keeping your legs straight and your core engaged.
-4. Extend your top arm straight up towards the ceiling, creating a straight line from your head to your heels.
-5. Lower your body back down to the starting position with control.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Lie on your side with your knees bent and stacked, and wrap your bottom arm across your waist.
+2. Place your top hand flat on the floor in front of your chest.
+3. Press through your top hand to straighten that arm and lift your upper body off the floor. Keep your hips and legs on the floor.
+4. Lower slowly until your head is near the floor. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The cable kayak row is a unilateral rowing exercise that targets the latissimus dorsi using a cable machine. It mimics the motion of a kayak paddle, emphasizing back engagement and unilateral strength. Intermediate back exercise using cable. Targets lats, also works biceps, rhomboids, rear deltoids.
+A standing straight-arm cable pull from a high pulley, sweeping the bar down to one hip and then the other like a paddle stroke. It works the lats, with help from the abs and obliques as you turn. Intermediate back exercise using cable. Targets lats, also works obliques, rhomboids, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Cable
 - **Target Muscle:** Lats
-- **Secondary Muscles:** Biceps, Rhomboids, Rear Deltoids
+- **Secondary Muscles:** Obliques, Rhomboids, Rear Deltoids
 - **Difficulty:** Intermediate
 - **Category:** Strength
 
@@ -15,12 +15,10 @@ The cable kayak row is a unilateral rowing exercise that targets the latissimus 
 
 ## How to perform
 
-1. Attach a cable handle to a low pulley and sit facing the machine with your feet flat on the floor.
-2. Grasp the handle with your right hand and extend your arm fully, keeping a slight bend in your elbow.
-3. Lean forward from your hips, keeping your back straight and your abs engaged.
-4. Pull the handle towards your torso by retracting your shoulder blade and bending your elbow, keeping your arm close to your body.
-5. Squeeze your back muscles at the top of the movement, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides and perform with your left arm.
+1. Attach a short straight bar to a high pulley. Stand facing the machine a step back, feet hip-width apart.
+2. Hold the bar with your palms facing down, hands shoulder-width apart, arms straight out in front at shoulder height.
+3. Keep your arms straight and pull the bar down and across to one hip, turning your torso slightly toward that side.
+4. Let the bar rise slowly back to shoulder height, then pull it down to the other hip. Keep alternating sides.
 
 ## Pro tips
 
@@ -50,7 +48,7 @@ Yes, anchor a band at a low point and perform the same alternating rowing motion
 
 ### What muscles does the Cable Kayak Row work?
 
-The Cable Kayak Row primarily targets the lats, with secondary activation in the biceps, rhomboids, rear deltoids. It's classified as a strength exercise for the back.
+The Cable Kayak Row primarily targets the lats, with secondary activation in the obliques, rhomboids, rear deltoids. It's classified as a strength exercise for the back.
 
 ### Is the Cable Kayak Row good for beginners?
 

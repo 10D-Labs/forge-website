@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable judo flip is a rotational core exercise that targets the abs, obliques, and shoulders using a cable machine. It mimics the motion of a judo throw, requiring coordination, core strength, and controlled movement. Intermediate core exercise using cable. Targets abs, also works obliques, shoulders.
+A standing crunch facing away from a cable, with a rope pulled over one shoulder as you bend forward. It works the abs, with help from the obliques. Intermediate core exercise using cable. Targets abs, also works obliques, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,14 +15,10 @@ The cable judo flip is a rotational core exercise that targets the abs, obliques
 
 ## How to perform
 
-1. Stand facing the cable machine with your feet shoulder-width apart.
-2. Hold the cable handle with both hands at chest level, palms facing down.
-3. Engage your core and rotate your torso to the right, pulling the cable across your body.
-4. As you rotate, pivot your back foot and allow your hips to rotate naturally.
-5. Extend your arms fully and finish the movement by flipping the cable handle over your shoulder.
-6. Return to the starting position by reversing the movement, rotating your torso back to the center.
-7. Repeat the movement on the opposite side.
-8. Continue alternating sides for the desired number of repetitions.
+1. Attach a rope to a pulley set at about head height. Stand facing away from the machine, feet shoulder-width apart, knees slightly bent.
+2. Pull the rope over one shoulder and hold both ends by your chin, palms facing you, elbows in front of your chest.
+3. Keeping your hands by your chin, bend forward at the waist and crunch down until your upper body is about level with the floor.
+4. Rise slowly back to standing. Do all your reps with the rope over one shoulder, then switch shoulders.
 
 ## Pro tips
 

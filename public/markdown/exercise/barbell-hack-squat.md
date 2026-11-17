@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell hack squat is a lower body strength exercise that targets the glutes, quadriceps, hamstrings, and calves. It involves holding a barbell behind the legs and performing a squat motion, emphasizing the posterior chain and quadriceps. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat holding a barbell behind your legs instead of on your back. It works the glutes, plus the quads, hamstrings and calves. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell hack squat is a lower body strength exercise that targets the glutes
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and your toes slightly turned out.
-2. Hold the barbell behind your legs, resting it on your upper thighs.
-3. Lower your body by bending at the knees and hips, keeping your back straight and your chest up.
-4. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.
-5. Pause for a moment, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes turned slightly out.
+2. Hold the barbell behind your legs, resting it against the backs of your upper thighs.
+3. Bend your knees and hips to lower your body, keeping your back straight and your chest up.
+4. Go down until your thighs are level with the floor, or as low as you comfortably can.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

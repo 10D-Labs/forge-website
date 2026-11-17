@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell seesaw press is a shoulder exercise that involves pressing kettlebells overhead in an alternating fashion, challenging both strength and coordination. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
+A standing overhead press with two kettlebells, one going up as the other comes down. It works the front of the shoulders and tests your coordination. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -16,10 +16,8 @@ The kettlebell seesaw press is a shoulder exercise that involves pressing kettle
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height.
-2. Press one kettlebell overhead while keeping the other kettlebell at shoulder height.
-3. Lower the pressed kettlebell back to shoulder height while simultaneously pressing the other kettlebell overhead.
-4. Continue alternating the pressing motion, creating a seesaw-like movement.
-5. Repeat for the desired number of repetitions.
+2. Press one kettlebell straight overhead while the other stays at your shoulder.
+3. Lower that kettlebell as you press the other one up, like a seesaw. Keep alternating sides.
 
 ## Pro tips
 

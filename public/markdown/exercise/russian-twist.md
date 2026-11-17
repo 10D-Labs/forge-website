@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The Russian twist is a core exercise that targets the abdominal muscles and obliques. It involves rotating the torso from side to side while balancing on the sit bones, often with the feet lifted off the ground. Intermediate core exercise using body weight. Targets abs, also works obliques.
+A seated twist: lean back with your feet on the floor and turn your upper body from side to side. It works the abs and the obliques along your sides. Intermediate core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The Russian twist is a core exercise that targets the abdominal muscles and obli
 
 ## How to perform
 
-1. Sit on the ground with your knees bent and feet flat on the floor.
-2. Lean back slightly while keeping your back straight and your core engaged.
-3. Hold your hands together in front of your chest or hold a weight if desired.
-4. Lift your feet off the ground, balancing on your sit bones.
-5. Twist your torso to the right, bringing your hands or weight towards the right side of your body.
-6. Pause for a moment, then twist your torso to the left, bringing your hands or weight towards the left side of your body.
-7. Continue alternating sides for the desired number of repetitions.
+1. Sit with your knees bent and your feet flat on the floor.
+2. Lean back a little, keeping your back straight, and clasp your hands together in front of your chest.
+3. Keep your feet on the floor and twist your upper body to the right, bringing your hands toward your right side.
+4. Twist to the left, bringing your hands toward your left side. Keep alternating sides.
 
 ## Pro tips
 

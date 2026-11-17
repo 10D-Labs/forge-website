@@ -14,7 +14,7 @@
 
 - **Smith Rear Delt Row** — Target: Shoulders | Secondary: Trapezius, Rhomboids, Biceps
 - **Smith Seated Shoulder Press** — Target: Shoulders | Secondary: Triceps, Upper Back
-- **Smith Shoulder Press** — Target: Shoulders | Secondary: Triceps, Upper Back
+- **Smith Wide Grip Shoulder Press** — Target: Shoulders | Secondary: Triceps, Upper Back
 
 ### Intermediate (2 exercises)
 
@@ -27,7 +27,7 @@
 
 Our AI trainers design personalized shoulder workout plans using smith machine. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The full planche is an advanced bodyweight exercise that requires significant core strength, balance, and upper body control. It involves holding your body parallel to the ground, supported only by your hands, with no other contact points. Advanced core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
+An advanced hold with your whole body level with the floor, balanced only on your hands. It works the abs, with the shoulders and arms working hard to hold you up. Advanced core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -16,11 +16,10 @@ The full planche is an advanced bodyweight exercise that requires significant co
 ## How to perform
 
 1. Start in a pushup position with your hands shoulder-width apart and your fingers pointing forward.
-2. Engage your core and slowly shift your weight forward, lifting your feet off the ground.
-3. Continue shifting your weight forward until your body is parallel to the ground, balancing on your hands.
-4. Hold this position for as long as you can, maintaining a straight body line.
-5. Slowly lower your feet back to the ground and return to the starting position.
-6. Repeat for the desired number of repetitions.
+2. Tighten your abs and slowly shift your weight forward until your feet lift off the floor.
+3. Keep shifting forward until your body is level with the floor, balanced on your hands with your legs together.
+4. Hold for the set time, keeping your body in a straight line.
+5. Lower your feet slowly back to the floor.
 
 ## Pro tips
 

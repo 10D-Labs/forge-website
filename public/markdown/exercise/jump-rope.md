@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Jump rope is a cardiovascular exercise that involves continuously jumping over a swinging rope. It primarily targets the cardiovascular system while also engaging the calves, quadriceps, hamstrings, and glutes. Beginner cardio exercise using jump rope. Targets cardiovascular, also works calves, quadriceps, hamstrings, glutes.
+Jumping in place over a rope you swing around your body. It raises your heart rate and works the calves, with help from the quads, hamstrings and glutes. Beginner cardio exercise using jump rope. Targets cardiovascular, also works calves, quadriceps, hamstrings, glutes.
 
 - **Body Part:** Cardio
 - **Equipment:** Jump Rope
@@ -15,11 +15,9 @@ Jump rope is a cardiovascular exercise that involves continuously jumping over a
 
 ## How to perform
 
-1. Hold the handles of the jump rope with your hands, palms facing inward.
-2. Stand with your feet shoulder-width apart and knees slightly bent.
-3. Swing the rope over your head and jump over it as it comes towards your feet.
-4. Land softly on the balls of your feet and repeat the jump as the rope comes around again.
-5. Continue jumping for the desired number of repetitions.
+1. Hold a handle in each hand, palms facing in. Stand with your feet shoulder-width apart and your knees slightly bent.
+2. Swing the rope over your head and jump over it as it comes toward your feet.
+3. Land softly on the balls of your feet and jump again as the rope comes back around.
 
 ## Pro tips
 

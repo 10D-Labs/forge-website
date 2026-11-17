@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The circles knee stretch is a bodyweight exercise that targets the calves and also engages the hamstrings and quadriceps. It involves standing on the balls of your feet with knees bent and rotating the knees in circular motions to improve mobility and flexibility in the lower legs. Beginner legs exercise using body weight. Targets calves, also works hamstrings, quadriceps.
+A warm-up where you circle your bent knees one way, then the other. It loosens the knees and ankles and works the calves. Beginner legs exercise using body weight. Targets calves, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,10 +15,10 @@ The circles knee stretch is a bodyweight exercise that targets the calves and al
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your hands on your hips.
-2. Bend your knees slightly and lift your heels off the ground, balancing on the balls of your feet.
-3. Keeping your knees bent, rotate your knees in a circular motion, first clockwise and then counterclockwise.
-4. Perform the movement for the desired number of repetitions.
+1. Stand with your feet together and your hands on your hips.
+2. Bend your knees slightly and lift your heels a little, balancing on the balls of your feet.
+3. Keeping your knees bent, circle them clockwise.
+4. Switch and circle them counterclockwise.
 
 ## Pro tips
 

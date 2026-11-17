@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell shrug is a strength exercise targeting the trapezius muscles. It involves lifting the shoulders towards the ears while holding a barbell, focusing on building upper back and neck strength. Beginner back exercise using barbell. Targets traps, also works shoulders.
+A shrug with a barbell held in front of your hips, lifting your shoulders toward your ears. It works the traps, the muscles between your neck and shoulders. Beginner back exercise using barbell. Targets traps, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell shrug is a strength exercise targeting the trapezius muscles. It inv
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell in front of you with an overhand grip.
-2. Keep your arms straight and your back straight throughout the exercise.
-3. Lift your shoulders up towards your ears as high as possible, squeezing your traps at the top.
-4. Hold for a moment, then slowly lower your shoulders back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a barbell in front of your hips with your palms facing you.
+2. Keep your arms and back straight the whole time.
+3. Lift your shoulders up toward your ears as high as you can.
+4. Lower your shoulders slowly back down.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith decline reverse grip press is a chest exercise performed on a smith machine in a decline position, using a reverse (underhand) grip to target the lower pectorals and engage the tricep and shoulders. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
+A decline press on a Smith machine, gripping the bar with your palms facing you instead of away. It works the lower chest, plus the triceps and shoulders. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Smith Machine
@@ -15,12 +15,10 @@ The smith decline reverse grip press is a chest exercise performed on a smith ma
 
 ## How to perform
 
-1. Adjust the smith machine to a decline position.
-2. Lie down on the bench with your feet secured under the foot pads.
-3. Grasp the barbell with a reverse grip, hands slightly wider than shoulder-width apart.
-4. Unrack the barbell and lower it towards your chest, keeping your elbows tucked in.
-5. Pause for a moment at the bottom, then push the barbell back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set a decline bench in the Smith machine. Lie on it, head lower than your hips, with your feet hooked under the foot pads.
+2. Grip the bar with your palms facing you, hands slightly wider than shoulder-width.
+3. Unhook the bar and lower it toward your chest, keeping your elbows tucked in.
+4. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

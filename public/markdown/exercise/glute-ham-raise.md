@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The glute ham raise is a bodyweight exercise that primarily targets the hamstrings, with secondary emphasis on the glutes and lower back. It is performed on a glute ham raise machine and requires significant strength and control to execute properly. Advanced legs exercise using body weight. Targets hamstrings, also works glutes, lower back.
+A kneeling move on a glute ham raise machine where you lower your body forward and pull yourself back up with the backs of your legs. It works the hamstrings, with help from the glutes and lower back. Advanced legs exercise using body weight. Targets hamstrings, also works glutes, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The glute ham raise is a bodyweight exercise that primarily targets the hamstrin
 
 ## How to perform
 
-1. Adjust the glute ham raise machine to fit your body.
-2. Position yourself face down on the machine with your ankles secured.
-3. Place your hands on your chest or cross them over your chest.
-4. Engage your hamstrings and glutes to lift your upper body up towards the ceiling.
-5. Continue lifting until your body is in a straight line from your head to your heels.
-6. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Adjust a glute ham raise machine to fit your body, then kneel on the pad with your ankles locked under the foot pads.
+2. Cross your arms over your chest and kneel upright, body straight from knees to head.
+3. Lower your upper body forward slowly, keeping your hips straight, until your body is nearly level with the floor.
+4. Use your hamstrings and glutes to pull yourself back up to kneeling upright.
 
 ## Pro tips
 

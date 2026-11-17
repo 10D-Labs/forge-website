@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell stepup is a compound lower body exercise that targets the glutes, quadriceps, and hamstrings by stepping onto a raised platform while holding a barbell on the upper back. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A step-up onto a flat bench with a barbell across your upper back, alternating legs. It works the glutes, plus the quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell stepup is a compound lower body exercise that targets the glutes, qu
 
 ## How to perform
 
-1. Stand in front of a bench or step with a barbell resting on your upper back.
-2. Place one foot on the bench or step, ensuring your entire foot is in contact with the surface.
-3. Push through your heel and step up onto the bench or step, fully extending your hip and knee.
-4. Pause briefly at the top, then lower yourself back down to the starting position.
-5. Repeat with the opposite leg.
-6. Continue alternating legs for the desired number of repetitions.
+1. Stand facing a flat bench with a barbell resting across your upper back.
+2. Put one whole foot flat on the bench.
+3. Push through that heel to step up onto the bench, straightening your hip and knee.
+4. Step back down to the floor, then step up with the other leg. Keep alternating legs.
 
 ## Pro tips
 

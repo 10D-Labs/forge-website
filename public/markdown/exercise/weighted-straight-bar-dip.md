@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted straight bar dip is a compound chest exercise performed on parallel bars with added weight for increased resistance. It primarily targets the pectorals, with significant involvement of the tricep and shoulders. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A dip with both hands on a single bar in front of you and a weight plate hanging from a belt. It works the lower chest, triceps and shoulders. Advanced chest exercise using weight plate. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Chest
 - **Secondary Muscles:** Triceps, Shoulders
 - **Difficulty:** Advanced
@@ -15,10 +15,11 @@ The weighted straight bar dip is a compound chest exercise performed on parallel
 
 ## How to perform
 
-1. Position yourself between parallel bars with your arms fully extended and your body straight.
-2. Lower your body by bending your elbows until your upper arms are parallel to the ground.
-3. Pause for a moment, then push yourself back up to the starting position by straightening your arms.
-4. Repeat for the desired number of repetitions.
+1. Hang a weight plate from a dip belt around your waist.
+2. Face one bar of a dip station and grip it with both hands, shoulder-width apart, palms facing down.
+3. Push up until your arms are straight and the bar is at your hips, knees bent and feet behind you.
+4. Lean forward and bend your elbows to lower your chest toward the bar.
+5. Push back up until your arms are straight.
 
 ## Pro tips
 
@@ -57,7 +58,7 @@ The Weighted Straight Bar Dip is an advanced exercise. Beginners should master f
 ## Related exercises
 
 - [More Chest Exercises](https://forgetrainer.ai/exercises/chest)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Chest Exercises](https://forgetrainer.ai/exercises/muscle/chest)
 
 ---

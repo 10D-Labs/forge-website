@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell reverse grip skullcrusher is a tricep-focused exercise performed lying on a bench, using a barbell held with a reverse (underhand) grip. It targets the tricep and also engages the forearms as secondary muscles. The movement requires control and proper form to avoid injury, especially to the elbows and wrists. Intermediate arms exercise using barbell. Targets triceps, also works forearms.
+A lying triceps extension with a barbell, held with your palms facing you instead of away. It works the triceps, with the forearms helping. Intermediate arms exercise using barbell. Targets triceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell reverse grip skullcrusher is a tricep-focused exercise performed lyi
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.
-2. Hold the barbell with a reverse grip, palms facing towards your face, and your hands shoulder-width apart.
-3. Extend your arms straight up over your chest, keeping your elbows in and your wrists straight.
-4. Slowly lower the barbell towards your forehead by bending your elbows, keeping your upper arms stationary.
-5. Pause for a moment at the bottom, then extend your arms back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with your head at the end and your feet flat on the floor.
+2. Hold a barbell with your hands shoulder-width apart and your palms facing your face.
+3. Press the bar straight up over your chest, keeping your elbows in and your wrists straight.
+4. Bend your elbows to lower the bar slowly toward your forehead, keeping your upper arms still.
+5. Straighten your arms to raise the bar back up over your chest.
 
 ## Pro tips
 

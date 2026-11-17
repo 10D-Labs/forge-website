@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The inverted row with straps is a bodyweight exercise targeting the upper back, performed using suspension straps. It requires pulling your chest towards the handles while maintaining a straight body position. Intermediate back exercise using body weight. Targets upper back, also works biceps, forearms.
+A bodyweight row on suspension straps, leaning back and pulling your chest up to the handles. It works the upper back. Intermediate back exercise using body weight. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The inverted row with straps is a bodyweight exercise targeting the upper back, 
 
 ## How to perform
 
-1. Set up a suspension trainer or straps at chest height.
-2. Stand facing the anchor point and grab the handles with an overhand grip.
-3. Walk your feet forward, leaning back until your body is at an angle.
-4. Keep your body straight and engage your core.
-5. Pull your chest towards the handles, squeezing your shoulder blades together.
-6. Pause for a moment at the top, then slowly lower yourself back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set the straps so the handles hang at chest height. Stand facing the anchor and hold the handles with your palms facing down.
+2. Walk your feet forward and lean back until your body is at an angle, heels on the floor.
+3. Keep your body straight and pull your chest up to the handles.
+4. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

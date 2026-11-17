@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell rollout from bench is an advanced core exercise that targets the abdominal muscles, with secondary emphasis on the shoulders and tricep. It requires significant core strength, stability, and control to perform safely and effectively. Advanced core exercise using barbell. Targets abs, also works shoulders, triceps.
+An ab rollout with your knees up on a bench and a barbell rolling on the floor below you. It works the abs, with help from the shoulders and triceps. Advanced core exercise using barbell. Targets abs, also works shoulders, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell rollout from bench is an advanced core exercise that targets the abd
 
 ## How to perform
 
-1. Start by kneeling on the floor with a barbell placed on a bench in front of you.
-2. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.
-3. Keeping your core engaged and your back straight, slowly roll the barbell forward, extending your arms in front of you.
-4. Continue rolling the barbell forward until your body is fully extended and your arms are overhead.
-5. Pause for a moment at the fully extended position, then slowly roll the barbell back towards your body, returning to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Kneel on the end of a flat bench, lower legs along it, with a loaded barbell on the floor in front of the bench.
+2. Lean forward and grip the bar with your hands shoulder-width apart, palms facing down, arms straight under your shoulders.
+3. Roll the bar forward until your arms are stretched out in front and your body is nearly straight. Don't let your lower back sag.
+4. Roll the bar back slowly until it is under your shoulders again.
 
 ## Pro tips
 

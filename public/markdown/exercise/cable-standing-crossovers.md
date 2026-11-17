@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Cable standing up straight crossovers are a chest exercise performed using a cable machine. The movement involves bringing the arms together in front of the body, crossing them over each other, which targets the pectoral muscles and also engages the deltoids and tricep. Intermediate chest exercise using cable. Targets chest, also works shoulders, triceps.
+A standing cable move that brings your straight arms from out at your sides to crossed low in front of you. It works the chest, with help from the shoulders and triceps. Intermediate chest exercise using cable. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Cable
@@ -16,10 +16,9 @@ Cable standing up straight crossovers are a chest exercise performed using a cab
 ## How to perform
 
 1. Stand in the middle of a cable machine with your feet shoulder-width apart.
-2. Hold the handles of the cables with your palms facing down and your arms extended straight out to the sides.
-3. Keeping your arms straight, bring your hands together in front of your body, crossing them over each other.
-4. Pause for a moment, then slowly return to the starting position, keeping your arms extended.
-5. Repeat for the desired number of repetitions.
+2. Hold a handle in each hand, palms facing down, with your arms straight out to the sides at shoulder height.
+3. Keep your arms straight and bring your hands down and together in front of your body, crossing them over each other.
+4. Return slowly until your arms are back out to the sides, keeping them straight.
 
 ## Pro tips
 

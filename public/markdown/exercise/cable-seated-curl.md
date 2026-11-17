@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable seated curl is an isolation exercise targeting the bicep, performed on a cable machine while seated. It emphasizes controlled movement and constant tension on the bicep throughout the range of motion. Beginner arms exercise using cable. Targets biceps, also works forearms.
+A biceps curl done sitting on a flat bench, pulling a straight bar from a low cable. It works the biceps, with steady tension from the cable. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable seated curl is an isolation exercise targeting the bicep, performed on
 
 ## How to perform
 
-1. Sit on a cable machine with your feet flat on the ground and your back straight.
-2. Grasp the cable attachment with an underhand grip, palms facing up, and your arms fully extended.
-3. Keeping your upper arms stationary, exhale and curl the cable attachment towards your shoulders, contracting your biceps.
-4. Pause for a moment at the top of the movement, squeezing your biceps.
-5. Inhale and slowly lower the cable attachment back to the starting position, fully extending your arms.
-6. Repeat for the desired number of repetitions.
+1. Attach a straight bar to a low pulley and sit on a flat bench in front of it, feet flat on the floor and back straight.
+2. Hold the bar with your palms facing up and your arms straight.
+3. Keep your upper arms still and curl the bar up toward your shoulders.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

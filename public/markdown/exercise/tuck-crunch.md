@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The tuck crunch is a bodyweight abdominal exercise that targets the abs and also engages the hip flexors. It involves curling the upper body and bringing the knees toward the chest simultaneously, making it an effective core strengthening movement. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A crunch with your legs held up and bent, so only your upper body moves. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The tuck crunch is a bodyweight abdominal exercise that targets the abs and also
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, lift your shoulder blades off the ground and bring your knees towards your chest, simultaneously curling your upper body towards your knees.
-4. Pause for a moment at the top, then slowly lower your shoulder blades and extend your legs back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back and lift your legs off the floor, knees bent and feet in the air.
+2. Cross your arms over your chest.
+3. Curl your head and shoulders up off the floor toward your knees, keeping your legs still.
+4. Lower your shoulders slowly back to the floor.
 
 ## Pro tips
 

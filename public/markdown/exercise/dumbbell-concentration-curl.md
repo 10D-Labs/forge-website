@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell concentration curl is an isolation exercise targeting the bicep, performed while seated with the working arm braced against the inner thigh for strict form. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A seated curl, one arm at a time, with your elbow braced against your inner thigh so you can't swing the weight. It works the biceps. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell concentration curl is an isolation exercise targeting the bicep, pe
 
 ## How to perform
 
-1. Sit on a bench with your legs spread apart and a dumbbell in one hand, resting your elbow on the inside of your thigh.
-2. Fully extend your arm and hold the dumbbell with an underhand grip.
-3. Keeping your upper arm stationary, exhale and curl the weight up towards your shoulder while contracting your biceps.
-4. Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly lower the dumbbell back to the starting position.
-7. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on a bench with your legs spread apart. Hold a dumbbell in one hand and rest that elbow against the inside of your thigh.
+2. Let your arm hang straight with your palm facing away from your thigh.
+3. Keep your upper arm still and curl the dumbbell up toward your shoulder.
+4. Lower it slowly until your arm is straight. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

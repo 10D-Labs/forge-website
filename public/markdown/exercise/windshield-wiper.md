@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The windshield wiper is a challenging core exercise that targets the abs, obliques, and hip flexors. It requires hanging from a pullup bar, lifting the legs, and twisting the hips to engage the entire core. Advanced core exercise using body weight. Targets abs, also works obliques, hip flexors.
+A hanging core move where you hold your straight legs up and sweep them from one side to the other. It works the abs and obliques, and the muscles at the front of your hips. Advanced core exercise using body weight. Targets abs, also works obliques, hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The windshield wiper is a challenging core exercise that targets the abs, obliqu
 
 ## How to perform
 
-1. Hang from a pullup bar with your arms fully extended and your legs straight.
-2. Engage your core and lift your legs up towards your chest, keeping them straight.
-3. Once your legs are parallel to the ground, twist your hips to one side, bringing your legs towards that side.
-4. Pause for a moment, then return to the starting position.
-5. Repeat the movement, but this time twist your hips to the opposite side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Hang from a pullup bar with your arms straight.
+2. Lift your straight legs up in front of you until they are at least level with the floor.
+3. Twist your hips to swing your raised legs over to one side.
+4. Sweep them straight across to the other side without stopping in the middle, keeping them raised. Keep alternating sides.
 
 ## Pro tips
 

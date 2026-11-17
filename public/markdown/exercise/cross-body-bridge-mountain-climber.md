@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bridge - mountain climber is a dynamic bodyweight exercise that targets the abs while also engaging the glutes, quadriceps, hamstrings, shoulders, and tricep. It combines core stabilization with a cross-body knee drive, challenging both strength and coordination. Intermediate core exercise using body weight. Targets abs, also works glutes, quadriceps, hamstrings, shoulders, triceps.
+A mountain climber where each knee crosses your body toward the opposite elbow. It works the abs, with the shoulders, arms and legs helping. Intermediate core exercise using body weight. Targets abs, also works glutes, quadriceps, hamstrings, shoulders, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The bridge - mountain climber is a dynamic bodyweight exercise that targets the 
 
 ## How to perform
 
-1. Start in a high plank position with your hands directly under your shoulders and your body in a straight line.
-2. Engage your core and lift your right foot off the ground, bringing your right knee towards your left elbow.
-3. Return your right foot to the starting position and repeat the movement with your left foot towards your right elbow.
-4. Continue alternating sides, moving at a controlled pace.
-5. Keep your hips level and avoid lifting your hips too high or sagging them too low.
-6. Maintain a steady breathing pattern throughout the exercise.
-7. Repeat for the desired number of repetitions.
+1. Start in a pushup position with your arms straight, hands under your shoulders and body in a straight line.
+2. Lift your right foot and bring your right knee across your body toward your left elbow.
+3. Put your right foot back, then bring your left knee toward your right elbow.
+4. Keep alternating sides at a controlled pace, with your hips level, not raised or sagging.
 
 ## Pro tips
 

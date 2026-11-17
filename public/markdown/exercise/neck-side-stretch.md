@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-A gentle stretch targeting the side of the neck, primarily the levator scapulae, performed by tilting the head to the side while standing or sitting. Beginner neck exercise using body weight. Targets neck, also works trapezius, sternocleidomastoid.
+A gentle neck stretch: tilt your ear toward your shoulder and hold. It stretches the sides of the neck. Beginner neck exercise using body weight. Targets neck, also works trapezius, sternocleidomastoid.
 
 - **Body Part:** Neck
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ A gentle stretch targeting the side of the neck, primarily the levator scapulae,
 
 ## How to perform
 
-1. Stand or sit up straight with your shoulders relaxed.
-2. Tilt your head to one side, bringing your ear towards your shoulder.
-3. Hold the stretch for 15-30 seconds.
-4. Repeat on the other side.
-5. Perform 2-4 sets on each side.
+1. Stand tall with your shoulders relaxed and your hands behind your back. You can also do this sitting.
+2. Tilt your head to one side, bringing your ear toward your shoulder.
+3. Hold for the set time, then switch sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing twist is an exercise targeting the abdominal muscles, particularly the obliques and lower back, by rotating the torso while holding a barbell. It helps improve core strength and rotational stability. Beginner core exercise using barbell. Targets abs, also works obliques, lower back.
+A standing twist with a barbell across your upper back, turning your shoulders while your hips stay still. It works the abs, especially the obliques along your sides. Beginner core exercise using barbell. Targets abs, also works obliques, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,12 +15,9 @@ The barbell standing twist is an exercise targeting the abdominal muscles, parti
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell in front of your chest with both hands, palms facing down.
-2. Engage your core and keep your back straight throughout the exercise.
-3. Slowly twist your torso to the right, pivoting on your feet and hips, while keeping your lower body stable.
-4. Pause for a moment at the end of the twist, then slowly return to the starting position.
-5. Repeat the twist to the left side.
-6. Continue alternating twists for the desired number of repetitions.
+1. Stand with your feet a little wider than your shoulders. Rest a barbell across your upper back, hands wide, palms facing forward.
+2. Keep your hips and feet facing forward and twist your upper body to one side as far as is comfortable.
+3. Turn slowly back to the center. Do all your reps on one side, then switch.
 
 ## Pro tips
 

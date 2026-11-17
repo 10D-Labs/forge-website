@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The ski step is a dynamic, bodyweight exercise that mimics the motion of skiing. It involves lateral jumps from side to side, engaging the cardiovascular system while also working the lower body muscles. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
+A cardio drill where you stand with your hands on your hips and switch your feet forward and back past each other, like skis. It raises your heart rate and works the quads, hamstrings, glutes and calves. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The ski step is a dynamic, bodyweight exercise that mimics the motion of skiing.
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Bend your knees slightly and keep your back straight.
-3. Jump to the right, landing on your right foot while swinging your left leg behind your right leg.
-4. Immediately jump to the left, landing on your left foot while swinging your right leg behind your left leg.
-5. Continue alternating jumps from side to side, mimicking a skiing motion.
-6. Repeat for the desired number of repetitions.
+1. Stand tall with your hands on your hips. Put one foot about a step ahead of the other, knees slightly bent and back heel up.
+2. Bring your feet together under your hips.
+3. Keep moving them past each other so the back foot ends up in front and the front foot behind.
+4. Switch back the same way, staying light on your feet. Keep alternating sides.
 
 ## Pro tips
 

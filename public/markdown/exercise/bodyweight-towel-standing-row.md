@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bodyweight towel standing row is a back exercise that targets the upper back using a towel for resistance. It also engages the bicep and shoulders. The movement is performed by pulling the towel towards your chest while maintaining a strong posture. Beginner back exercise using body weight. Targets upper back, also works biceps, shoulders.
+A bodyweight row on a towel looped around a wall bar, leaning back and pulling your chest in with both hands. It works the upper back, with help from the biceps and shoulders. Beginner back exercise using body weight. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The bodyweight towel standing row is a back exercise that targets the upper back
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a towel in front of you with both hands.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Pull the towel towards your chest, squeezing your shoulder blades together.
-4. Pause for a moment at the top, then slowly release the tension and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Loop a towel around a wall bar rung at chest height. Hold one end in each hand, palms facing each other, with your toes near the base.
+2. Lean back until your arms are straight, keeping your body in a straight line from head to heels.
+3. Pull your chest toward the bars, driving your elbows back past your sides.
+4. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

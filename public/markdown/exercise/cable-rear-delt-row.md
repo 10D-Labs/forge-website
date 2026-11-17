@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable rear delt row is an isolation exercise targeting the rear deltoids, with additional activation of the trapezius, rhomboids, and bicep. It is performed using a cable machine with a stirrup handle, focusing on shoulder retraction and control. Intermediate shoulders exercise using cable. Targets shoulders, also works trapezius, rhomboids, biceps.
+A seated cable row pulled up to your face with your elbows high and wide. It works the backs of the shoulders and the upper back. Intermediate shoulders exercise using cable. Targets shoulders, also works trapezius, rhomboids, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable rear delt row is an isolation exercise targeting the rear deltoids, wi
 
 ## How to perform
 
-1. Attach a stirrup handle to a low cable pulley and stand facing the machine.
-2. Grasp the handle with your left hand and take a step back with your right foot, positioning your body at a slight angle.
-3. Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.
-4. With your left arm extended and your palm facing down, pull the handle towards your chest by retracting your shoulder blade.
-5. Pause for a moment at the top of the movement, squeezing your shoulder blade.
-6. Slowly release the handle back to the starting position and repeat for the desired number of repetitions.
-7. Switch sides and repeat the exercise with your right arm.
+1. Attach a rope to the low pulley of a seated row machine. Sit with your feet on the foot plates, knees slightly bent.
+2. Hold the rope ends with your palms facing down and sit up tall, arms straight out in front at chest height.
+3. Pull the rope toward your face, lifting your elbows high and out to the sides, until your hands are beside your face.
+4. Return slowly until your arms are straight.
 
 ## Pro tips
 

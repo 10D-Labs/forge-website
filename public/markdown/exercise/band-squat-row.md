@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band squat row is a compound exercise that targets the glutes while also engaging the hamstrings, quadriceps, and back. It combines a squat with a rowing motion using a resistance band, making it effective for both lower and upper body strength. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, quadriceps, back.
+A deep squat with a band row: you pull the band to your waist as you stand up. It works the glutes, hamstrings and quads, along with the back. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, quadriceps, back.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,13 +15,11 @@ The band squat row is a compound exercise that targets the glutes while also eng
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point at waist height.
-2. Stand facing the anchor point with your feet shoulder-width apart.
-3. Hold the band handles with your palms facing each other and your arms extended in front of you.
-4. Bend your knees and lower into a squat position, keeping your back straight and chest lifted.
-5. From the squat position, pull the band handles towards your body, squeezing your shoulder blades together.
-6. Pause for a moment at the top, then slowly release the tension and return to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Anchor the band at waist height. Stand facing it with your feet shoulder-width apart.
+2. Hold the handles with your palms facing each other and your arms straight out in front of you.
+3. Bend your knees and sit down into a deep squat, keeping your back straight, chest up and arms straight.
+4. Stand up, and as you rise, pull the handles in to your waist.
+5. Straighten your arms slowly as you squat back down.
 
 ## Pro tips
 

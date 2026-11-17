@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell rear delt raise is an isolation exercise targeting the rear deltoids, with secondary emphasis on the traps and rhomboids. It is performed by hinging at the hips and raising a barbell out to the sides, focusing on shoulder movement. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, rhomboids.
+A raise done standing tall with the barbell behind you, lifting it up the backs of your legs by bending your elbows out to the sides. It works the backs of the shoulders and the upper back. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,11 +15,9 @@ The barbell rear delt raise is an isolation exercise targeting the rear deltoids
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Raise the barbell out to the sides, keeping your arms straight, until they are parallel to the ground.
-4. Pause for a moment at the top, then slowly lower the barbell back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Take a barbell from a rack set just below hip height and hold it behind your thighs, hands shoulder-width apart, palms facing back. Stand tall.
+2. Keeping your chest up, bend your elbows out to the sides and lift the bar up the backs of your legs to about waist height.
+3. Lower slowly until your arms are straight.
 
 ## Pro tips
 

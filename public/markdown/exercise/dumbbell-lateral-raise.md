@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lateral raise is an isolation exercise that targets the deltoid muscles, particularly the lateral (side) head. It is commonly used to build shoulder width and strength. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps.
+A standing raise, lifting a dumbbell in each hand out to your sides up to shoulder height. It works the sides of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell lateral raise is an isolation exercise that targets the deltoid mus
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body.
-2. Keep your back straight and engage your core.
-3. Raise your arms out to the sides until they are parallel to the floor, keeping a slight bend in your elbows.
-4. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your body. Keep your back straight.
+2. Raise your arms out to the sides until they're level with the floor, keeping a slight bend in your elbows.
+3. Lower your arms slowly back down.
 
 ## Pro tips
 

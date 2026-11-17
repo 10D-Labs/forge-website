@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing wide grip curl is a strength exercise targeting the bicep, with secondary emphasis on the forearms. It involves curling a barbell with a wide grip, which can help emphasize the outer portion of the bicep. Beginner arms exercise using barbell. Targets biceps, also works forearms.
+A standing barbell curl with your hands set wider than your shoulders. It works the biceps, with help from the forearms. Beginner arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell standing wide grip curl is a strength exercise targeting the bicep, 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, hands wider than shoulder-width apart.
-2. Keep your back straight and your elbows close to your torso.
-3. Exhale and curl the barbell up towards your shoulders, keeping your upper arms stationary.
-4. Pause for a moment at the top, squeezing your biceps.
-5. Inhale and slowly lower the barbell back to the starting position, fully extending your arms.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a barbell with your palms facing up and your hands wider than your shoulders.
+2. Keep your back straight and your elbows close to your sides.
+3. Curl the bar up toward your shoulders without moving your upper arms.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

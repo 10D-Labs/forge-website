@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell decline bench press is a compound exercise targeting the lower portion of the pectoral muscles. It is performed on a decline bench, requiring the lifter to press a barbell upward from a declined position, engaging the chest, tricep, and shoulders. Intermediate chest exercise using barbell. Targets chest, also works triceps, shoulders.
+A barbell press on a bench tilted so your head is lower than your hips. It works the lower chest, with help from the triceps and shoulders. Intermediate chest exercise using barbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell decline bench press is a compound exercise targeting the lower porti
 
 ## How to perform
 
-1. Lie on a decline bench with your feet secured and your head lower than your hips.
-2. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.
-3. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in.
-4. Pause for a moment at the bottom, then push the barbell back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on a decline bench with your feet hooked under the pads and your head lower than your hips.
+2. Grip the bar with your palms facing your feet, hands slightly wider than shoulder-width apart.
+3. Lift the bar off the rack, then lower it slowly toward your chest, keeping your elbows tucked in.
+4. Push the bar back up until your arms are straight.
 
 ## Pro tips
 

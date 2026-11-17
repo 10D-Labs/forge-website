@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell incline row is a compound exercise targeting the upper back, performed while lying face down on an incline bench and pulling a barbell towards the chest. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
+A barbell row done lying face down on a bench set to 45 degrees, pulling the bar up toward your chest. It works the upper back. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Barbell
@@ -15,13 +15,10 @@ The barbell incline row is a compound exercise targeting the upper back, perform
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Lie face down on the bench with your chest against the pad and your feet flat on the ground.
-3. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.
-4. Keep your back straight and your core engaged.
-5. Pull the barbell towards your chest, squeezing your shoulder blades together.
-6. Pause for a moment at the top, then slowly lower the barbell back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Lie face down with your chest against the pad and your feet flat on the floor.
+2. Grip the barbell with your palms facing down, hands slightly wider than shoulder-width apart.
+3. Pull the bar up toward your chest, squeezing your shoulder blades together. Keep your back straight.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

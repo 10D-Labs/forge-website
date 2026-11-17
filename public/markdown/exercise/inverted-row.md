@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The inverted row is a bodyweight exercise that targets the upper back and also works the bicep and forearms. It involves pulling your chest up to a bar or suspension trainer while keeping your body straight, making it an effective movement for building upper body strength and improving posture. Beginner back exercise using body weight. Targets upper back, also works biceps, forearms.
+A bodyweight row hanging back from a waist-high bar and pulling your chest up to it. It works the upper back, with help from the biceps and forearms. Beginner back exercise using body weight. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,13 +15,11 @@ The inverted row is a bodyweight exercise that targets the upper back and also w
 
 ## How to perform
 
-1. Set up a bar at waist height or use a suspension trainer.
-2. Stand facing the bar or suspension trainer, with your feet shoulder-width apart.
-3. Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart.
-4. Lean back, keeping your body straight and your heels on the ground.
-5. Pull your chest towards the bar or handles, squeezing your shoulder blades together.
-6. Pause for a moment at the top, then slowly lower yourself back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set a bar in a rack at waist height. Stand facing it with your feet shoulder-width apart.
+2. Grab the bar with your palms facing down, hands slightly wider than shoulder-width.
+3. Walk your feet forward under the bar and lean back until your arms are straight, keeping your body straight and your heels on the floor.
+4. Pull your chest up to the bar.
+5. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

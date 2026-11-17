@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell side lying one hand raise targets the deltoid muscles and is performed lying on your side, lifting a dumbbell with one arm to shoulder height. This exercise isolates the shoulder muscles and helps improve strength and stability. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, rhomboids.
+A one-arm raise done lying on your side on a bench, lifting the dumbbell until your arm points straight up. It works the sides of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell side lying one hand raise targets the deltoid muscles and is perfor
 
 ## How to perform
 
-1. Lie on your side with your legs extended and your head supported by your arm.
+1. Lie on your side on a flat bench with your legs straight and your head resting on your lower arm.
 2. Hold a dumbbell in your top hand with your palm facing down.
-3. Keeping your arm straight, raise the dumbbell up to shoulder height.
-4. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch sides.
+3. Keep your arm straight and raise the dumbbell until your arm points straight up.
+4. Lower it slowly back down. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -31,7 +31,7 @@ export default function ExercisesPage() {
 
   const collectionSchema = generateCollectionPageSchema(
     "Exercise Library",
-    "Browse 900+ exercises with video demonstrations and detailed instructions",
+    "Browse 870+ exercises with video demonstrations and detailed instructions",
     "https://forgetrainer.ai/exercises",
     totalExercises
   );

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing front raise over head is a shoulder exercise that targets the deltoids, with secondary emphasis on the tricep and upper back. It involves lifting a barbell from thigh level to overhead while standing, requiring control and shoulder strength. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
+A front raise that keeps going past shoulder height until the bar is straight overhead, arms straight the whole way. It works the front of the shoulders, with help from the upper back. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,12 +15,9 @@ The barbell standing front raise over head is a shoulder exercise that targets t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a barbell in front of your thighs with an overhand grip.
-2. Keep your back straight and engage your core.
-3. Slowly raise the barbell in front of you, keeping your arms straight and your palms facing down.
-4. Continue lifting until the barbell is slightly above shoulder level.
-5. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand tall holding a barbell in front of your thighs, hands shoulder-width apart, palms facing your thighs.
+2. Keeping your arms straight and your body still, raise the bar in front of you until it's straight above your head.
+3. Lower slowly along the same path until the bar is back at your thighs.
 
 ## Pro tips
 

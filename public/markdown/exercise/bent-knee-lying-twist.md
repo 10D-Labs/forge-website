@@ -2,11 +2,11 @@
 
 ## Quick answer
 
-The bent knee lying twist is a bodyweight exercise that targets the glutes and also engages the obliques and hip flexors. It involves lying on your back with bent knees and twisting them side to side, which helps improve flexibility and mobility in the lower back and hips. Beginner legs exercise using body weight. Targets glutes, also works obliques, hip flexors.
+A lying twist where you lower your bent, raised knees from side to side while your arms stay out on the floor. It works the abs and the obliques at your sides. Beginner core exercise using body weight. Targets abs, also works obliques, hip flexors.
 
-- **Body Part:** Legs
+- **Body Part:** Core
 - **Equipment:** Body Weight
-- **Target Muscle:** Glutes
+- **Target Muscle:** Abs
 - **Secondary Muscles:** Obliques, Hip Flexors
 - **Difficulty:** Beginner
 - **Category:** Mobility
@@ -15,12 +15,10 @@ The bent knee lying twist is a bodyweight exercise that targets the glutes and a
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Extend your arms out to the sides, perpendicular to your body.
-3. Keeping your knees together, slowly lower them to one side, aiming to touch the ground with your knees.
-4. Pause for a moment, then engage your core and slowly lift your knees back to the starting position.
-5. Repeat the movement to the other side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Lie on your back with your arms straight out to the sides on the floor.
+2. Lift your feet off the floor and raise your bent knees above your hips.
+3. Lower your knees slowly to one side, toward the floor, keeping them together.
+4. Use your abs to lift them back to the middle, then lower them to the other side. Keep alternating sides.
 
 ## Pro tips
 
@@ -50,17 +48,17 @@ They work well as part of a warm-up routine, a cool-down, or a standalone mobili
 
 ### What muscles does the Bent Knee Lying Twist work?
 
-The Bent Knee Lying Twist primarily targets the glutes, with secondary activation in the obliques, hip flexors. It's classified as a mobility exercise for the legs.
+The Bent Knee Lying Twist primarily targets the abs, with secondary activation in the obliques, hip flexors. It's classified as a mobility exercise for the core.
 
 ### Is the Bent Knee Lying Twist good for beginners?
 
-Yes, the Bent Knee Lying Twist is rated as a beginner-level exercise. It's a great starting point for building glutes strength.
+Yes, the Bent Knee Lying Twist is rated as a beginner-level exercise. It's a great starting point for building abs strength.
 
 ## Related exercises
 
-- [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
+- [More Core Exercises](https://forgetrainer.ai/exercises/core)
 - [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
-- [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
+- [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---
 

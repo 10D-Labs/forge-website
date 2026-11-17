@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith standing leg calf raise is a lower leg exercise performed using a smith machine. It primarily targets the calves, with secondary emphasis on the hamstrings and glutes. The movement involves raising the heels to stand on the toes, then lowering back down, using the smith machine for stability and added resistance. Beginner legs exercise using smith machine. Targets calves, also works hamstrings, glutes.
+A standing calf raise holding a Smith machine bar in front of your thighs with straight arms. It works the calves. Beginner legs exercise using smith machine. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,12 +15,10 @@ The smith standing leg calf raise is a lower leg exercise performed using a smit
 
 ## How to perform
 
-1. Adjust the smith machine bar to a height that allows you to stand with your feet flat on the ground and your shoulders under the bar.
-2. Position yourself under the bar with your feet shoulder-width apart and your toes pointing forward.
-3. Place your hands on the bar for stability.
-4. Engage your calves and slowly raise your heels off the ground, lifting your body up onto your toes.
-5. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand facing a Smith machine bar set at mid-thigh height, feet hip-width apart. Grip it just outside your thighs, palms facing you.
+2. Unhook the bar and stand tall with your arms straight, the bar resting in front of your thighs.
+3. Raise your heels as high as you can, rising onto the balls of your feet.
+4. Lower your heels slowly back to the floor.
 
 ## Pro tips
 

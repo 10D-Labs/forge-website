@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The wall pushup is a beginner-friendly variation of the traditional pushup, performed standing and pressing against a wall. It primarily targets the pectorals, with secondary emphasis on the tricep and deltoids. This exercise is ideal for those new to strength training or individuals needing a low-impact alternative. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A pushup done standing, with your hands on a wall. It's an easier version of the floor pushup that works the chest, with help from the triceps and shoulders. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The wall pushup is a beginner-friendly variation of the traditional pushup, perf
 
 ## How to perform
 
-1. Stand facing a wall, about arm's length away.
+1. Stand facing a wall, about an arm's length away.
 2. Place your hands on the wall at shoulder height, slightly wider than shoulder-width apart.
-3. Step back a few feet, keeping your body straight and your feet hip-width apart.
-4. Bend your elbows and lower your chest towards the wall, keeping your body in a straight line.
-5. Push back up to the starting position, straightening your arms.
-6. Repeat for the desired number of repetitions.
+3. Step back a few feet, with your feet hip-width apart and your body straight.
+4. Bend your elbows to lower your chest toward the wall, keeping your body in a straight line.
+5. Push back until your arms are straight.
 
 ## Pro tips
 

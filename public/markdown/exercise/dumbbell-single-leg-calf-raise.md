@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell single leg calf raise is a unilateral lower leg exercise that targets the calves, performed while holding a dumbbell for added resistance. It challenges balance and strength by isolating one leg at a time. Intermediate legs exercise using dumbbell. Targets calves, also works ankles.
+A calf raise on one leg while holding a dumbbell for extra weight. It works the calves and tests your balance. Intermediate legs exercise using dumbbell. Targets calves, also works ankles.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell single leg calf raise is a unilateral lower leg exercise that targe
 
 ## How to perform
 
-1. Stand on the edge of a step or platform with your heels hanging off and your toes on the step.
-2. Hold a dumbbell in one hand and place your other hand on a wall or railing for support.
-3. Raise your heel as high as possible, lifting your body up onto your toes.
-4. Pause for a moment at the top, then slowly lower your heel back down below the step.
-5. Repeat for the desired number of repetitions, then switch to the other leg.
+1. Stand on one foot on the floor, holding a dumbbell on that side. Bend your other knee to lift that foot behind you.
+2. Raise your heel as high as you can, rising onto the ball of your foot.
+3. Lower your heel slowly back to the floor. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

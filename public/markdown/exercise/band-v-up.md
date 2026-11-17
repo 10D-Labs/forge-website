@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band v-up is an abdominal exercise that uses a resistance band to increase the challenge. It targets the abs and also engages the hip flexors, requiring core strength and coordination to perform the simultaneous lifting of the upper and lower body. Intermediate core exercise using resistance band. Targets abs, also works hip flexors.
+A V-up with a band running from a low anchor to your ankles, lifting your legs and upper body together. It works the abs, with help from the hip flexors at the front of the hips. Intermediate core exercise using resistance band. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,10 +15,10 @@ The band v-up is an abdominal exercise that uses a resistance band to increase t
 
 ## How to perform
 
-1. Lie flat on your back with your legs straight and your arms extended overhead, holding the band.
-2. Engaging your abs, lift your legs and upper body off the ground simultaneously, reaching your hands towards your toes.
-3. Pause for a moment at the top, then slowly lower your legs and upper body back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Lie on your back with a band looped around both ankles from a low anchor past your feet. Stretch your arms on the floor past your head.
+2. Lift your straight legs and your upper body at the same time, reaching your hands toward your ankles.
+3. Stop when your body forms a V, balancing on your buttocks.
+4. Lower slowly back to the start.
 
 ## Pro tips
 

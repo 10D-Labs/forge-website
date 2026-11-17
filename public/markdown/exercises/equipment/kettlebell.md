@@ -2,17 +2,16 @@
 
 ## Quick Answer
 
-37 kettlebell exercises. Explosive power and conditioning. Combine strength and cardio in dynamic, full-body movements.
+35 kettlebell exercises. Explosive power and conditioning. Combine strength and cardio in dynamic, full-body movements.
 
 ---
 
 ## All Kettlebell Exercises by Body Part
 
-### Arms (3 exercises)
+### Arms (2 exercises)
 
 - **Kettlebell Alternating Hang Clean** — Intermediate | Target: Forearms
 - **Kettlebell Bottoms Up Clean From the Hang Position** — Advanced | Target: Biceps
-- **Kettlebell Double Alternating Hang Clean** — Intermediate | Target: Biceps
 
 ### Back (5 exercises)
 
@@ -35,7 +34,7 @@
 - **Kettlebell Figure 8** — Intermediate | Target: Abs
 - **Kettlebell Windmill** — Advanced | Target: Abs
 
-### Legs (7 exercises)
+### Legs (8 exercises)
 
 - **Kettlebell Goblet Squat** — Beginner | Target: Glutes
 - **Kettlebell Front Squat** — Intermediate | Target: Glutes
@@ -43,9 +42,10 @@
 - **Kettlebell Pistol Squat** — Advanced | Target: Glutes
 - **Kettlebell Hang Clean** — Intermediate | Target: Hamstrings
 - **Kettlebell Swing** — Intermediate | Target: Glutes
-- **Kettlebell Squat Style Turkish Get Up** — Advanced | Target: Glutes
+- **Kettlebell Turkish Get Up** — Advanced | Target: Glutes
+- **Kettlebell Single Arm Overhead Squat** — Intermediate | Target: Quads
 
-### Shoulders (15 exercises)
+### Shoulders (13 exercises)
 
 - **Kettlebell Arnold Press** — Intermediate | Target: Shoulders
 - **Kettlebell Two Arm Military Press** — Intermediate | Target: Shoulders
@@ -58,8 +58,6 @@
 - **Kettlebell Seated Two Arm Military Press** — Intermediate | Target: Shoulders
 - **Kettlebell Alternating Press** — Intermediate | Target: Shoulders
 - **Kettlebell Single Arm Clean and Jerk** — Advanced | Target: Shoulders
-- **Kettlebell Single Arm Jerk** — Intermediate | Target: Shoulders
-- **Kettlebell Single Arm Military Press to the Side** — Intermediate | Target: Shoulders
 - **Kettlebell Single Arm Push Press** — Intermediate | Target: Shoulders
 - **Kettlebell Single Arm Snatch** — Advanced | Target: Shoulders
 
@@ -69,7 +67,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

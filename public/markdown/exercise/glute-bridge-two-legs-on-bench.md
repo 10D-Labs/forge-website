@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The glute bridge with two legs on a bench is a bodyweight exercise that targets the glutes, with secondary emphasis on the hamstrings and core. It involves lifting the hips off the ground while the upper back rests on a bench, creating a straight line from knees to shoulders. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, core.
+A glute bridge with your heels up on a bench and your back on the floor. It works the glutes and hamstrings. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, core.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The glute bridge with two legs on a bench is a bodyweight exercise that targets 
 
 ## How to perform
 
-1. Sit on the edge of a bench with your back against it and your feet flat on the ground.
-2. Place your hands on the bench beside your hips for support.
-3. Engage your glutes and hamstrings, then lift your hips off the bench until your body forms a straight line from your knees to your shoulders.
-4. Pause for a moment at the top, then slowly lower your hips back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back on the floor with your heels resting on a flat bench, knees bent, arms flat at your sides with palms down.
+2. Press your heels into the bench and lift your hips until your body is straight from shoulders to knees.
+3. Lower your hips slowly back to the floor.
 
 ## Pro tips
 

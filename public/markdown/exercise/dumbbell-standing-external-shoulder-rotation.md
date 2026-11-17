@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing external shoulder rotation is an exercise that targets the deltoids and also engages the rotator cuff and trapezius muscles. It involves raising the arms to shoulder height and externally rotating the shoulders while holding dumbbells. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works rotator cuff, trapezius.
+A standing shoulder rotation with your upper arm held out at shoulder height, turning a dumbbell from pointing down to pointing up. It works the rear shoulder and the small muscles that rotate it. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works rotator cuff, trapezius.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell standing external shoulder rotation is an exercise that targets the
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body.
-2. Raise your arms out to the sides until they are parallel to the ground, keeping your elbows slightly bent.
-3. Rotate your arms externally, bringing the dumbbells up towards your head while keeping your elbows in the same position.
-4. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand. Put your other hand on your hip.
+2. Raise your working arm out to the side to shoulder height. Bend that elbow 90 degrees so the dumbbell hangs down.
+3. Rotate your forearm up until the dumbbell is above your elbow, keeping your upper arm still.
+4. Lower it slowly back down until your forearm points at the floor.
 
 ## Pro tips
 

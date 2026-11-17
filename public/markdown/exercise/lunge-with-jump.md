@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lunge with jump is a dynamic lower body exercise that combines a traditional lunge with a plyometric jump, targeting the glutes and also engaging the quadriceps, hamstrings, and calves. It requires balance, coordination, and explosive strength. Advanced legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A reverse lunge that ends in a jump, driving your back knee up to hip height as you leave the floor. It works the glutes and quads, with help from the hamstrings and calves. Advanced legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,11 @@ The lunge with jump is a dynamic lower body exercise that combines a traditional
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart.
-2. Take a step forward with your right foot, lowering your body into a lunge position.
-3. Push off with your right foot and jump into the air, switching the position of your feet mid-air.
-4. Land softly with your left foot forward and immediately lower your body into a lunge position.
-5. Continue alternating between lunges and jumps for the desired number of repetitions.
+1. Stand tall with your feet hip-width apart and your elbows bent at your sides.
+2. Step one foot back and lower until your back knee nearly touches the floor.
+3. Push off your front foot and jump up, driving your back knee up to hip height.
+4. Land softly on your front foot, set the other foot down beside it, and stand tall.
+5. Step the other foot back for the next rep. Keep alternating sides.
 
 ## Pro tips
 

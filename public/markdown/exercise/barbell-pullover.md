@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell pullover is a strength exercise that targets the latissimus dorsi (lats) and also engages the chest and tricep. It involves lying on a bench and moving a barbell in an arc from above the chest to behind the head, emphasizing a stretch and contraction of the upper body muscles. Intermediate back exercise using barbell. Targets lats, also works chest, triceps.
+A straight-arm move lying on a bench, lowering a barbell in an arc behind your head and back up. It works the lats, with help from the chest and triceps. Intermediate back exercise using barbell. Targets lats, also works chest, triceps.
 
 - **Body Part:** Back
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell pullover is a strength exercise that targets the latissimus dorsi (l
 
 ## How to perform
 
-1. Lie flat on a bench with your head at one end and your feet on the floor.
-2. Hold a barbell with a shoulder-width grip and extend your arms straight above your chest.
-3. Keeping your arms straight, lower the barbell behind your head in a controlled manner until you feel a stretch in your lats.
-4. Pause for a moment, then raise the barbell back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench with your knees bent and your feet up on the bench.
+2. Hold a barbell with your hands shoulder-width apart, arms straight up over your chest.
+3. Keeping your arms straight, lower the bar in an arc behind your head until you feel a stretch in your lats.
+4. Bring the bar back up over your chest along the same arc.
 
 ## Pro tips
 

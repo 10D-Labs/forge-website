@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The resistance band seated straight back row targets the upper back muscles and is performed seated on the floor with a resistance band looped around the feet. It emphasizes scapular retraction and upper back strength. Beginner back exercise using resistance band. Targets upper back, also works biceps, shoulders.
+A band row done sitting on an upright bench, legs out straight and the band looped around your feet. It works the upper back. Beginner back exercise using resistance band. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The resistance band seated straight back row targets the upper back muscles and 
 
 ## How to perform
 
-1. Sit on the floor with your legs extended and loop the resistance band around your feet.
-2. Hold the ends of the resistance band with your hands, palms facing each other.
-3. Keep your back straight and lean slightly back, engaging your core.
-4. Pull the resistance band towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly release the tension and return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit on a bench with an upright back pad, legs straight out in front of you. Loop the band around your feet.
+2. Hold the ends of the band with your palms facing each other.
+3. Sit tall with your back straight and pull the band toward you until your hands reach your sides, drawing your shoulder blades together.
+4. Let your arms straighten slowly.
 
 ## Pro tips
 

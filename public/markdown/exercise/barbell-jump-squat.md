@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell jump squat is a dynamic lower body exercise that combines the traditional squat with an explosive jump, performed while holding a barbell across the upper back. This exercise targets the glutes and also works the quadriceps, hamstrings, and calves. It is a plyometric movement that develops power, strength, and explosiveness in the legs. Advanced legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat that ends in a jump off the floor, with a barbell across your upper back. It works the glutes, plus the quads, hamstrings and calves, and builds leg power. Advanced legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell jump squat is a dynamic lower body exercise that combines the tradit
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart, holding a barbell across your upper back.
-2. Lower your body into a squat position by bending your knees and pushing your hips back.
-3. Once you reach the bottom of the squat, explode upwards by jumping off the ground.
-4. As you jump, extend your hips, knees, and ankles, pushing through your toes.
-5. Land softly back into the squat position and immediately repeat the movement for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a barbell across your upper back.
+2. Bend your knees and push your hips back to squat down.
+3. Jump up hard from the bottom, straightening your hips, knees and ankles and pushing off through your toes.
+4. Land softly back into a squat and go straight into the next jump.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell glute bridge with two legs on a bench is a compound lower body exercise that primarily targets the glutes, while also engaging the hamstrings and core. It is performed by resting your upper back on a bench, placing a barbell across your hips, and driving your hips upward to create a straight line from your knees to your shoulders. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, core.
+A glute bridge with your heels up on a bench, your back on the floor and a barbell across your hips. It works the glutes and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell glute bridge with two legs on a bench is a compound lower body exerc
 
 ## How to perform
 
-1. Start by sitting on the edge of a bench with your upper back resting against it and your feet flat on the ground, hip-width apart.
-2. Place a barbell across your hips, holding it securely with both hands.
-3. Engage your glutes and core muscles, then press through your heels to lift your hips off the bench, creating a straight line from your knees to your shoulders.
-4. Pause for a moment at the top, squeezing your glutes.
-5. Slowly lower your hips back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back on the floor with your heels resting on a flat bench and knees bent.
+2. Set a loaded barbell across your hips. Hold it with your hands just outside your hips, palms facing down.
+3. Press your heels into the bench and lift your hips and the bar until your body is straight from shoulders to knees.
+4. Lower your hips slowly back to the floor.
 
 ## Pro tips
 

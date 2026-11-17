@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The assisted kneeling chest dip is a chest-focused exercise performed on a machine, where the user kneels on a pad for support. This machine-assisted variation helps reduce the load, making it accessible for those building strength or learning proper dip technique. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
+A dip on an assisted machine, kneeling on a pad that takes some of your weight. Leaning forward makes it work the lower chest. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The assisted kneeling chest dip is a chest-focused exercise performed on a machi
 
 ## How to perform
 
-1. Adjust the machine to your desired height and secure your knees on the pad.
-2. Grasp the handles with your palms facing down and your arms fully extended.
-3. Lower your body by bending your elbows until your upper arms are parallel to the floor.
-4. Pause for a moment, then push yourself back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Adjust the machine to fit you, then kneel on the pad and hold the handles with your palms facing down and your arms straight.
+2. Lean your upper body forward.
+3. Bend your elbows to lower your body until your upper arms are level with the floor.
+4. Push back up until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The unilateral row is a machine-based exercise targeting the upper back. It involves pulling a arm with one side of the body at a time, focusing on the upper back muscles while also engaging the bicep and forearms. This exercise is performed on a machine, providing stability and controlled resistance. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
+A one-arm cable row done bent forward, with one knee and forearm resting on the machine's pads. It works the upper back, with help from the biceps and forearms. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The unilateral row is a machine-based exercise targeting the upper back. It invo
 
 ## How to perform
 
-1. Adjust the seat height and position yourself facing the machine.
-2. Grasp the handles with an overhand grip and keep your back straight.
-3. Pull the handles towards your body, squeezing your shoulder blades together.
-4. Pause for a moment at the peak of the movement, then slowly release and extend your arms back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand on one leg facing the machine. Rest your other knee on the rear pad and that same side's forearm on the front pad, back flat.
+2. With your free hand, hold the low cable handle, arm hanging straight down and palm facing in.
+3. Pull the handle up to the side of your waist, driving your elbow back past your body.
+4. Lower it slowly until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

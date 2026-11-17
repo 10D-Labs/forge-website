@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell alternate bicep curl is a classic arm exercise that targets the bicep and also engages the forearms. It involves curling dumbbells alternately while keeping the upper arms stationary, focusing on controlled movement and muscle contraction. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A standing dumbbell curl done one arm at a time, palms facing forward, with your upper arms kept still. It works the biceps and also the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,9 @@ The dumbbell alternate bicep curl is a classic arm exercise that targets the bic
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing forward and arms fully extended.
-2. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-3. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly begin to lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions, alternating arms.
+1. Stand tall with a dumbbell in each hand, arms straight at your sides, palms facing forward.
+2. Keep your upper arms still and curl one dumbbell up to shoulder level.
+3. Lower it slowly until your arm is straight, then curl the other arm. Keep alternating sides.
 
 ## Pro tips
 

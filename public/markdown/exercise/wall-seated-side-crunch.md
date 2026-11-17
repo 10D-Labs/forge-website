@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated side crunch (wall) is an abdominal exercise performed while sitting on the floor with your back against a wall. It targets the abs and obliques by having you lean side to side, bringing your elbow toward your hip. Beginner core exercise using body weight. Targets abs, also works obliques.
+A side bend done while holding a wall sit. It works the abs and the obliques along your sides, while your thighs hold you in place. Beginner core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The seated side crunch (wall) is an abdominal exercise performed while sitting o
 
 ## How to perform
 
-1. Sit on the floor with your back against a wall and your legs extended in front of you.
-2. Bend your knees and place your feet flat on the floor, hip-width apart.
-3. Place your hands behind your head with your elbows pointing outwards.
-4. Engage your abs and lean to one side, bringing your elbow towards your hip.
-5. Pause for a moment, then return to the starting position.
-6. Repeat on the other side.
-7. Continue alternating sides for the desired number of repetitions.
+1. Stand with your back against a wall and slide down until your thighs are level with the floor. Hold this wall sit the whole time.
+2. Rest one hand on your hip and let the other arm hang at your side.
+3. Lean your upper body toward the hanging arm, sliding that hand down your side.
+4. Come back upright, then lean to the other side, switching hands. Keep alternating sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band standing crunch is an abdominal exercise performed with a resistance band anchored at waist height. It targets the abs and also engages the obliques. The movement involves crunching forward against the resistance of the band while standing, which can help strengthen the core. Beginner core exercise using resistance band. Targets abs, also works obliques.
+A crunch done standing, pulling against a band anchored high behind you with your hands by your head. It works the abs, with help from the obliques. Beginner core exercise using resistance band. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band standing crunch is an abdominal exercise performed with a resistance ba
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point at waist height.
-2. Stand facing away from the anchor point with your feet shoulder-width apart.
-3. Hold the band with both hands and bring it up to your chest, keeping your elbows bent and close to your body.
-4. Engage your abs and slowly crunch forward, bringing your chest towards your knees.
-5. Pause for a moment at the top of the crunch, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Anchor the band high behind you. Stand facing away from it with your feet shoulder-width apart.
+2. Hold the band with both hands beside your head, elbows bent.
+3. Tighten your abs and crunch forward, bringing your chest toward your knees.
+4. Return slowly to standing tall.
 
 ## Pro tips
 

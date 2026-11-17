@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell stiff leg good morning is a compound exercise that targets the glutes, hamstrings, and lower back. It involves hinging at the hips with a barbell across your upper back, emphasizing posterior chain strength and flexibility. Advanced legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
+A good morning with your legs nearly straight: lean forward from the hips with a barbell on your upper back until your torso is level with the floor. It works the glutes, hamstrings and lower back. Advanced legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell stiff leg good morning is a compound exercise that targets the glute
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Hold the barbell across your upper back, resting it on your traps.
-3. Keeping your back straight, hinge forward at the hips, pushing your glutes back.
-4. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings.
-5. Engage your glutes and hamstrings to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your knees slightly bent. Rest a barbell across your upper back, just below your neck.
+2. Push your hips back and lean your torso forward, keeping your back straight.
+3. Lower until your torso is level with the floor and you feel a stretch in your hamstrings.
+4. Squeeze your glutes and hamstrings to stand back up tall.
 
 ## Pro tips
 

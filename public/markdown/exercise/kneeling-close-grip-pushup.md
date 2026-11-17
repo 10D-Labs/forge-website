@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kneeling close grip pushup is a bodyweight exercise that primarily targets the tricep, with secondary emphasis on the chest and shoulders. It is performed from the knees with hands placed close together, making it easier than a standard close grip pushup. Beginner arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A pushup from your knees with your hands close together, easier than a full close-grip pushup. It works the triceps, with help from the chest and shoulders. Beginner arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The kneeling close grip pushup is a bodyweight exercise that primarily targets t
 
 ## How to perform
 
-1. Start by getting on your hands and knees, with your hands shoulder-width apart and your knees hip-width apart.
-2. Lower your upper body towards the ground by bending your elbows, keeping them close to your sides.
-3. Pause for a moment when your chest is just above the ground.
-4. Push through your palms to straighten your arms and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Get on your hands and knees with your knees hip-width apart and your hands close together under your chest.
+2. Bend your elbows to lower your chest until it's just above the floor, keeping your elbows close to your sides.
+3. Push through your palms to straighten your arms.
 
 ## Pro tips
 

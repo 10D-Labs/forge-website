@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The resistance band seated shoulder press is an overhead pressing exercise performed while seated, using a resistance band to target the deltoid muscles. It also engages the tricep and upper back as secondary muscles. This exercise is suitable for building shoulder strength and stability, and is accessible for most fitness levels due to the controlled movement and support provided by the seated position. Beginner shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
+A seated overhead press using a resistance band. It works the shoulders, with help from the triceps and upper back. Beginner shoulders exercise using resistance band. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The resistance band seated shoulder press is an overhead pressing exercise perfo
 
 ## How to perform
 
-1. Sit on a chair or bench with your back straight and feet flat on the ground.
-2. Hold the resistance band with both hands, palms facing forward, and bring it up to shoulder level.
-3. Press the band overhead, extending your arms fully.
-4. Pause for a moment at the top, then slowly lower the band back down to shoulder level.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench or chair with your back straight and your feet flat on the floor.
+2. Hold the resistance band with both hands at shoulder height, palms facing forward.
+3. Press your hands straight up until your arms are straight overhead.
+4. Lower your hands slowly back to shoulder height.
 
 ## Pro tips
 

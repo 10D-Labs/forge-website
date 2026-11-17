@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kneeling wide grip chest dip is a machine-based exercise targeting the pectorals, with secondary emphasis on the tricep and shoulders. The assistance from the machine makes it accessible for those who may not yet have the strength for unassisted dips. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
+A dip on an assisted machine, kneeling on a pad that takes some of your weight, with your hands wide. It works the lower chest, with the triceps and shoulders helping. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The kneeling wide grip chest dip is a machine-based exercise targeting the pecto
 
 ## How to perform
 
-1. Adjust the machine to your desired height and secure your knees on the pad.
-2. Grasp the handles with a wide grip and keep your elbows slightly bent.
-3. Lower your body by bending your elbows until your upper arms are parallel to the floor.
-4. Push yourself back up to the starting position by extending your arms.
-5. Repeat for the desired number of repetitions.
+1. Adjust the machine to your height and kneel on the pad.
+2. Grip the handles with your hands wide apart and your elbows slightly bent.
+3. Bend your elbows to lower your body until your upper arms are level with the floor.
+4. Straighten your arms to push yourself back up.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell push press is a compound exercise that targets the deltoids (shoulders) and also engages the tricep and core. It involves a slight dip and drive from the legs to help press the dumbbells overhead, making it a dynamic movement that combines strength and power. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, core.
+An overhead dumbbell press where a quick knee dip and leg drive help push the weights up. It works the front of the shoulders, with the triceps and abs helping. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,10 +15,10 @@ The dumbbell push press is a compound exercise that targets the deltoids (should
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level.
-2. Bend your knees slightly and dip your body down, then explosively extend your legs and press the dumbbells overhead.
-3. Lock out your arms at the top of the movement, then lower the dumbbells back to shoulder level.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height.
+2. Bend your knees slightly to dip down.
+3. Straighten your legs hard and use that drive to press the dumbbells overhead until your arms are straight.
+4. Lower the dumbbells back to your shoulders.
 
 ## Pro tips
 

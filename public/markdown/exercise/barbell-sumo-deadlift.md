@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell sumo deadlift is a compound strength exercise that targets the glutes, with significant involvement of the hamstrings, quadriceps, and lower back. It requires a wide stance and emphasizes hip and leg strength. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, quadriceps, lower back.
+A deadlift with a wide stance and toes pointed out, lifting a barbell from the floor to standing. It works the glutes, with help from the hamstrings, quads and lower back. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, quadriceps, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,13 +15,10 @@ The barbell sumo deadlift is a compound strength exercise that targets the glute
 
 ## How to perform
 
-1. Stand with your feet wider than shoulder-width apart, toes pointing outwards.
-2. Place a barbell on the ground in front of you, centered between your feet.
-3. Bend your knees and lower your hips, keeping your back straight and chest up, to grip the barbell with an overhand grip.
-4. Engage your core and drive through your heels to lift the barbell off the ground, extending your hips and knees simultaneously.
-5. As you lift, keep your chest up and back straight, and push your hips forward to fully engage your glutes.
-6. Pause for a moment at the top, then slowly lower the barbell back down to the starting position, maintaining control throughout the movement.
-7. Repeat for the desired number of repetitions.
+1. Stand with your feet wider than shoulder-width apart, toes pointing out, and a barbell on the floor centered between your feet.
+2. Bend your knees and lower your hips to grip the bar with your palms facing you, keeping your back straight and your chest up.
+3. Push through your heels to lift the bar, straightening your hips and knees together and pushing your hips forward as you stand.
+4. Lower the bar slowly back to the floor.
 
 ## Pro tips
 

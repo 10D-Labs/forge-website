@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The 45 degree side bend is a bodyweight exercise targeting the abdominal muscles, particularly the obliques. It involves bending the torso to the side while standing, engaging the core for stability and control. Beginner core exercise using body weight. Targets abs, also works obliques.
+A side bend done lying on your side on a 45-degree back extension bench, hands behind your head. It works the abs, especially the obliques along the sides of your waist. Beginner core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The 45 degree side bend is a bodyweight exercise targeting the abdominal muscles
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your arms extended straight down by your sides.
-2. Keeping your back straight and your core engaged, slowly bend your torso to one side, lowering your hand towards your knee.
-3. Pause for a moment at the bottom, then slowly return to the starting position.
-4. Repeat on the other side.
-5. Continue alternating sides for the desired number of repetitions.
+1. Set up sideways on a 45-degree back extension bench: one hip against the pad, feet locked under the foot pads, body in a straight line.
+2. Put your hands behind your head with your elbows pointing out.
+3. Bend sideways at the waist to lower your upper body toward the floor.
+4. Lift back up, bending sideways until your upper body rises above the line of your legs. Do all your reps on one side, then switch.
 
 ## Pro tips
 

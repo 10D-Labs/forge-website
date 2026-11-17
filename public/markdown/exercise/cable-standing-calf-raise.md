@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable standing calf raise is an exercise that targets the calf muscles using a cable machine for resistance. It involves standing upright and raising your heels off the ground to engage the calves, with secondary activation of the hamstrings and glutes. Beginner legs exercise using cable. Targets calves, also works hamstrings, glutes.
+A standing calf raise on a cable machine, with the cable adding weight as you rise. It works the calves. Beginner legs exercise using cable. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable standing calf raise is an exercise that targets the calf muscles using
 
 ## How to perform
 
-1. Stand facing a cable machine with your feet shoulder-width apart.
-2. Hold onto the cable machine handles or attach a cable ankle strap to your ankles.
-3. Raise your heels off the ground by extending your ankles as high as possible.
-4. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand on the platform of a cable machine, facing the machine, with your feet close together.
+2. Attach the low cable at your hips and hold the machine's handles in front of your chest for balance.
+3. Raise your heels as high as you can.
+4. Lower your heels slowly back down.
 
 ## Pro tips
 

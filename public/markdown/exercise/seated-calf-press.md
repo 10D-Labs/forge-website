@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The seated calf press is a machine-based exercise targeting the calf muscles. It involves pressing a weighted with the balls of your feet while seated, focusing on ankle extension to work the calves. Beginner legs exercise using machine. Targets calves, also works soleus, hamstrings.
+A calf raise done on a seated leg press, pushing the footplate with your toes while your legs stay straight. It works the calves. Beginner legs exercise using machine. Targets calves, also works soleus.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
 - **Target Muscle:** Calves
-- **Secondary Muscles:** Soleus, Hamstrings
+- **Secondary Muscles:** Soleus
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,12 +15,10 @@ The seated calf press is a machine-based exercise targeting the calf muscles. It
 
 ## How to perform
 
-1. Adjust the seat of the machine so that your shoulders are aligned with The pad.
-2. Place your toes on the lower portion of the platform and position your knees under The pad.
-3. Grasp the handles on the sides of the seat for stability.
-4. Press The pad down by extending your ankles, lifting your heels as high as possible.
-5. Pause for a moment at the top of the movement, then slowly lower your heels back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit in a leg press machine with your back against the pad and hold the handles at your sides.
+2. Place the balls of your feet on the bottom edge of the footplate, heels off, and straighten your legs.
+3. Keep your legs straight and point your toes to push the footplate away.
+4. Let your heels come back slowly toward you until you feel a stretch in your calves.
 
 ## Pro tips
 
@@ -50,7 +48,7 @@ Most people need 12-16 sets per week of direct calf work, split across 2-3 sessi
 
 ### What muscles does the Seated Calf Press work?
 
-The Seated Calf Press primarily targets the calves, with secondary activation in the soleus, hamstrings. It's classified as a strength exercise for the legs.
+The Seated Calf Press primarily targets the calves, with secondary activation in the soleus. It's classified as a strength exercise for the legs.
 
 ### Is the Seated Calf Press good for beginners?
 

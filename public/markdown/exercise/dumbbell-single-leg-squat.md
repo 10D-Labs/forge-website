@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell single leg squat is a challenging lower body exercise that targets the glutes while also engaging the quadriceps, hamstrings, and calves. It requires balance, coordination, and strength, as you perform a squat on one leg while holding dumbbells for added resistance. Advanced legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat on one leg with the other leg held out in front, holding a dumbbell for extra weight. It works the glutes and quads and takes good balance. Advanced legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell single leg squat is a challenging lower body exercise that targets 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-2. Extend one leg forward and keep it off the ground throughout the exercise.
-3. Bend your standing leg and lower your body down as if sitting back into a chair.
-4. Keep your chest up and your back straight.
-5. Pause for a moment at the bottom, then push through your heel to return to the starting position.
-6. Repeat for the desired number of repetitions, then switch legs.
+1. Stand on one leg, holding a dumbbell in one hand at your side.
+2. Lift your other leg straight out in front of you and reach your free arm forward.
+3. Bend your standing leg and sit your hips back as if into a chair, keeping your chest up and your front leg off the floor.
+4. Push through your heel to stand back up. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

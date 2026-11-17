@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith decline bench press is a chest exercise performed on a decline bench using a smith machine. It primarily targets the pectoral muscles, with secondary emphasis on the tricep and shoulders. The smith machine provides guided movement, making it safer and more stable than a free-weight decline bench press. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
+A Smith machine bench press on a decline bench, with your head lower than your hips. It works the lower chest, with help from the triceps and shoulders. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Smith Machine
@@ -15,12 +15,10 @@ The smith decline bench press is a chest exercise performed on a decline bench u
 
 ## How to perform
 
-1. Adjust the decline bench to the desired angle.
-2. Lie down on the bench with your feet secured under the foot pads.
-3. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.
-4. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in.
-5. Pause for a moment at the bottom, then push the barbell back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set a decline bench under the Smith machine at the angle you want. Lie on it with your feet secured under the foot pads.
+2. Grip the bar with your palms facing toward your feet, hands slightly wider than shoulder-width.
+3. Unhook the bar and lower it slowly to your lower chest, keeping your elbows tucked in.
+4. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

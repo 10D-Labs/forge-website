@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band single leg calf raise is a lower leg exercise that targets the calves using a resistance band. It also engages the ankles and feet, helping to improve strength and stability in the lower leg. The movement is performed one leg at a time, which increases the balance and coordination required. Intermediate legs exercise using resistance band. Targets calves, also works ankles, feet.
+A one-leg calf raise on a low step, standing on a band for extra resistance. It works the calves and tests your balance. Intermediate legs exercise using resistance band. Targets calves, also works ankles, feet.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band single leg calf raise is a lower leg exercise that targets the calves u
 
 ## How to perform
 
-1. Stand with your feet hip-width apart and place the band around the ball of your left foot.
-2. Hold onto a stable object for balance if needed.
-3. Slowly raise your left heel off the ground, lifting your body weight onto the ball of your foot.
-4. Pause for a moment at the top, then slowly lower your left heel back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the right leg.
+1. Stand on a low step on one foot, with the band under that foot. Hold the other end of the band in one hand.
+2. Hold a wall or other steady object with your free hand if you need help with balance.
+3. Rise up onto the ball of your foot as high as you can.
+4. Lower your heel slowly. Do all your reps on one side, then switch.
 
 ## Pro tips
 

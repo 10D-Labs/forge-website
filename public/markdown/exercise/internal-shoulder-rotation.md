@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The internal shoulder rotation is an isolation exercise targeting the deltoids and rotator cuff muscles. It is performed seated, using a cable machine to provide resistance as you internally rotate your shoulder. Beginner shoulders exercise using cable. Targets shoulders, also works rotator cuff, triceps.
+A seated cable move that swings the forearm in across your belly while the elbow stays pinned to your side. It works the front of the shoulder and the small muscles that steady the joint. Beginner shoulders exercise using cable. Targets shoulders, also works rotator cuff, triceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The internal shoulder rotation is an isolation exercise targeting the deltoids a
 
 ## How to perform
 
-1. Sit on a bench or chair facing the cable machine with your feet flat on the ground.
-2. Hold the cable handle with your arm extended straight out in front of you, parallel to the ground.
-3. Keep your elbow slightly bent and your shoulder blades pulled back and down.
-4. Slowly rotate your arm inward, bringing the cable handle towards the center of your body.
-5. Pause for a moment at the end of the movement, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions, then switch arms.
+1. Attach a single handle to a cable pulley set low, at about the height of your elbow when you sit on the floor.
+2. Sit on the floor side-on to the machine, legs straight out in front and back upright.
+3. Hold the handle in the hand nearer the machine, palm facing forward, thumb up. Bend that elbow 90 degrees and tuck it against your side.
+4. Keep your elbow at your side and swing your forearm in across your belly until your palm faces your stomach.
+5. Let it swing back out slowly toward the machine. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

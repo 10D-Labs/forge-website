@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band vertical Pallof press is an anti-rotation core exercise that targets the abs and also engages the obliques and glutes. It is performed by pressing a resistance band away from the chest while resisting rotational forces, helping to build core stability and strength. Beginner core exercise using resistance band. Targets abs, also works obliques, glutes.
+A standing core exercise where you press a band from your chest straight overhead while your side faces the anchor. Your abs and obliques work to keep the band from twisting you. Beginner core exercise using resistance band. Targets abs, also works obliques, glutes.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,13 +15,9 @@ The band vertical Pallof press is an anti-rotation core exercise that targets th
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and wrap the band around a sturdy object at chest height.
-2. Hold the band with both hands and step away from the anchor point, creating tension in the band.
-3. Position yourself perpendicular to the anchor point, with your side facing the band.
-4. Extend your arms straight out in front of you, keeping your hands at chest height.
-5. Engage your core and press the band away from your chest, fully extending your arms.
-6. Hold the position for a few seconds, then slowly bring the band back towards your chest.
-7. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with feet hip-width apart, side-on to a band anchored at chest height, far enough away that it's tight. Hold it with both hands at mid-chest.
+2. Press your hands straight up until your arms are straight overhead. Don't let the band twist your body toward the anchor.
+3. Lower your hands slowly back to your chest. Do all your reps on one side, then turn around and switch.
 
 ## Pro tips
 

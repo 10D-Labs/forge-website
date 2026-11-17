@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell supported squat is a lower body exercise targeting the quadriceps, with additional activation of the glutes, hamstrings, and calves. It involves holding dumbbells at your sides while performing a squat, enhancing strength and stability. Beginner legs exercise using dumbbell. Targets quads, also works glutes, hamstrings, calves.
+A squat holding one dumbbell at your chest, sitting back until you touch a knee-high pad behind you. It works the quads, with help from the glutes and hamstrings. Beginner legs exercise using dumbbell. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell supported squat is a lower body exercise targeting the quadriceps, 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.
-2. Keeping your chest up and core engaged, slowly lower your body down by bending your knees and pushing your hips back.
-3. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.
-4. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand on the footplate of the support stand with the roller in front of your ankles and the knee-high pad right behind you.
+2. Hold one dumbbell upright against your chest, both palms cupped under its top end.
+3. Keep your chest up, push your hips back and bend your knees until your thighs are level with the floor and you touch the pad.
+4. Push through your feet to stand back up.
 
 ## Pro tips
 

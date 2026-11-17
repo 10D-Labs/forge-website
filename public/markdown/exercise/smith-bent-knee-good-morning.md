@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith bent knee good morning is a lower body exercise performed on a Smith machine. It primarily targets the glutes, with secondary emphasis on the hamstrings and lower back. The movement involves hinging at the hips with a slight knee bend, lowering the torso while keeping the back straight, and then returning to the starting position. Intermediate legs exercise using smith machine. Targets glutes, also works hamstrings, lower back.
+A Smith machine good morning with bent knees: lean forward from the hips, bar on your upper back, until your torso is level with the floor. It works the glutes, plus the hamstrings and lower back. Intermediate legs exercise using smith machine. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,12 +15,10 @@ The smith bent knee good morning is a lower body exercise performed on a Smith m
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart, toes pointing forward.
-2. Place the barbell across your upper back, resting it on your traps.
-3. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-4. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings.
-5. Engage your glutes and hamstrings to raise your torso back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand under a Smith machine bar with your feet shoulder-width apart, toes pointing forward, and the bar across your upper back, just below your neck.
+2. Bend your knees slightly and push your hips back, leaning your torso forward with your back straight.
+3. Lower until your torso is level with the floor and you feel a stretch in your hamstrings.
+4. Squeeze your glutes and hamstrings to raise your torso back up.
 
 ## Pro tips
 

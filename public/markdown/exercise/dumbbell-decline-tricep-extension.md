@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell decline tricep extension is an isolation exercise targeting the tricep, performed on a decline bench to increase the stretch and activation of the tricep muscles. It also engages the shoulders as secondary muscles. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders.
+A lying triceps extension on a decline bench, lowering two dumbbells beside your head by bending your elbows. It works the triceps. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell decline tricep extension is an isolation exercise targeting the tri
 
 ## How to perform
 
-1. Lie on a decline bench with your head lower than your feet and hold a dumbbell in each hand, palms facing each other.
-2. Extend your arms fully, keeping your elbows close to your head.
-3. Lower the dumbbells slowly behind your head, bending your elbows.
-4. Pause for a moment, then raise the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on a decline bench with your head lower than your feet. Hold a dumbbell in each hand, palms facing each other.
+2. Straighten your arms up over your chest, keeping your elbows in.
+3. Bend your elbows to lower the dumbbells slowly beside your head.
+4. Straighten your arms to raise the dumbbells back up.
 
 ## Pro tips
 

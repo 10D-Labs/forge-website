@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell single leg deadlift is a unilateral lower body exercise that targets the glutes, hamstrings, and lower back. It challenges balance, coordination, and strength by requiring you to stabilize on one leg while hinging at the hips and lifting a dumbbell. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
+A one-leg deadlift holding a dumbbell, reaching your free leg back as you lean forward. It works the glutes, hamstrings and lower back, and tests your balance. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -16,12 +16,10 @@ The dumbbell single leg deadlift is a unilateral lower body exercise that target
 ## How to perform
 
 1. Stand with your feet hip-width apart, holding a dumbbell in your right hand.
-2. Shift your weight onto your left leg and lift your right foot slightly off the ground.
-3. Keeping your back straight, hinge forward at the hips and lower the dumbbell towards the ground.
-4. At the same time, extend your right leg straight behind you, maintaining a slight bend in your left knee.
-5. Lower the dumbbell until your torso and right leg are parallel to the ground.
-6. Pause for a moment, then engage your glutes and hamstrings to return to the starting position.
-7. Repeat for the desired number of repetitions, then switch sides.
+2. Shift your weight onto your left leg and lift your right foot slightly off the floor.
+3. Bend forward at the hips with your back straight, lowering the dumbbell toward the floor as your right leg reaches straight back.
+4. Keep your left knee slightly bent and go down until your upper body and right leg are level with the floor.
+5. Lift your upper body back up to standing. Do all your reps on one side, then switch.
 
 ## Pro tips
 

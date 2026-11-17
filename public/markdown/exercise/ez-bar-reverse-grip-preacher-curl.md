@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar reverse grip preacher curl is an isolation exercise targeting the bicep, with additional activation of the forearms. It is performed seated on a preacher bench, using an EZ bar with a reverse (underhand) grip. Intermediate arms exercise using ez bar. Targets biceps, also works forearms.
+A preacher curl done with your palms facing down. The angled pad keeps your upper arms still, so the biceps and forearms do the work. Intermediate arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,12 +15,10 @@ The EZ bar reverse grip preacher curl is an isolation exercise targeting the bic
 
 ## How to perform
 
-1. Sit on a preacher bench with your chest against the pad and your feet flat on the floor.
-2. Grasp the ez barbell with an underhand grip, hands shoulder-width apart.
-3. Rest your upper arms on the pad, allowing your forearms to hang down.
-4. Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders.
-5. Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit at a preacher bench with your feet flat on the floor and the backs of your upper arms on the pad.
+2. Hold an EZ bar with your arms straight down the pad, palms facing down, hands about shoulder-width apart.
+3. Curl the bar up until your forearms are upright and the bar is near your chin.
+4. Lower it slowly until your arms are straight, keeping your upper arms on the pad.
 
 ## Pro tips
 

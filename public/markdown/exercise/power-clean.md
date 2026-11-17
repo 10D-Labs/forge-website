@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The power clean is a compound Olympic weightlifting movement that involves lifting a barbell from the floor to the shoulders in one explosive motion. It targets the hamstrings, glutes, quadriceps, and calves, and requires significant strength, coordination, and technique. Advanced legs exercise using barbell. Targets hamstrings, also works glutes, quadriceps, calves.
+An Olympic lift that brings a barbell from the floor to your shoulders in one fast move. It works the hamstrings, glutes, quads and calves, and takes strength, timing and practice. Advanced legs exercise using barbell. Targets hamstrings, also works glutes, quadriceps, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,14 +15,12 @@ The power clean is a compound Olympic weightlifting movement that involves lifti
 
 ## How to perform
 
-1. Start with the barbell on the ground in front of you, with your feet shoulder-width apart.
-2. Bend down and grip the barbell with an overhand grip, slightly wider than shoulder-width apart.
-3. Keep your back straight and chest up as you lift the barbell off the ground, extending your hips and knees.
-4. As the barbell reaches your mid-thigh, explosively pull it upwards, shrugging your shoulders and pulling your elbows high and to the sides.
-5. As the barbell reaches its highest point, quickly drop underneath it, rotating your elbows around and catching the barbell on your shoulders in a front squat position.
-6. Stand up with the barbell, fully extending your hips and knees.
-7. Lower the barbell back down to the starting position, keeping control of the weight throughout the movement.
-8. Repeat for the desired number of repetitions.
+1. Stand over a barbell on the floor, feet shoulder-width apart. Bend down and grip it with your palms facing you, hands slightly wider than shoulder-width.
+2. Lift the bar off the floor by straightening your hips and knees, keeping your back straight and chest up.
+3. Pull hard and fast once the bar passes mid-thigh, shrugging your shoulders and lifting your elbows high and out to the sides.
+4. Drop under the bar as it peaks, swing your elbows around and catch it on the front of your shoulders in a squat.
+5. Stand up with the bar, straightening your hips and knees.
+6. Lower the bar back to the floor under control.
 
 ## Pro tips
 

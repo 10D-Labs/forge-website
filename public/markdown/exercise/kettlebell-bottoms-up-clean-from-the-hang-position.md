@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell bottoms up clean from the hang position is a dynamic exercise that targets the bicep while also engaging the forearms and shoulders. It requires coordination, grip strength, and control to stabilize the kettlebell in the bottoms-up position. Advanced arms exercise using kettlebell. Targets biceps, also works forearms, shoulders.
+A one-arm kettlebell clean that ends with the kettlebell upside down at your shoulder, so you have to grip hard to keep it balanced. It works the biceps and forearms, plus the shoulders. Advanced arms exercise using kettlebell. Targets biceps, also works forearms, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Kettlebell
@@ -15,14 +15,10 @@ The kettlebell bottoms up clean from the hang position is a dynamic exercise tha
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand with an overhand grip.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight and chest up.
-3. Allow the kettlebell to hang down between your legs, with your arm fully extended.
-4. In one fluid motion, explosively extend your hips and knees while pulling the kettlebell up towards your shoulder.
-5. As the kettlebell reaches shoulder height, rotate your wrist so that the bottom of the kettlebell is facing up.
-6. Catch the kettlebell at shoulder height with your elbow bent and your palm facing up.
-7. Lower the kettlebell back down to the starting position by reversing the movement.
-8. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand at your side, arm straight, palm facing your thigh.
+2. Pull the kettlebell up fast toward your shoulder in one move, keeping your body upright.
+3. Turn your wrist as it reaches shoulder height so the bottom of the kettlebell points up. Catch it there, elbow bent, holding it upside down.
+4. Lower the kettlebell back to your side by reversing the move. Do all your reps on one side, then switch.
 
 ## Pro tips
 

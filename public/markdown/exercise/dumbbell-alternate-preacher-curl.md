@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell alternate preacher curl is an isolation exercise targeting the bicep, performed on a preacher bench to minimize cheating and maximize bicep engagement. It is performed by alternating arms, curling a dumbbell up while keeping the upper arm stationary on the pad. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A dumbbell curl on a preacher bench, one arm at a time, with your upper arms braced on the pad. It works the biceps. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell alternate preacher curl is an isolation exercise targeting the bice
 
 ## How to perform
 
-1. Sit on a preacher bench with a dumbbell in each hand, palms facing up.
-2. Rest your upper arms on the pad of the preacher bench, allowing your arms to fully extend.
-3. Keeping your upper arms stationary, exhale and curl the dumbbell in your right hand as you contract your biceps.
-4. Continue to curl the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level.
-5. Pause for a moment, then inhale and slowly lower the dumbbell back to the starting position.
-6. Repeat the movement with your left arm.
-7. Continue alternating arms for the desired number of repetitions.
+1. Sit at a preacher bench with a dumbbell in each hand, palms facing up.
+2. Rest the backs of your upper arms on the pad and let your arms straighten fully.
+3. Keep your upper arms on the pad and curl one dumbbell up to shoulder level.
+4. Lower it slowly until your arm is straight, then curl the other arm. Keep alternating sides.
 
 ## Pro tips
 

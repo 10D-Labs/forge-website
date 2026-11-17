@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band wrist curl is an isolation exercise targeting the forearms using a resistance band. It is performed seated, with the forearms resting on the thighs, and involves curling the wrists upward to strengthen the forearm muscles. Beginner arms exercise using resistance band. Targets forearms, also works biceps, triceps.
+A wrist curl with your palms facing up, curling your hands against a band under your feet. It works the forearms. Beginner arms exercise using resistance band. Targets forearms, also works biceps, triceps.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band wrist curl is an isolation exercise targeting the forearms using a resi
 
 ## How to perform
 
-1. Sit on a bench or chair with your feet flat on the ground.
+1. Sit on a box, bench or chair with your feet flat on the floor and the middle of a resistance band under your feet.
 2. Hold the band with both hands, palms facing up, and rest your forearms on your thighs.
-3. Slowly curl your wrists upward, squeezing your forearms.
-4. Pause for a moment at the top, then slowly lower your wrists back down to the starting position.
-5. Repeat for the desired number of repetitions.
+3. Bend your wrists to curl your hands up.
+4. Lower your hands slowly.
 
 ## Pro tips
 

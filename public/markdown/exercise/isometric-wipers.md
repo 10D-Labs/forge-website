@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Isometric wipers are a challenging bodyweight exercise that targets the pectorals while also engaging the shoulders, tricep, and core. The movement requires significant core strength and control as you move your legs side to side while keeping your upper body stable. Advanced chest exercise using body weight. Targets chest, also works shoulders, triceps, core.
+A wide pushup held low, shifting your chest from one hand to the other without pushing back up. It works the chest, with help from the shoulders, triceps and core. Advanced chest exercise using body weight. Targets chest, also works shoulders, triceps, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ Isometric wipers are a challenging bodyweight exercise that targets the pectoral
 
 ## How to perform
 
-1. Start by lying flat on your back on a mat or bench.
-2. Extend your arms straight out to the sides, perpendicular to your body.
-3. Engage your core and lift both legs off the ground, keeping them together and straight.
-4. Slowly lower your legs to one side, aiming to touch the ground with your feet while maintaining control.
-5. Pause for a moment, then use your core to lift your legs back to the starting position.
-6. Repeat the movement, this time lowering your legs to the opposite side.
-7. Continue alternating sides for the desired number of repetitions.
+1. Start in a pushup position with your hands much wider than your shoulders and your body straight from head to heels.
+2. Bend your arms to lower your chest close to the floor.
+3. Staying low, shift your chest sideways over one hand.
+4. Slide across to the other hand without pushing back up. Keep alternating sides.
 
 ## Pro tips
 

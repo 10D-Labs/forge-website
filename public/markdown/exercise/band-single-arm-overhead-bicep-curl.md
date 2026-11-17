@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band one arm overhead bicep curl is an isolation exercise targeting the bicep, performed with a resistance band. It involves curling the arm overhead while keeping the upper arm stationary, providing resistance throughout the movement. Beginner arms exercise using resistance band. Targets biceps, also works forearms, shoulders.
+A one-arm band curl done with your arm held out to the side at shoulder height, curling your hand toward your head. It works the biceps. Beginner arms exercise using resistance band. Targets biceps, also works forearms, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band one arm overhead bicep curl is an isolation exercise targeting the bice
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place one end of the band under your foot.
-2. Hold the other end of the band with your arm fully extended overhead, palm facing forward.
-3. Keeping your upper arm stationary, curl your forearm towards your shoulder, squeezing your biceps.
-4. Pause for a moment at the top, then slowly lower your forearm back to the starting position.
-5. Repeat for the desired number of repetitions, then switch arms.
+1. Anchor a band at shoulder height and stand side-on to it, feet hip-width apart, other hand on your hip.
+2. Hold the handle in the hand nearer the anchor, arm straight out to the side at shoulder height, palm facing forward.
+3. Keeping your upper arm still and level, bend your elbow to curl the handle toward the side of your head.
+4. Straighten your arm slowly back out to the side. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

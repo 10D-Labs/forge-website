@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell goblet squat is a lower body exercise that targets the quadriceps while also engaging the glutes, hamstrings, and calves. It is performed by holding a dumbbell close to the chest and squatting down, making it a great movement for building strength and improving squat technique. Beginner legs exercise using dumbbell. Targets quads, also works glutes, hamstrings, calves.
+A squat holding one dumbbell upright against your chest. It works the quads, with help from the glutes and hamstrings. Beginner legs exercise using dumbbell. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell goblet squat is a lower body exercise that targets the quadriceps w
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell vertically against your chest with both hands.
-2. Keeping your chest up and core engaged, lower your body down into a squat position by pushing your hips back and bending your knees.
-3. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.
-4. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding one dumbbell upright against your chest with both hands.
+2. Keep your chest up, push your hips back and bend your knees to lower into a squat.
+3. Lower until your thighs are level with the floor, or as low as you comfortably can.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

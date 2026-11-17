@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-A static stretch performed lying on your side to target the quadriceps, often used to improve flexibility and reduce muscle tightness. Beginner legs exercise using body weight. Targets quads, also works hamstrings.
+A stretch for the front of the thigh, done lying on your side and pulling your top foot back toward your glutes. It stretches the quads. Beginner legs exercise using body weight. Targets quads, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -16,10 +16,9 @@ A static stretch performed lying on your side to target the quadriceps, often us
 ## How to perform
 
 1. Lie on your side with your legs straight.
-2. Bend your top leg and grab your ankle or foot with your hand.
-3. Gently pull your ankle or foot towards your glutes until you feel a stretch in your quads.
-4. Hold the stretch for 20-30 seconds.
-5. Release the stretch and repeat on the other side.
+2. Bend your top knee and hold your ankle or foot with your hand.
+3. Pull your foot gently toward your glutes until you feel a stretch in the front of your thigh.
+4. Hold for the set time, then let go and switch sides.
 
 ## Pro tips
 

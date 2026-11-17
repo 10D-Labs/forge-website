@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The resistance band leg extension targets the quadriceps by extending the leg against the resistance of a band, helping to build strength and endurance in the upper legs. Beginner legs exercise using resistance band. Targets quads, also works hamstrings.
+A seated leg extension with a loop band around both ankles, straightening one knee at a time against the band. It works the quads on the front of the thigh. Beginner legs exercise using resistance band. Targets quads, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,11 +15,9 @@ The resistance band leg extension targets the quadriceps by extending the leg ag
 
 ## How to perform
 
-1. Attach the resistance band to a sturdy anchor point and secure it around your ankle.
-2. Stand facing the anchor point with your feet shoulder-width apart.
-3. Keeping your core engaged and your upper body stable, extend your leg straight out in front of you.
-4. Pause for a moment at the top, then slowly return your leg to the starting position.
-5. Repeat for the desired number of repetitions, then switch legs.
+1. Loop a band around both ankles. Sit on the edge of a flat bench, feet flat on the floor, hands on the bench beside your hips.
+2. Keep one foot on the floor and straighten the other knee, lifting that foot forward against the band until your leg is straight.
+3. Bend your knee slowly to lower the foot back to the floor. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

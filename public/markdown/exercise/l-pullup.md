@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The L-pullup is a challenging bodyweight exercise that targets the lats while also engaging the core, bicep, and forearms. It requires the lifter to maintain an 'L' position with the legs extended straight out in front, parallel to the ground, throughout the pullup movement. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
+A pullup done while holding your legs straight out in front of you. It works the lats and biceps, and your abs work hard to hold the legs up. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The L-pullup is a challenging bodyweight exercise that targets the lats while al
 
 ## How to perform
 
-1. Grab the pullup bar with an overhand grip, slightly wider than shoulder-width apart.
-2. Hang with your arms fully extended and your body straight.
-3. Engage your lats and biceps to pull your body up towards the bar, keeping your elbows close to your body.
-4. Continue pulling until your chin is above the bar.
-5. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Grab a pullup bar with your hands about shoulder-width apart, palms facing away from you, and hang with your arms straight.
+2. Lift your legs straight out in front of you until they are level with the floor, making an L shape.
+3. Hold the L and pull yourself up until your chin is above the bar.
+4. Lower slowly until your arms are straight, keeping your legs up.
 
 ## Pro tips
 

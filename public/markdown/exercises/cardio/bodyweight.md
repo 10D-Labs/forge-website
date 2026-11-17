@@ -2,26 +2,24 @@
 
 ## Quick Answer
 
-18 effective cardio exercises you can do with no equipment. Complete instructions and form tips included.
+16 effective cardio exercises you can do with no equipment. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 11 Beginner | 7 Intermediate | 0 Advanced
+**Difficulty breakdown:** 9 Beginner | 7 Intermediate | 0 Advanced
 
 ---
 
 ## All Cardio Body Weight Exercises
 
-### Beginner (11 exercises)
+### Beginner (9 exercises)
 
 - **Run (Time)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Calves, Glutes
 - **Run (Distance)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Calves, Glutes
 - **Mountain Climber** — Target: Cardiovascular | Secondary: Core, Shoulders, Triceps
 - **Walking High Knees Lunge** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
 - **Mountain Climber (Time)** — Target: Cardiovascular | Secondary: Core, Shoulders, Triceps
-- **Half Knee Bends** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes
 - **High Knee Against Wall** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
 - **Short Stride Run (Time)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Calves
 - **Ski Step** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
-- **Back and Forth Step** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Glutes, Calves
 - **Short Stride Run (Distance)** — Target: Cardiovascular | Secondary: Quadriceps, Hamstrings, Calves
 
 ### Intermediate (7 exercises)
@@ -40,7 +38,7 @@
 
 Our AI trainers design personalized cardio workout plans using bodyweight exercises. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

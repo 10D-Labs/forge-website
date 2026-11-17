@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable palm rotational row is a cable-based exercise targeting the upper back, with secondary emphasis on the bicep and forearms. It involves pulling a cable handle towards the body while rotating the palms, engaging the upper back muscles and improving grip strength. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
+A one-arm row from a low cable where your palm turns from down to up as you pull. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,14 +15,11 @@ The cable palm rotational row is a cable-based exercise targeting the upper back
 
 ## How to perform
 
-1. Attach a handle to a cable machine at waist height.
-2. Stand facing the machine with your feet shoulder-width apart.
-3. Grasp the handle with an overhand grip, palms facing down.
-4. Step back to create tension on the cable, keeping your back straight and knees slightly bent.
-5. Pull the handle towards your body, rotating your palms to face upwards as you do so.
-6. Squeeze your shoulder blades together at the end of the movement.
-7. Slowly release the handle back to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Attach a single handle to a low pulley and stand facing the machine with your feet shoulder-width apart.
+2. Hold the handle in one hand, palm facing down, and step back until the cable is tight.
+3. Bend your knees into a half squat and lean forward slightly, keeping your back straight.
+4. Pull the handle toward your waist, turning your palm to face up as you pull.
+5. Let the handle go back slowly, turning your palm down again, until your arm is straight.
 
 ## Pro tips
 

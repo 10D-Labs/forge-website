@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell one arm row is a unilateral pulling exercise that targets the upper back, with secondary emphasis on the bicep and forearms. It requires maintaining a stable hip hinge position while rowing the kettlebell with one arm, promoting strength and muscle development in the upper back and improving core stability. Intermediate back exercise using kettlebell. Targets upper back, also works biceps, forearms.
+A one-arm kettlebell row from a split stance, with your free hand braced on your knee. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using kettlebell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Kettlebell
@@ -15,11 +15,10 @@ The kettlebell one arm row is a unilateral pulling exercise that targets the upp
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand with an overhand grip.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.
-3. Pull the kettlebell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.
-4. Pause for a moment at the top, then slowly lower the kettlebell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch sides and repeat with the other arm.
+1. Stand with one foot in front of the other, holding a kettlebell in one hand.
+2. Bend your knees slightly and lean forward from your hips with your back straight, resting your free hand on your front knee.
+3. Let the kettlebell hang with your palm facing down, then row it up toward your hip, keeping your elbow close to your body.
+4. Lower it slowly until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

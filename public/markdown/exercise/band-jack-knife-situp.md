@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band jack knife situp is an abdominal exercise that uses a resistance band to increase difficulty. It targets the abs and also works the hip flexors. The movement involves simultaneously lifting the legs and upper body while holding a resistance band, requiring core strength and coordination. Intermediate core exercise using resistance band. Targets abs, also works hip flexors.
+A sit-up where you pull your knees to your chest as you sit up, against a band anchored past your feet. It works the abs and the hip flexors at the front of the hips. Intermediate core exercise using resistance band. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,10 +15,10 @@ The band jack knife situp is an abdominal exercise that uses a resistance band t
 
 ## How to perform
 
-1. Lie flat on your back with your legs straight and your arms extended overhead, holding the band.
-2. Engage your abs and lift your legs and upper body simultaneously, bringing your hands towards your feet.
-3. Pause for a moment at the top, then slowly lower your legs and upper body back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Loop a band around both ankles, anchored low past your feet. Lie on your back with your legs straight and arms at your sides.
+2. Sit up and pull your knees in toward your chest at the same time, lifting your feet off the floor.
+3. Reach your arms forward beside your legs and balance on your hips at the top.
+4. Lower slowly back down until you're lying flat with your legs straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell rear lateral raise (support head) is an isolation exercise targeting the rear deltoids, with secondary emphasis on the traps and rhomboids. It involves hinging forward at the hips and raising dumbbells out to the sides, focusing on shoulder stability and control. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
+A bent-over rear raise with your forehead resting on an incline bench, which keeps your upper body still. It works the backs of the shoulders, with help from the upper back. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell rear lateral raise (support head) is an isolation exercise targetin
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Raise your arms out to the sides, keeping a slight bend in your elbows, until they are parallel to the ground.
-4. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set a bench to an incline and stand facing its top end, feet shoulder-width apart, with a dumbbell in each hand.
+2. Bend your knees slightly, bend forward at the hips, and rest your forehead on the top of the bench, arms hanging down.
+3. Raise your arms out to the sides, elbows slightly bent, until they're level with the floor.
+4. Lower slowly back to the start.
 
 ## Pro tips
 

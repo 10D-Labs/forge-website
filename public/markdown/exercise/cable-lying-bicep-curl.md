@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable lying bicep curl is an isolation exercise targeting the bicep using a cable machine while lying on a bench. It emphasizes constant tension on the bicep throughout the movement. Intermediate arms exercise using cable. Targets biceps, also works forearms.
+A curl done lying face up on a bench, pulling a cable bar from a low pulley at your feet. It works the biceps, and the cable keeps them under tension the whole way. Intermediate arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,14 +15,11 @@ The cable lying bicep curl is an isolation exercise targeting the bicep using a 
 
 ## How to perform
 
-1. Attach a straight bar to a low pulley cable machine.
-2. Lie face up on a flat bench with your feet flat on the ground.
-3. Grasp the bar with an underhand grip, hands shoulder-width apart.
-4. Extend your arms fully, keeping your elbows close to your sides.
-5. Keeping your upper arms stationary, exhale and curl the bar up towards your shoulders.
-6. Pause for a moment at the top, squeezing your biceps.
-7. Inhale and slowly lower the bar back to the starting position, fully extending your arms.
-8. Repeat for the desired number of repetitions.
+1. Attach a straight bar to a low pulley and lie face up on a flat bench, with the pulley at your feet.
+2. Put your feet flat on the floor. Hold the bar with your palms facing up, hands shoulder-width apart.
+3. Start with your arms straight and your elbows close to your sides.
+4. Keep your upper arms still and curl the bar up toward your shoulders.
+5. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

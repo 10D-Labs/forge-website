@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm seated hammer curl is an isolation exercise targeting the bicep and forearms. It is performed seated, with the elbow braced against the thigh, using a neutral grip to emphasize the brachialis and brachioradialis muscles. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A seated one-arm curl with your palm facing in, thumb up, and your back supported. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell one arm seated hammer curl is an isolation exercise targeting the b
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a dumbbell in one hand with a neutral grip (palms facing each other).
-3. Rest your elbow on the inside of your thigh, just above the knee.
-4. Keeping your upper arm stationary, exhale and curl the dumbbell up towards your shoulder.
-5. Pause for a moment at the top, squeezing your biceps.
-6. Inhale and slowly lower the dumbbell back to the starting position.
-7. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on an upright bench with your back against the pad and your feet flat on the floor.
+2. Hold a dumbbell in one hand with your arm hanging at your side, palm facing in (thumb up).
+3. Keep your elbow at your side and curl the dumbbell up toward your shoulder, palm still facing in.
+4. Lower it slowly until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

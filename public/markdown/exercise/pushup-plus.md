@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pushup plus is a variation of the standard pushup that adds an extra movement at the top of the pushup by protracting the shoulder blades, which further engages the serratus anterior and improves shoulder stability. Intermediate chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A pushup with an extra push at the top that spreads your shoulder blades apart. It works the chest and the muscles that hold your shoulder blades steady. Intermediate chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The pushup plus is a variation of the standard pushup that adds an extra movemen
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line from head to heels.
-2. Lower your body towards the ground by bending your elbows, keeping them close to your sides.
-3. Once your chest is just above the ground, push through your hands to extend your arms and lift your upper body up.
-4. At the top of the movement, protract your shoulder blades by pushing your upper back towards the ceiling.
-5. Pause for a moment, then reverse the movement by retracting your shoulder blades and lowering your body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Start at the top of a pushup, hands a little wider than your shoulders and body straight from head to heels.
+2. Bend your elbows, keeping them close to your sides, until your chest is just above the floor.
+3. Push back up until your arms are straight.
+4. Push your upper back toward the ceiling so your shoulder blades spread apart.
+5. Let your shoulder blades come back together, then lower into the next pushup.
 
 ## Pro tips
 

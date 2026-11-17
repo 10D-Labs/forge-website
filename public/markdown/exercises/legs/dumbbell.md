@@ -2,15 +2,15 @@
 
 ## Quick Answer
 
-28 effective leg exercises you can do with dumbbell. Complete instructions and form tips included.
+26 effective leg exercises you can do with dumbbell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 12 Beginner | 13 Intermediate | 3 Advanced
+**Difficulty breakdown:** 11 Beginner | 12 Intermediate | 3 Advanced
 
 ---
 
 ## All Leg Dumbbell Exercises
 
-### Beginner (12 exercises)
+### Beginner (11 exercises)
 
 - **Dumbbell Bench Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Dumbbell Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
@@ -23,27 +23,25 @@
 - **Farmers Walk (Distance)** — Target: Quads | Secondary: Calves, Forearms, Core
 - **Dumbbell Lying Hamstring Curl** — Target: Hamstrings | Secondary: Glutes
 - **Dumbbell Seated Single Leg Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
-- **Dumbbell Sumo Pull Through** — Target: Glutes | Secondary: Hamstrings, Quadriceps, Core
 
-### Intermediate (13 exercises)
+### Intermediate (12 exercises)
 
 - **Dumbbell Lunge** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Dumbbell Rear Lunge** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Dumbbell Stepup** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
-- **Dumbbell Stiff Leg Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Dumbbell Straight Leg Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Dumbbell Romanian Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Dumbbell Stepup Lunge** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
 - **Dumbbell Contralateral Forward Lunge** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Dumbbell Clean** — Target: Glutes | Secondary: Hamstrings, Quadriceps, Calves
 - **Dumbbell Single Leg Calf Raise** — Target: Calves | Secondary: Ankles
-- **Dumbbell Single Leg Split Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
+- **Dumbbell Bulgarian Split Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
 - **Dumbbell Single Leg Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Dumbbell Single Leg Deadlift with Stepbox Support** — Target: Glutes | Secondary: Hamstrings, Lower Back
 
 ### Advanced (3 exercises)
 
-- **Dumbbell Plyo Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
+- **Dumbbell Sumo Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Dumbbell Single Leg Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Dumbbell Single Arm Snatch** — Target: Glutes | Secondary: Hamstrings, Quadriceps, Core
 
@@ -53,7 +51,7 @@
 
 Our AI trainers design personalized leg workout plans using dumbbell. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

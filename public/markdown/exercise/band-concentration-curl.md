@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band concentration curl is an isolation exercise targeting the bicep using a resistance band. It is performed seated, with the working arm braced against the thigh to minimize cheating and maximize bicep engagement. Beginner arms exercise using resistance band. Targets biceps, also works forearms.
+A seated one-arm band curl with your elbow braced on your inner thigh, which keeps you from swinging the band up. It works the biceps. Beginner arms exercise using resistance band. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,12 +15,11 @@ The band concentration curl is an isolation exercise targeting the bicep using a
 
 ## How to perform
 
-1. Sit on a bench or chair with your legs spread apart and your feet flat on the ground.
-2. Hold one end of the band in your hand and step on the other end with your foot on the same side.
-3. Lean forward slightly and rest your elbow on the inside of your thigh, just above the knee.
-4. With your palm facing up, slowly curl your hand towards your shoulder, keeping your upper arm stationary.
-5. Pause for a moment at the top, then slowly lower your hand back down to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Sit on a bench or chair with your legs wide apart and your feet flat on the floor.
+2. Step on one end of a resistance band with one foot and hold the other end in the hand on that side.
+3. Lean forward a little and rest that elbow on the inside of your thigh, just above the knee.
+4. Curl your hand toward your shoulder, palm facing up, without moving your upper arm.
+5. Lower your hand slowly until your arm is straight. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

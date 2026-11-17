@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kneeling pushup is a bodyweight exercise targeting the pectorals, with secondary emphasis on the tricep and shoulders. It is performed from a kneeling position, making it a less challenging variation of the standard pushup, suitable for building foundational upper body strength. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A pushup done from your knees, an easier version of the full pushup. It works the chest, with help from the triceps and shoulders. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The kneeling pushup is a bodyweight exercise targeting the pectorals, with secon
 
 ## How to perform
 
-1. Start by kneeling on the ground with your hands shoulder-width apart, fingers pointing forward.
-2. Extend your legs behind you, resting on the balls of your feet, so that your body forms a straight line from head to heels.
-3. Engage your core and lower your body towards the ground by bending your elbows, keeping them close to your sides.
-4. Continue lowering until your chest is just above the ground, then push back up to the starting position by straightening your arms.
-5. Repeat for the desired number of repetitions.
+1. Kneel on the floor and lean forward onto your hands, placed flat under your shoulders, fingers pointing forward.
+2. Keep your body in a straight line from your head to your knees.
+3. Bend your elbows to lower your chest until it nearly touches the floor.
+4. Push back up until your arms are straight.
 
 ## Pro tips
 

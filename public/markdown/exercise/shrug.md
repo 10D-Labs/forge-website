@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The shrug is a machine-based exercise targeting the trapezius muscles. It involves elevating the shoulders while keeping the arms straight, using a machine for resistance. Beginner back exercise using machine. Targets traps, also works shoulders.
+A shrug done standing between the handles of a plate-loaded lever machine. It works the traps, the muscles between your neck and shoulders. Beginner back exercise using machine. Targets traps, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The shrug is a machine-based exercise targeting the trapezius muscles. It involv
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your back against the pad.
-2. Grasp the handles with an overhand grip and keep your arms straight.
-3. Keeping your back straight, lift your shoulders up towards your ears as high as possible.
-4. Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand inside a plate-loaded shrug machine, between the handles, with your feet hip-width apart.
+2. Grip the handles at your sides with your palms facing your thighs, and stand tall with your arms straight.
+3. Raise your shoulders straight up toward your ears as high as you can, keeping your arms straight.
+4. Lower your shoulders slowly back down.
 
 ## Pro tips
 

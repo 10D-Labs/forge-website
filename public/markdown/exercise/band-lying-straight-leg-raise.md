@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band lying straight leg raise is an abdominal exercise that also engages the hip flexors. It uses a resistance band to add difficulty and helps strengthen the core and lower body. Intermediate core exercise using resistance band. Targets abs, also works hip flexors.
+A lying leg raise against a band anchored past your feet, lifting straight legs until they point at the ceiling. It works the abs and the hip flexors at the front of the hips. Intermediate core exercise using resistance band. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,11 +15,9 @@ The band lying straight leg raise is an abdominal exercise that also engages the
 
 ## How to perform
 
-1. Lie flat on your back with your legs straight and your feet together.
-2. Place the band around the arches of your feet and hold the ends of the band with your hands.
-3. Engaging your abs, lift both legs off the ground until they are perpendicular to the floor.
-4. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Loop a band around both ankles, anchored low past your feet. Lie on your back with your legs straight and your hands behind your head.
+2. Keeping your legs straight and together, raise them until they point straight up at the ceiling.
+3. Lower them slowly back to the floor.
 
 ## Pro tips
 

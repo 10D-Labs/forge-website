@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The single leg bridge with outstretched leg is a bodyweight exercise targeting the glutes, with secondary emphasis on the hamstrings and quadriceps. It challenges stability and unilateral strength by requiring you to lift your hips while keeping one leg extended. Intermediate legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
+A glute bridge on one leg, with the other leg held straight in line with your thigh. It works the glutes, with help from the hamstrings and quads. Intermediate legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The single leg bridge with outstretched leg is a bodyweight exercise targeting t
 
 ## How to perform
 
-1. Lie on your back with your knees bent and feet flat on the ground.
-2. Extend one leg straight out in front of you.
-3. Engage your glutes and lift your hips off the ground, forming a straight line from your knees to your shoulders.
-4. Hold for a moment at the top, then slowly lower your hips back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch legs.
+1. Lie on your back with your knees bent and your feet flat on the floor.
+2. Straighten one leg out in front of you, in line with your other thigh.
+3. Lift your hips off the floor until your body makes a straight line from your knees to your shoulders.
+4. Lower your hips slowly to the floor. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

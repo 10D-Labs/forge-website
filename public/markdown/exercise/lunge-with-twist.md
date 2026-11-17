@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lunge with twist is a dynamic exercise that combines a forward lunge with a torso rotation, targeting the abdominal muscles while also engaging the quadriceps, glutes, and hamstrings. This movement enhances core stability, balance, and lower body strength. Intermediate core exercise using body weight. Targets abs, also works quadriceps, glutes, hamstrings.
+A forward lunge with a twist of your upper body toward the front leg. It works the abs, with the quads, glutes and hamstrings helping, and trains balance. Intermediate core exercise using body weight. Targets abs, also works quadriceps, glutes, hamstrings.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The lunge with twist is a dynamic exercise that combines a forward lunge with a 
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart.
-2. Take a step forward with your right foot, lowering your body into a lunge position.
-3. As you lunge, twist your torso to the right, bringing your left elbow towards your right knee.
-4. Pause for a moment, then return to the starting position.
-5. Repeat on the other side, stepping forward with your left foot and twisting your torso to the left.
-6. Continue alternating sides for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart.
+2. Step forward with your right foot and lower into a lunge.
+3. Twist your upper body to the right as you lower, bringing your left elbow toward your right knee.
+4. Turn back to face forward and push off your right foot to stand up.
+5. Do the same with your left foot forward, twisting to the left. Keep alternating sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell clean is a compound exercise that targets the glutes and also works the hamstrings, quadriceps, and calves. It involves explosive movement, coordination, and proper technique to safely lift the dumbbells from the ground to the shoulders. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, quadriceps, calves.
+A fast, full-body lift that pulls two dumbbells from near the floor to your shoulders and catches them in a squat. It works the glutes, plus the hamstrings, quads and calves. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, quadriceps, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,13 +15,11 @@ The dumbbell clean is a compound exercise that targets the glutes and also works
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.
-2. Bend your knees and lower your hips into a squat position, keeping your back straight and chest up.
-3. Explosively extend your hips and knees, driving through your heels to jump off the ground.
-4. As you jump, shrug your shoulders and pull the dumbbells up towards your shoulders, keeping them close to your body.
-5. Catch the dumbbells at shoulder height, with your elbows pointing forward and your palms facing up.
-6. Lower the dumbbells back down to the starting position by reversing the movement.
-7. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a dumbbell in each hand, palms facing you.
+2. Squat down, lowering the dumbbells toward the floor, with your back straight and chest up.
+3. Straighten your hips and knees fast, driving through your heels.
+4. Shrug and pull the dumbbells up close to your body. Catch them at your shoulders in a squat, elbows forward and palms up.
+5. Lower the dumbbells back down to the floor beside your feet.
 
 ## Pro tips
 

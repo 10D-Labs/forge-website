@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band reverse fly is an exercise that targets the deltoid muscles of the shoulders, as well as the upper back and trapezius. It is performed using a resistance band attached to a stationary object, and involves pulling the band apart with straight arms to strengthen the rear delts and upper back. Beginner shoulders exercise using resistance band. Targets shoulders, also works upper back, trapezius.
+A band fly where you pull your straight arms apart, from in front of you out to your sides. It works the back of the shoulders and the upper back. Beginner shoulders exercise using resistance band. Targets shoulders, also works upper back, trapezius.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band reverse fly is an exercise that targets the deltoid muscles of the shou
 
 ## How to perform
 
-1. Attach the band to a stationary object at chest height.
-2. Stand with your feet shoulder-width apart and hold the band with both hands in front of you.
-3. Keep your arms straight and lift them out to the sides until they are parallel to the ground.
-4. Squeeze your shoulder blades together at the top of the movement.
-5. Slowly lower your arms back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Anchor the band at chest height. Stand facing it with your feet shoulder-width apart.
+2. Hold the band in both hands, arms straight out in front of you at shoulder height.
+3. Keep your arms straight and at shoulder height as you open them out to your sides, pulling your shoulder blades together.
+4. Bring your arms slowly back in front of you.
 
 ## Pro tips
 

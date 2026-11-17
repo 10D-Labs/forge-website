@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated glute stretch is a flexibility exercise targeting the gluteal muscles. It is performed seated on the ground, crossing one ankle over the opposite thigh and gently pressing down on the knee to deepen the stretch. This exercise helps improve hip mobility and relieve tension in the glutes and hamstrings. Beginner legs exercise using body weight. Targets glutes, also works hamstrings.
+A seated stretch where you cross one ankle over the other thigh and lean your chest toward it. It stretches the glutes and helps the hips move freely. Beginner legs exercise using body weight. Targets glutes, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The seated glute stretch is a flexibility exercise targeting the gluteal muscles
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you.
-2. Bend your right knee and cross your right ankle over your left thigh.
-3. Place your right hand on the ground behind you for support.
-4. With your left hand, gently press down on your right knee to deepen the stretch.
-5. Hold the stretch for 30 seconds to 1 minute.
-6. Switch sides and repeat.
+1. Sit on the floor with your legs out in front of you and your hands on the floor behind you.
+2. Bend one knee and cross that ankle over your other thigh, near the knee.
+3. Lean your chest forward toward the crossed shin, reaching your hands to the floor in front, until you feel a stretch in your glute.
+4. Hold for the set time, then sit back up and switch legs.
 
 ## Pro tips
 

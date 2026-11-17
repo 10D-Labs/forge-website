@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated reverse fly is a machine-based exercise targeting the rear deltoids, with secondary emphasis on the trapezius and rhomboids. It is performed seated, using a machine, which provides stability and helps isolate the target muscles. Beginner shoulders exercise using machine. Targets shoulders, also works trapezius, rhomboids.
+A reverse fly done sitting in a machine with your chest against a pad, opening your arms wide and back. It works the backs of the shoulders, with help from the upper back. Beginner shoulders exercise using machine. Targets shoulders, also works trapezius, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The seated reverse fly is a machine-based exercise targeting the rear deltoids, 
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the floor.
-2. Grasp the handles with an overhand grip and keep your arms slightly bent.
-3. Exhale and squeeze your shoulder blades together as you pull the handles back and outward, away from your body.
-4. Pause for a moment at the peak contraction, then inhale and slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Adjust the seat height and sit facing the machine with your chest against the pad and your feet flat on the floor.
+2. Grab the handles with your palms facing down, arms slightly bent.
+3. Open your arms wide, pulling the handles out and back away from your body.
+4. Let the handles come back slowly to the front.
 
 ## Pro tips
 

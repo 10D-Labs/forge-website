@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell wide squat is a compound lower body exercise that targets the quadriceps, with secondary emphasis on the glutes, hamstrings, and calves. It involves holding a barbell across the upper back and performing a squat with a wide stance. Intermediate legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves.
+A back squat with your feet set wider than shoulder-width. It works the quads, plus the glutes, hamstrings and calves. Intermediate legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell wide squat is a compound lower body exercise that targets the quadri
 
 ## How to perform
 
-1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward.
-2. Hold the barbell across your upper back, resting it on your traps or rear delts.
-3. Engage your core and keep your chest up as you lower your body down into a squat, pushing your hips back and bending your knees.
-4. Lower until your thighs are parallel to the ground, or as low as you can comfortably go.
-5. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet wider than shoulder-width apart and your toes turned slightly out.
+2. Rest the barbell across your upper back, just below your neck or a little lower.
+3. Push your hips back and bend your knees to squat down, keeping your chest up.
+4. Go down until your thighs are level with the floor, or as low as you comfortably can.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

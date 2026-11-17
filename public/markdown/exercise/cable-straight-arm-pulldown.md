@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable straight arm pulldown is an isolation exercise targeting the latissimus dorsi, performed using a cable machine and a straight bar attachment. It emphasizes keeping the arms straight to maximize lat engagement and minimize bicep involvement. Beginner back exercise using cable. Targets lats, also works shoulders, biceps.
+A standing cable pulldown with straight arms, sweeping a bar from a high pulley down to your thighs. It works the lats. Beginner back exercise using cable. Targets lats, also works shoulders, biceps.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable straight arm pulldown is an isolation exercise targeting the latissimu
 
 ## How to perform
 
-1. Attach a straight bar to the high pulley of a cable machine.
-2. Stand facing the machine with your feet shoulder-width apart.
-3. Grasp the bar with an overhand grip, keeping your arms straight and your palms facing down.
-4. Engage your lats and pull the bar down towards your thighs, keeping your arms straight throughout the movement.
-5. Pause for a moment at the bottom, then slowly return the bar to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a straight bar to a high pulley. Stand facing the machine with your feet shoulder-width apart.
+2. Grip the bar with your palms facing down and your arms straight.
+3. Keep your arms straight and pull the bar down to your thighs.
+4. Let the bar rise slowly back up without bending your elbows.
 
 ## Pro tips
 

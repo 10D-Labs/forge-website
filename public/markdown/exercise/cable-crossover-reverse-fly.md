@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable crossover reverse fly is an isolation exercise targeting the rear deltoids, with secondary emphasis on the rhomboids and trapezius. It is performed using a cable crossover machine and requires good posture, control, and coordination. Intermediate shoulders exercise using cable. Targets shoulders, also works rhomboids, trapezius.
+A rear fly done bent forward between two low cables, each hand holding the cable from the opposite side. It works the backs of the shoulders and the upper back. Intermediate shoulders exercise using cable. Targets shoulders, also works rhomboids, trapezius.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The cable crossover reverse fly is an isolation exercise targeting the rear delt
 
 ## How to perform
 
-1. Attach a D-handle to each low pulley cable and stand in the middle of the cable crossover machine.
-2. Grasp the handles with a pronated grip (palms facing down) and take a step forward, positioning your feet shoulder-width apart.
-3. Bend your knees slightly and lean forward at the waist, keeping your back straight and your abs engaged.
-4. With your arms extended out to the sides and slightly bent at the elbows, exhale and squeeze your shoulder blades together as you pull the cables back and upward in a reverse fly motion.
-5. Pause for a moment at the peak contraction, then inhale and slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set both pulleys of a cable crossover station at the bottom with a single handle on each. Stand in the middle, feet hip-width apart.
+2. Hold the left handle in your right hand and the right handle in your left, palms facing your legs.
+3. Bend your knees slightly and lean forward from your hips with your back flat, letting your hands hang together in front of your shins.
+4. Keeping a slight bend in your elbows, raise your arms out to the sides until they're level with your shoulders.
+5. Lower slowly until your hands meet in front of your shins again.
 
 ## Pro tips
 

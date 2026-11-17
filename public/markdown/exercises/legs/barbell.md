@@ -2,9 +2,9 @@
 
 ## Quick Answer
 
-46 effective leg exercises you can do with barbell. Complete instructions and form tips included.
+44 effective leg exercises you can do with barbell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 3 Beginner | 31 Intermediate | 12 Advanced
+**Difficulty breakdown:** 3 Beginner | 30 Intermediate | 11 Advanced
 
 ---
 
@@ -16,7 +16,7 @@
 - **Barbell Floor Calf Raise** — Target: Calves | Secondary: Hamstrings
 - **Barbell Hip Thrust** — Target: Glutes | Secondary: Hamstrings, Quadriceps
 
-### Intermediate (31 exercises)
+### Intermediate (30 exercises)
 
 - **Barbell Deadlift** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Barbell Front Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves, Core
@@ -32,7 +32,6 @@
 - **Barbell Narrow Stance Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Barbell Rear Lunge** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Barbell Side Split Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
-- **Barbell Speed Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Barbell Standing Leg Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
 - **Barbell Standing Rocking Leg Calf Raise** — Target: Calves | Secondary: Hamstrings, Quadriceps
 - **Barbell Stepup** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
@@ -48,9 +47,9 @@
 - **Barbell Good Morning** — Target: Hamstrings | Secondary: Lower Back
 - **Barbell Rack Pull** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Barbell Seated Good Morning** — Target: Glutes | Secondary: Hamstrings, Lower Back
-- **Barbell Single Leg Split Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
+- **Barbell Bulgarian Split Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
 
-### Advanced (12 exercises)
+### Advanced (11 exercises)
 
 - **Barbell Jump Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Barbell Overhead Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves, Core
@@ -59,7 +58,6 @@
 - **Barbell Full Zercher Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves, Core
 - **Barbell Clean and Press** — Target: Quads | Secondary: Hamstrings, Glutes, Shoulders, Triceps
 - **Barbell Single Arm Side Deadlift** — Target: Glutes | Secondary: Hamstrings, Quadriceps, Lower Back
-- **Barbell Single Leg Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
 - **Barbell Stiff Leg Good Morning** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Power Clean** — Target: Hamstrings | Secondary: Glutes, Quadriceps, Calves
 - **Snatch Pull** — Target: Quads | Secondary: Hamstrings, Glutes, Calves
@@ -71,7 +69,7 @@
 
 Our AI trainers design personalized leg workout plans using barbell. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The medicine ball overhead slam is a dynamic exercise that targets the upper back, shoulders, and core by forcefully slamming a medicine ball to the ground from an overhead position. It requires coordination, power, and full-body engagement. Intermediate back exercise using medicine ball. Targets upper back, also works shoulders, core.
+A power move where you lift a medicine ball overhead and throw it hard into the floor. It works the upper back, shoulders and abs. Intermediate back exercise using medicine ball. Targets upper back, also works shoulders, core.
 
 - **Body Part:** Back
 - **Equipment:** Medicine Ball
@@ -15,11 +15,10 @@ The medicine ball overhead slam is a dynamic exercise that targets the upper bac
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a medicine ball with both hands above your head.
-2. Engage your core and keep your back straight.
-3. Bend your knees slightly and forcefully slam the medicine ball down to the ground in front of you.
-4. As you slam the ball down, use your entire body to generate power, including your shoulders and core.
-5. Catch the ball on the bounce and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a medicine ball above your head with both hands.
+2. Keep your back straight and your abs tight.
+3. Bend your knees slightly and slam the ball down hard onto the floor in front of you, driving with your whole body.
+4. Catch the ball on the bounce and lift it back above your head.
 
 ## Pro tips
 

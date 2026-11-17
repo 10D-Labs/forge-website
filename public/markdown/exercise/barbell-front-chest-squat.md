@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell front chest squat is a compound lower body exercise that targets the glutes and also works the quadriceps, hamstrings, calves, and core. It involves holding a barbell at the front of the chest and performing a squat, which requires strength, balance, and proper technique. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A squat holding the barbell in your hands against your upper chest. It works the glutes, plus the quads, hamstrings and calves. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell front chest squat is a compound lower body exercise that targets the
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart, toes slightly turned out.
-2. Hold the barbell in front of your chest with your hands shoulder-width apart, elbows pointing forward.
-3. Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees.
-4. Lower until your thighs are parallel to the ground, or as low as you can comfortably go.
-5. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes turned slightly out.
+2. Hold the barbell against your upper chest with your hands shoulder-width apart and your elbows pointing forward.
+3. Push your hips back and bend your knees to squat down, keeping your chest up.
+4. Go down until your thighs are level with the floor, or as low as you comfortably can.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

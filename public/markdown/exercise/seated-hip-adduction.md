@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated hip adduction is a machine-based exercise targeting the adductor muscles of the inner thighs. It is performed by bringing the legs together against resistance while seated. Beginner legs exercise using machine. Targets adductors, also works hamstrings, glutes.
+A seated machine exercise where you squeeze your legs together from a wide start. It works the inner thighs. Beginner legs exercise using machine. Targets adductors, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The seated hip adduction is a machine-based exercise targeting the adductor musc
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your back against the backrest.
-2. Place your feet on the footrests and grasp the handles for stability.
-3. Engage your adductor muscles and slowly bring your legs together, squeezing your inner thighs.
-4. Pause for a moment at the peak contraction, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Adjust the seat height and sit with your back against the backrest.
+2. Put your feet on the footrests, start with your legs wide apart, and hold the handles to keep steady.
+3. Squeeze your legs together slowly, using your inner thighs.
+4. Let your legs open slowly back out wide.
 
 ## Pro tips
 

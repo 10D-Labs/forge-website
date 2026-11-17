@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Running is a fundamental cardiovascular exercise that can be performed outdoors or on a track. It builds endurance, burns calories, and strengthens the lower body muscles while improving cardiovascular health. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves, glutes.
+A run at your own pace, outdoors or on a track, tracked by distance. It builds endurance and works your heart, lungs and leg muscles. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves, glutes.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,13 +15,11 @@ Running is a fundamental cardiovascular exercise that can be performed outdoors 
 
 ## How to perform
 
-1. Begin with a brief warm-up walk or light jog.
-2. Start running at a comfortable pace, landing with a midfoot strike.
-3. Keep your arms bent at 90 degrees, swinging them naturally with each stride.
-4. Maintain an upright posture with your head up and shoulders relaxed.
-5. Breathe rhythmically, inhaling through your nose and exhaling through your mouth.
-6. Continue running until you reach your target distance.
-7. Finish with a cool-down walk and stretching.
+1. Warm up with a short walk or an easy jog.
+2. Run at a comfortable pace, landing on the middle of your foot.
+3. Keep your arms bent at 90 degrees and let them swing naturally with each stride.
+4. Stay upright with your head up and your shoulders relaxed.
+5. Keep going for the set distance.
 
 ## Pro tips
 

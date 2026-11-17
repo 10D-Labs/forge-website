@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell straight leg deadlift is a compound exercise targeting the hamstrings, with secondary emphasis on the glutes and lower back. It requires maintaining a straight back and proper hip hinge to safely stretch and strengthen the posterior chain. Intermediate legs exercise using barbell. Targets hamstrings, also works glutes, lower back.
+A deadlift where you bend at the hips with your knees only slightly bent, lowering the bar toward the floor. It works the hamstrings, plus the glutes and lower back. Intermediate legs exercise using barbell. Targets hamstrings, also works glutes, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell straight leg deadlift is a compound exercise targeting the hamstring
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your toes pointing forward.
-2. Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Bend at your hips and lower the barbell towards the ground, keeping your back straight and your knees slightly bent.
-4. Lower the barbell until you feel a stretch in your hamstrings.
-5. Engage your hamstrings and glutes to lift the barbell back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes pointing forward. Hold a barbell with your palms facing you, hands slightly wider than shoulder-width apart.
+2. Bend at the hips to lower the bar toward the floor, keeping your back straight and your knees slightly bent.
+3. Go down until you feel a stretch in the backs of your thighs.
+4. Use the backs of your thighs and your glutes to lift the bar and stand back up.
 
 ## Pro tips
 

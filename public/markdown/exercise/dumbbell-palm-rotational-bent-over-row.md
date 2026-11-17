@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell palm rotational bent over row is a compound exercise targeting the upper back, with additional engagement of the bicep and forearms. The rotational component adds a coordination challenge and increases muscle activation. Intermediate back exercise using dumbbell. Targets upper back, also works biceps, forearms.
+A bent-over row with two dumbbells where you turn your palms as you pull. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using dumbbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,14 +15,11 @@ The dumbbell palm rotational bent over row is a compound exercise targeting the 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.
-2. Bend forward at the hips, keeping your back straight and your knees slightly bent.
-3. Let your arms hang straight down, palms facing your body.
-4. Engage your core and pull the dumbbells up towards your chest, keeping your elbows close to your body.
-5. As you pull the dumbbells up, rotate your palms so they face away from your body.
-6. Squeeze your shoulder blades together at the top of the movement.
-7. Slowly lower the dumbbells back down to the starting position, rotating your palms back to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+2. Bend forward at your hips with your knees slightly bent and your back straight. Let your arms hang straight down, palms facing your body.
+3. Pull the dumbbells up toward your chest, keeping your elbows close to your sides.
+4. Turn your palms as you pull so they face away from your body at the top.
+5. Lower the dumbbells slowly, turning your palms back to face your body.
 
 ## Pro tips
 

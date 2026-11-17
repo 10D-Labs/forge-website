@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable tricep pushdown is an isolation exercise targeting the tricep using a cable machine. It is commonly performed to build strength and size in the tricep, with some engagement of the forearms. The movement is controlled and requires proper form to maximize effectiveness and minimize risk of injury. Beginner arms exercise using cable. Targets triceps, also works forearms.
+A standing cable exercise, pushing a short bar down from a high pulley by straightening your elbows. It works the triceps. Beginner arms exercise using cable. Targets triceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable tricep pushdown is an isolation exercise targeting the tricep using a 
 
 ## How to perform
 
-1. Attach a straight bar to a high pulley cable machine.
-2. Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.
-3. Grasp the bar with an overhand grip, hands shoulder-width apart.
-4. Keep your elbows close to your sides and your upper arms stationary.
-5. Exhale and push the bar down until your elbows are fully extended.
-6. Pause for a moment, then inhale and slowly return the bar to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Attach a short straight bar to a high pulley. Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.
+2. Grip the bar with your palms facing down, hands shoulder-width apart.
+3. Keep your elbows at your sides and push the bar down until your arms are straight.
+4. Let the bar rise slowly back up, keeping your upper arms still.
 
 ## Pro tips
 

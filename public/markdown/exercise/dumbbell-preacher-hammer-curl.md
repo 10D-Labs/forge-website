@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell preacher hammer curl is an isolation exercise targeting the bicep and forearms. It is performed with dumbbells while keeping the upper arms stationary, focusing on strict form to maximize bicep engagement. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A preacher curl done with your palms facing each other, thumbs up, both arms at once, with the pad keeping your upper arms still. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,14 +15,11 @@ The dumbbell preacher hammer curl is an isolation exercise targeting the bicep a
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing your torso.
-2. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward.
-3. This will be your starting position.
-4. Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps.
-5. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-6. Hold the contracted position for a brief pause as you squeeze your biceps.
-7. Then, inhale and slowly begin to lower the dumbbells back to the starting position.
-8. Repeat for the recommended amount of repetitions.
+1. Sit on a preacher bench with your feet flat and the backs of your upper arms on the pad.
+2. Hold a dumbbell in each hand, arms straight, palms facing each other (thumbs up).
+3. Keep your upper arms on the pad and your palms facing each other the whole time.
+4. Curl both dumbbells up until your forearms are upright, close to your shoulders.
+5. Lower slowly until your arms are straight again.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The calf push stretch with hands against wall is a bodyweight exercise that targets the calves and also stretches the hamstrings. It is performed by standing facing a wall, placing your hands against it, stepping one foot back, and leaning forward to stretch the calf muscle. Beginner legs exercise using body weight. Targets calves, also works hamstrings.
+A standing calf stretch with your toes propped up against a wall, leaning in with your hands on the wall. It stretches the calf, with some stretch in the hamstrings. Beginner legs exercise using body weight. Targets calves, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The calf push stretch with hands against wall is a bodyweight exercise that targ
 
 ## How to perform
 
-1. Stand facing a wall with your feet hip-width apart.
-2. Place your hands against the wall at shoulder height.
-3. Step back with one foot, keeping your heel on the ground and your leg straight.
-4. Bend your front knee slightly and lean forward, feeling a stretch in your calf.
-5. Hold the stretch for 20-30 seconds.
-6. Switch legs and repeat the stretch.
+1. Stand facing a wall and put your palms flat on it at chest height.
+2. Set one heel on the floor by the wall with the ball of that foot up against the wall, leg straight. Step the other foot back.
+3. Bend your elbows and lean your hips and chest toward the wall until you feel a stretch in the front leg's calf.
+4. Hold for the set time, then ease back slowly and switch legs.
 
 ## Pro tips
 

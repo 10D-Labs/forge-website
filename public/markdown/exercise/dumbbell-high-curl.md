@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell high curl is an isolation exercise targeting the bicep, performed by curling dumbbells as high as possible while keeping the upper arms stationary. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A curl done with your upper arms held out to the sides at shoulder height. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,10 +15,10 @@ The dumbbell high curl is an isolation exercise targeting the bicep, performed b
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing forward.
-2. Keep your upper arms stationary and curl the dumbbells as high as possible while contracting your biceps.
-3. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand tall with a dumbbell in each hand and raise your arms straight out to the sides at shoulder height, palms facing up.
+2. Keep your upper arms level with the floor and still.
+3. Bend your elbows to curl the dumbbells in toward the sides of your head.
+4. Straighten your arms slowly back out to the sides, keeping them at shoulder height.
 
 ## Pro tips
 

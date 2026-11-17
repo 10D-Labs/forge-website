@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell prone incline curl is a bicep-focused exercise performed lying face down on an incline bench. This position isolates the bicep and minimizes cheating by preventing the use of momentum or swinging. It primarily targets the bicep, with secondary engagement of the forearms. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
+A barbell curl done lying face down on an incline bench, which stops you from swinging the weight. It works the biceps, with help from the forearms. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,15 +15,10 @@ The barbell prone incline curl is a bicep-focused exercise performed lying face 
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Lie face down on the bench with your chest and stomach resting against it.
-3. Hold a barbell with an underhand grip, shoulder-width apart.
-4. Extend your arms fully, allowing the barbell to hang down towards the floor.
-5. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-6. Continue to raise the barbell until your biceps are fully contracted and the bar is at shoulder level.
-7. Hold the contracted position for a brief pause as you squeeze your biceps.
-8. Inhale and slowly begin to lower the barbell back to the starting position.
-9. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees and lie face down on it, with your chest and stomach against the pad.
+2. Hold a barbell with your palms facing forward, hands shoulder-width apart, arms hanging straight toward the floor.
+3. Keep your upper arms still and curl the bar up to shoulder level.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

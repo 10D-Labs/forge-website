@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell W-press is a shoulder exercise performed with dumbbells, focusing on the deltoid muscles. It involves pressing the weights overhead from a 'W' position, engaging the shoulders, tricep, and chest. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
+A standing dumbbell press that starts with your elbows tucked in by your ribs and ends with your arms in a wide V overhead. It works the front of the shoulders, with help from the triceps. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell W-press is a shoulder exercise performed with dumbbells, focusing o
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in each hand, palms facing forward.
-2. Raise the dumbbells to shoulder height, elbows bent and palms facing forward.
-3. Press the dumbbells upward until your arms are fully extended overhead.
-4. Lower the dumbbells back to shoulder height.
-5. Repeat for the desired number of repetitions.
+1. Stand holding dumbbells at shoulder height, palms facing forward, feet hip-width apart. Tuck your elbows down by your ribs so your arms form a W.
+2. Press the dumbbells up and slightly out until your arms are straight overhead in a wide V.
+3. Lower them slowly back to shoulder height, elbows tucked in.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar lying close grip tricep extension behind head is an isolation exercise targeting the tricep, performed lying on a bench with a close grip on an EZ bar. It requires control and proper form to avoid shoulder strain and maximize tricep engagement. Intermediate arms exercise using ez bar. Targets triceps, also works shoulders.
+A lying triceps extension where you lower an EZ bar behind your head by bending only your elbows, then straighten your arms. It works the triceps. Intermediate arms exercise using ez bar. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,11 +15,10 @@ The EZ bar lying close grip tricep extension behind head is an isolation exercis
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.
-2. Hold the ez barbell with a close grip, palms facing up, and extend your arms straight up over your chest.
-3. Keeping your upper arms stationary, slowly lower the barbell behind your head by bending your elbows.
-4. Pause for a moment, then extend your arms back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with your head at the end of it and your feet flat on the floor.
+2. Hold an EZ bar with your hands close together, palms facing up, and press it straight up over your chest.
+3. Keep your upper arms still and bend your elbows to lower the bar slowly behind your head.
+4. Straighten your arms to bring the bar back up over your chest.
 
 ## Pro tips
 

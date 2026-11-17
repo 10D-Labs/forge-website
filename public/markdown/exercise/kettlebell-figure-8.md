@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell figure 8 is a dynamic core exercise that involves passing a kettlebell between your legs in a figure 8 pattern, engaging the abs, shoulders, and forearms while also challenging coordination and stability. Intermediate core exercise using kettlebell. Targets abs, also works shoulders, forearms.
+A drill where you pass a kettlebell around and between your legs in a figure 8 while leaning forward. It works the abs, with the shoulders and forearms helping. Intermediate core exercise using kettlebell. Targets abs, also works shoulders, forearms.
 
 - **Body Part:** Core
 - **Equipment:** Kettlebell
@@ -15,13 +15,11 @@ The kettlebell figure 8 is a dynamic core exercise that involves passing a kettl
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Pass the kettlebell between your legs, switching hands as it reaches the back of your legs.
-4. As the kettlebell comes forward, pass it to the other hand between your legs.
-5. Continue passing the kettlebell between your legs in a figure 8 motion.
-6. Maintain a steady pace and engage your core throughout the exercise.
-7. Repeat for the desired number of repetitions.
+1. Stand with your feet wide apart, holding a kettlebell in one hand.
+2. Bend your knees and lean forward from your hips, keeping your back straight.
+3. Pass the kettlebell back between your legs and take it with your other hand behind your leg.
+4. Bring it around the outside of that leg to the front, then pass it back between your legs to your first hand.
+5. Keep passing it around and between your legs in a figure 8 at a steady pace.
 
 ## Pro tips
 

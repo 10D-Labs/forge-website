@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated one arm rotate is an isolation exercise targeting the forearms, with secondary emphasis on the shoulders and bicep. It involves rotating the forearm outward while keeping the upper arm stationary, helping to improve forearm strength and mobility. Beginner arms exercise using dumbbell. Targets forearms, also works shoulders, biceps.
+A seated forearm twist: lean forward with one arm hanging and turn the dumbbell a quarter turn and back. It works the forearms, with some help from the biceps. Beginner arms exercise using dumbbell. Targets forearms, also works shoulders, biceps.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell seated one arm rotate is an isolation exercise targeting the forear
 
 ## How to perform
 
-1. Sit on a bench with your back straight and hold a dumbbell in one hand, resting it on your thigh.
-2. Raise the dumbbell up to shoulder height, keeping your elbow close to your body.
-3. Rotate your forearm outward, away from your body, while keeping your upper arm stationary.
-4. Pause for a moment at the top, then slowly rotate your forearm back to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Sit on the end of a flat bench with your feet flat and lean forward. Rest one hand on your thigh.
+2. Hold a dumbbell in your other hand, that arm hanging straight down outside your knee, palm facing behind you.
+3. Keeping your arm still, turn your forearm so your thumb swings forward and your palm ends up facing your knee.
+4. Turn it back slowly to the start. Do all your reps on one side, then switch.
 
 ## Pro tips
 

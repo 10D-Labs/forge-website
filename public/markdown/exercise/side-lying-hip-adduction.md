@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The side lying hip adduction is a bodyweight exercise targeting the adductors, performed while lying on your side and lifting the top leg upward. Beginner legs exercise using body weight. Targets adductors, also works glutes, hamstrings.
+A side-lying leg lift where your top foot is planted in front and you raise your straight bottom leg off the floor. It works the inner thighs. Beginner legs exercise using body weight. Targets adductors, also works glutes, hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The side lying hip adduction is a bodyweight exercise targeting the adductors, p
 
 ## How to perform
 
-1. Lie on your side with your legs straight and stacked on top of each other.
-2. Place your bottom arm under your head for support.
-3. Engage your adductors and lift your top leg as high as possible without rotating your hips or leaning backward.
-4. Pause for a moment at the top, then slowly lower your leg back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch sides.
+1. Lie on your side, propped up on your straight bottom arm. Bend your top knee and set that foot flat on the floor in front of your bottom leg.
+2. Put your top hand on the floor in front of your chest and keep your bottom leg straight.
+3. Lift your bottom leg off the floor as high as you can.
+4. Lower it slowly until it almost touches the floor. Do all your reps on one side, then switch.
 
 ## Pro tips
 

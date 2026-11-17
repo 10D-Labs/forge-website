@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The march sit (wall) is a lower body exercise performed with body weight, targeting the glutes and also engaging the quadriceps, hamstrings, and calves. It involves holding a wall sit position while alternately lifting each knee towards the chest, mimicking a marching motion. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A wall sit where you lift one knee at a time toward your chest, like marching in place. It works the glutes, plus the quads, hamstrings and calves. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -16,10 +16,9 @@ The march sit (wall) is a lower body exercise performed with body weight, target
 ## How to perform
 
 1. Stand with your back against a wall and your feet hip-width apart.
-2. Slowly slide your back down the wall until your knees are bent at a 90 degree angle.
-3. Lift your right foot off the ground and bring your knee towards your chest.
-4. Lower your right foot back down and lift your left foot off the ground, bringing your knee towards your chest.
-5. Continue alternating between lifting your right and left foot for the desired number of repetitions.
+2. Slide down the wall until your knees are bent at a right angle.
+3. Lift your right foot and bring that knee toward your chest, then lower it.
+4. Lift your left knee toward your chest the same way. Keep alternating sides, staying low against the wall.
 
 ## Pro tips
 

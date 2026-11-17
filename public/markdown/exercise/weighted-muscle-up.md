@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted muscle up is an advanced calisthenics exercise that combines a pullup with a dip, performed while adding extra weight. It targets the lats and also works the bicep, tricep, shoulders, and forearms. This movement requires significant upper body strength, coordination, and technique, especially when performed with additional weight. Advanced back exercise using body weight. Targets lats, also works biceps, triceps, shoulders, forearms.
+A muscle up with extra weight hung from a belt: a pullup that turns into a dip above the bar. It works the lats, plus the biceps, triceps, shoulders and forearms. Advanced back exercise using weight plate. Targets lats, also works biceps, triceps, shoulders, forearms.
 
 - **Body Part:** Back
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Lats
 - **Secondary Muscles:** Biceps, Triceps, Shoulders, Forearms
 - **Difficulty:** Advanced
@@ -15,12 +15,11 @@ The weighted muscle up is an advanced calisthenics exercise that combines a pull
 
 ## How to perform
 
-1. Start by hanging from a pullup bar with your palms facing away from you and your hands slightly wider than shoulder-width apart.
-2. Engage your core and pull your shoulder blades down and back.
-3. Bend your elbows and pull your chest towards the bar, keeping your body straight.
-4. Once your chest reaches the bar, push down with your hands and drive your elbows back, lifting your body above the bar.
-5. Pause at the top of the movement, then slowly lower yourself back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Put on a belt with a weight hanging from it. Grab a pullup bar, palms facing away from you, hands slightly wider than shoulder-width apart.
+2. Hang with your arms straight and pull your shoulder blades down and back.
+3. Bend your elbows to pull your chest to the bar, keeping your body straight.
+4. Push down on the bar as your chest reaches it, driving your elbows back to lift your body above the bar.
+5. Lower yourself slowly back to a hang.
 
 ## Pro tips
 
@@ -59,7 +58,7 @@ The Weighted Muscle Up is an advanced exercise. Beginners should master fundamen
 ## Related exercises
 
 - [More Back Exercises](https://forgetrainer.ai/exercises/back)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)
 
 ---

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The superman pushup is a challenging bodyweight exercise that targets the pectorals while also engaging the core and shoulders. It involves alternating the extension of opposite arms and legs during the pushup, requiring significant balance, strength, and coordination. Advanced chest exercise using body weight. Targets chest, also works core, shoulders.
+An advanced pushup done with your arms stretched out past your head, lifting your whole body off the floor from your hands and toes. It works the chest, shoulders and abs. Advanced chest exercise using body weight. Targets chest, also works core, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The superman pushup is a challenging bodyweight exercise that targets the pector
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.
-2. Engage your core and lower your body towards the ground, keeping your elbows close to your sides.
-3. As you lower your body, simultaneously lift your right arm and left leg off the ground, extending them straight out.
-4. Pause for a moment at the top, then lower your arm and leg back down while pushing yourself back up to the starting position.
-5. Repeat the movement, this time lifting your left arm and right leg.
-6. Continue alternating sides for the desired number of repetitions.
+1. Lie face down with your legs straight, toes tucked under, and arms stretched out past your head, palms flat on the floor.
+2. Press your hands into the floor and lift your chest, hips and legs off the floor together, so only your hands and toes touch it.
+3. Hold your body in a straight line from head to heels at the top, without letting your hips sag.
+4. Lower slowly back to the floor.
 
 ## Pro tips
 

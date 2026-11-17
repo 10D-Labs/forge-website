@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell Zercher squat is a lower body exercise where the barbell is held in the crooks of the elbows, emphasizing the glutes, quadriceps, hamstrings, calves, and core. It requires significant core stability, upper body strength, and proper squat mechanics. Advanced legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A squat holding the barbell in the bend of your elbows, in front of your body. It works the glutes, plus the quads, hamstrings, calves and abs. Advanced legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell Zercher squat is a lower body exercise where the barbell is held in 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and toes slightly turned out.
-2. Hold the barbell in the crooks of your elbows, with your hands gripping the bar for stability.
-3. Engage your core and keep your chest lifted as you lower your hips back and down into a squat position.
-4. Keep your knees in line with your toes and your weight in your heels.
-5. Pause for a moment at the bottom of the squat, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes turned slightly out.
+2. Hold the barbell in the inside bend of your elbows, with your hands gripping the bar to keep it steady.
+3. Push your hips back and down to squat, keeping your chest up and your knees in line with your toes.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell reverse grip bent over row is a compound exercise targeting the upper back, with secondary emphasis on the bicep and forearms. It involves pulling a barbell towards the lower chest while bent over, requiring good form and core stability. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
+A bent-over barbell row with your palms facing forward instead of toward your legs. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell reverse grip bent over row is a compound exercise targeting the uppe
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and knees slightly bent.
-2. Hold a barbell with an overhand grip, palms facing down, and hands slightly wider than shoulder-width apart.
-3. Bend forward at the hips, keeping your back straight and chest up, until your torso is almost parallel to the floor.
-4. Pull the barbell towards your lower chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly lower the barbell back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet hip-width apart and hold a barbell with your hands shoulder-width apart, palms facing forward (away from your legs).
+2. Bend your knees slightly and lean forward from your hips with a flat back, arms hanging straight.
+3. Pull the bar up to your lower stomach, keeping your elbows close to your sides.
+4. Lower it slowly until your arms are straight.
 
 ## Pro tips
 

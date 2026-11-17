@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying pronation is an exercise targeting the forearms, specifically focusing on pronation strength. It is performed lying face down on a bench, holding dumbbells, and rotating the wrists to work the forearm muscles. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
+A forearm twist done lying on your side on a bench, turning a dumbbell from level to upright. It works the forearms. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,11 @@ The dumbbell lying pronation is an exercise targeting the forearms, specifically
 
 ## How to perform
 
-1. Lie flat on a bench with your chest facing down and your arms extended straight down, holding a dumbbell in each hand.
-2. Rotate your palms so they are facing up.
-3. Keeping your upper arms stationary, exhale and curl the dumbbells as you rotate your palms to face down.
-4. Inhale and slowly lower the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your side on a flat bench, propped up on your bottom elbow near the edge.
+2. Hold a dumbbell by the middle of the handle in your bottom hand, forearm sticking out past the edge of the bench.
+3. Start with your palm facing the ceiling and the dumbbell lying level along the bench.
+4. Keep your elbow still and turn your forearm until your palm faces your feet and the dumbbell stands upright.
+5. Turn it back slowly until your palm faces the ceiling. Do all your reps on one side, then switch.
 
 ## Pro tips
 

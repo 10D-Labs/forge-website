@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell curl is a classic strength exercise targeting the bicep, performed by curling a barbell from the thighs to the shoulders while keeping the elbows close to the torso. Beginner arms exercise using barbell. Targets biceps, also works forearms.
+A standing curl, lifting a barbell from your thighs to your shoulders with your palms facing forward. It works the biceps. Beginner arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,12 +15,9 @@ The barbell curl is a classic strength exercise targeting the bicep, performed b
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing forward.
-2. Keep your elbows close to your torso and exhale as you curl the weights while contracting your biceps.
-3. Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale as you slowly begin to lower the bar back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand tall with your feet shoulder-width apart, holding a barbell in front of your thighs with your palms facing forward.
+2. Curl the bar up to shoulder level, keeping your elbows close to your sides.
+3. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

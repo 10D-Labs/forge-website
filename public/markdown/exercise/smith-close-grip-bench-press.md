@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith close grip bench press is a compound exercise performed on a smith machine, targeting the tricep with secondary emphasis on the chest and shoulders. It involves pressing a barbell with a close grip, which increases tricep activation. Intermediate arms exercise using smith machine. Targets triceps, also works chest, shoulders.
+A bench press on a Smith machine, which guides the bar on a fixed track, done with your hands close together. It works the triceps, with help from the chest and shoulders. Intermediate arms exercise using smith machine. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Smith Machine
@@ -15,11 +15,10 @@ The smith close grip bench press is a compound exercise performed on a smith mac
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the bench with your feet flat on the ground.
-2. Grasp the barbell with a close grip, slightly narrower than shoulder-width apart.
-3. Lower the barbell towards your chest, keeping your elbows close to your body.
-4. Pause for a moment at the bottom, then push the barbell back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on a flat bench set under the bar of a Smith machine, with your feet flat on the floor.
+2. Hold the bar with your hands slightly narrower than shoulder-width apart, arms straight above your chest.
+3. Lower the bar to your chest, keeping your elbows close to your body.
+4. Push the bar back up until your arms are straight.
 
 ## Pro tips
 

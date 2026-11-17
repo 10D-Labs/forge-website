@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated one arm kickback is an isolation exercise targeting the tricep, performed while seated on a bench. It requires a dumbbell and focuses on extending the arm backward to engage the tricep. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+A seated one-arm move where you lean forward and straighten your arm back behind you. It works the triceps on the back of the upper arm. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell seated one arm kickback is an isolation exercise targeting the tric
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand.
-2. Bend your torso forward at the waist, keeping your back straight and parallel to the ground.
-3. Extend your arm straight back, keeping your elbow close to your body.
-4. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-5. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on the end of a bench, feet flat on the floor, with a dumbbell in one hand and your other hand on the bench.
+2. Lean forward from the waist with your back straight until your upper body is level with the floor.
+3. Keep your elbow close to your side and straighten your arm back behind you.
+4. Bend your elbow slowly to lower the dumbbell. Do all your reps on one side, then switch.
 
 ## Pro tips
 

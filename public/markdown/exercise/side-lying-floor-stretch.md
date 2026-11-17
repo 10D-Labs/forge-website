@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The side lying floor stretch is a bodyweight exercise targeting the lats, with secondary emphasis on the obliques and glutes. It is performed lying on your side, reaching overhead, and lifting the bottom leg to create a stretch along the side of the body. Beginner back exercise using body weight. Targets lats, also works obliques, glutes.
+A stretch lying on your side, reaching your top arm overhead while your top knee drops forward. It stretches the lats along the side of your back, and the obliques. Beginner back exercise using body weight. Targets lats, also works obliques, glutes.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The side lying floor stretch is a bodyweight exercise targeting the lats, with s
 
 ## How to perform
 
-1. Lie on your side with your legs straight and your bottom arm extended straight overhead.
-2. Bend your top knee and place your foot on the ground in front of your bottom leg.
-3. Reach your top arm over your head and grab onto something stable, like a wall or a piece of furniture.
-4. Slowly lift your bottom leg off the ground, keeping it straight, until you feel a stretch in your side.
-5. Hold the stretch for 20-30 seconds, then slowly lower your leg back down.
-6. Repeat on the other side.
+1. Lie on your side, legs straight and stacked, bottom arm stretched along the floor past your head. Rest your top hand on your hip.
+2. Reach your top arm over your head to meet your bottom hand.
+3. At the same time, bend your top knee and let it drop forward to the floor, until you feel a stretch along your side.
+4. Hold for the set time, then straighten your top leg, bring your arm back to your hip and switch sides.
 
 ## Pro tips
 

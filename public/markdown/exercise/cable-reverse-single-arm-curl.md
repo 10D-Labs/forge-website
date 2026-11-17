@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable reverse one arm curl is an isolation exercise targeting the bicep and forearms, performed using a cable machine. It involves curling the handle with a reverse grip to emphasize the forearms and brachialis. Beginner arms exercise using cable. Targets biceps, also works forearms.
+A one-arm cable curl done with your palm facing down. It works the biceps and forearms. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable reverse one arm curl is an isolation exercise targeting the bicep and 
 
 ## How to perform
 
-1. Stand facing a cable machine with your feet shoulder-width apart.
-2. Grasp the cable handle with an underhand grip, palm facing down.
-3. Keep your elbow close to your side and slowly curl your forearm up towards your shoulder.
-4. Pause for a moment at the top, then slowly lower your forearm back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Attach a single handle to a low pulley and stand facing the machine with your feet shoulder-width apart.
+2. Hold the handle in one hand with your palm facing down, arm straight and elbow close to your side.
+3. Curl the handle up toward your shoulder, keeping your elbow at your side.
+4. Lower it slowly until your arm is straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell burpee is a full-body exercise that combines a squat, pushup, and overhead press using dumbbells. It targets the cardiovascular system while also engaging multiple muscle groups. Performing for time is an effective AMRAP workout. Advanced cardio exercise using dumbbell. Targets cardiovascular, also works quadriceps, hamstrings, calves, shoulders, triceps, core.
+A burpee done holding a pair of dumbbells: squat, jump back to a pushup position on the dumbbells, jump in, stand and jump. It works the whole body and gets your heart rate up. Advanced cardio exercise using dumbbell. Targets cardiovascular, also works quadriceps, hamstrings, calves, shoulders, triceps, core.
 
 - **Body Part:** Cardio
 - **Equipment:** Dumbbell
@@ -15,15 +15,11 @@ The dumbbell burpee is a full-body exercise that combines a squat, pushup, and o
 
 ## How to perform
 
-1. Start in a standing position with your feet shoulder-width apart and a dumbbell in each hand.
-2. Lower your body into a squat position, placing the dumbbells on the ground in front of you.
-3. Kick your feet back into a pushup position, keeping your body in a straight line.
-4. Perform a pushup, bending your elbows and lowering your chest towards the ground.
-5. Jump your feet back towards your hands, landing in a squat position.
-6. Stand up explosively, lifting the dumbbells off the ground and bringing them to your shoulders.
-7. Press the dumbbells overhead, fully extending your arms.
-8. Lower the dumbbells back to your shoulders and immediately continue to the next repetition.
-9. Continue performing dumbbell burpees for the target duration.
+1. Stand with your feet hip-width apart and a dumbbell in each hand at your sides, palms facing in.
+2. Squat down and set the dumbbells on the floor just in front of your feet, keeping hold of the handles.
+3. Jump your feet back so you're in a pushup position with your hands on the dumbbells and your body straight.
+4. Jump your feet back in toward your hands, then stand up, lifting the dumbbells at your sides.
+5. Jump straight up with the dumbbells at your sides, land softly and go straight into the next rep. Keep going for the set time.
 
 ## Pro tips
 

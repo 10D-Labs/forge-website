@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The cable standing back wrist curl is an isolation exercise targeting the forearms. It is performed using a cable machine and focuses on strengthening the wrist extensors. Beginner arms exercise using cable. Targets forearms, also works biceps, brachialis.
+A wrist curl done standing, holding a low cable bar behind your thighs with your palms facing back. It works the forearms. Beginner arms exercise using cable. Targets forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
 - **Target Muscle:** Forearms
-- **Secondary Muscles:** Biceps, Brachialis
+
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,12 +15,10 @@ The cable standing back wrist curl is an isolation exercise targeting the forear
 
 ## How to perform
 
-1. Stand facing a cable machine with your feet shoulder-width apart.
-2. Hold the cable handle with an overhand grip, palms facing down.
-3. Keep your arms straight and your elbows close to your sides.
-4. Slowly curl your wrists upward, bringing the cable handle towards your body.
-5. Pause for a moment at the top, then slowly lower the cable handle back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a straight bar to a low pulley. Stand with your back to the machine, holding the bar behind your thighs, palms facing back.
+2. Keep your arms straight and your hands about hip-width apart. Let your wrists bend down so the bar hangs low.
+3. Curl your wrists to lift the bar up and back as far as you can, keeping your arms still.
+4. Lower slowly back to the start.
 
 ## Pro tips
 
@@ -46,7 +44,7 @@ Yes, but cables maintain constant tension throughout the range of motion while d
 
 ### What muscles does the Cable Standing Back Wrist Curl work?
 
-The Cable Standing Back Wrist Curl primarily targets the forearms, with secondary activation in the biceps, brachialis. It's classified as a strength exercise for the arms.
+The Cable Standing Back Wrist Curl primarily targets the forearms. It's classified as a strength exercise for the arms.
 
 ### Is the Cable Standing Back Wrist Curl good for beginners?
 

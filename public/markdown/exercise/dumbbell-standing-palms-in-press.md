@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing palms in press is a shoulder exercise that targets the deltoids, with secondary emphasis on the tricep and chest. It involves pressing dumbbells overhead while keeping the palms facing inward, which can be easier on the shoulder joints compared to a traditional overhead press. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
+An overhead dumbbell press with your palms facing each other the whole time, which can be easier on the shoulders. It works the front of the shoulders, plus the triceps and chest. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell standing palms in press is a shoulder exercise that targets the del
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level with your palms facing inwards.
-2. Keeping your core engaged and your back straight, press the dumbbells upwards until your arms are fully extended overhead.
-3. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level, palms facing each other.
+2. Press both dumbbells up until your arms are straight overhead. Keep your back straight.
+3. Lower them slowly back to shoulder level.
 
 ## Pro tips
 

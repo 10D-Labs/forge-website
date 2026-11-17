@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith machine decline close grip bench press is a compound exercise targeting the tricep, with secondary emphasis on the chest and shoulders. It is performed on a smith machine with a decline bench and a close grip on the barbell. Intermediate arms exercise using smith machine. Targets triceps, also works chest, shoulders.
+A decline bench press on a Smith machine with your hands set close together. It works the triceps, with help from the chest and shoulders. Intermediate arms exercise using smith machine. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith machine decline close grip bench press is a compound exercise targetin
 
 ## How to perform
 
-1. Adjust the bench on the smith machine to a decline position.
-2. Lie down on the bench with your feet firmly planted on the ground.
-3. Grasp the barbell with a close grip, slightly narrower than shoulder-width apart.
-4. Unrack the barbell and lower it slowly towards your chest, keeping your elbows close to your body.
-5. Pause for a moment when the barbell is just above your chest.
-6. Push the barbell back up to the starting position, fully extending your arms.
-7. Repeat for the desired number of repetitions.
+1. Set a bench to a decline under a Smith machine bar and lie on it with your feet planted on the floor.
+2. Grip the bar with your hands slightly closer than shoulder-width and unhook it from the rack.
+3. Lower the bar slowly until it is just above your chest, keeping your elbows close to your body.
+4. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

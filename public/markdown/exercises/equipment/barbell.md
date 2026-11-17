@@ -2,13 +2,13 @@
 
 ## Quick Answer
 
-106 barbell exercises. The foundation of any strength program. Master compound lifts and build total-body power with serious strength gains.
+103 barbell exercises. The foundation of any strength program. Master compound lifts and build total-body power with serious strength gains.
 
 ---
 
 ## All Barbell Exercises by Body Part
 
-### Arms (21 exercises)
+### Arms (20 exercises)
 
 - **Barbell Curl** — Beginner | Target: Biceps
 - **Barbell Skull Crusher** — Intermediate | Target: Triceps
@@ -22,7 +22,6 @@
 - **Barbell Prone Incline Curl** — Intermediate | Target: Biceps
 - **Barbell Seated Close Grip Concentration Curl** — Intermediate | Target: Biceps
 - **Barbell Standing Back Wrist Curl** — Beginner | Target: Forearms
-- **Barbell Standing Reverse Grip Curl** — Beginner | Target: Biceps
 - **Barbell Wrist Curl** — Beginner | Target: Forearms
 - **Finger Curls** — Beginner | Target: Forearms
 - **Barbell Reverse Grip Skullcrusher** — Intermediate | Target: Triceps
@@ -32,14 +31,15 @@
 - **Barbell Standing Wide Grip Curl** — Beginner | Target: Biceps
 - **Barbell Incline Close Grip Bench Press** — Intermediate | Target: Triceps
 
-### Back (10 exercises)
+### Back (11 exercises)
 
 - **Barbell Bent Over Row** — Intermediate | Target: Upper Back
 - **Barbell Shrug** — Beginner | Target: Traps
 - **Barbell Incline Row** — Intermediate | Target: Upper Back
-- **Bent Over Row** — Intermediate | Target: Upper Back
+- **Landmine T-Bar Row** — Intermediate | Target: Upper Back
 - **Barbell Pullover** — Intermediate | Target: Lats
-- **Single Arm Bent Over Row** — Intermediate | Target: Upper Back
+- **Barbell Skier** — Intermediate | Target: Lats
+- **Single Arm Landmine Row** — Intermediate | Target: Upper Back
 - **Barbell Pendlay Row** — Intermediate | Target: Upper Back
 - **Barbell Single Arm Bent Over Row** — Intermediate | Target: Upper Back
 - **Barbell Reverse Grip Bent Over Row** — Intermediate | Target: Upper Back
@@ -67,7 +67,7 @@
 - **Barbell Standing Twist** — Beginner | Target: Abs
 - **Landmine 180** — Intermediate | Target: Abs
 
-### Legs (46 exercises)
+### Legs (44 exercises)
 
 - **Barbell Deadlift** — Intermediate | Target: Glutes
 - **Barbell Front Squat** — Intermediate | Target: Glutes
@@ -86,7 +86,6 @@
 - **Barbell Rear Lunge** — Intermediate | Target: Glutes
 - **Barbell Seated Calf Raise** — Beginner | Target: Calves
 - **Barbell Side Split Squat** — Intermediate | Target: Quads
-- **Barbell Speed Squat** — Intermediate | Target: Glutes
 - **Barbell Standing Leg Calf Raise** — Intermediate | Target: Calves
 - **Barbell Standing Rocking Leg Calf Raise** — Intermediate | Target: Calves
 - **Barbell Stepup** — Intermediate | Target: Glutes
@@ -107,16 +106,15 @@
 - **Barbell Good Morning** — Intermediate | Target: Hamstrings
 - **Barbell Hip Thrust** — Beginner | Target: Glutes
 - **Barbell Single Arm Side Deadlift** — Advanced | Target: Glutes
-- **Barbell Single Leg Squat** — Advanced | Target: Quads
 - **Barbell Rack Pull** — Intermediate | Target: Glutes
 - **Barbell Seated Good Morning** — Intermediate | Target: Glutes
-- **Barbell Single Leg Split Squat** — Intermediate | Target: Quads
+- **Barbell Bulgarian Split Squat** — Intermediate | Target: Quads
 - **Barbell Stiff Leg Good Morning** — Advanced | Target: Glutes
 - **Power Clean** — Advanced | Target: Hamstrings
 - **Snatch Pull** — Advanced | Target: Quads
 - **Barbell Single Leg Deadlift** — Advanced | Target: Glutes
 
-### Shoulders (13 exercises)
+### Shoulders (12 exercises)
 
 - **Barbell Front Raise** — Beginner | Target: Shoulders
 - **Barbell Rear Delt Raise** — Intermediate | Target: Shoulders
@@ -126,7 +124,6 @@
 - **Barbell Upright Row** — Intermediate | Target: Shoulders
 - **Barbell Standing Wide Military Press** — Intermediate | Target: Shoulders
 - **Landmine Lateral Raise** — Intermediate | Target: Shoulders
-- **Barbell Skier** — Intermediate | Target: Shoulders
 - **Barbell Wide Grip Upright Row** — Intermediate | Target: Shoulders
 - **Barbell Thruster** — Intermediate | Target: Shoulders
 - **Barbell Single Arm Snatch** — Advanced | Target: Shoulders
@@ -138,7 +135,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

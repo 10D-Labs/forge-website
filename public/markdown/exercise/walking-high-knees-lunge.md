@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The walking high knees lunge is a dynamic exercise that combines high knee raises with forward lunges, targeting the cardiovascular system while also engaging the quadriceps, hamstrings, glutes, and calves. It is performed using only body weight and is effective for improving cardiovascular endurance, coordination, and lower body strength. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
+Lunges that move forward, with a high knee lift before each step. It raises your heart rate and works the quads, hamstrings, glutes and calves. Beginner cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -16,12 +16,10 @@ The walking high knees lunge is a dynamic exercise that combines high knee raise
 ## How to perform
 
 1. Stand with your feet hip-width apart.
-2. Lift your right knee up towards your chest as high as you can while balancing on your left leg.
-3. Step forward with your right foot and lower your body into a lunge position, bending both knees to a 90 degree angle.
-4. Push off with your right foot and bring your left knee up towards your chest.
-5. Step forward with your left foot and lower your body into a lunge position.
-6. Continue alternating legs and lunging forward, keeping your core engaged and maintaining a steady pace.
-7. Repeat for the desired number of repetitions.
+2. Lift your right knee toward your chest as high as you can, balancing on your left leg.
+3. Step forward with your right foot and lower into a lunge, both knees bent to 90 degrees.
+4. Push off your right foot and lift your left knee toward your chest, then step forward into a lunge on that side.
+5. Keep alternating legs as you move forward at a steady pace.
 
 ## Pro tips
 

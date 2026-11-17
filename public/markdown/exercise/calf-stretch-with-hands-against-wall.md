@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-A stretch targeting the calves, performed by leaning against a wall with one leg extended back and the heel pressed to the ground. Beginner legs exercise using body weight. Targets calves, also works hamstrings.
+A wall stretch for the calf: you lean into the wall with one leg back and its heel pressed to the floor. Beginner legs exercise using body weight. Targets calves, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ A stretch targeting the calves, performed by leaning against a wall with one leg
 
 ## How to perform
 
-1. Stand facing a wall with your feet hip-width apart.
-2. Place your hands against the wall at shoulder height.
-3. Step your right foot back, keeping your heel on the ground and your leg straight.
-4. Bend your left knee and lean forward, keeping your back leg straight and your heel on the ground.
-5. Hold the stretch for 20-30 seconds.
-6. Switch legs and repeat the stretch.
+1. Stand facing a wall with your feet hip-width apart and your hands on the wall at shoulder height.
+2. Step one foot back, keeping that leg straight and the heel on the floor.
+3. Bend your front knee and lean toward the wall until you feel a stretch in your back calf.
+4. Hold for the set time, then switch legs.
 
 ## Pro tips
 

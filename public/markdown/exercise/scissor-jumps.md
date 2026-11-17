@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Scissor jumps are a plyometric cardio exercise that involves jumping and alternating the crossing of your legs in mid-air. This movement elevates the heart rate and challenges coordination and lower body strength. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves.
+A jumping drill where you switch your feet front to back in midair while your arms swing the opposite way. It raises your heart rate and works the legs. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Scissor jumps are a plyometric cardio exercise that involves jumping and alterna
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Jump off the ground and simultaneously cross your right leg in front of your left leg.
-3. As you land, quickly switch legs, crossing your left leg in front of your right leg.
-4. Continue alternating legs and jumping as quickly as possible.
-5. Repeat for the desired number of repetitions.
+1. Stand in a split stance, one foot forward, knees slightly bent. Reach the arm opposite your front leg forward and the other arm back.
+2. Jump up and switch your legs in the air, bringing your back foot forward and your front foot back.
+3. Swap your arms as you switch, so the arm opposite your front leg is always forward.
+4. Land softly and jump again right away. Keep alternating legs as fast as you can.
 
 ## Pro tips
 

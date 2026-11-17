@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell wide bench press is a compound strength exercise targeting the pectoral muscles, with secondary emphasis on the shoulders and tricep. It requires a barbell and a bench, and involves lowering the barbell to the chest with a wide grip before pressing it back up. Intermediate chest exercise using barbell. Targets chest, also works shoulders, triceps.
+A flat bench press with your hands set wide on the bar. It works the chest, with help from the shoulders and triceps. Intermediate chest exercise using barbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell wide bench press is a compound strength exercise targeting the pecto
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.
-2. Grasp the barbell with a wide grip, slightly wider than shoulder-width apart.
-3. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.
-4. Lower the barbell slowly towards your chest, keeping your elbows slightly flared out.
-5. Pause for a moment when the barbell touches your chest, then push it back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with your back against it and your feet flat on the floor.
+2. Grip the bar with your hands wide apart, wider than shoulder-width.
+3. Lift the bar off the rack and hold it over your chest with your arms straight.
+4. Lower the bar slowly until it touches your chest, letting your elbows flare out slightly.
+5. Push the bar back up until your arms are straight.
 
 ## Pro tips
 

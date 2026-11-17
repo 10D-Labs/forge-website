@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline one arm fly is a unilateral chest exercise performed on an incline bench. It targets the pectoral muscles and also engages the deltoids and tricep. The movement requires control and stability, as only one arm is working at a time, increasing the demand on core and shoulder stabilizers. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
+A chest fly done one arm at a time on an incline bench, lowering the dumbbell out to the side in a wide arc. It works the upper chest, plus the front of the shoulders and triceps. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,13 +15,11 @@ The dumbbell incline one arm fly is a unilateral chest exercise performed on an 
 
 ## How to perform
 
-1. Adjust the incline bench to a 30-45 degree angle.
-2. Sit on the bench with a dumbbell in one hand, resting it on your thigh.
-3. Lie back on the bench, keeping your feet flat on the ground.
-4. Hold the dumbbell with your arm extended straight up over your chest.
-5. Lower the dumbbell out to the side in a wide arc, keeping a slight bend in your elbow.
-6. Pause when your arm is parallel to the ground, then reverse the motion to bring the dumbbell back to the starting position.
-7. Repeat for the desired number of repetitions, then switch arms.
+1. Set an incline bench to 30 to 45 degrees. Sit on it with a dumbbell in one hand, resting on your thigh.
+2. Lie back with your feet flat on the floor and hold the dumbbell straight up over your chest.
+3. Lower the dumbbell out to the side in a wide arc, elbow slightly bent, until your arm is level with the floor.
+4. Bring it back up along the same arc until it's over your chest.
+5. Do all your reps on one side, then switch.
 
 ## Pro tips
 

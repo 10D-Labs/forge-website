@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith front squat (clean grip) is a lower body exercise performed on a smith machine, targeting the glutes with significant involvement from the quadriceps, hamstrings, calves, and core. The clean grip requires good shoulder and wrist mobility, and the movement demands proper technique to maintain balance and safety. Intermediate legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A front squat in a Smith machine, with the bar resting across the front of your shoulders and your hands holding it in place. It works the glutes, with help from the quads and hamstrings. Intermediate legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,15 +15,11 @@ The smith front squat (clean grip) is a lower body exercise performed on a smith
 
 ## How to perform
 
-1. Set up the smith machine with the barbell at shoulder height.
-2. Stand facing the barbell with your feet shoulder-width apart.
-3. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.
-4. Step back and position the barbell on your front shoulders, resting it on your collarbone and deltoids.
-5. Keep your chest up, back straight, and core engaged.
-6. Lower your body by bending at the knees and hips, as if sitting back into a chair.
-7. Continue lowering until your thighs are parallel to the ground or slightly below.
-8. Pause for a moment, then push through your heels to return to the starting position.
-9. Repeat for the desired number of repetitions.
+1. Set the Smith machine bar at shoulder height and stand facing it, feet shoulder-width apart.
+2. Hold the bar with your palms facing away from you, hands a little wider than your shoulders.
+3. Rest the bar across the front of your shoulders and collarbones, then step back.
+4. Keep your chest up and bend your knees and hips to sit back, as if into a chair.
+5. Stop when your thighs are level with the floor or a little below, then push through your heels to stand back up.
 
 ## Pro tips
 

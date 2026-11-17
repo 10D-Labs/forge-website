@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bodyweight standing row is a back exercise that targets the upper back using only body weight for resistance. It also engages the bicep and shoulders as secondary muscles. The movement involves pulling a bar or handles towards the body while standing, focusing on squeezing the shoulder blades together. Beginner back exercise using body weight. Targets upper back, also works biceps, shoulders.
+A standing row where you lean back from a fixed bar and pull your body toward it. It works the upper back, with help from the biceps and shoulders. Beginner back exercise using body weight. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The bodyweight standing row is a back exercise that targets the upper back using
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and knees slightly bent.
-2. Grasp a bar or handles with an overhand grip, palms facing down.
-3. Keep your back straight and core engaged.
-4. Pull the bar or handles towards your body, squeezing your shoulder blades together.
-5. Pause for a moment at the top of the movement.
-6. Slowly release and extend your arms back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Stand facing a fixed bar at about chest height, such as a rung on wall bars, with your feet shoulder-width apart near its base.
+2. Hold the bar with your palms facing down and lean back until your arms are straight, keeping your body straight.
+3. Pull your chest toward the bar, drawing your shoulder blades together.
+4. Lower yourself slowly back until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline hammer curl is an upper arm exercise that targets the bicep and also works the forearms. It is performed while sitting on an incline bench, which increases the stretch on the bicep and challenges the muscles through a greater range of motion. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
+A hammer curl done sitting back on an incline bench, with your palms facing in the whole time. It works the biceps and the forearms. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell incline hammer curl is an upper arm exercise that targets the bicep
 
 ## How to perform
 
-1. Sit on an incline bench with a dumbbell in each hand, palms facing your torso and arms fully extended.
-2. Keep your back against the bench and your feet flat on the floor.
-3. While keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-4. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly begin to lower the dumbbells back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Sit back on an incline bench with your back against the pad and your feet flat on the floor.
+2. Hold a dumbbell in each hand, arms hanging straight, palms facing your body.
+3. Keep your upper arms still and your palms facing in (thumbs up) as you curl both dumbbells up to shoulder level.
+4. Lower them slowly until your arms are straight.
 
 ## Pro tips
 

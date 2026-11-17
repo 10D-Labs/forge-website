@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline shoulder raise targets the serratus anterior and also works the deltoids and trapezius. It is performed on an incline bench and involves raising dumbbells above the head while maintaining control and proper form. Intermediate core exercise using dumbbell. Targets serratus, also works shoulders, trapezius.
+A small reaching move done lying back on an incline bench, pushing the dumbbells up by moving only your shoulders. It works the serratus, the muscles along the sides of your ribs. Intermediate core exercise using dumbbell. Targets serratus, also works shoulders, trapezius.
 
 - **Body Part:** Core
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell incline shoulder raise targets the serratus anterior and also works
 
 ## How to perform
 
-1. Set an incline bench to a 45 degree angle and sit on it with a dumbbell in each hand, palms facing down.
-2. Rest the dumbbells on your thighs and lean back onto the bench.
-3. Use your thighs to help raise the dumbbells to shoulder height, then rotate your wrists so that your palms are facing forward.
-4. Exhale and slowly raise the dumbbells above your head, keeping a slight bend in your elbows.
-5. Move the dumbbells up and down by moving only your shoulders.
-6. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Sit with a dumbbell in each hand resting on your thighs, then lean back against the pad.
+2. Use your thighs to help lift the dumbbells to your shoulders. Press them up until your arms point up, elbows slightly bent, palms facing your feet.
+3. Push the dumbbells a little higher by reaching your shoulders up off the bench. Move only your shoulders, not your arms.
+4. Let your shoulders sink back to the bench.
 
 ## Pro tips
 

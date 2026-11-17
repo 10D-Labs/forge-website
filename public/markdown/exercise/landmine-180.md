@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The landmine 180 is a rotational core exercise performed with a barbell anchored at one end. It targets the abs and obliques, requiring the lifter to swing the barbell in an arc from side to side, engaging the core, hips, and legs for stability and power. Intermediate core exercise using barbell. Targets abs, also works obliques, quadriceps.
+A twisting core move with a barbell anchored at one end, swinging the free end in an arc from hip to hip. It works the abs and obliques. Intermediate core exercise using barbell. Targets abs, also works obliques, quadriceps.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,10 +15,10 @@ The landmine 180 is a rotational core exercise performed with a barbell anchored
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the barbell with both hands in front of your chest.
-2. Bend your knees slightly and rotate your torso to the right, swinging the barbell down towards your right hip.
-3. As you reach the bottom of the movement, quickly reverse the motion and rotate your torso to the left, swinging the barbell up and across your body towards your left shoulder.
-4. Continue this twisting motion, alternating sides, for the desired number of repetitions.
+1. Wedge one end of a barbell into a landmine or a corner so it stays on the floor.
+2. Stand facing the anchor, feet shoulder-width apart and knees slightly bent. Hold the loose end with both hands, arms straight, beside one hip.
+3. Turn your hips and shoulders to swing the bar end in an arc across the front of your body to your other hip.
+4. Swing it back the other way, keeping your arms straight. Keep alternating sides.
 
 ## Pro tips
 

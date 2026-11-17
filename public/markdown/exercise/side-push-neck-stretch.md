@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The side push neck stretch is a gentle stretching exercise targeting the levator scapulae and other neck muscles. It helps improve flexibility and relieve tension in the neck and upper shoulders. Beginner neck exercise using body weight. Targets neck, also works trapezius, sternocleidomastoid.
+A neck stretch: tilt your ear toward your shoulder and use the hand on that side to gently pull your head further. It stretches the sides of the neck and the tops of the shoulders. Beginner neck exercise using body weight. Targets neck, also works trapezius, sternocleidomastoid.
 
 - **Body Part:** Neck
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The side push neck stretch is a gentle stretching exercise targeting the levator
 
 ## How to perform
 
-1. Stand or sit up straight with your shoulders relaxed.
-2. Tilt your head to the right, bringing your right ear towards your right shoulder.
-3. Place your right hand on the left side of your head and gently apply pressure to increase the stretch.
-4. Hold the stretch for 15-30 seconds.
-5. Repeat on the other side, tilting your head to the left and applying pressure with your left hand.
-6. Repeat the stretch 2-3 times on each side.
+1. Stand tall with your shoulders relaxed and your left hand on your hip. You can also do this sitting.
+2. Tilt your head to the right, bringing your right ear toward your right shoulder.
+3. Reach your right hand up and rest it on your head, then pull gently to deepen the stretch.
+4. Hold for the set time, then switch sides.
 
 ## Pro tips
 

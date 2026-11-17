@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing one arm reverse curl targets the bicep and forearms using a dumbbell with an overhand grip, emphasizing the brachialis and forearm extensors. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A one-arm curl with your palm facing down instead of up. It works the biceps and the muscles on top of the forearm. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell standing one arm reverse curl targets the bicep and forearms using 
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand with an overhand grip.
-2. Keep your arm fully extended and close to your body, with your palm facing down.
-3. Slowly curl the dumbbell up towards your shoulder, keeping your upper arm stationary.
-4. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Stand tall with your feet shoulder-width apart, holding a dumbbell in one hand with your arm straight, close to your body, palm facing behind you.
+2. Keep your upper arm still and curl the dumbbell up toward your shoulder, keeping your palm facing down as it rises.
+3. Lower it slowly until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dynamic chest stretch is a bodyweight exercise designed to increase flexibility and mobility in the chest, shoulders, and tricep. It involves controlled arm movements to stretch the pectoral muscles dynamically. Beginner chest exercise using body weight. Targets chest, also works shoulders, triceps.
+Arm swings that cross your arms in front of you, then open them wide to the sides. They loosen up and stretch the chest and the fronts of the shoulders. Beginner chest exercise using body weight. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,12 +15,9 @@ The dynamic chest stretch is a bodyweight exercise designed to increase flexibil
 
 ## How to perform
 
-1. Stand tall with your feet shoulder-width apart.
-2. Extend your arms straight out to the sides, parallel to the ground.
-3. Slowly bring your arms forward, crossing them in front of your body.
-4. Feel the stretch in your chest muscles.
-5. Hold the stretch for 10-30 seconds.
-6. Return to the starting position and repeat for the desired number of repetitions.
+1. Stand tall with your feet hip-width apart. Raise your arms straight out in front of you at shoulder height, crossing one over the other.
+2. Swing both arms open wide to your sides at shoulder height, palms facing forward, until you feel a stretch across your chest.
+3. Swing them back in front of you until they cross again. Keep the swings smooth, without stopping.
 
 ## Pro tips
 

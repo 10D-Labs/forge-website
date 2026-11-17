@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The wide grip pullup is a bodyweight exercise targeting the latissimus dorsi (lats) with significant involvement of the bicep and forearms. It requires hanging from a pullup bar with a grip wider than shoulder-width, pulling the chin above the bar, and lowering back down with control. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
+A pullup with your hands set wider than your shoulders and your palms facing away. It works the lats, plus the biceps and forearms. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -16,10 +16,8 @@ The wide grip pullup is a bodyweight exercise targeting the latissimus dorsi (la
 ## How to perform
 
 1. Hang from a pullup bar with your palms facing away from you and your hands wider than shoulder-width apart.
-2. Engage your core and squeeze your shoulder blades together.
-3. Pull your body up towards the bar until your chin is above the bar.
-4. Lower your body back down to the starting position with control.
-5. Repeat for the desired number of repetitions.
+2. Squeeze your shoulder blades together and pull yourself up until your chin is above the bar.
+3. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

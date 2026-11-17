@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The T bar row is a machine-based exercise targeting the upper back, with secondary emphasis on the bicep and forearms. It is performed seated with the chest supported, reducing lower back strain and allowing for focused engagement of the upper back muscles. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
+A bent-over row on a lever machine, standing on footplates with no chest pad. It works the upper back, with help from the biceps and forearms. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The T bar row is a machine-based exercise targeting the upper back, with seconda
 
 ## How to perform
 
-1. Adjust the seat height and footplate position to ensure proper alignment.
-2. Sit on the machine with your chest against the pad and your feet flat on the footplate.
-3. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-4. Keep your back straight and engage your core.
-5. Pull the handles towards your torso, squeezing your shoulder blades together.
-6. Pause for a moment at the peak contraction, then slowly release the handles back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Stand on the footplates of a lever T-bar row machine, facing the handles. Bend your knees and lean forward from your hips, back flat.
+2. Grip the handles with your arms straight, palms facing each other.
+3. Pull the handles up toward your stomach, bringing your elbows back past your body.
+4. Lower slowly until your arms are straight.
 
 ## Pro tips
 

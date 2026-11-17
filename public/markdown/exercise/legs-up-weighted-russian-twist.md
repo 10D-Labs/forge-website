@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The legs up weighted Russian twist is a core exercise that targets the abdominal muscles, particularly the obliques, while also engaging the hip flexors. The movement involves twisting the torso from side to side while holding a weight and keeping the legs elevated, which increases the challenge to balance and core stability. Intermediate core exercise using body weight. Targets abs, also works obliques, hip flexors.
+A Russian twist done holding a weight plate, with your legs raised off the floor and nearly straight. It works the abs, especially the obliques along your sides, and the front of your hips. Intermediate core exercise using weight plate. Targets abs, also works obliques, hip flexors.
 
 - **Body Part:** Core
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Obliques, Hip Flexors
 - **Difficulty:** Intermediate
@@ -15,12 +15,10 @@ The legs up weighted Russian twist is a core exercise that targets the abdominal
 
 ## How to perform
 
-1. Sit on the ground with your knees bent and feet lifted off the ground, keeping your legs together.
-2. Hold the weight with both hands in front of your chest, keeping your elbows slightly bent.
-3. Lean back slightly to engage your core muscles.
-4. Twist your torso to the right, bringing the weight towards the ground on your right side.
-5. Pause for a moment, then twist your torso to the left, bringing the weight towards the ground on your left side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Sit on the floor holding a weight plate with both hands in front of your chest, elbows slightly bent.
+2. Lean back and lift your legs off the floor, together and nearly straight, so your body makes a V shape.
+3. Twist your upper body to the right, bringing the plate toward the floor on your right side.
+4. Twist to the left, bringing the plate toward the floor on your left side. Keep alternating sides with your legs up.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Legs Up Weighted Russian Twist is rated as intermediate. Beginners should bu
 ## Related exercises
 
 - [More Core Exercises](https://forgetrainer.ai/exercises/core)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---

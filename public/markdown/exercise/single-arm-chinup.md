@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one arm chinup is a highly advanced bodyweight exercise that targets the latissimus dorsi (lats) and requires significant strength, coordination, and grip power. It is performed by pulling your body up to a bar using only one arm, with the other hand optionally supporting the wrist. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
+An advanced chinup done with one arm, your free hand holding the working wrist for support. It works the lats and takes a very strong grip. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -16,11 +16,10 @@ The one arm chinup is a highly advanced bodyweight exercise that targets the lat
 ## How to perform
 
 1. Stand facing a pullup bar with your feet shoulder-width apart.
-2. Reach up and grab the bar with an underhand grip, with one hand gripping the bar and the other hand holding your wrist for support.
-3. Hang from the bar with your arm fully extended, keeping your body straight and your core engaged.
-4. Pull yourself up towards the bar by bending your elbow and squeezing your back muscles.
-5. Continue pulling until your chin is above the bar, then slowly lower yourself back down to the starting position.
-6. Repeat for the desired number of repetitions, then switch arms and repeat.
+2. Reach up and grab the bar with one hand, palm facing you, and hold that wrist with your other hand for support.
+3. Hang with your arm straight and your body held straight and tight.
+4. Bend your elbow to pull yourself up until your chin is above the bar.
+5. Lower yourself slowly until your arm is straight. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

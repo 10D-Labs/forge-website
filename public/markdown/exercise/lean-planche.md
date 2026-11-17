@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lean planche is a challenging bodyweight exercise that targets the abdominal muscles while also engaging the shoulders, chest, and tricep. It requires significant core strength, balance, and upper body control as you lean your body forward in a plank-like position, shifting your weight past your hands. Advanced core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
+A pushup-position hold where you lean forward until your shoulders pass your hands, toes on the floor. It works the abs, with the shoulders, chest and triceps helping. Advanced core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -16,10 +16,10 @@ The lean planche is a challenging bodyweight exercise that targets the abdominal
 ## How to perform
 
 1. Start in a pushup position with your hands shoulder-width apart and your body straight.
-2. Engage your core and slowly shift your weight forward, bringing your shoulders past your hands.
-3. Keep your elbows slightly bent and your body straight as you lean forward.
-4. Hold this position for a few seconds, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+2. Tighten your abs and slowly lean forward until your shoulders are past your hands, toes still on the floor.
+3. Keep your elbows slightly bent and your body straight.
+4. Hold for the set time, keeping your body in a straight line.
+5. Lean back slowly to where you started.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline bicep curl is a strength exercise targeting the bicep, performed on an incline bench to increase the stretch and activation of the bicep muscle. It also engages the forearms as secondary muscles. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
+A two-dumbbell curl done sitting back on an incline bench, which stretches the biceps more at the bottom. It works the biceps, with help from the forearms. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,9 @@ The dumbbell incline bicep curl is a strength exercise targeting the bicep, perf
 
 ## How to perform
 
-1. Sit on an incline bench with a dumbbell in each hand, palms facing forward, and arms fully extended.
-2. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-3. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly begin to lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit back on an incline bench with a dumbbell in each hand, arms hanging straight and palms facing forward.
+2. Keep your upper arms still and curl both dumbbells up to shoulder level.
+3. Lower them slowly until your arms are straight.
 
 ## Pro tips
 

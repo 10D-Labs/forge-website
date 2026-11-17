@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell deadlift is a compound exercise targeting the glutes, with secondary emphasis on the hamstrings and lower back. It involves lifting dumbbells from the ground by hinging at the hips and extending through the legs and back. Beginner legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
+A deadlift with a dumbbell in each hand, lifted from beside your feet to standing. It works the glutes, with help from the hamstrings and lower back. Beginner legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell deadlift is a compound exercise targeting the glutes, with secondar
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, toes pointing forward.
-2. Hold a dumbbell in each hand, palms facing your body, arms extended downwards.
-3. Bend at your hips and knees, lowering the dumbbells towards the ground while keeping your back straight.
-4. Push through your heels and extend your hips and knees, lifting the dumbbells back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and toes pointing forward. Hold a dumbbell in each hand, arms straight down, palms facing your body.
+2. Bend at your hips and knees to lower the dumbbells toward the floor beside your feet. Keep your back straight.
+3. Push through your heels and straighten your hips and knees to stand back up.
 
 ## Pro tips
 

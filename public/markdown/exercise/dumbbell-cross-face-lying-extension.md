@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying extension (across face) is an isolation exercise targeting the tricep, performed lying on a bench while extending a dumbbell in an arc behind the head. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders.
+A lying triceps extension where you lower one dumbbell at a time across your face toward the opposite shoulder. It works the triceps. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell lying extension (across face) is an isolation exercise targeting th
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.
-2. Hold a dumbbell with both hands and extend your arms straight up above your chest, palms facing each other.
-3. Keeping your upper arms stationary, slowly lower the dumbbell in an arc behind your head until your forearms are parallel to the ground.
-4. Pause for a moment, then contract your triceps to bring the dumbbell back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench, feet flat on the floor.
+2. Hold a dumbbell in each hand straight up over your chest, palms facing your feet.
+3. Keep one upper arm still and bend that elbow to lower the dumbbell across your face toward your opposite shoulder. Keep the other arm straight up.
+4. Straighten your elbow to raise the dumbbell back up. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

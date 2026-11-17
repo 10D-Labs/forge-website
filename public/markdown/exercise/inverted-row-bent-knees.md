@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The inverted row with bent knees is a bodyweight exercise targeting the upper back. It involves pulling your chest towards a bar while keeping your body straight and your knees bent, making it more accessible than the straight leg version. Beginner back exercise using body weight. Targets upper back, also works biceps, forearms.
+A bodyweight row done hanging under a bar with your knees bent and feet flat, which makes it easier than the straight-leg version. It works the upper back. Beginner back exercise using body weight. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The inverted row with bent knees is a bodyweight exercise targeting the upper ba
 
 ## How to perform
 
-1. Set up a bar at waist height and lie underneath it.
-2. Grab the bar with an overhand grip, slightly wider than shoulder-width apart.
-3. Position your body so that your heels are on the ground and your body is straight.
-4. Pull your chest up towards the bar by squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set a bar in a rack at about waist height and lie on your back underneath it.
+2. Grab the bar with your palms facing toward your feet, hands slightly wider than shoulder-width apart.
+3. Bend your knees and plant your feet flat on the floor, keeping your body straight from knees to shoulders.
+4. Pull your chest up to the bar, pulling your shoulder blades together.
+5. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

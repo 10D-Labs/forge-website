@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying rear delt row targets the upper back and rear deltoids, performed while lying face down on a bench and rowing dumbbells upward. Intermediate back exercise using dumbbell. Targets upper back, also works shoulders, biceps.
+A two-dumbbell row done lying face down on an incline bench, so your chest is supported. It works the upper back and the backs of the shoulders. Intermediate back exercise using dumbbell. Targets upper back, also works shoulders, biceps.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell lying rear delt row targets the upper back and rear deltoids, perfo
 
 ## How to perform
 
-1. Lie face down on a flat bench with a dumbbell in each hand, palms facing inwards.
-2. Extend your arms straight down towards the floor, keeping a slight bend in your elbows.
-3. Engaging your back muscles, lift the dumbbells up towards your chest, squeezing your shoulder blades together.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie face down on an incline bench with your chest on the pad, holding a dumbbell in each hand, palms facing each other.
+2. Let your arms hang straight down toward the floor, with a slight bend in your elbows.
+3. Pull the dumbbells up toward your chest, pulling your shoulder blades together.
+4. Lower the dumbbells slowly until your arms hang straight again.
 
 ## Pro tips
 

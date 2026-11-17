@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The shoulder tap pushup is a bodyweight exercise that combines a standard pushup with an alternating shoulder tap at the top of each rep. This movement challenges the chest, tricep, and core while also requiring balance and coordination to stabilize the body during the shoulder tap. Intermediate chest exercise using body weight. Targets chest, also works triceps, core.
+A pushup with a tap to the opposite shoulder at the top of each rep. It works the chest and triceps, while your abs work to keep your hips steady during the tap. Intermediate chest exercise using body weight. Targets chest, also works triceps, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The shoulder tap pushup is a bodyweight exercise that combines a standard pushup
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line from head to heels.
-2. Lower your body towards the ground by bending your elbows, keeping them close to your sides.
-3. As you push back up, lift your right hand off the ground and tap your left shoulder.
-4. Return your right hand to the ground and repeat the pushup, this time lifting your left hand and tapping your right shoulder.
-5. Continue alternating shoulder taps with each pushup repetition.
-6. Maintain a stable core and avoid excessive hip rotation throughout the exercise.
-7. Repeat for the desired number of repetitions.
+1. Get into a pushup position with your arms straight, hands slightly wider than shoulder-width apart, and your body straight from head to heels.
+2. Bend your elbows to lower your chest toward the floor, keeping your elbows close to your sides.
+3. Push back up. At the top, lift your right hand, tap your left shoulder, and put the hand back down.
+4. Do the next pushup and tap your right shoulder with your left hand. Keep alternating sides, and keep your hips level as you tap.
 
 ## Pro tips
 

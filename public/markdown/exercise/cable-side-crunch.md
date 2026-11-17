@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable side crunch is an isolation exercise targeting the abdominal muscles, particularly the obliques, using a cable machine for resistance. It involves bending sideways at the waist to engage the core. Intermediate core exercise using cable. Targets abs, also works obliques.
+A standing side bend against a high cable, holding the handle by your head and crunching down toward the machine. It works the abs, especially the obliques on the side nearest the cable. Intermediate core exercise using cable. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable side crunch is an isolation exercise targeting the abdominal muscles, 
 
 ## How to perform
 
-1. Attach a cable handle to a low pulley and stand sideways to the machine.
-2. Grasp the handle with the hand furthest from the machine and place your other hand on your hip.
-3. Keep your feet shoulder-width apart and your knees slightly bent.
-4. With your abs engaged, bend sideways at the waist, bringing your elbow down towards your hip.
-5. Pause for a moment at the bottom, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Set a pulley at its highest point with a single handle. Stand side-on, right next to the machine, feet shoulder-width apart.
+2. Hold the handle beside your ear with your near hand, palm facing forward. Let your other arm hang at your side.
+3. Keeping your hand by your head, bend sideways toward the machine, pulling your elbow down toward your hip.
+4. Rise slowly back to upright. Do all your reps on one side, then switch.
 
 ## Pro tips
 

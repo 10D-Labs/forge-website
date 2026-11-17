@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The alternating narrow grip seated row is a machine-based exercise targeting the upper back, performed by alternately pulling each handle towards the torso while maintaining proper posture. Intermediate back exercise using machine. Targets upper back, also works biceps, forearms.
+A chest-supported machine row that pulls narrow handles one arm at a time. It works the upper back. Intermediate back exercise using machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,14 +15,10 @@ The alternating narrow grip seated row is a machine-based exercise targeting the
 
 ## How to perform
 
-1. Adjust the seat height and footplate position to ensure proper alignment.
-2. Sit on the machine with your back straight and feet flat on the footplate.
-3. Grasp the handles with a narrow grip, palms facing each other.
-4. Keep your chest up and shoulders back throughout the exercise.
-5. Pull one handle towards your torso while keeping the other handle stationary.
-6. Squeeze your shoulder blades together at the end of the movement.
-7. Slowly return the handle to the starting position and repeat with the other side.
-8. Continue alternating sides for the desired number of repetitions.
+1. Adjust the seat height and footplate to fit you. Sit with your chest against the pad and your feet flat on the footplate.
+2. Hold the narrow handles with your palms facing each other. Keep your chest up and your shoulders back.
+3. Pull one handle toward your body while the other stays still, squeezing your shoulder blades together.
+4. Let it return slowly until your arm is straight, then pull with the other arm. Keep alternating sides.
 
 ## Pro tips
 

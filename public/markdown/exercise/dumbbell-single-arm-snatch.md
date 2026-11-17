@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm snatch is a dynamic, full-body movement that targets the glutes, hamstrings, quadriceps, and core. It requires explosive power, coordination, and balance as you lift a dumbbell from the ground to overhead in one fluid motion. Advanced legs exercise using dumbbell. Targets glutes, also works hamstrings, quadriceps, core.
+An explosive move that lifts one dumbbell from the floor to overhead in one motion, driven by your hips and legs. It works the glutes, hamstrings and quads, plus the shoulders and abs. Advanced legs exercise using dumbbell. Targets glutes, also works hamstrings, quadriceps, core.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,14 +15,11 @@ The dumbbell one arm snatch is a dynamic, full-body movement that targets the gl
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand with an overhand grip.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight and chest up.
-3. Lower the dumbbell towards the ground, keeping it close to your body.
-4. Explosively extend your hips, knees, and ankles, driving the dumbbell upwards in a straight line.
-5. As the dumbbell reaches shoulder height, quickly rotate your hand and punch it overhead, fully extending your arm.
-6. Catch the dumbbell overhead with a slight bend in your knees and hips.
-7. Lower the dumbbell back down to the starting position in a controlled manner.
-8. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand, palm facing your body.
+2. Bend your knees slightly and lean forward from your hips, chest up and back straight. Lower the dumbbell toward the floor, close to your body.
+3. Straighten your hips, knees and ankles fast, driving the dumbbell straight up close to your body.
+4. Turn your hand as the dumbbell passes your shoulder and punch it overhead, catching it with your arm straight and your knees and hips slightly bent.
+5. Lower the dumbbell back down under control. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

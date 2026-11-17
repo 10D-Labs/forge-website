@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell glute bridge is a strength exercise that targets the glutes, with secondary emphasis on the hamstrings and lower back. It involves lifting the hips off the ground while supporting a barbell across the hips, requiring core engagement and proper form to ensure safety and effectiveness. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
+A glute bridge on the floor with a barbell across your hips for extra weight. It works the glutes, with help from the hamstrings and lower back. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell glute bridge is a strength exercise that targets the glutes, with se
 
 ## How to perform
 
-1. Start by lying flat on your back on the ground with your knees bent and feet flat on the floor.
-2. Place a barbell across your hips, holding it securely with both hands.
-3. Engage your glutes and core muscles, then lift your hips off the ground until your body forms a straight line from your knees to your shoulders.
-4. Pause for a moment at the top, squeezing your glutes.
-5. Slowly lower your hips back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back on the floor with your knees bent and your feet flat.
+2. Rest a barbell across your hips and hold it in place with both hands.
+3. Push your hips up until your body forms a straight line from your knees to your shoulders.
+4. Lower your hips slowly back to the floor.
 
 ## Pro tips
 

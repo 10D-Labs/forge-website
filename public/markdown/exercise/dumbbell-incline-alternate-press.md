@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline alternate press is a chest exercise performed on an incline bench, pressing dumbbells alternately to target the upper chest, shoulders, and tricep. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
+An incline dumbbell press done one arm at a time. It works the upper chest, with the shoulders and triceps helping. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell incline alternate press is a chest exercise performed on an incline
 
 ## How to perform
 
-1. Sit on an incline bench with a dumbbell in each hand, resting on your thighs.
-2. Lean back on the bench and use your thighs to help raise the dumbbells to shoulder height, palms facing forward.
-3. Once at shoulder height, rotate your wrists so that the palms of your hands are facing forward.
-4. Push the dumbbells up with your chest and shoulders, extending your arms fully.
-5. Lower the dumbbells back down to the starting position, keeping your elbows slightly bent.
-6. Repeat for the desired number of repetitions, alternating arms.
+1. Sit on an incline bench with a dumbbell in each hand, resting them on your thighs.
+2. Lean back and use your thighs to help lift the dumbbells to shoulder height, palms facing forward.
+3. Press one dumbbell up until your arm is straight.
+4. Lower it back to your shoulder, then press the other one. Keep alternating sides.
 
 ## Pro tips
 

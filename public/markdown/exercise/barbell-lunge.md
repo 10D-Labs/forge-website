@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell lunge is a compound lower body exercise that targets the glutes, quadriceps, hamstrings, and calves. It involves stepping forward with a barbell on your upper back and lowering your body into a lunge position before returning to standing. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A forward lunge with a barbell across your upper back, alternating legs. It works the glutes, plus the quads, hamstrings and calves. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell lunge is a compound lower body exercise that targets the glutes, qua
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and a barbell resting on your upper back.
-2. Take a step forward with your right foot, keeping your torso upright.
-3. Lower your body by bending your right knee until your thigh is parallel to the ground.
-4. Push through your right heel to return to the starting position.
-5. Repeat with your left leg, alternating legs for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a barbell resting across your upper back.
+2. Step forward with your right foot, keeping your upper body upright.
+3. Bend your right knee to lower your body until your right thigh is level with the floor.
+4. Push through your right heel to step back to standing, then lunge with your left leg. Keep alternating legs.
 
 ## Pro tips
 

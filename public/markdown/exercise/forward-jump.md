@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The forward jump is a plyometric exercise that targets the quadriceps and also works the calves, hamstrings, and glutes. It involves jumping forward explosively from a squat position and landing softly, then repeating the movement. Intermediate legs exercise using body weight. Targets quads, also works calves, hamstrings, glutes.
+A jump forward from a squat with an arm swing, landing softly and going straight into the next one. It works the quads, with the calves, hamstrings and glutes helping. Intermediate legs exercise using body weight. Targets quads, also works calves, hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -16,11 +16,9 @@ The forward jump is a plyometric exercise that targets the quadriceps and also w
 ## How to perform
 
 1. Stand with your feet shoulder-width apart.
-2. Bend your knees and lower your body into a squat position.
-3. Swing your arms back for momentum.
-4. Jump forward explosively, extending your hips, knees, and ankles.
-5. Land softly on the balls of your feet and immediately go into the next jump.
-6. Repeat for the desired number of repetitions.
+2. Bend your knees to lower into a squat and swing your arms back.
+3. Jump forward hard, straightening your hips, knees and ankles.
+4. Land softly on the balls of your feet, sinking into a squat, and go straight into the next jump.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell Romanian deadlift is a strength exercise targeting the glutes, hamstrings, and lower back. It involves hinging at the hips while holding dumbbells, emphasizing posterior chain development and hip hinge mechanics. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
+A dumbbell deadlift where you bend forward from your hips while your knees stay only slightly bent. It works the glutes, hamstrings and lower back. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,10 +15,10 @@ The dumbbell Romanian deadlift is a strength exercise targeting the glutes, hams
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.
-2. Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing your knees to bend slightly.
-3. Lower the dumbbells until you feel a stretch in your hamstrings, then push through your heels and engage your glutes to return to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand, palms facing behind you.
+2. Keep your back straight and bend forward from your hips, lowering the dumbbells toward the floor. Let your knees bend slightly.
+3. Stop when you feel a stretch in the backs of your thighs.
+4. Push through your heels and tighten your glutes to stand back up.
 
 ## Pro tips
 

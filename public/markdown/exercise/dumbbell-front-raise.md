@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell front raise is a shoulder exercise that targets the deltoid muscles, particularly the anterior (front) portion. It also engages the bicep and trapezius as secondary muscles. The movement involves lifting dumbbells in front of the body to shoulder height, focusing on controlled motion and proper form. Beginner shoulders exercise using dumbbell. Targets shoulders, also works biceps, trapezius.
+A standing raise that lifts two dumbbells straight out in front of you to shoulder height. It works the front of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works biceps, trapezius.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -16,9 +16,8 @@ The dumbbell front raise is a shoulder exercise that targets the deltoid muscles
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.
-2. Keeping your arms straight, exhale and lift the dumbbells in front of you until they are at shoulder level.
-3. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position.
-4. Repeat for the desired number of repetitions.
+2. Keep your arms straight and lift both dumbbells in front of you to shoulder height.
+3. Lower them slowly back to your thighs.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell bent over row is a compound exercise targeting the upper back, performed by hinging at the hips and pulling dumbbells towards the chest while maintaining a straight back. Intermediate back exercise using dumbbell. Targets upper back, also works biceps, forearms.
+A row done bent forward at the hips, pulling a dumbbell in each hand up toward your chest. It works the upper back. Intermediate back exercise using dumbbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell bent over row is a compound exercise targeting the upper back, perf
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, knees slightly bent, and hold a dumbbell in each hand with your palms facing your body.
-2. Bend forward at the hips, keeping your back straight and your core engaged.
-3. Let your arms hang straight down towards the floor, with your elbows slightly bent.
-4. Pull the dumbbells up towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and knees slightly bent, holding a dumbbell in each hand with your palms facing your body.
+2. Bend forward at the hips with your back straight. Let your arms hang straight down, elbows slightly bent.
+3. Pull the dumbbells up toward your chest.
+4. Lower them slowly until your arms hang straight again.
 
 ## Pro tips
 

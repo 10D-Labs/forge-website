@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell low bar squat is a compound lower body exercise that targets the glutes, with significant involvement of the quadriceps, hamstrings, and calves. It is performed with a barbell positioned lower on the back (across the rear deltoids), requiring good technique, core stability, and hip mobility. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A back squat with the barbell sitting lower on your back, across the backs of your shoulders. It works the glutes, with help from the quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell low bar squat is a compound lower body exercise that targets the glu
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and the barbell resting on your upper back.
-2. Keeping your chest up and core engaged, slowly lower your body by bending your knees and pushing your hips back.
-3. Continue lowering until your thighs are parallel to the ground or slightly below.
-4. Pause for a moment, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a barbell resting low on your upper back, across the backs of your shoulders.
+2. Keep your chest up, push your hips back and bend your knees.
+3. Lower until your thighs are level with the floor or a little below.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

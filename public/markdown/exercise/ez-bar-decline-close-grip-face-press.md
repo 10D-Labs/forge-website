@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar decline close grip face press is a tricep-focused exercise performed on a decline bench using an EZ bar. It also engages the chest and shoulders as secondary muscles. The movement requires control and proper form to avoid injury, especially due to the bar path near the face and the decline position. Intermediate arms exercise using ez bar. Targets triceps, also works chest, shoulders.
+A close-grip EZ bar press done head-down on a decline bench, lowering the bar toward your face. It works the triceps, with some help from the chest and shoulders. Intermediate arms exercise using ez bar. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,12 +15,11 @@ The EZ bar decline close grip face press is a tricep-focused exercise performed 
 
 ## How to perform
 
-1. Lie on a decline bench with your head lower than your feet.
-2. Grasp the ez barbell with a close grip, palms facing each other.
-3. Extend your arms straight up above your chest, keeping your elbows close to your body.
-4. Lower the barbell towards your forehead by bending your elbows.
-5. Pause for a moment, then press the barbell back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on a decline bench with your head lower than your feet and your legs hooked under the leg pads.
+2. Hold an EZ bar with your hands close together on the inner bends, palms facing toward your feet.
+3. Press the bar straight up over your chest, keeping your elbows close to your body.
+4. Bend your elbows to lower the bar toward your face.
+5. Press it back up until your arms are straight.
 
 ## Pro tips
 

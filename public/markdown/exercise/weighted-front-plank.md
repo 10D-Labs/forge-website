@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The weighted front plank is a core stability exercise that increases the challenge of the traditional plank by adding external weight, requiring greater strength and endurance from the abdominal muscles, shoulders, and lower back. Intermediate core exercise using weight plate. Targets abs, also works shoulders, lower back.
+A forearm plank with a weight plate on your upper back for extra load. It works the abs, with help from the shoulders and lower back. Intermediate core exercise using weight plate. Targets abs, also works shoulders, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Weight Plate
@@ -15,13 +15,10 @@ The weighted front plank is a core stability exercise that increases the challen
 
 ## How to perform
 
-1. Start by lying face down on the floor.
-2. Place your forearms on the ground, with your elbows directly under your shoulders.
-3. Have a partner place a weight plate on your upper back, or position it yourself before getting into position.
-4. Extend your legs straight out behind you, with your toes on the ground.
-5. Engage your core and lift your body off the ground, balancing on your forearms and toes.
-6. Keep your body in a straight line from your head to your heels.
-7. Hold this position for your target duration.
+1. Lie face down with your forearms on the floor and your elbows under your shoulders.
+2. Have a partner place a weight plate on your upper back, or set it there yourself before you lift.
+3. Straighten your legs behind you with your toes on the floor.
+4. Lift your body so you rest on your forearms and toes, straight from your head to your heels. Hold for the set time.
 
 ## Pro tips
 

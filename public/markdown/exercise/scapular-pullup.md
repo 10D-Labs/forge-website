@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The scapular pullup is a bodyweight exercise that targets the trapezius muscles and helps improve scapular control and shoulder stability. It is performed by hanging from a pullup bar and retracting the shoulder blades without bending the elbows. Beginner back exercise using body weight. Targets traps, also works biceps, rhomboids, rear deltoids.
+A small pull from a straight-arm hang where only your shoulder blades move, not your elbows. It works the traps across your upper back and builds shoulder control. Beginner back exercise using body weight. Targets traps, also works biceps, rhomboids, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The scapular pullup is a bodyweight exercise that targets the trapezius muscles 
 
 ## How to perform
 
-1. Start by hanging from a pullup bar with your palms facing away from you and your arms fully extended.
-2. Retract your shoulder blades by pulling them down and back.
-3. Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.
-4. Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Grab a pullup bar with your palms facing away from you and hang with your arms straight.
+2. Pull your shoulder blades down and together so your body rises a little. Keep your arms straight the whole time.
+3. Let your shoulders rise slowly back toward your ears until you're in a full hang again.
 
 ## Pro tips
 

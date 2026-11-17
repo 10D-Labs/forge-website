@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kneeling plank tap shoulder is a core stability exercise that targets the abs while also engaging the shoulders and tricep. It requires maintaining a stable plank position while alternately tapping each shoulder with the opposite hand, challenging balance and coordination. Beginner core exercise using body weight. Targets abs, also works shoulders, triceps.
+A forearm plank on your knees that rocks forward into a tap on the opposite shoulder. It works the abs, with the shoulders and triceps holding you up. Beginner core exercise using body weight. Targets abs, also works shoulders, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The kneeling plank tap shoulder is a core stability exercise that targets the ab
 
 ## How to perform
 
-1. Start in a kneeling position with your hands on the ground, shoulder-width apart.
-2. Extend your legs behind you, resting on your toes, and lift your body into a plank position.
-3. Keeping your core engaged and your hips stable, lift one hand off the ground and tap the opposite shoulder.
-4. Return the hand to the ground and repeat with the other hand.
-5. Continue alternating sides for the desired number of repetitions.
+1. Kneel and rest your forearms on the floor under your shoulders, hands in loose fists, with your hips raised higher than your shoulders.
+2. Rock forward and lower your hips until your body forms a straight line from your knees to your head.
+3. Lift one hand and tap the opposite shoulder, keeping your hips level.
+4. Put that forearm back down and push your hips back up. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell alternating hang clean is a dynamic exercise targeting the forearms, with significant involvement of the shoulders, traps, and core. It requires coordination, explosive power, and proper technique to safely transition the kettlebell from the hang to the rack position while alternating arms. Intermediate arms exercise using kettlebell. Targets forearms, also works shoulders, traps, core.
+A kettlebell clean done one arm at a time, pulling each bell from in front of your thighs up to rest at your shoulder. It works the forearms, plus the shoulders, upper back and core. Intermediate arms exercise using kettlebell. Targets forearms, also works shoulders, traps, core.
 
 - **Body Part:** Arms
 - **Equipment:** Kettlebell
@@ -15,13 +15,10 @@ The kettlebell alternating hang clean is a dynamic exercise targeting the forear
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand with an overhand grip.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight and chest up.
-3. Allow the kettlebells to hang in front of your body with your arms fully extended.
-4. In one fluid motion, explosively extend your hips, shrug your shoulders, and pull the kettlebells up towards your shoulders.
-5. As the kettlebells reach shoulder height, rotate your wrists and catch the kettlebells in the rack position, with your palms facing inward and the kettlebells resting on the outside of your forearms.
-6. Lower the kettlebells back down to the starting position and repeat the movement with the opposite arm.
-7. Continue alternating arms for the desired number of repetitions.
+1. Stand tall with your feet shoulder-width apart, holding a kettlebell in each hand in front of your thighs, palms facing your body.
+2. Shrug and pull one kettlebell up toward your shoulder.
+3. Turn your wrist to catch it at your shoulder, palm facing in, with the kettlebell resting on the outside of your forearm.
+4. Lower it back down, then clean the other kettlebell. Keep alternating sides.
 
 ## Pro tips
 

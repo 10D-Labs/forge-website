@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The stalder press is a challenging bodyweight exercise that primarily targets the tricep, while also engaging the shoulders and core. It involves a combination of squatting and pressing movements, requiring significant strength, balance, and coordination. Advanced arms exercise using body weight. Targets triceps, also works shoulders, core.
+An advanced gymnastics move: lower from a handstand into a low, wide-legged support on your hands, then press back up to the handstand. It works the triceps and shoulders, with the core holding the shape. Advanced arms exercise using body weight. Targets triceps, also works shoulders, core.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The stalder press is a challenging bodyweight exercise that primarily targets th
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and your arms extended overhead.
-2. Bend your knees slightly and engage your core.
-3. Lower your body down into a squat position while keeping your arms extended overhead.
-4. As you squat down, press your arms down towards the ground, engaging your triceps.
-5. Pause for a moment at the bottom of the squat, then push through your heels to stand back up while simultaneously raising your arms back overhead.
-6. Repeat for the desired number of repetitions.
+1. Place your hands flat on the floor shoulder-width apart and kick up into a handstand, arms straight and legs together.
+2. Spread your legs wide and lower them slowly out to the sides, keeping your arms and legs straight.
+3. Keep lowering until your hips are just above the floor behind your hands, legs still straight and wide.
+4. Lean your shoulders forward over your hands and press your hips back up, raising your legs until you're back in a handstand with legs together.
 
 ## Pro tips
 

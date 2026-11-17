@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The L-sit on floor is a challenging core exercise that targets the abdominal muscles and hip flexors. It requires significant core strength, balance, and coordination to lift and hold the legs parallel to the floor while supporting the body with the arms. Advanced core exercise using body weight. Targets abs, also works hip flexors.
+A seated hold with your hands beside your hips and your straight legs lifted level with the floor. It works the abs and the muscles at the front of your hips. Advanced core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,11 @@ The L-sit on floor is a challenging core exercise that targets the abdominal mus
 
 ## How to perform
 
-1. Sit on the floor with your legs extended in front of you.
+1. Sit on the floor with your legs straight out in front of you.
 2. Place your hands on the floor beside your hips, fingers pointing forward.
-3. Engage your core and lift your legs off the ground, keeping them straight.
-4. Try to bring your legs parallel to the floor, forming an 'L' shape with your body.
-5. Hold this position for as long as you can.
-6. Slowly lower your legs back down to the starting position.
-7. Repeat for the desired number of repetitions.
+3. Tighten your abs and lift your straight legs off the floor, aiming to get them level with the floor so your body makes an L.
+4. Hold as long as you can.
+5. Lower your legs slowly back to the floor.
 
 ## Pro tips
 

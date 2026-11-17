@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable concentration curl is an isolation exercise targeting the bicep, performed with a cable machine while seated. It emphasizes strict form and muscle contraction by bracing the upper arm against the thigh. Beginner arms exercise using cable. Targets biceps, also works forearms.
+A one-arm curl from a low cable, done sitting with your elbow braced against your thigh. It works the biceps. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable concentration curl is an isolation exercise targeting the bicep, perfo
 
 ## How to perform
 
-1. Sit on a bench or chair with your feet flat on the floor and your knees slightly bent.
-2. Hold the cable handle with an underhand grip and rest your elbow against the inside of your thigh.
-3. Keeping your upper arm stationary, exhale and curl the cable handle towards your shoulder while contracting your biceps.
-4. Pause for a moment at the top of the movement, then inhale and slowly lower the cable handle back to the starting position.
-5. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on a bench at a low pulley with your feet flat on the floor.
+2. Hold the handle in one hand, palm facing up, and rest that elbow against the inside of your thigh.
+3. Keep your upper arm still and curl the handle up toward your shoulder.
+4. Lower it slowly until your arm is straight. Do all your reps, then switch arms.
 
 ## Pro tips
 

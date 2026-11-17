@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Korean dips are a challenging bodyweight exercise performed on parallel bars, targeting the pectorals, tricep, and shoulders. The movement requires significant upper body strength, shoulder mobility, and stability, as the body is lowered deeply between the bars before pressing back up. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A dip with your hands on a bar behind your back, leaning forward as you lower. It works the lower chest, front shoulders and triceps. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,10 +15,10 @@ Korean dips are a challenging bodyweight exercise performed on parallel bars, ta
 
 ## How to perform
 
-1. Position yourself between two parallel bars with your arms extended and supporting your body weight.
-2. Lower your body by bending your elbows until your upper arms are parallel to the ground.
-3. Pause for a moment, then push yourself back up to the starting position by straightening your arms.
-4. Repeat for the desired number of repetitions.
+1. Stand with your back to one bar of a dip station. Reach behind you and grip it with your hands shoulder-width apart, palms facing down.
+2. Press up until your arms are straight and your feet are off the floor, body upright in front of the bar.
+3. Bend your elbows and lean forward, letting your legs swing back under the bar, until your upper arms are level with the floor.
+4. Push through your hands to straighten your arms and return upright.
 
 ## Pro tips
 

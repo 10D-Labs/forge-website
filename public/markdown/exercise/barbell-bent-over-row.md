@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell bent over row is a compound exercise targeting the upper back, requiring the lifter to hinge at the hips and pull a barbell towards the torso. It develops strength and muscle mass in the upper back, bicep, and forearms, and demands good posture and core stability. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
+A barbell row done bent forward at the hips, pulling the bar up to your lower chest. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell bent over row is a compound exercise targeting the upper back, requi
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and knees slightly bent.
-2. Bend forward at the hips while keeping your back straight and chest up.
-3. Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-4. Pull the barbell towards your lower chest by retracting your shoulder blades and squeezing your back muscles.
-5. Pause for a moment at the top, then slowly lower the barbell back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your knees slightly bent.
+2. Bend forward at the hips, keeping your back straight and your chest up.
+3. Grip the barbell with your palms facing down, hands slightly wider than shoulder-width apart.
+4. Pull the bar up to your lower chest, squeezing your shoulder blades together.
+5. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

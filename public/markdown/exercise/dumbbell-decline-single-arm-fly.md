@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell decline one arm fly is a unilateral chest exercise performed on a decline bench, targeting the pectoral muscles and also engaging the shoulders. It requires good control and stability to perform safely, especially due to the decline angle and single arm movement. Advanced chest exercise using dumbbell. Targets chest, also works shoulders.
+A one-arm fly on a decline bench: you lower a dumbbell out to the side and sweep it back up. It works the lower chest, with help from the shoulders. Advanced chest exercise using dumbbell. Targets chest, also works shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell decline one arm fly is a unilateral chest exercise performed on a d
 
 ## How to perform
 
-1. Lie down on a decline bench with a dumbbell in one hand, resting it on your thigh.
-2. Using your thigh to help raise the dumbbell, lift it up to shoulder width with your palm facing your torso.
-3. Rotate your wrist so that the palm of your hand is facing forward.
-4. As you breathe in, lower the dumbbell slowly to the side until you feel a stretch in your chest.
-5. Exhale and use your chest muscles to bring the dumbbell back up to the starting position.
-6. Repeat for the desired number of repetitions, then switch arms.
+1. Lie on a decline bench with your head at the low end, holding a dumbbell in one hand on your thigh.
+2. Use your thigh to help lift the dumbbell up over your chest, arm straight and palm facing in toward your body.
+3. Lower the dumbbell slowly out to your side in a wide arc until you feel a stretch in your chest.
+4. Sweep it back up the same way until it's over your chest. Do all your reps on one side, then switch.
 
 ## Pro tips
 

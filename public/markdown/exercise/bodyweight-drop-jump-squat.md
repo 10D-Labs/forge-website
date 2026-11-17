@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bodyweight drop jump squat is a plyometric exercise targeting the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves explosive jumping and rapid foot movement, challenging coordination, power, and lower body strength. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A jump squat where you land with your feet together, then hop them apart and drop back into a deep squat. It works the glutes, with the quads, hamstrings and calves helping. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -16,11 +16,10 @@ The bodyweight drop jump squat is a plyometric exercise targeting the glutes, wi
 ## How to perform
 
 1. Stand with your feet shoulder-width apart.
-2. Lower your body into a squat position by bending your knees and pushing your hips back.
-3. Jump up explosively, extending your hips, knees, and ankles.
-4. While in mid-air, quickly bring your feet together.
-5. Land softly on the balls of your feet and immediately drop back into a squat position.
-6. Repeat for the desired number of repetitions.
+2. Bend your knees and push your hips back to lower into a deep squat.
+3. Jump up hard, straightening your hips, knees and ankles, and bring your feet together in the air.
+4. Land softly on the balls of your feet with your feet together.
+5. Hop your feet back out to shoulder-width and drop straight into the squat again.
 
 ## Pro tips
 

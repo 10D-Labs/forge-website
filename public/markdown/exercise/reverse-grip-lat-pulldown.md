@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The reverse grip lat pulldown is a machine-based exercise targeting the latissimus dorsi (lats) with a reverse (underhand) grip, also engaging the bicep, rhomboids, and rear deltoids. It is performed on a machine, making it accessible and safe for most users. Beginner back exercise using machine. Targets lats, also works biceps, rhomboids, rear deltoids.
+A plate-loaded lever pulldown done with your palms facing you. It works the lats, with help from the biceps and upper back. Beginner back exercise using machine. Targets lats, also works biceps, rhomboids, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The reverse grip lat pulldown is a machine-based exercise targeting the latissim
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your knees under the pads and your feet flat on the ground.
-2. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-3. Sit upright with your chest out and shoulders back, maintaining a slight arch in your lower back.
-4. Pull the handles down towards your chest, leading with your elbows and squeezing your shoulder blades together.
-5. Pause for a moment at the bottom of the movement, then slowly release the handles back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit in the lever pulldown machine with your thighs under the pad and your feet flat.
+2. Reach up and hold the handles with your palms facing you.
+3. Pull the handles down, bringing your elbows down to your sides, until your hands reach your shoulders.
+4. Let the handles rise slowly until your arms are straight overhead.
 
 ## Pro tips
 

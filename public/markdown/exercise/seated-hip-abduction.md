@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated hip abduction is a machine-based exercise that targets the hip abductor muscles. It is performed while seated, pushing the legs apart against resistance provided by the machine. Beginner legs exercise using machine. Targets abductors, also works glutes, hamstrings.
+A seated machine exercise where you push your knees apart against pads on the outsides of your thighs. It works the outer hips. Beginner legs exercise using machine. Targets abductors, also works glutes, hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The seated hip abduction is a machine-based exercise that targets the hip abduct
 
 ## How to perform
 
-1. Adjust the seat height so that your knees are at a 90 degree angle.
-2. Sit on the machine with your back against the backrest and your feet on the footrests.
-3. Place your hands on the side handles for stability.
-4. Engage your abductors and slowly push your legs apart, away from the midline of your body.
-5. Pause for a moment at the end of the movement, then slowly bring your legs back together to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Adjust the seat so your knees bend at a right angle. Sit with your back against the backrest and your feet on the footrests.
+2. Rest the outsides of your thighs against the pads and hold the side handles to keep steady.
+3. Push your knees apart slowly against the pads.
+4. Bring your legs slowly back together.
 
 ## Pro tips
 

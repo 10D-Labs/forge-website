@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The upper back stretch is a bodyweight exercise designed to stretch and mobilize the upper back and shoulders. It is performed by extending the arms, interlacing the fingers, and raising the arms overhead while squeezing the shoulder blades together. Beginner back exercise using body weight. Targets upper back, also works shoulders.
+A standing stretch where you push your clasped hands forward at shoulder height and round your upper back. It stretches the upper back and the backs of the shoulders. Beginner back exercise using body weight. Targets upper back, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The upper back stretch is a bodyweight exercise designed to stretch and mobilize
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart.
-2. Extend your arms straight in front of you, parallel to the ground.
-3. Interlace your fingers and rotate your palms away from your body.
-4. Slowly raise your arms overhead, keeping them straight and parallel to each other.
-5. As you raise your arms, squeeze your shoulder blades together.
-6. Hold the stretch for 15-30 seconds, then release and repeat.
+1. Stand tall with your feet hip-width apart and your arms at your sides.
+2. Raise both arms straight in front of you to shoulder height and lace your fingers together.
+3. Push your hands forward and let your upper back round, so your shoulder blades spread apart.
+4. Hold for the set time, then let go and lower your arms back to your sides.
 
 ## Pro tips
 

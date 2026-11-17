@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell full can lateral raise is a shoulder exercise that targets the deltoids and also engages the traps and rotator cuff. It involves raising dumbbells to the sides with a slight bend in the elbows, mimicking the motion of pouring from a can, which helps reduce shoulder impingement risk. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, rotator cuff.
+A side raise with your thumbs turned up, so your palms face forward at the top. It works the sides of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, rotator cuff.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell full can lateral raise is a shoulder exercise that targets the delt
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your body.
-2. Keep your back straight and engage your core.
-3. Raise your arms out to the sides, keeping a slight bend in your elbows, until they are parallel to the ground.
-4. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall with a dumbbell in each hand at your sides, palms facing your thighs.
+2. Keep your arms nearly straight. As you lift, turn your hands so your thumbs point up.
+3. Raise the dumbbells out to the sides until your arms are level with your shoulders, palms facing forward.
+4. Lower them slowly back to your sides.
 
 ## Pro tips
 

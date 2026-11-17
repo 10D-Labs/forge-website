@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hack calf raise is a lower leg exercise performed on a leg press machine, primarily targeting the calves. It involves raising and lowering the heels while standing on the platform, focusing on calf muscle contraction. Beginner legs exercise using machine. Targets calves, also works hamstrings, glutes.
+A calf raise done in a hack squat machine, with your back against the pad and the weight on your shoulders. It works the calves. Beginner legs exercise using machine. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The hack calf raise is a lower leg exercise performed on a leg press machine, pr
 
 ## How to perform
 
-1. Adjust the leg press machine to a comfortable weight.
-2. Stand on the leg press machine with your toes on the platform and your heels hanging off.
-3. Hold onto the handles for stability.
-4. Raise your heels as high as possible by pushing through the balls of your feet.
-5. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand in a hack squat machine with your back against the pad, shoulders under the shoulder pads, and feet hip-width apart on the platform.
+2. Hold the handles by your shoulders and stand with your legs straight.
+3. Keep your legs straight and push through the balls of your feet to raise your heels as high as you can.
+4. Lower your heels slowly back down.
 
 ## Pro tips
 

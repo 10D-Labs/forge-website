@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pullup is a bodyweight exercise that primarily targets the latissimus dorsi muscles of the back. It also engages the bicep and forearms as secondary muscles. The movement requires significant upper body strength, coordination, and control, making it a challenging exercise for many individuals. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
+A bodyweight exercise, hanging from a bar with your palms facing away and pulling your chest up toward it. It works the lats, with help from the biceps and forearms. Advanced back exercise using body weight. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The pullup is a bodyweight exercise that primarily targets the latissimus dorsi 
 
 ## How to perform
 
-1. Hang from a pullup bar with your palms facing away from you and your arms fully extended.
-2. Engage your core and squeeze your shoulder blades together.
-3. Pull your body up towards the bar by bending your elbows and bringing your chest towards the bar.
-4. Pause at the top of the movement, then slowly lower your body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your palms facing away from you and your arms straight.
+2. Pull your shoulder blades together and tighten your abs.
+3. Bend your elbows to pull your chest up toward the bar.
+4. Lower yourself slowly until your arms are straight again.
 
 ## Pro tips
 

@@ -10,8 +10,8 @@
 
 ### Body Weight (3 exercises)
 
-- **Side Hip Abduction** — Beginner | Body Part: Legs
-- **Straight Leg Outer Hip Abductor** — Beginner | Body Part: Legs
+- **Side Lying Hip Abduction** — Beginner | Body Part: Legs
+- **Standing Cross Leg Outer Hip Stretch** — Beginner | Body Part: Legs
 - **Side Bridge Hip Abduction** — Intermediate | Body Part: Legs
 
 ### Machine (1 exercise)
@@ -28,7 +28,7 @@
 
 Get a personalized workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

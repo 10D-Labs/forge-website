@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith machine bicep curl is a strength exercise targeting the bicep, performed using a smith machine for guided movement. It is suitable for those looking to build arm strength and muscle mass with added stability from the machine. Beginner arms exercise using smith machine. Targets biceps, also works forearms.
+A standing barbell curl in a Smith machine, with the bar moving on a fixed track. It works the biceps. Beginner arms exercise using smith machine. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Smith Machine
@@ -15,14 +15,10 @@ The smith machine bicep curl is a strength exercise targeting the bicep, perform
 
 ## How to perform
 
-1. Adjust the height of the smith machine bar to be at waist level.
-2. Stand facing the smith machine with your feet shoulder-width apart.
-3. Grasp the bar with an underhand grip, hands slightly wider than shoulder-width apart.
-4. Keep your elbows close to your sides and your upper arms stationary.
-5. Exhale and curl the bar up towards your shoulders, contracting your biceps.
-6. Pause for a moment at the top of the movement, squeezing your biceps.
-7. Inhale and slowly lower the bar back down to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Set the Smith machine bar at waist height and stand facing it, feet shoulder-width apart.
+2. Hold the bar with your palms facing forward, hands a little wider than your shoulders.
+3. Keep your elbows close to your sides and curl the bar up toward your shoulders.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

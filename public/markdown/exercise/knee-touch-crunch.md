@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The knee touch crunch is a bodyweight abdominal exercise that targets the abs and also engages the hip flexors. It involves alternating reaching across the body to touch the opposite knee while performing a crunch motion. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A crunch where you slide both hands up your thighs to touch your knees. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The knee touch crunch is a bodyweight abdominal exercise that targets the abs an
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, lift your shoulder blades off the ground and reach your right hand towards your left knee.
-4. Return to the starting position and repeat, this time reaching your left hand towards your right knee.
-5. Continue alternating sides for the desired number of repetitions.
+1. Lie on your back with your knees bent and feet flat on the floor. Rest your hands on the tops of your thighs.
+2. Curl your head and shoulders off the floor, sliding your hands up your thighs until your fingertips reach your knees.
+3. Lower slowly until your shoulders are back on the floor.
 
 ## Pro tips
 

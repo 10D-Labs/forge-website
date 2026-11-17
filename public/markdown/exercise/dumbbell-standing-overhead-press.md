@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing overhead press is a compound exercise targeting the deltoids, performed by pressing dumbbells overhead from shoulder height while standing. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, upper back.
+A shoulder press done standing, pushing two dumbbells overhead from shoulder height. It works the front of the shoulders. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell standing overhead press is a compound exercise targeting the deltoi
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level with your palms facing forward.
-2. Press the dumbbells upward until your arms are fully extended overhead.
-3. Pause for a moment at the top, then slowly lower the dumbbells back down to shoulder level.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level, palms facing forward.
+2. Press the dumbbells up until your arms are straight overhead.
+3. Lower them slowly back to shoulder level.
 
 ## Pro tips
 

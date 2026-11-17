@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The jump squat is a plyometric exercise that targets the glutes and also works the quadriceps, hamstrings, and calves. It involves squatting down and then jumping explosively, making it effective for building lower body power and explosiveness. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat that ends in a jump, using just your body weight. It builds leg power and works the glutes, with help from the quads, hamstrings and calves. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -16,11 +16,9 @@ The jump squat is a plyometric exercise that targets the glutes and also works t
 ## How to perform
 
 1. Stand with your feet shoulder-width apart.
-2. Lower your body into a squat position by bending your knees and pushing your hips back.
-3. Jump explosively off the ground, extending your hips, knees, and ankles.
-4. While in mid-air, quickly bring your arms forward for balance.
-5. Land softly on the balls of your feet and immediately go into the next repetition.
-6. Repeat for the desired number of repetitions.
+2. Bend your knees and push your hips back to lower into a squat, bringing your hands together in front of your chest.
+3. Jump up as hard as you can, straightening your hips, knees and ankles and swinging your arms down to your sides.
+4. Land softly on the balls of your feet and go straight into the next squat.
 
 ## Pro tips
 

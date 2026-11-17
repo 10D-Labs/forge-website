@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith rear delt row is a machine-based exercise targeting the rear deltoids, with secondary emphasis on the trapezius, rhomboids, and bicep. It involves pulling a bar towards your chest while keeping your chest against a pad, focusing on squeezing the shoulder blades together. Beginner shoulders exercise using smith machine. Targets shoulders, also works trapezius, rhomboids, biceps.
+A bent-over row on a Smith machine with a wide grip and your elbows pointing out to the sides. It works the backs of the shoulders and the upper back. Beginner shoulders exercise using smith machine. Targets shoulders, also works trapezius, rhomboids, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Smith Machine
@@ -15,11 +15,10 @@ The smith rear delt row is a machine-based exercise targeting the rear deltoids,
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the ground.
-2. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-3. Keep your back straight and your core engaged as you pull the handles towards your chest, squeezing your shoulder blades together.
-4. Pause for a moment at the top of the movement, then slowly release the handles back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand facing a Smith machine bar set at knee height, feet hip-width apart. Grip it wider than shoulder-width, palms facing your legs.
+2. Unhook the bar, bend your knees slightly, and lean forward from your hips to about 45 degrees. Keep your back flat.
+3. Pull the bar up toward your body with your elbows pointing out to the sides, until your upper arms are level with your back.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

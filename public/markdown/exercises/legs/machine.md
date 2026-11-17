@@ -2,51 +2,43 @@
 
 ## Quick Answer
 
-33 effective leg exercises you can do with machine. Complete instructions and form tips included.
+25 effective leg exercises you can do with machine. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 25 Beginner | 8 Intermediate | 0 Advanced
+**Difficulty breakdown:** 18 Beginner | 7 Intermediate | 0 Advanced
 
 ---
 
 ## All Leg Machine Exercises
 
-### Beginner (25 exercises)
+### Beginner (18 exercises)
 
-- **Leg Extension** — Target: Quads | Secondary: Hamstrings
+- **Leg Extension** — Target: Quads
 - **Lying Leg Curl** — Target: Hamstrings | Secondary: Calves
 - **Seated Leg Curl** — Target: Hamstrings | Secondary: Calves
 - **Standing Calf Raise** — Target: Calves | Secondary: Soleus, Ankle Stabilizers
 - **Leg Press** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
-- **Deadlift** — Target: Glutes | Secondary: Hamstrings, Quadriceps
+- **Machine Deadlift** — Target: Glutes | Secondary: Hamstrings, Quadriceps
 - **Seated Calf Raise** — Target: Calves | Secondary: Soleus, Ankle Stabilizers
 - **Forward Angled Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
 - **Lying Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Machine Donkey Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
 - **Hack Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
-- **Seated Squat Calf Raise on Leg Press Machine** — Target: Calves | Secondary: Quadriceps, Hamstrings, Glutes
-- **Calf Press on Leg Press** — Target: Calves | Secondary: Hamstrings, Quadriceps
+- **Seated Leg Press** — Target: Quads | Secondary: Hamstrings, Glutes
 - **Seated Hip Abduction** — Target: Abductors | Secondary: Glutes, Hamstrings
 - **Seated Hip Adduction** — Target: Adductors | Secondary: Hamstrings, Glutes
 - **Calf Raise on Leg Press** — Target: Calves | Secondary: Hamstrings
-- **Lying Calves Stretch** — Target: Calves | Secondary: Hamstrings
-- **Lying Glutes Stretch** — Target: Glutes | Secondary: Hamstrings
-- **Lying Gluteus and Piriformis Stretch** — Target: Glutes | Secondary: Hamstrings
-- **Side Lying Adductor Stretch** — Target: Adductors | Secondary: Hamstrings, Glutes
 - **Alternate Leg Press** — Target: Quads | Secondary: Hamstrings, Glutes
 - **Calf Press** — Target: Calves | Secondary: Hamstrings
-- **Seated Calf Press** — Target: Calves | Secondary: Soleus, Hamstrings
-- **Prone Hamstring** — Target: Hamstrings | Secondary: Glutes, Lower Back
-- **Prone Lying Quads Stretch** — Target: Quads | Secondary: Hamstrings, Glutes
+- **Seated Calf Press** — Target: Calves | Secondary: Soleus
 
-### Intermediate (8 exercises)
+### Intermediate (7 exercises)
 
 - **Reverse Hyperextension** — Target: Glutes | Secondary: Hamstrings, Lower Back
-- **Closer Hack Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
+- **Close Stance Hack Squat** — Target: Quads | Secondary: Glutes, Hamstrings, Calves
 - **Hack Squat** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Hack Single Leg Calf Raise** — Target: Calves | Secondary: Hamstrings, Glutes
 - **Single Leg Press** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
 - **Horizontal Single Leg Press** — Target: Glutes | Secondary: Quadriceps, Hamstrings, Calves
-- **Seated Good Morning** — Target: Glutes | Secondary: Hamstrings, Lower Back
 - **Single Leg Calf Press on Leg Press** — Target: Calves | Secondary: Hamstrings, Glutes
 
 ---
@@ -55,7 +47,7 @@
 
 Our AI trainers design personalized leg workout plans using machine. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

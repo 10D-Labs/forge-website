@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The bus driver is a shoulder exercise that targets the deltoids while also engaging the tricep and upper back. It involves lifting weights in a controlled, circular motion, which requires good form and coordination. Intermediate shoulders exercise using body weight. Targets shoulders, also works triceps, upper back.
+A shoulder move where you hold a weight plate out at shoulder height and turn it from side to side like a steering wheel. It works the front of the shoulders. Intermediate shoulders exercise using weight plate. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Shoulders
 - **Secondary Muscles:** Triceps, Upper Back
 - **Difficulty:** Intermediate
@@ -15,12 +15,9 @@ The bus driver is a shoulder exercise that targets the deltoids while also engag
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Raise your arms out to the sides, keeping a slight bend in your elbows.
-4. Continue lifting your arms until they are parallel to the ground.
-5. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet hip-width apart. Hold a weight plate by its sides, palms facing each other, out in front at shoulder height.
+2. Keep your arms nearly straight and turn the plate to one side like a steering wheel, as far as it comfortably goes.
+3. Turn it back through the middle and as far the other way. Keep alternating sides, holding the plate at shoulder height.
 
 ## Pro tips
 
@@ -59,7 +56,7 @@ The Bus Driver is rated as intermediate. Beginners should build a base of should
 ## Related exercises
 
 - [More Shoulders Exercises](https://forgetrainer.ai/exercises/shoulders)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Shoulders Exercises](https://forgetrainer.ai/exercises/muscle/shoulders)
 
 ---

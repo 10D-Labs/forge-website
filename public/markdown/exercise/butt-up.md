@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Butt-ups are a bodyweight exercise targeting the abdominal muscles. The movement involves lying on your back, lifting your legs towards your chest, and engaging your core to raise your hips off the ground. This exercise also works the hip flexors and lower back as secondary muscles. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A forearm plank where you lift your hips up high and lower them back down. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,9 @@ Butt-ups are a bodyweight exercise targeting the abdominal muscles. The movement
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands by your sides, palms facing down.
-3. Engaging your abs, lift your legs off the ground, bringing your knees towards your chest.
-4. At the top of the movement, squeeze your abs and pause for a moment.
-5. Slowly lower your legs back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Get into a forearm plank: elbows under your shoulders, forearms on the floor, hands in loose fists, legs straight and up on your toes.
+2. Push your hips up toward the ceiling until your body makes an upside-down V. Keep your forearms and feet where they are.
+3. Lower your hips slowly until your body is straight from head to heels again.
 
 ## Pro tips
 

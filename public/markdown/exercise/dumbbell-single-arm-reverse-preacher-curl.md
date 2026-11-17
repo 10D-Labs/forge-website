@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm reverse preacher curl is an isolation exercise targeting the bicep, performed on a preacher bench with a single dumbbell. It emphasizes strict form and control, helping to build bicep and forearm strength. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
+A one-arm preacher curl done with your palm facing down. It works the biceps and forearms. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell one arm reverse preacher curl is an isolation exercise targeting th
 
 ## How to perform
 
-1. Sit on a preacher bench with your chest against the pad and your arm extended over the edge of the bench, holding a dumbbell with an underhand grip.
-2. Lower the dumbbell slowly until your arm is fully extended.
-3. Curl the dumbbell back up towards your shoulder, keeping your upper arm stationary.
-4. Squeeze your biceps at the top of the movement, then slowly lower the dumbbell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch arms.
+1. Sit at a preacher bench with your chest against the pad.
+2. Rest one arm straight over the pad, holding a dumbbell with your palm facing down.
+3. Curl the dumbbell up toward your shoulder, keeping your upper arm on the pad.
+4. Lower it slowly until your arm is straight. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

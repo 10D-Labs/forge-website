@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing calf raise is an exercise that targets the calf muscles by lifting the heels off the ground while holding dumbbells for added resistance. Beginner legs exercise using dumbbell. Targets calves, also works ankles.
+A standing calf raise holding a dumbbell in each hand, with the balls of your feet on a low step. It works the calves. Beginner legs exercise using dumbbell. Targets calves, also works ankles.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell standing calf raise is an exercise that targets the calf muscles by
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-2. Raise your heels off the ground as high as possible, using your calves.
-3. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with the balls of your feet on a low step, feet about shoulder-width apart, holding a dumbbell in each hand at your sides.
+2. Raise your heels as high as you can.
+3. Lower your heels slowly back down.
 
 ## Pro tips
 

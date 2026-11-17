@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The Frankenstein squat is a variation of the squat where the barbell is held in front of the body with straight arms, challenging the glutes, quadriceps, hamstrings, and calves. This exercise emphasizes posture, core stability, and lower body strength. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat with the barbell balanced on the front of your shoulders and your arms held straight out, which makes you stay upright. It works the glutes, quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,11 @@ The Frankenstein squat is a variation of the squat where the barbell is held in 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the barbell in front of your body with straight arms.
-2. Keeping your back straight, lower your body by bending at the knees and hips, as if sitting back into a chair.
-3. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.
-4. Pause for a moment, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and rest a barbell on the front of your shoulders.
+2. Hold your arms straight out in front of you, palms down, with your hands off the bar.
+3. Bend your knees and hips to sit back as if into a chair. Keep your back straight.
+4. Lower until your thighs are level with the floor, or as low as you comfortably can.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

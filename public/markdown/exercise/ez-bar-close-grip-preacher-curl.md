@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar close grip preacher curl is an isolation exercise targeting the bicep, performed on a preacher bench with a close grip on an EZ bar. It emphasizes strict form and bicep contraction. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
+A curl with an EZ bar on a preacher bench, hands close together and upper arms braced on the pad. It works the biceps. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,12 +15,10 @@ The EZ bar close grip preacher curl is an isolation exercise targeting the bicep
 
 ## How to perform
 
-1. Sit on a preacher curl bench and place your upper arms on the pad, gripping the ez barbell with an underhand grip.
-2. Rest your triceps on the pad and fully extend your arms, keeping your back straight.
-3. Slowly curl the barbell towards your shoulders, contracting your biceps.
-4. Pause for a moment at the top, squeezing your biceps.
-5. Lower the barbell back to the starting position, fully extending your arms.
-6. Repeat for the desired number of repetitions.
+1. Sit at a preacher bench with your back straight and rest the backs of your upper arms on the pad.
+2. Hold an EZ bar with your palms facing up and your hands close together, arms straight.
+3. Curl the bar up toward your shoulders, keeping your upper arms on the pad.
+4. Lower the bar slowly until your arms are straight again.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing front raise above head is a shoulder exercise that targets the deltoids by lifting dumbbells from thigh level to above the head in a controlled motion. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works trapezius, biceps.
+A front raise that keeps going past shoulder height until the dumbbells are above your head. It works the front of the shoulders. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works trapezius, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell standing front raise above head is a shoulder exercise that targets
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.
-2. Keep your arms straight and lift the dumbbells in front of you, raising them above your head.
-3. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand in front of your thighs, palms facing your thighs.
+2. Keep your arms straight and lift the dumbbells in front of you, all the way up above your head.
+3. Lower them slowly back to your thighs.
 
 ## Pro tips
 

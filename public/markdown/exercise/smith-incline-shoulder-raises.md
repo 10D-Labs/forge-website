@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Smith incline shoulder raises target the serratus anterior and are performed on a smith machine. The movement involves raising the barbell upwards while standing at an incline, focusing on shoulder and upper chest engagement. Intermediate core exercise using smith machine. Targets serratus, also works shoulders, trapezius.
+An incline press where your arms stay straight and only your shoulders move, pushing the bar a few inches higher. It works the serratus, the muscles on your ribs under your armpits, and the shoulders. Intermediate core exercise using smith machine. Targets serratus, also works shoulders, trapezius.
 
 - **Body Part:** Core
 - **Equipment:** Smith Machine
@@ -15,13 +15,11 @@ Smith incline shoulder raises target the serratus anterior and are performed on 
 
 ## How to perform
 
-1. Adjust the smith machine to an incline position.
-2. Stand facing the machine with your feet shoulder-width apart.
-3. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart.
-4. Keep your back straight and core engaged.
-5. Raise the barbell up towards the ceiling, leading with your elbows.
-6. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Place an incline bench, set to about 30 to 45 degrees, in a Smith machine so the bar sits over your upper chest.
+2. Lie back with your feet flat on the floor. Grip the bar with your hands shoulder-width apart, palms facing your feet.
+3. Unhook the bar and press it up until your arms are straight.
+4. Keeping your arms straight, push the bar a few inches higher by lifting your shoulders off the bench.
+5. Let your shoulders sink slowly back to the bench, arms still straight.
 
 ## Pro tips
 

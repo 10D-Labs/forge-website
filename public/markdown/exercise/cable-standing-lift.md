@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable standing lift is an exercise targeting the abdominal muscles, especially the obliques and lower back, by using a cable machine to perform a rotational lifting movement. Intermediate core exercise using cable. Targets abs, also works obliques, lower back.
+A cable move that lifts a low handle up and across your body in a diagonal line, using both hands. It works the abs and obliques, with help from the lower back. Intermediate core exercise using cable. Targets abs, also works obliques, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable standing lift is an exercise targeting the abdominal muscles, especial
 
 ## How to perform
 
-1. Stand facing the cable machine with your feet shoulder-width apart.
-2. Hold the cable handle with both hands and position it at waist height.
-3. Engage your core and maintain a straight back throughout the exercise.
-4. Keeping your arms straight, exhale and lift the cable handle up towards your opposite shoulder, rotating your torso.
-5. Pause for a moment at the top, then inhale and slowly lower the cable handle back to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Set a pulley low and stand side-on to the machine, feet shoulder-width apart.
+2. Hold the handle with both hands beside the hip nearest the machine, arms straight.
+3. Keep your back straight and lift the handle up across your body to above your far shoulder, turning your torso.
+4. Lower it slowly back to your hip. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The archer push up is a challenging bodyweight exercise that targets the pectorals and also works the tricep, shoulders, and core. It involves performing a pushup while extending one arm out to the side, increasing the load on the working arm and requiring significant strength, balance, and coordination. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
+A wide pushup where you lower toward one hand while the other arm stays straight out to the side, so one arm takes most of your weight. It works the chest, triceps and shoulders. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The archer push up is a challenging bodyweight exercise that targets the pectora
 
 ## How to perform
 
-1. Start in a pushup position with your hands slightly wider than shoulder-width apart.
-2. Extend one arm straight out to the side, parallel to the ground.
-3. Lower your body by bending your elbows, keeping your back straight and core engaged.
-4. Push back up to the starting position.
-5. Repeat on the other side, extending the opposite arm out to the side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Start in a pushup position with your hands wider than shoulder-width apart.
+2. Shift your weight toward one hand and keep the other arm straight out to the side.
+3. Bend the elbow of the working arm to lower your chest toward that hand, keeping your back straight.
+4. Push back up, then shift to the other side and lower toward the other hand. Keep alternating sides.
 
 ## Pro tips
 

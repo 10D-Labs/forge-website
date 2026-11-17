@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith machine incline tricep extension is an isolation exercise that targets the tricep using a smith machine and an incline bench. It involves extending the arms to work the tricep, with some involvement of the shoulders for stabilization. Intermediate arms exercise using smith machine. Targets triceps, also works shoulders.
+A lying triceps extension on an incline bench in a Smith machine, lowering the bar toward your forehead. It works the triceps. Intermediate arms exercise using smith machine. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Smith Machine
@@ -15,13 +15,11 @@ The smith machine incline tricep extension is an isolation exercise that targets
 
 ## How to perform
 
-1. Adjust the seat of the smith machine so that the bar is at shoulder height.
-2. Sit on the bench with your back against the pad and your feet flat on the ground.
-3. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart.
-4. Extend your arms fully, lifting the bar off the rack and holding it directly above your chest.
-5. Lower the bar slowly towards your forehead, keeping your elbows close to your head.
-6. Pause for a moment at the bottom, then push the bar back up to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set an incline bench in a Smith machine with the bar at shoulder height. Sit back against the pad, feet flat on the floor.
+2. Hold the bar with your palms facing away from you, hands a little wider than your shoulders.
+3. Straighten your arms to lift the bar off the hooks and hold it over your chest.
+4. Keep your elbows close to your head and bend them to lower the bar slowly toward your forehead.
+5. Straighten your arms to push the bar back up over your chest.
 
 ## Pro tips
 

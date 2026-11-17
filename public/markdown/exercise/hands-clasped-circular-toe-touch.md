@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hands clasped circular toe touch is a bodyweight exercise that targets the glutes and also engages the hamstrings, quadriceps, and calves. It involves hinging at the hips and making a circular motion with your hands towards your toes, promoting flexibility and mobility in the lower body. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps, calves.
+A standing toe touch with your hands clasped: fold down to your toes, rise back up, then circle your upper body around with your arms overhead. It works the glutes and the backs of the legs. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The hands clasped circular toe touch is a bodyweight exercise that targets the g
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your hands clasped together in front of your chest.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Lower your hands towards your toes in a circular motion, reaching as far as you can without straining.
-4. Pause for a moment at the bottom, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your arms straight overhead, hands clasped together.
+2. Bend your knees slightly and fold forward at your hips, bringing your clasped hands down toward your toes as far as you can without straining.
+3. Sweep your arms back up in front of you until they are overhead, and lean back slightly.
+4. Keep your arms overhead and circle your upper body around: over to one side, then forward, then back up to standing tall.
 
 ## Pro tips
 

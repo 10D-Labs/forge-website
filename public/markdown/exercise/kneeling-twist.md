@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kneeling twist is an abdominal exercise performed on a machine, targeting the abs with secondary emphasis on the obliques and lower back. The movement involves twisting the torso from side to side while kneeling, engaging the core muscles. Intermediate core exercise using machine. Targets abs, also works obliques, lower back.
+A machine twist done kneeling: your hips turn the pad side to side while your upper body stays braced on the handles. It works the abs and the obliques at your sides. Intermediate core exercise using machine. Targets abs, also works obliques, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The kneeling twist is an abdominal exercise performed on a machine, targeting th
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your knees resting on the pads and your upper body facing forward.
-2. Grasp the handles or the sides of the machine for stability.
-3. Keeping your core engaged, twist your torso to one side as far as comfortably possible.
-4. Pause for a moment, then slowly return to the starting position.
-5. Repeat the twist to the opposite side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Kneel on the machine's turning pad with your upper body facing forward. Hold the handles in front of your chest.
+2. Keep your upper body still and braced on the handles.
+3. Twist your hips to turn the pad to one side as far as is comfortable.
+4. Return slowly to the middle, then twist to the other side. Keep alternating sides.
 
 ## Pro tips
 

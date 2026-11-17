@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated bicep curl is a strength exercise targeting the bicep, performed while seated to minimize body movement and focus on arm muscle engagement. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A two-arm dumbbell curl done sitting against a back rest, which keeps your body from swinging. It works the biceps. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell seated bicep curl is a strength exercise targeting the bicep, perfo
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand, palms facing up.
-2. Keep your back straight and your elbows close to your torso.
-3. Exhale and curl the dumbbells up towards your shoulders, contracting your biceps.
-4. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit up straight on a bench with a back rest, feet flat on the floor. Hold a dumbbell in each hand, palms facing forward.
+2. Keep your elbows close to your sides and curl both dumbbells up toward your shoulders.
+3. Lower the dumbbells slowly until your arms are straight.
 
 ## Pro tips
 

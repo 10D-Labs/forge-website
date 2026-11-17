@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell over bench one arm wrist curl is an isolation exercise targeting the forearm muscles. It is performed seated, with the forearm resting on a bench and the wrist curling a dumbbell upward. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
+A one-arm wrist curl with your palm facing up and your forearm resting on a bench. It works the muscles on the palm side of the forearm. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell over bench one arm wrist curl is an isolation exercise targeting th
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand, palm facing down.
-2. Rest your forearm on the bench with your wrist hanging off the edge.
-3. Slowly curl your wrist upwards, bringing the dumbbell towards your forearm.
-4. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Kneel beside a flat bench and lean over it, holding a dumbbell in one hand, palm facing up.
+2. Rest that forearm across the bench with your wrist and hand hanging off the far edge.
+3. Bend your wrist to curl the dumbbell up toward your forearm as far as you can.
+4. Lower the dumbbell slowly until your wrist bends back. Do all your reps on one side, then switch.
 
 ## Pro tips
 

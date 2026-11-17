@@ -2,13 +2,13 @@
 
 ## Quick Answer
 
-76 cable exercises. Constant tension training for isolation work. Build muscle through a full range of motion with precise control.
+74 cable exercises. Constant tension training for isolation work. Build muscle through a full range of motion with precise control.
 
 ---
 
 ## All Cable Exercises by Body Part
 
-### Arms (22 exercises)
+### Arms (21 exercises)
 
 - **Cable Preacher Curl** — Beginner | Target: Biceps
 - **Cable Tricep Pushdown** — Beginner | Target: Triceps
@@ -16,13 +16,13 @@
 - **Cable Reverse Wrist Curl** — Beginner | Target: Forearms
 - **Cable Standing Back Wrist Curl** — Beginner | Target: Forearms
 - **Cable Wrist Curl** — Beginner | Target: Forearms
-- **Cable Kickback** — Beginner | Target: Triceps
+- **Cable Bent Over Tricep Kickback** — Beginner | Target: Triceps
 - **Cable Curl** — Beginner | Target: Biceps
 - **Cable Concentration Curl** — Beginner | Target: Biceps
 - **Cable Lying Bicep Curl** — Intermediate | Target: Biceps
 - **Cable Seated Curl** — Beginner | Target: Biceps
 - **Cable Overhead Tricep Extension** — Intermediate | Target: Triceps
-- **Cable Alternate Tricep Extension** — Intermediate | Target: Triceps
+- **Cable Single Arm Tricep Extension** — Intermediate | Target: Triceps
 - **Cable Hammer Curl** — Beginner | Target: Biceps
 - **Cable Single Arm Curl** — Beginner | Target: Biceps
 - **Cable Rope Pushdown** — Beginner | Target: Triceps
@@ -30,14 +30,12 @@
 - **Cable Close Grip Curl** — Beginner | Target: Biceps
 - **Cable Drag Curl** — Intermediate | Target: Biceps
 - **Cable Single Arm Tricep Pushdown** — Beginner | Target: Triceps
-- **Cable Single Arm Reverse Grip Tricep Extension** — Intermediate | Target: Triceps
-- **Cable Standing Single Arm Tricep Extension** — Intermediate | Target: Triceps
+- **Cable Single Arm Reverse Grip Overhead Tricep Extension** — Intermediate | Target: Triceps
 
-### Back (23 exercises)
+### Back (21 exercises)
 
 - **Cable Seated Row** — Beginner | Target: Upper Back
-- **Cable Crossover Lateral Pulldown** — Intermediate | Target: Lats
-- **Cable Incline Pushdown** — Intermediate | Target: Lats
+- **Cable Incline Bench Pullover** — Intermediate | Target: Lats
 - **Cable Low Seated Row** — Beginner | Target: Upper Back
 - **Cable Lat Pulldown** — Beginner | Target: Lats
 - **Cable Shrug** — Beginner | Target: Traps
@@ -46,8 +44,7 @@
 - **Cable Twisting Pull** — Intermediate | Target: Lats
 - **Cable Upper Row** — Beginner | Target: Upper Back
 - **Cable Kayak Row** — Intermediate | Target: Lats
-- **Alternate Lateral Pulldown** — Beginner | Target: Lats
-- **Cable Seated High Row** — Beginner | Target: Lats
+- **Single Arm Lat Pulldown** — Beginner | Target: Lats
 - **Cable Seated Wide Grip Row** — Beginner | Target: Upper Back
 - **Cable Standing Twist Row** — Intermediate | Target: Upper Back
 - **Cable Palm Rotational Row** — Intermediate | Target: Upper Back
@@ -72,20 +69,21 @@
 - **Cable Side Crunch** — Intermediate | Target: Abs
 - **Cable Standing Lift** — Intermediate | Target: Abs
 - **Cable Twist** — Intermediate | Target: Abs
-- **Cable Up Down Twist** — Intermediate | Target: Abs
+- **Cable High to Low Woodchop** — Intermediate | Target: Abs
 - **Cable Reverse Crunch** — Intermediate | Target: Abs
 - **Cable Seated Twist** — Intermediate | Target: Abs
 - **Cable Kneeling Crunch** — Intermediate | Target: Abs
 - **Cable Side Bend** — Beginner | Target: Abs
 - **Cable Standing Crunch** — Intermediate | Target: Abs
 
-### Legs (5 exercises)
+### Legs (6 exercises)
 
 - **Cable Deadlift** — Intermediate | Target: Glutes
 - **Cable Hip Adduction** — Beginner | Target: Adductors
 - **Cable Standing Kickback** — Intermediate | Target: Glutes
 - **Cable Standing Calf Raise** — Beginner | Target: Calves
 - **Cable Pull Through** — Intermediate | Target: Glutes
+- **Seated Good Morning** — Intermediate | Target: Glutes
 
 ### Shoulders (12 exercises)
 
@@ -108,7 +106,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

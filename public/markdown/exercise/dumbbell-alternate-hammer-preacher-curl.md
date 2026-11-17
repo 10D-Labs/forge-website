@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell alternate hammer preacher curl is an isolation exercise targeting the bicep, performed on a preacher bench with a neutral grip to emphasize both the bicep and forearms. It helps build arm strength and muscle definition. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
+A preacher curl done one arm at a time with your palms facing each other, thumbs up. It works the biceps and forearms. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell alternate hammer preacher curl is an isolation exercise targeting t
 
 ## How to perform
 
-1. Sit on a preacher bench with a dumbbell in each hand, palms facing your torso and arms fully extended.
-2. Keep your upper arms stationary and exhale as you curl the weights while contracting your biceps.
-3. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly begin to lower the dumbbells back to the starting position.
-6. Repeat for the recommended amount of repetitions.
+1. Sit at a preacher bench with your upper arms on the pad and a dumbbell in each hand.
+2. Straighten your arms and turn your palms to face each other (thumbs up).
+3. Keeping your upper arm on the pad, curl one dumbbell up to shoulder height.
+4. Lower it slowly until your arm is straight, then curl the other arm. Keep alternating sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band horizontal Pallof press is an anti-rotation core exercise that targets the abs and obliques, helping to build core stability and strength. It is performed using a resistance band anchored at waist height. Beginner core exercise using resistance band. Targets abs, also works obliques, glutes.
+A standing core move where you press a band straight out from your chest while it pulls you sideways, and you stop your body from turning. It works the abs and obliques. Beginner core exercise using resistance band. Targets abs, also works obliques, glutes.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,15 +15,11 @@ The band horizontal Pallof press is an anti-rotation core exercise that targets 
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point at waist height.
-2. Stand perpendicular to the anchor point with your feet shoulder-width apart.
-3. Grasp the band handle with both hands and step away from the anchor point to create tension in the band.
-4. Bring your hands to your chest, keeping your elbows bent and close to your body.
-5. Engage your core and maintain a stable stance.
-6. Extend your arms straight out in front of you, pushing the band away from your body.
-7. Hold the extended position for a few seconds, focusing on maintaining tension in your core.
-8. Slowly bring your hands back to your chest, resisting the pull of the band.
-9. Repeat for the desired number of repetitions.
+1. Attach a resistance band to a sturdy anchor at chest height.
+2. Stand side-on to the anchor with your feet shoulder-width apart. Hold the handle with both hands and step away until the band is tight.
+3. Bring your hands to the middle of your chest, elbows bent and close to your body.
+4. Push your hands straight out in front of you without letting the band turn your body. Hold for a few seconds.
+5. Bring your hands slowly back to your chest.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell fly is a chest exercise performed lying on a bench, using dumbbells to stretch and contract the pectoral muscles through a wide arc motion. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
+A chest exercise lying on a flat bench, opening your arms wide with a dumbbell in each hand and bringing them back together. It works the chest. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -16,10 +16,9 @@ The dumbbell fly is a chest exercise performed lying on a bench, using dumbbells
 ## How to perform
 
 1. Lie flat on a bench with a dumbbell in each hand, palms facing each other.
-2. Extend your arms straight up over your chest, with a slight bend in your elbows.
-3. Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest.
-4. Pause for a moment, then reverse the movement and bring the dumbbells back up to the starting position.
-5. Repeat for the desired number of repetitions.
+2. Hold the dumbbells straight up over your chest with a slight bend in your elbows.
+3. Keep that bend and lower your arms out to the sides in a wide arc until you feel a stretch in your chest.
+4. Bring the dumbbells back up over your chest along the same arc.
 
 ## Pro tips
 

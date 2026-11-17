@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell decline one arm hammer press is a unilateral pressing movement performed on a decline bench, targeting the tricep with secondary emphasis on the chest and shoulders. It requires core stability and coordination due to the decline angle and single arm execution. Intermediate arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
+A one-arm dumbbell press on a decline bench with your palm facing in. It works the triceps, with help from the chest and shoulders. Intermediate arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,11 @@ The dumbbell decline one arm hammer press is a unilateral pressing movement perf
 
 ## How to perform
 
-1. Lie on a decline bench with a dumbbell in one hand, resting on your chest.
-2. Extend your arm straight up, keeping your elbow slightly bent.
-3. Lower the dumbbell down towards your shoulder, keeping your elbow close to your body.
-4. Press the dumbbell back up to the starting position.
-5. Repeat for the desired number of repetitions, then switch arms.
+1. Lie on a decline bench with your legs hooked under the pads.
+2. Hold a dumbbell on your chest in one hand, palm facing in (thumb toward your head).
+3. Press the dumbbell straight up, stopping just before your elbow locks.
+4. Lower it toward your shoulder, keeping your elbow close to your body.
+5. Press it back up. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

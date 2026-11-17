@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-Weighted cossack squats are a lower body exercise targeting the glutes, quadriceps, hamstrings, and calves. This movement requires significant balance, mobility, and strength, as you shift your weight laterally and squat deeply on one leg while holding a weight. Advanced legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A wide-stance squat that drops onto one leg at a time while the other stays straight, holding a plate at your chest. It works the glutes, quads and hamstrings. Advanced legs exercise using weight plate. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Glutes
 - **Secondary Muscles:** Quadriceps, Hamstrings, Calves
 - **Difficulty:** Advanced
@@ -15,12 +15,10 @@ Weighted cossack squats are a lower body exercise targeting the glutes, quadrice
 
 ## How to perform
 
-1. Stand with your feet wider than shoulder-width apart and toes pointing slightly outward.
-2. Hold a weight in front of your chest with both hands.
-3. Shift your weight to one side and lower your body by bending the knee of the side you shifted towards, while keeping the other leg straight.
-4. Go as low as you can while maintaining balance and keeping your chest up.
-5. Push through the heel of the bent leg to return to the starting position.
-6. Repeat on the other side, alternating between legs.
+1. Stand with your feet wider than shoulder-width apart, toes turned out slightly. Hold a weight plate in front of your chest with both hands.
+2. Shift your weight to one side and bend that knee, keeping your other leg straight.
+3. Go as low as you can while keeping your balance and your chest up.
+4. Push through the heel of your bent leg to return to the middle, then go to the other side. Keep alternating sides.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Weighted Cossack Squats is an advanced exercise. Beginners should master fun
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
 
 ---

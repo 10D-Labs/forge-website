@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable standing crunch is an abdominal exercise performed using a cable machine and rope attachment. It targets the abs and also engages the obliques. The movement involves crunching the torso forward against resistance, providing a challenging core workout. Intermediate core exercise using cable. Targets abs, also works obliques.
+A crunch done standing with your back to a high cable, curling your upper body down while holding a rope at your head. It works the abs, with help from the obliques. Intermediate core exercise using cable. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable standing crunch is an abdominal exercise performed using a cable machi
 
 ## How to perform
 
-1. Attach a rope to a cable machine at chest height.
-2. Stand facing away from the machine with your feet shoulder-width apart.
-3. Hold the rope with both hands and bring it behind your head, keeping your elbows bent.
-4. Engage your abs and slowly crunch your torso forward, bringing your elbows towards your knees.
-5. Pause for a moment at the top of the crunch, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a rope to a high pulley. Stand with your back to the machine and your feet shoulder-width apart.
+2. Hold the rope with both hands beside your head, elbows bent, with the rope running behind your head.
+3. Use your abs to crunch your upper body forward and down, bringing your elbows toward your knees.
+4. Rise back up slowly to standing tall.
 
 ## Pro tips
 

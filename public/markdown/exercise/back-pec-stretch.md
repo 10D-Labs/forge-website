@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The back pec stretch is a bodyweight exercise designed to stretch the lats, shoulders, and chest. It involves crossing the arms, interlocking the fingers, and raising the arms to feel a stretch across the upper back and chest. Beginner back exercise using body weight. Targets lats, also works shoulders, chest.
+A standing stretch with your hands on a raised bench pad, letting your chest sink below your arms. It stretches the lats, with some stretch in the chest and shoulders. Beginner back exercise using body weight. Targets lats, also works shoulders, chest.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The back pec stretch is a bodyweight exercise designed to stretch the lats, shou
 
 ## How to perform
 
-1. Stand tall with your feet shoulder-width apart.
-2. Extend your arms straight out in front of you, parallel to the ground.
-3. Cross your arms in front of your body, with your right arm over your left arm.
-4. Interlock your fingers and rotate your palms away from your body.
-5. Slowly raise your arms up and away from your body, feeling a stretch in your back and chest.
-6. Hold the stretch for 15-30 seconds, then release.
-7. Repeat on the opposite side.
+1. Raise an adjustable bench's back pad to a high incline. Stand a long step from its top edge and rest your hands on it, palms down.
+2. Keep your legs and arms straight and bend forward from your hips until your back is level with the floor.
+3. Let your chest and head sink down below your arms until you feel a stretch under your arms and across your chest.
+4. Hold for the set time, then rise back up until your back is level again.
 
 ## Pro tips
 

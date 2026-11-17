@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable curl is a strength exercise targeting the bicep, performed using a cable machine. It involves curling a cable attachment towards the shoulders while keeping the elbows close to the body, providing constant tension on the bicep throughout the movement. Beginner arms exercise using cable. Targets biceps, also works forearms.
+A standing curl with a bar on a low cable pulley, which keeps tension on the biceps through the whole lift. It works the biceps. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable curl is a strength exercise targeting the bicep, performed using a cab
 
 ## How to perform
 
-1. Stand facing the cable machine with your feet shoulder-width apart.
-2. Grasp the cable attachment with an underhand grip, palms facing up.
-3. Keep your elbows close to your sides and your upper arms stationary.
-4. Exhale and curl the cable attachment towards your shoulders, contracting your biceps.
-5. Pause for a moment at the top of the movement, squeezing your biceps.
-6. Inhale and slowly lower the cable attachment back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Attach a bar to the low pulley and stand facing the machine, feet shoulder-width apart.
+2. Hold the bar with your palms facing up and your elbows close to your sides.
+3. Keep your upper arms still and curl the bar up toward your shoulders.
+4. Lower it slowly until your arms are straight.
 
 ## Pro tips
 

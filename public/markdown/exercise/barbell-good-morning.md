@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell good morning is a compound exercise that targets the hamstrings and lower back. It involves hinging at the hips with a barbell on your upper back, requiring good form and core stability to perform safely. Intermediate legs exercise using barbell. Targets hamstrings, also works lower back.
+A forward bend from the hips with a barbell across your upper back, keeping your back straight. It works the hamstrings and lower back. Intermediate legs exercise using barbell. Targets hamstrings, also works lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell good morning is a compound exercise that targets the hamstrings and 
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and the barbell resting on your upper back.
-2. Keeping your back straight and your core engaged, hinge forward at the hips, pushing your buttocks back as if you were trying to touch the wall behind you with your glutes.
-3. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings.
-4. Pause for a moment, then return to the starting position by squeezing your glutes and pushing your hips forward.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a barbell resting across your upper back.
+2. Keep your back straight and bend forward from your hips, pushing your hips back as if to touch a wall behind you.
+3. Lower your upper body until it's level with the floor and you feel a stretch in the backs of your thighs.
+4. Squeeze your glutes and push your hips forward to stand back up.
 
 ## Pro tips
 

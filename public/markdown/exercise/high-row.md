@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The high row is a machine-based exercise targeting the upper back, with secondary emphasis on the bicep and rear deltoids. It is performed by sitting on a machine, gripping the handles, and pulling them towards the body while keeping the chest against the pad. Beginner back exercise using machine. Targets upper back, also works biceps, rear deltoids.
+A seated machine row that pulls handles down and back from above your head, with your chest against a pad. It works the upper back, plus the biceps and the backs of the shoulders. Beginner back exercise using machine. Targets upper back, also works biceps, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The high row is a machine-based exercise targeting the upper back, with secondar
 
 ## How to perform
 
-1. Adjust the seat height and foot platform to a comfortable position.
-2. Sit on the machine with your chest against the pad and your feet flat on the foot platform.
-3. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-4. Keep your back straight and engage your core.
-5. Pull the handles towards your body, squeezing your shoulder blades together.
-6. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Adjust the seat and foot platform to fit you. Sit with your chest against the pad and your feet flat on the platform.
+2. Reach up and hold the handles with your palms facing away from you, hands slightly wider than shoulder-width.
+3. Pull the handles down and back toward your body, squeezing your shoulder blades together. Keep your back straight.
+4. Let the handles rise slowly until your arms are straight.
 
 ## Pro tips
 

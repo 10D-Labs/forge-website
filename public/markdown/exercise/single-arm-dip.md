@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one arm dip is a challenging bodyweight exercise that targets the tricep, with secondary emphasis on the chest and shoulders. It requires significant upper body strength, balance, and coordination, as you support your body weight with one arm while performing the dip motion. Advanced arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A one-arm dip with your hand on a bench beside you and your legs stretched out in front. It works the triceps, with help from the chest and shoulders. Advanced arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The one arm dip is a challenging bodyweight exercise that targets the tricep, wi
 
 ## How to perform
 
-1. Stand facing away from a bench or chair, with your feet shoulder-width apart.
-2. Place one hand on the bench or chair behind you, fingers pointing towards your body.
-3. Extend your legs out in front of you, keeping your heels on the ground.
-4. Bend your elbows and lower your body towards the ground, keeping your back close to the bench or chair.
-5. Pause for a moment at the bottom, then push through your palms to straighten your arms and return to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides and repeat with the other arm.
+1. Sit next to a flat bench with your side to it and place the hand nearest it on the bench, beside your hip.
+2. Stretch your legs out straight in front of you, off the floor, and straighten that arm to lift your hips. Reach your free arm forward.
+3. Bend your elbow to lower your hips toward the floor, keeping your side close to the bench.
+4. Push through your palm to straighten your arm. Do all your reps on one side, then switch.
 
 ## Pro tips
 

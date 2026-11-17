@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Treadmill running is a cardiovascular exercise performed on a motorized treadmill machine. It allows for controlled pacing, incline adjustments, and weather-independent training, making it ideal for consistent cardio workouts. Beginner cardio exercise using treadmill. Targets cardiovascular, also works quadriceps, hamstrings, calves, glutes.
+Running on a treadmill, with the pace and incline under your control and no weather to deal with. It trains your heart and lungs. Beginner cardio exercise using treadmill. Targets cardiovascular, also works quadriceps, hamstrings, calves, glutes.
 
 - **Body Part:** Cardio
 - **Equipment:** Treadmill
@@ -15,14 +15,11 @@ Treadmill running is a cardiovascular exercise performed on a motorized treadmil
 
 ## How to perform
 
-1. Step onto the treadmill and straddle the belt, placing your feet on the side rails.
-2. Attach the safety clip to your clothing if available.
-3. Start the treadmill at a slow walking pace to warm up.
-4. Gradually increase the speed to your desired running pace.
-5. Maintain an upright posture with your arms swinging naturally at your sides.
-6. Land with a midfoot strike and push off with your toes.
-7. Continue running until you reach your target distance.
-8. Gradually decrease speed to cool down, then carefully step off the treadmill.
+1. Stand with a foot on each side rail, straddling the belt. Clip the safety cord to your clothes if the treadmill has one.
+2. Start the belt at a slow walk to warm up, then raise the speed gradually to your running pace.
+3. Run tall, with your arms swinging naturally at your sides.
+4. Land on the middle of your foot and push off with your toes.
+5. Keep going for the set distance.
 
 ## Pro tips
 

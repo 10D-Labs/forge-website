@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm bent over row is a unilateral strength exercise targeting the upper back, with secondary emphasis on the bicep and forearms. It involves hinging at the hips and pulling a dumbbell towards the chest while maintaining a stable, neutral spine. Beginner back exercise using dumbbell. Targets upper back, also works biceps, forearms.
+A one-arm dumbbell row with one knee and hand braced on a bench. It works the upper back, with help from the biceps and forearms. Beginner back exercise using dumbbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell one arm bent over row is a unilateral strength exercise targeting t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.
-3. Let the dumbbell hang straight down towards the floor, with your arm fully extended.
-4. Pull the dumbbell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Put one knee and the same-side hand on a flat bench, other foot on the floor. Hold a dumbbell in your free hand, palm facing in.
+2. Keep your back flat and let the dumbbell hang straight down with your arm straight.
+3. Pull the dumbbell up toward your chest, keeping your elbow close to your body.
+4. Lower it slowly until your arm is straight. Do all your reps, then switch sides.
 
 ## Pro tips
 

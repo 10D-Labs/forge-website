@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated dip is a machine-based exercise targeting the tricep, with secondary emphasis on the chest and shoulders. It involves pressing down on handles while seated, simulating a dip movement in a controlled environment. Beginner arms exercise using machine. Targets triceps, also works chest, shoulders.
+A machine version of the dip: you stay seated and press handles down at your sides. It works the triceps, with help from the chest and shoulders. Beginner arms exercise using machine. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The seated dip is a machine-based exercise targeting the tricep, with secondary 
 
 ## How to perform
 
-1. Adjust the seat height so that your feet are flat on the ground and your knees are at a 90 degree angle.
-2. Grasp the handles of the machine with your palms facing down and your arms fully extended.
-3. Slowly lower your body by bending your elbows until your upper arms are parallel to the ground.
-4. Pause for a moment, then push yourself back up to the starting position by straightening your arms.
-5. Repeat for the desired number of repetitions.
+1. Set the seat so your feet are flat on the floor and your knees are bent at about 90 degrees.
+2. Grab the handles at your sides with your palms facing down and your elbows bent.
+3. Press the handles down until your arms are straight. Stay seated; only the handles move.
+4. Let the handles rise slowly back to the start.
 
 ## Pro tips
 

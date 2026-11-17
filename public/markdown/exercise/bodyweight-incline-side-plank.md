@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bodyweight incline side plank is a core stability exercise that targets the abs, with secondary emphasis on the obliques and shoulders. It involves holding a plank position on your side with your body supported by your forearm and feet, focusing on maintaining a straight line and engaging the core. Beginner core exercise using body weight. Targets abs, also works obliques, shoulders.
+A side plank with your forearm up on a bench, which makes it easier than doing it on the floor. It works the abs and the obliques along your sides, with the shoulder helping hold you up. Beginner core exercise using body weight. Targets abs, also works obliques, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The bodyweight incline side plank is a core stability exercise that targets the 
 
 ## How to perform
 
-1. Start by lying on your side with your legs extended and stacked on top of each other.
-2. Place your forearm on the ground directly below your shoulder, with your elbow bent at a 90 degree angle.
-3. Engage your core and lift your hips off the ground, creating a straight line from your head to your feet.
-4. Hold this position for your target duration.
-5. Lower your hips back down to the ground and repeat on the other side.
+1. Rest your forearm on a flat bench, elbow under your shoulder, hand in a loose fist. Walk your feet out and stack them on the floor.
+2. Rest your top arm along your side.
+3. Keep your hips up so your body forms a straight line from head to feet. Don't let your hips sag.
+4. Hold for the set time, then switch sides.
 
 ## Pro tips
 

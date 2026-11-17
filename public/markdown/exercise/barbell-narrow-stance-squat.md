@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell narrow stance squat is a lower body strength exercise that targets the glutes, with significant involvement of the quadriceps, hamstrings, and calves. It is performed by holding a barbell across the upper back and squatting with a narrow stance, emphasizing the inner thighs and glutes. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A barbell back squat with your feet closer together than usual, about hip-width apart. It works the glutes, with help from the quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell narrow stance squat is a lower body strength exercise that targets t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and toes pointing slightly outward.
-2. Hold the barbell across your upper back, resting it on your traps or rear delts.
-3. Engage your core and keep your chest up as you slowly lower your body by bending your knees and pushing your hips back.
-4. Continue lowering until your thighs are parallel to the ground or slightly below.
-5. Pause for a moment, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Rest a barbell across your upper back and stand with your feet about hip-width apart, toes turned slightly out.
+2. Keep your chest up as you bend your knees and push your hips back to lower yourself.
+3. Go down until your thighs are level with the floor or slightly below.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

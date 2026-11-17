@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing wide military press is a compound exercise that targets the deltoid muscles of the shoulders. It also engages the tricep and upper back as secondary muscles. The movement requires pressing a barbell overhead from shoulder height while standing, with a grip wider than shoulder-width. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
+A standing barbell press from the front of your shoulders to overhead, with your hands a little wider than shoulder-width. It works the front of the shoulders, with help from the triceps and upper back. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,10 +15,10 @@ The barbell standing wide military press is a compound exercise that targets the
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the barbell with an overhand grip, slightly wider than shoulder-width.
-2. Lift the barbell to shoulder height, keeping your elbows slightly in front of the bar.
-3. Press the barbell overhead, extending your arms fully.
-4. Lower the barbell back to shoulder height and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart. Hold a barbell with your palms facing forward, hands a little wider than your shoulders.
+2. Bring the bar up to the front of your shoulders, with your elbows slightly in front of the bar.
+3. Press the bar overhead until your arms are fully straight.
+4. Lower the bar slowly back to the front of your shoulders.
 
 ## Pro tips
 

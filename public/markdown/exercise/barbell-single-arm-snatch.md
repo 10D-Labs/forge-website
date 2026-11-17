@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell one arm snatch is an explosive, full-body movement that targets the shoulders (delts) and also engages the traps, forearms, and core. It requires coordination, balance, and strength to perform safely and effectively. Advanced shoulders exercise using barbell. Targets shoulders, also works traps, forearms, core.
+An explosive one-arm lift that takes a barbell from the floor to straight overhead in one move, catching it in a squat. It works the shoulders, with the legs, hips and upper back driving the pull. Advanced shoulders exercise using barbell. Targets shoulders, also works traps, forearms, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,14 +15,11 @@ The barbell one arm snatch is an explosive, full-body movement that targets the 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, toes pointing slightly outwards.
-2. Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Bend your knees and lower your hips into a squat position, keeping your back straight and chest up.
-4. Explosively extend your hips, knees, and ankles, driving the barbell upwards.
-5. As the barbell reaches chest level, pull it upwards with your arm, keeping it close to your body.
-6. Rotate your elbow under the barbell and extend your arm fully overhead, locking out your elbow.
-7. Lower the barbell back down to the starting position in a controlled manner.
-8. Repeat for the desired number of repetitions, then switch arms.
+1. Stand over a barbell with your feet shoulder-width apart and toes turned slightly out.
+2. Squat down with your back straight and chest up, and grip the middle of the bar with one hand, palm facing you.
+3. Drive up hard through your hips, knees and ankles, then pull the bar up past your chest, keeping it close to your body.
+4. Flip your elbow under the bar and punch your arm straight overhead, dropping into a squat to catch it.
+5. Stand up with your arm locked straight, then lower the bar to the floor under control. Do all your reps, then switch arms.
 
 ## Pro tips
 

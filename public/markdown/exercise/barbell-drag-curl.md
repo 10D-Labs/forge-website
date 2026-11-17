@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell drag curl is a bicep-focused exercise that involves curling a barbell while keeping the elbows pulled back, emphasizing the contraction of the bicep and minimizing shoulder involvement. It also engages the forearms as secondary muscles. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
+A barbell curl where you drag the bar up the front of your body and pull your elbows back, instead of swinging the bar out in an arc. It works the biceps and forearms. Intermediate arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell drag curl is a bicep-focused exercise that involves curling a barbel
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing up.
-2. Let the barbell hang at arm's length in front of your thighs.
-3. Keeping your upper arms stationary, curl the barbell up towards your chest by contracting your biceps.
-4. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall holding a barbell in front of your thighs, hands shoulder-width apart, palms facing away from you.
+2. Pull your elbows back and curl the bar up, keeping it touching your body as it slides up your stomach.
+3. Stop when the bar reaches your lower chest, with your elbows behind you.
+4. Lower the bar slowly the same way until your arms are straight.
 
 ## Pro tips
 

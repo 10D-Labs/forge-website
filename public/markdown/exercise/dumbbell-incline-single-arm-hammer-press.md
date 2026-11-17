@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline one arm hammer press is a unilateral pressing exercise performed on an incline bench, targeting the tricep while also engaging the shoulders and chest. It requires coordination and stability due to the single arm movement and the inclined position. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders, chest.
+A one-arm dumbbell press on an incline bench with your palm facing in. It works the triceps, with help from the shoulders and chest. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders, chest.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell incline one arm hammer press is a unilateral pressing exercise perf
 
 ## How to perform
 
-1. Sit on an incline bench with a dumbbell in one hand, resting on your thigh.
-2. Lean back on the bench and use your thigh to help raise the dumbbell to shoulder height.
-3. Rotate your wrist so that your palm is facing inward, towards your body.
-4. Press the dumbbell up and away from your body, extending your arm fully.
-5. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-6. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on an incline bench with a dumbbell in one hand, resting it on your thigh.
+2. Lean back and use your thigh to help lift the dumbbell to shoulder height. Turn your wrist so your palm faces in toward your body.
+3. Press the dumbbell up until your arm is straight.
+4. Lower it slowly back to your shoulder. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

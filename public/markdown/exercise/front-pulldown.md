@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The front pulldown is a machine-based exercise targeting the latissimus dorsi (lats) and is commonly used to build back strength and muscle mass. It involves pulling handles down towards the chest while seated, using a machine. Beginner back exercise using machine. Targets lats, also works biceps, rhomboids, rear deltoids.
+A seated pulldown on a lever machine, pulling handles from overhead down to your chest. It works the lats, the wide muscles along the sides of your back. Beginner back exercise using machine. Targets lats, also works biceps, rhomboids, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,12 +15,11 @@ The front pulldown is a machine-based exercise targeting the latissimus dorsi (l
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your knees under the pads and your feet flat on the ground.
-2. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-3. Sit upright with your chest lifted and your shoulders back, maintaining a slight arch in your lower back.
-4. Engage your lats and pull the handles down towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the bottom of the movement, then slowly release the handles back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Adjust the seat so your knees fit under the pads and your feet are flat on the floor.
+2. Grab the handles with your palms facing away from you, hands slightly wider than shoulder-width.
+3. Sit upright with your chest lifted, shoulders back and a slight arch in your lower back.
+4. Pull the handles down toward your chest.
+5. Let the handles rise slowly until your arms are straight.
 
 ## Pro tips
 

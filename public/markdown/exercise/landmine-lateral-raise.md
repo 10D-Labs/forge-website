@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The landmine lateral raise is a shoulder exercise performed using a barbell anchored at one end. It targets the deltoids and also engages the traps and upper back. The movement involves lifting the barbell laterally to shoulder height, emphasizing shoulder strength and stability. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, upper back.
+A one-arm side raise using the end of a landmine barbell, lifting from across your hips out and up past shoulder height. It works the side of the shoulders, with help from the upper back. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The landmine lateral raise is a shoulder exercise performed using a barbell anch
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and knees slightly bent.
-2. Hold the barbell with an overhand grip, resting it on the front of your shoulders.
-3. Keeping your core engaged and back straight, lift the barbell up and away from your body, raising it to shoulder height.
-4. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Load the free end of a barbell set in a floor landmine. Stand side-on to it with the anchor out to your right.
+2. Hold the bar end in front of your left hip with your right hand, palm facing down. Let your left arm hang.
+3. Keeping your arm nearly straight, raise the bar out to your right side and up until your hand is well above shoulder height.
+4. Lower the bar slowly back across your body to your left hip. Do all your reps on one side, then turn around and switch hands.
 
 ## Pro tips
 

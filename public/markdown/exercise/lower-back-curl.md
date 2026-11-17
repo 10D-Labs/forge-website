@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lower back curl is a bodyweight exercise that targets the muscles of the lower back (spine) and also engages the glutes and hamstrings. It involves lying face down and curling the upper body off the ground by contracting the lower back muscles. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
+A face-down exercise where you lift your chest off the floor with your arms at your sides. It works the lower back, plus the glutes and hamstrings. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ The lower back curl is a bodyweight exercise that targets the muscles of the low
 
 ## How to perform
 
-1. Lie flat on your stomach with your legs extended and your arms by your sides.
-2. Engage your glutes and hamstrings, and slowly lift your upper body off the ground, curling your back upwards.
-3. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Lie face down with your legs straight and your arms by your sides.
+2. Tighten your glutes and hamstrings, then slowly lift your chest and upper body off the floor, curling your back up.
+3. Lower your upper body slowly back to the floor.
 
 ## Pro tips
 

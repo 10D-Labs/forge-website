@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable deadlift is a compound exercise targeting the glutes, with secondary emphasis on the hamstrings, quadriceps, and lower back. It involves lifting a cable from a lowered position by hinging at the hips and extending the body to a standing position. Intermediate legs exercise using cable. Targets glutes, also works hamstrings, quadriceps, lower back.
+A deadlift done with two low cable handles instead of a barbell, starting from a squat. It works the glutes, with help from the hamstrings, quads and lower back. Intermediate legs exercise using cable. Targets glutes, also works hamstrings, quadriceps, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable deadlift is a compound exercise targeting the glutes, with secondary e
 
 ## How to perform
 
-1. Stand facing the cable machine with your feet shoulder-width apart.
-2. Bend at the hips and knees, lowering your torso until your back is parallel to the ground.
-3. Grasp the cable handles with an overhand grip, keeping your arms straight and your shoulders back.
-4. Engage your glutes and hamstrings to lift the cable handles, extending your hips and standing up straight.
-5. Pause for a moment at the top, then slowly lower the cable handles back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a handle to each low pulley. Stand between them with your feet shoulder-width apart.
+2. Bend your hips and knees to squat down, and grab a handle in each hand, palms facing you. Keep your arms straight and your shoulders back.
+3. Stand up by straightening your hips and knees until you're upright.
+4. Lower the handles slowly back down the same way.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The assault bike (also known as an air bike or fan bike) is a full-body cardiovascular exercise that uses a fan to create wind resistance. The harder you pedal and push/pull the handles, the more resistance you generate, making it excellent for HIIT workouts and metabolic conditioning. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, glutes, shoulders, arms.
+Cardio on a fan bike, pedaling while you push and pull the handles, with the fan pushing back harder the faster you go. It works your heart and lungs and your whole body. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, glutes, shoulders, arms.
 
 - **Body Part:** Cardio
 - **Equipment:** Cardio Machine
@@ -15,11 +15,11 @@ The assault bike (also known as an air bike or fan bike) is a full-body cardiova
 
 ## How to perform
 
-1. Position yourself on the assault bike with feet on the pedals and hands gripping the handles.
-2. Start pedaling while simultaneously pushing and pulling the handles.
-3. Maintain a steady pace or perform intervals for high-intensity training.
-4. Increase resistance or speed to vary intensity.
-5. Continue for your target duration.
+1. Sit on the bike with your feet on the pedals and your hands on the handles.
+2. Pedal while you push and pull the handles.
+3. Keep a steady pace, or switch between hard and easy bursts for intervals.
+4. Pedal and push faster to make it harder. The fan pushes back more the faster you go.
+5. Keep going for the set time.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell floor calf raise is a strength exercise targeting the calves. It involves standing with the balls of your feet on a barbell and raising your heels to work the calf muscles. Beginner legs exercise using barbell. Targets calves, also works hamstrings.
+A standing calf raise on flat ground with a barbell across your upper back. It works the calves. Beginner legs exercise using barbell. Targets calves, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell floor calf raise is a strength exercise targeting the calves. It inv
 
 ## How to perform
 
-1. Place a barbell on the floor in front of you.
-2. Stand with the balls of your feet on the edge of the barbell, with your heels hanging off.
-3. Hold onto a stable object for balance if needed.
-4. Raise your heels as high as possible, using your calves to lift your body.
-5. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand on the floor with your feet hip-width apart and a barbell resting across your upper back.
+2. Hold the bar with your palms facing forward, hands a little wider than your shoulders.
+3. Keep your legs straight and rise onto the balls of your feet, lifting your heels as high as you can.
+4. Lower your heels slowly back to the floor.
 
 ## Pro tips
 

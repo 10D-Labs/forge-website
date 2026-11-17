@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted lunge with swing is a dynamic lower body exercise that combines a traditional lunge with an upper body swinging motion using weights. This movement targets the glutes primarily, while also engaging the quadriceps, hamstrings, and calves. The swinging motion adds a coordination and balance challenge. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A forward lunge where you swing a weight plate overhead with straight arms as you step. It works the glutes, with help from the quads, hamstrings and calves, and tests your balance and coordination. Intermediate legs exercise using weight plate. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Glutes
 - **Secondary Muscles:** Quadriceps, Hamstrings, Calves
 - **Difficulty:** Intermediate
@@ -15,11 +15,11 @@ The weighted lunge with swing is a dynamic lower body exercise that combines a t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a weight in each hand.
-2. Take a step forward with your right foot, lowering your body into a lunge position.
-3. As you lunge forward, swing the weights forward and upward, keeping your arms straight.
-4. Push off with your right foot and return to the starting position, swinging the weights back down.
-5. Repeat with your left foot and continue alternating legs for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a weight plate with both hands in front of your hips.
+2. Step forward with your right foot and lower into a lunge.
+3. Swing the plate forward and up overhead as you lunge, keeping your arms straight.
+4. Push off your right foot to step back to standing, swinging the plate back down.
+5. Do the next rep with your left leg. Keep alternating legs.
 
 ## Pro tips
 
@@ -58,7 +58,7 @@ The Weighted Lunge with Swing is rated as intermediate. Beginners should build a
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
 
 ---

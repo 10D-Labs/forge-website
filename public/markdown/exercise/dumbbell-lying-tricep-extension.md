@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying tricep extension is an isolation exercise targeting the tricep, performed while lying on a bench and extending the arms with dumbbells. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+A lying triceps extension on a flat bench, lowering two dumbbells beside your head by bending your elbows. It works the triceps. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -16,10 +16,9 @@ The dumbbell lying tricep extension is an isolation exercise targeting the trice
 ## How to perform
 
 1. Lie flat on a bench with a dumbbell in each hand, palms facing each other.
-2. Extend your arms straight up over your chest, keeping your elbows close to your body.
-3. Lower the dumbbells down towards your forehead, bending your elbows.
-4. Pause for a moment, then extend your arms back up to the starting position.
-5. Repeat for the desired number of repetitions.
+2. Straighten your arms up over your chest, keeping your elbows in.
+3. Bend your elbows to lower the dumbbells beside your head.
+4. Straighten your arms to raise the dumbbells back up over your chest.
 
 ## Pro tips
 

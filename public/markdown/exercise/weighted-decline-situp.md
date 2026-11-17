@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted decline situp is an abdominal exercise performed on a decline bench with added resistance. It primarily targets the abs while also engaging the hip flexors and lower back. This variation increases the intensity compared to standard situp, requiring greater core strength and control. Intermediate core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A decline bench situp holding a weight plate straight up above you the whole time. It works the abs, with help from the front of the hips. Intermediate core exercise using weight plate. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Hip Flexors, Lower Back
 - **Difficulty:** Intermediate
@@ -15,11 +15,10 @@ The weighted decline situp is an abdominal exercise performed on a decline bench
 
 ## How to perform
 
-1. Lie flat on a decline bench with your feet secured under the foot pads.
-2. Place your hands behind your head or across your chest.
-3. Engage your abs and slowly lift your upper body off the bench, curling forward until your torso is perpendicular to the ground.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie back on a decline bench with your feet hooked under the foot pads and knees bent.
+2. Hold a weight plate flat above your chest with straight arms, gripping its edges with your palms facing each other.
+3. Keep your arms straight and pointing at the ceiling as you sit up until your upper body is upright.
+4. Lower slowly until your back is on the bench again.
 
 ## Pro tips
 
@@ -58,7 +57,7 @@ The Weighted Decline Situp is rated as intermediate. Beginners should build a ba
 ## Related exercises
 
 - [More Core Exercises](https://forgetrainer.ai/exercises/core)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---

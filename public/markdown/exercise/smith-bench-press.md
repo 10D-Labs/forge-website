@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith bench press is a chest exercise performed on a smith machine, which provides a guided bar path for pressing movements. It primarily targets the pectorals, with secondary emphasis on the tricep and shoulders. The smith machine offers additional stability compared to a free-weight bench press, making it accessible for those with less experience or those seeking a safer alternative to heavy pressing. Beginner chest exercise using smith machine. Targets chest, also works triceps, shoulders.
+A bench press on a Smith machine, where the bar runs on fixed rails. It works the chest, with help from the triceps and shoulders. Beginner chest exercise using smith machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith bench press is a chest exercise performed on a smith machine, which pr
 
 ## How to perform
 
-1. Adjust the height of the smith machine bar to chest level.
-2. Lie flat on the bench with your feet firmly planted on the ground.
-3. Grip the bar with an overhand grip slightly wider than shoulder-width apart.
-4. Unrack the bar and lower it towards your chest, keeping your elbows tucked in.
-5. Pause for a moment when the bar touches your chest.
-6. Push the bar back up to the starting position, fully extending your arms.
-7. Repeat for the desired number of repetitions.
+1. Lie flat on a bench under the Smith machine bar, with the bar over your chest and your feet flat on the floor.
+2. Grip the bar with your palms facing toward your feet, hands slightly wider than shoulder-width.
+3. Unhook the bar and lower it until it touches your chest, keeping your elbows tucked in.
+4. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The monster walk is a lower body exercise that targets the glutes and also works the hamstrings and quadriceps. It is typically performed with a resistance band around the ankles to increase intensity. The movement involves stepping side to side while maintaining tension in the band and a slight knee bend. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
+A side-stepping walk with your knees slightly bent and hands on your hips. It works the glutes, especially at the sides of your hips. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The monster walk is a lower body exercise that targets the glutes and also works
 
 ## How to perform
 
-1. Place a resistance band around your ankles.
-2. Stand with your feet shoulder-width apart and slightly bend your knees.
-3. Take a step to the side with your right foot, maintaining tension on the resistance band.
-4. Follow with your left foot, stepping to the side to return to the starting position.
-5. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet close together, knees slightly bent and hands on your hips.
+2. Take a wide step to the side with one foot.
+3. Bring your other foot in until your feet are close together again.
+4. Do all your reps to one side, then switch.
 
 ## Pro tips
 

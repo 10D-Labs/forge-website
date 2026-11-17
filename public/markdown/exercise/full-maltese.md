@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The full maltese is an advanced bodyweight exercise that primarily targets the abs, with significant involvement of the shoulders and chest. It requires a high degree of core strength, balance, and body control, making it a challenging movement for most practitioners. Advanced core exercise using body weight. Targets abs, also works shoulders, chest.
+A floor hold on straight arms with your hands out wide, body flat just above the floor and legs together, which makes it harder than the straddle version. It works the abs, with the shoulders and chest holding you up. Advanced core exercise using body weight. Targets abs, also works shoulders, chest.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The full maltese is an advanced bodyweight exercise that primarily targets the a
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and your arms extended straight out to the sides.
-2. Slowly lean forward, keeping your arms straight, until your upper body is parallel to the ground.
-3. Engage your core and hold this position for a few seconds.
-4. Return to the starting position by pushing through your feet and standing back up.
-5. Repeat for the desired number of repetitions.
+1. Lie face down and place your hands flat on the floor well wider than your shoulders, level with your waist.
+2. Straighten your arms and lean forward to lift your whole body just off the floor.
+3. Keep your legs straight and together, and your body flat and close to the floor.
+4. Hold for a few seconds, then lower slowly back to the floor.
 
 ## Pro tips
 

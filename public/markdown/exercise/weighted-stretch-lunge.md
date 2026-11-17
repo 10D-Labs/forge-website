@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted stretch lunge is a lower body exercise that targets the glutes while also engaging the quadriceps, hamstrings, and calves. It involves stepping forward into a lunge position while holding weights, then returning to the starting position and alternating legs. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A lunge where your feet stay planted in a long split stance and you sink low holding a plate. It works the glutes and quads and stretches the front of the back hip. Intermediate legs exercise using weight plate. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Glutes
 - **Secondary Muscles:** Quadriceps, Hamstrings, Calves
 - **Difficulty:** Intermediate
@@ -15,12 +15,10 @@ The weighted stretch lunge is a lower body exercise that targets the glutes whil
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Take a step forward with your right foot, keeping your back straight.
-3. Lower your body by bending your knees until your right thigh is parallel to the ground.
-4. Push through your right heel to return to the starting position.
-5. Repeat with your left leg.
-6. Continue alternating legs for the desired number of repetitions.
+1. Stand in a long split stance: one foot far in front with the knee bent, the back leg nearly straight with the heel up.
+2. Hold a weight plate by its top edge with both hands, palms facing you, arms straight so it hangs in front of your hips.
+3. Keep your upper body upright and bend both knees to sink your hips straight down until your back knee is just above the floor.
+4. Push back up until your back leg is nearly straight, keeping your feet in place. Do all your reps on one side, then switch legs.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Weighted Stretch Lunge is rated as intermediate. Beginners should build a ba
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
 
 ---

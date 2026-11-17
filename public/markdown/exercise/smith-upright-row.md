@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith upright row is a shoulder exercise performed on a smith machine, targeting the deltoids and also engaging the traps and bicep. It involves pulling a barbell upwards towards the chin while keeping the elbows higher than the wrists. Intermediate shoulders exercise using smith machine. Targets shoulders, also works traps, biceps.
+An upright row on a Smith machine, pulling the bar up to your chin with your elbows leading. It works the sides of the shoulders, with help from the traps and biceps. Intermediate shoulders exercise using smith machine. Targets shoulders, also works traps, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Smith Machine
@@ -15,12 +15,10 @@ The smith upright row is a shoulder exercise performed on a smith machine, targe
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, facing the smith machine.
-2. Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Keep your back straight and your core engaged.
-4. Pull the barbell up towards your chin, leading with your elbows.
-5. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand facing the Smith machine with your feet shoulder-width apart.
+2. Hold the bar with your palms facing you and your arms straight down, hands slightly wider than shoulder-width.
+3. Keep your back straight and pull the bar up toward your chin, leading with your elbows.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

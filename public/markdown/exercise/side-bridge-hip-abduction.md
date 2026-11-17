@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The side bridge hip abduction is a bodyweight exercise that targets the hip abductors, glutes, and obliques. It involves holding a side plank position while lifting the top leg, challenging both strength and stability. Intermediate legs exercise using body weight. Targets abductors, also works glutes, obliques.
+A side plank on your forearm with a top-leg raise. It works the outer hips and glutes, with the obliques helping hold you up. Intermediate legs exercise using body weight. Targets abductors, also works glutes, obliques.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The side bridge hip abduction is a bodyweight exercise that targets the hip abdu
 
 ## How to perform
 
-1. Lie on your side with your legs extended and stacked on top of each other.
-2. Prop yourself up on your forearm, keeping your elbow directly below your shoulder.
-3. Engage your core and lift your hips off the ground, creating a straight line from your head to your feet.
-4. While keeping your core engaged, lift your top leg as high as possible without rotating your hips.
-5. Pause for a moment at the top, then lower your leg back down.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Lie on your side with your legs straight and stacked on top of each other.
+2. Prop yourself up on your forearm, with your elbow right under your shoulder.
+3. Lift your hips off the floor until your body is in a straight line from head to feet.
+4. Raise your top leg as high as you can without letting your hips turn.
+5. Lower the leg back down. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,13 +2,13 @@
 
 ## Quick Answer
 
-113 exercises targeting your shoulders. Build strength and muscle with exercises organized by equipment type.
+108 exercises targeting your shoulders. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
 ## All Shoulder Exercises by Equipment
 
-### Barbell (13 exercises)
+### Barbell (12 exercises)
 
 - **Barbell Front Raise** — Beginner | Target: Shoulders
 - **Barbell Rear Delt Raise** — Intermediate | Target: Shoulders
@@ -18,18 +18,14 @@
 - **Barbell Upright Row** — Intermediate | Target: Shoulders
 - **Barbell Standing Wide Military Press** — Intermediate | Target: Shoulders
 - **Landmine Lateral Raise** — Intermediate | Target: Shoulders
-- **Barbell Skier** — Intermediate | Target: Shoulders
 - **Barbell Wide Grip Upright Row** — Intermediate | Target: Shoulders
 - **Barbell Thruster** — Intermediate | Target: Shoulders
 - **Barbell Single Arm Snatch** — Advanced | Target: Shoulders
 - **Barbell Standing Close Grip Military Press** — Intermediate | Target: Shoulders
 
-### Body Weight (4 exercises)
+### Body Weight (1 exercise)
 
 - **Rear Deltoid Stretch** — Beginner | Target: Shoulders
-- **Weighted Front Raise** — Beginner | Target: Shoulders
-- **Bus Driver** — Intermediate | Target: Shoulders
-- **Weighted Kneeling Step with Swing** — Intermediate | Target: Shoulders
 
 ### Cable (12 exercises)
 
@@ -46,19 +42,19 @@
 - **Cable External Shoulder Rotation** — Beginner | Target: Shoulders
 - **Face Pull** — Intermediate | Target: Shoulders
 
-### Dumbbell (51 exercises)
+### Dumbbell (49 exercises)
 
 - **Dumbbell Lateral Raise** — Beginner | Target: Shoulders
 - **Dumbbell Front Raise** — Beginner | Target: Shoulders
-- **Dumbbell Incline Raise** — Intermediate | Target: Shoulders
+- **Dumbbell Incline Front Raise** — Intermediate | Target: Shoulders
 - **Dumbbell Incline Rear Lateral Raise** — Intermediate | Target: Shoulders
 - **Dumbbell Lateral to Front Raise** — Intermediate | Target: Shoulders
 - **Dumbbell Lying Rear Lateral Raise** — Intermediate | Target: Shoulders
-- **Dumbbell Rear Delt Row** — Intermediate | Target: Shoulders
-- **Dumbbell Rear Fly** — Intermediate | Target: Shoulders
+- **Dumbbell Single Arm Rear Delt Row** — Intermediate | Target: Shoulders
+- **Dumbbell Seated Bent Over Rear Fly** — Intermediate | Target: Shoulders
 - **Dumbbell Rear Lateral Raise** — Intermediate | Target: Shoulders
-- **Dumbbell Reverse Fly** — Intermediate | Target: Shoulders
-- **Dumbbell Rotation Reverse Fly** — Intermediate | Target: Shoulders
+- **Dumbbell Incline Reverse Fly** — Intermediate | Target: Shoulders
+- **Dumbbell Incline Rotation Reverse Fly** — Intermediate | Target: Shoulders
 - **Dumbbell Seated Front Raise** — Beginner | Target: Shoulders
 - **Dumbbell Seated Lateral Raise** — Beginner | Target: Shoulders
 - **Dumbbell Seated Shoulder Press** — Beginner | Target: Shoulders
@@ -66,10 +62,9 @@
 - **Dumbbell Standing Overhead Press** — Intermediate | Target: Shoulders
 - **Dumbbell Upright Row** — Beginner | Target: Shoulders
 - **Dumbbell Arnold Press** — Intermediate | Target: Shoulders
-- **Dumbbell Rear Delt Raise** — Intermediate | Target: Shoulders
+- **Dumbbell Standing Rear Delt Row** — Intermediate | Target: Shoulders
 - **Dumbbell Incline T-raise** — Intermediate | Target: Shoulders
 - **Dumbbell Bench Seated Press** — Beginner | Target: Shoulders
-- **Dumbbell Cuban Press** — Intermediate | Target: Shoulders
 - **Dumbbell Full Can Lateral Raise** — Beginner | Target: Shoulders
 - **Dumbbell Iron Cross** — Intermediate | Target: Shoulders
 - **Dumbbell Single Arm Lateral Raise** — Beginner | Target: Shoulders
@@ -83,17 +78,16 @@
 - **Dumbbell W Press** — Beginner | Target: Shoulders
 - **Dumbbell Push Press** — Intermediate | Target: Shoulders
 - **Dumbbell Standing Around World** — Intermediate | Target: Shoulders
-- **Dumbbell Seated Bent Arm Lateral Raise** — Beginner | Target: Shoulders
 - **Dumbbell Scott Press** — Intermediate | Target: Shoulders
-- **Dumbbell Lying on Floor Rear Delt Raise** — Beginner | Target: Shoulders
-- **Dumbbell Alternate Side Press** — Intermediate | Target: Shoulders
+- **Dumbbell Side Lying Rear Delt Raise** — Beginner | Target: Shoulders
+- **Dumbbell Standing Alternate Shoulder Press** — Intermediate | Target: Shoulders
 - **Dumbbell Incline Single Arm Lateral Raise** — Intermediate | Target: Shoulders
 - **Dumbbell Lying Single Arm Rear Lateral Raise** — Intermediate | Target: Shoulders
 - **Dumbbell Single Arm Lateral Raise with Support** — Beginner | Target: Shoulders
 - **Dumbbell Seated Alternate Press** — Beginner | Target: Shoulders
 - **Dumbbell Neutral Grip Seated Shoulder Press** — Beginner | Target: Shoulders
 - **Dumbbell Side Lying One Hand Raise** — Beginner | Target: Shoulders
-- **Dumbbell Standing Alternate Raise** — Beginner | Target: Shoulders
+- **Dumbbell Standing Alternate Front Raise** — Beginner | Target: Shoulders
 - **Dumbbell Lying External Shoulder Rotation** — Beginner | Target: Shoulders
 - **Dumbbell Standing External Shoulder Rotation** — Intermediate | Target: Shoulders
 - **Dumbbell Seated Alternate Shoulder Press** — Beginner | Target: Shoulders
@@ -104,7 +98,7 @@
 
 - **EZ Bar Anti Gravity Press** — Intermediate | Target: Shoulders
 
-### Kettlebell (15 exercises)
+### Kettlebell (13 exercises)
 
 - **Kettlebell Arnold Press** — Intermediate | Target: Shoulders
 - **Kettlebell Two Arm Military Press** — Intermediate | Target: Shoulders
@@ -117,15 +111,13 @@
 - **Kettlebell Seated Two Arm Military Press** — Intermediate | Target: Shoulders
 - **Kettlebell Alternating Press** — Intermediate | Target: Shoulders
 - **Kettlebell Single Arm Clean and Jerk** — Advanced | Target: Shoulders
-- **Kettlebell Single Arm Jerk** — Intermediate | Target: Shoulders
-- **Kettlebell Single Arm Military Press to the Side** — Intermediate | Target: Shoulders
 - **Kettlebell Single Arm Push Press** — Intermediate | Target: Shoulders
 - **Kettlebell Single Arm Snatch** — Advanced | Target: Shoulders
 
 ### Machine (4 exercises)
 
-- **Lateral Raise** — Beginner | Target: Shoulders
-- **Military Press** — Beginner | Target: Shoulders
+- **Machine Lateral Raise** — Beginner | Target: Shoulders
+- **Machine Shoulder Press** — Beginner | Target: Shoulders
 - **Seated Reverse Fly** — Beginner | Target: Shoulders
 - **Neutral Grip Seated Reverse Fly** — Beginner | Target: Shoulders
 
@@ -144,9 +136,15 @@
 
 - **Smith Rear Delt Row** — Beginner | Target: Shoulders
 - **Smith Seated Shoulder Press** — Beginner | Target: Shoulders
-- **Smith Shoulder Press** — Beginner | Target: Shoulders
+- **Smith Wide Grip Shoulder Press** — Beginner | Target: Shoulders
 - **Smith Standing Military Press** — Intermediate | Target: Shoulders
 - **Smith Upright Row** — Intermediate | Target: Shoulders
+
+### Weight Plate (3 exercises)
+
+- **Weighted Front Raise** — Beginner | Target: Shoulders
+- **Bus Driver** — Intermediate | Target: Shoulders
+- **Weighted Kneeling Step with Swing** — Intermediate | Target: Shoulders
 
 ---
 
@@ -154,7 +152,7 @@
 
 Get a personalized shoulder workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

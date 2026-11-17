@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The world's greatest stretch is a dynamic movement that targets the hamstrings and also stretches the glutes, quadriceps, and calves. It involves a lunge, torso rotation, and a deep stretch, making it excellent for improving flexibility and mobility. Intermediate legs exercise using body weight. Targets hamstrings, also works glutes, quadriceps, calves.
+A deep lunge stretch with both hands on the floor inside your front foot. It stretches the hamstrings, glutes, quads and calves. Intermediate legs exercise using body weight. Targets hamstrings, also works glutes, quadriceps, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The world's greatest stretch is a dynamic movement that targets the hamstrings a
 
 ## How to perform
 
-1. Start in a lunge position with your right foot forward and your left foot back.
-2. Place your hands on the ground on either side of your right foot.
-3. Lower your left knee to the ground and extend your right leg, keeping your right foot flat on the ground.
-4. Rotate your torso to the right, reaching your right arm up towards the ceiling.
-5. Hold this position for a few seconds, then return to the starting position.
-6. Switch sides and repeat the stretch with your left foot forward.
+1. Step into a long, low lunge with your right foot forward and your left foot back.
+2. Lean forward and put both hands on the floor inside your right foot.
+3. Straighten your back leg until you feel the stretch, and hold for a few seconds.
+4. Bend your back knee and lift your chest back up into the lunge.
+5. Switch to your left foot forward and repeat.
 
 ## Pro tips
 

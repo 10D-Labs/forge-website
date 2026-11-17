@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The reverse grip preacher curl is an isolation exercise targeting the bicep, performed on a machine with an underhand grip. It emphasizes the bicep and also engages the forearms, using the preacher pad to stabilize the upper arms and minimize cheating. Beginner arms exercise using machine. Targets biceps, also works forearms.
+A machine preacher curl done with your palms facing down. It works the biceps and the forearms. Beginner arms exercise using machine. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The reverse grip preacher curl is an isolation exercise targeting the bicep, per
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine.
-2. Grasp the handles with an underhand grip, palms facing up.
-3. Rest your upper arms on the preacher pad, ensuring your elbows are fully extended.
-4. Keeping your upper arms stationary, exhale and curl the handles towards your shoulders.
-5. Pause for a moment at the top of the movement, squeezing your biceps.
-6. Inhale and slowly lower the handles back to the starting position, fully extending your elbows.
-7. Repeat for the desired number of repetitions.
+1. Sit in the preacher curl machine with your armpits on top of the pad. Hold the handles with your palms facing down.
+2. Rest the backs of your upper arms on the pad, arms nearly straight.
+3. Keep your upper arms on the pad and curl the handles up toward your forehead.
+4. Lower slowly until your arms are nearly straight again.
 
 ## Pro tips
 

@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The kick out sit is a bodyweight exercise that targets the hamstrings while also engaging the quadriceps and glutes. It involves sitting on the edge of a bench or chair, extending the legs out, and then returning to the starting position. Beginner legs exercise using body weight. Targets hamstrings, also works quadriceps, glutes.
+A wall sit where you kick one leg straight out at a time while holding the low position. It works the quads, with help from the glutes. Beginner legs exercise using body weight. Targets quads, also works glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
-- **Target Muscle:** Hamstrings
-- **Secondary Muscles:** Quadriceps, Glutes
+- **Target Muscle:** Quads
+- **Secondary Muscles:** Glutes
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,11 +15,10 @@ The kick out sit is a bodyweight exercise that targets the hamstrings while also
 
 ## How to perform
 
-1. Sit on the edge of a bench or chair with your feet flat on the ground and your knees bent at a 90 degree angle.
-2. Lean back slightly and place your hands on the edge of the bench or chair for support.
-3. Engaging your hamstrings, lift your feet off the ground and extend your legs straight out in front of you.
-4. Pause for a moment at the top, then slowly bend your knees and bring your feet back towards your body.
-5. Repeat for the desired number of repetitions.
+1. Lean your back against a wall and slide down until your thighs are level with the floor, feet hip-width apart.
+2. Hold your arms straight out to your sides at shoulder height.
+3. Straighten one knee to kick that leg out in front of you, level with your hip.
+4. Lower the foot back to the floor, then kick out the other leg. Keep alternating sides.
 
 ## Pro tips
 
@@ -45,17 +44,17 @@ Yes. Sit on the edge of a sturdy chair with your hands gripping the sides for su
 
 ### What muscles does the Kick Out Sit work?
 
-The Kick Out Sit primarily targets the hamstrings, with secondary activation in the quadriceps, glutes. It's classified as a strength exercise for the legs.
+The Kick Out Sit primarily targets the quads, with secondary activation in the glutes. It's classified as a strength exercise for the legs.
 
 ### Is the Kick Out Sit good for beginners?
 
-Yes, the Kick Out Sit is rated as a beginner-level exercise. It's a great starting point for building hamstrings strength.
+Yes, the Kick Out Sit is rated as a beginner-level exercise. It's a great starting point for building quads strength.
 
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
 - [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
-- [More Hamstrings Exercises](https://forgetrainer.ai/exercises/muscle/hamstrings)
+- [More Quads Exercises](https://forgetrainer.ai/exercises/muscle/quads)
 
 ---
 

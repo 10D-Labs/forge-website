@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable reverse preacher curl is an isolation exercise targeting the bicep, performed using a cable machine and a preacher curl bench. It emphasizes the brachialis and forearm muscles due to the reverse grip. Intermediate arms exercise using cable. Targets biceps, also works forearms.
+A preacher curl on a low cable with your palms facing down instead of up. It works the biceps and puts more of the load on the forearms. Intermediate arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable reverse preacher curl is an isolation exercise targeting the bicep, pe
 
 ## How to perform
 
-1. Adjust the cable machine so that the preacher curl pad is at chest height.
-2. Sit on the preacher curl bench and place your upper arms on the pad, with your palms facing down and your elbows fully extended.
-3. Grab the cable handles with an underhand grip, shoulder-width apart.
-4. Keeping your upper arms stationary, exhale and curl the handles towards your shoulders, contracting your biceps.
-5. Pause for a moment at the top of the movement, squeezing your biceps.
-6. Inhale and slowly lower the handles back to the starting position, fully extending your elbows.
-7. Repeat for the desired number of repetitions.
+1. Sit at a preacher bench in front of a low pulley with a short bent (EZ) bar. Rest the backs of your upper arms on the pad.
+2. Grip the bar with your hands shoulder-width apart, palms facing down, and start with your arms straight down the pad.
+3. Curl the bar up toward your chin, keeping your upper arms on the pad and your palms facing down.
+4. Lower slowly until your arms are straight.
 
 ## Pro tips
 

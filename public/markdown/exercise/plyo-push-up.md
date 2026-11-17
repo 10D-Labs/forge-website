@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The plyo push up is an explosive bodyweight exercise that targets the pectoral muscles and also works the tricep, shoulders, and core. It involves pushing off the ground with enough force for your hands to leave the floor, requiring power, coordination, and upper body strength. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
+An explosive pushup where you push hard enough for your hands to leave the floor. It works the chest, plus the triceps, shoulders and abs, and builds upper body power. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The plyo push up is an explosive bodyweight exercise that targets the pectoral m
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart.
-2. Lower your chest towards the ground by bending your elbows, keeping your body in a straight line.
-3. Push explosively off the ground, using your chest muscles to propel your upper body off the ground.
-4. Land softly with your hands back in the starting position.
-5. Repeat for the desired number of repetitions.
+1. Start at the top of a pushup with your hands slightly wider than shoulder-width apart.
+2. Bend your elbows to lower your chest toward the floor, keeping your body in a straight line.
+3. Push up hard enough that your hands leave the floor.
+4. Land softly with your hands back where they started.
 
 ## Pro tips
 

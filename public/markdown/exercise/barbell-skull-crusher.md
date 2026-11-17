@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell skull crusher, is a strength exercise that targets the tricep. Performed lying on a bench, it involves lowering a barbell to the forehead and extending the arms back up, requiring control and proper form to avoid injury. Intermediate arms exercise using barbell. Targets triceps, also works shoulders.
+A lying triceps exercise on a flat bench, bending your elbows to lower a barbell behind your head, then straightening them. It works the triceps. Intermediate arms exercise using barbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell skull crusher, is a strength exercise that targets the tricep. Perfo
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.
-2. Hold the barbell with an overhand grip, hands shoulder-width apart, and extend your arms straight up over your chest.
-3. Keeping your upper arms stationary, slowly lower the barbell towards your forehead by bending your elbows.
-4. Pause for a moment when the barbell is just above your forehead, then extend your arms back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with your head at the end and your feet flat on the floor.
+2. Hold the barbell straight up over your chest, hands shoulder-width apart and palms facing your feet.
+3. Keep your upper arms still and bend your elbows to lower the bar slowly past your forehead to behind your head.
+4. Straighten your arms to lift the bar back up over your chest.
 
 ## Pro tips
 

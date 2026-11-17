@@ -2,9 +2,9 @@
 
 ## Quick Answer
 
-13 effective shoulder exercises you can do with barbell. Complete instructions and form tips included.
+12 effective shoulder exercises you can do with barbell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 1 Beginner | 11 Intermediate | 1 Advanced
+**Difficulty breakdown:** 1 Beginner | 10 Intermediate | 1 Advanced
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **Barbell Front Raise** — Target: Shoulders | Secondary: Biceps, Triceps
 
-### Intermediate (11 exercises)
+### Intermediate (10 exercises)
 
 - **Barbell Rear Delt Raise** — Target: Shoulders | Secondary: Traps, Rhomboids
 - **Barbell Rear Delt Row** — Target: Shoulders | Secondary: Trapezius, Rhomboids, Biceps
@@ -23,7 +23,6 @@
 - **Barbell Upright Row** — Target: Shoulders | Secondary: Traps, Biceps
 - **Barbell Standing Wide Military Press** — Target: Shoulders | Secondary: Triceps, Upper Back
 - **Landmine Lateral Raise** — Target: Shoulders | Secondary: Traps, Upper Back
-- **Barbell Skier** — Target: Shoulders | Secondary: Triceps, Core
 - **Barbell Wide Grip Upright Row** — Target: Shoulders | Secondary: Traps, Biceps
 - **Barbell Thruster** — Target: Shoulders | Secondary: Quadriceps, Glutes, Hamstrings, Core
 - **Barbell Standing Close Grip Military Press** — Target: Shoulders | Secondary: Triceps, Upper Back
@@ -38,7 +37,7 @@
 
 Our AI trainers design personalized shoulder workout plans using barbell. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

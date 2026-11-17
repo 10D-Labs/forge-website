@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable standing kickback targets the glutes by extending the leg backward against resistance. It also engages the hamstrings and quadriceps as secondary muscles. This exercise is performed using a cable machine and requires balance and core stability. Intermediate legs exercise using cable. Targets glutes, also works hamstrings, quadriceps.
+A standing kickback against a low cable strapped to your ankle, pushing one leg straight back. It works the glutes, with help from the hamstrings. Intermediate legs exercise using cable. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable standing kickback targets the glutes by extending the leg backward aga
 
 ## How to perform
 
-1. Attach a cable to a low pulley and stand facing away from the machine.
-2. Place the cable around your ankle and stand with your feet shoulder-width apart.
-3. Keep your core engaged and your back straight throughout the exercise.
-4. Slowly extend your leg straight back, squeezing your glutes at the top of the movement.
-5. Pause for a moment, then return to the starting position.
-6. Repeat for the desired number of repetitions.
-7. Switch sides and repeat with the other leg.
+1. Strap one ankle into a cuff on a low pulley. Face the machine and rest both hands flat on the frame at about head height.
+2. Stand on the other leg, knee slightly bent, and lean forward a little.
+3. Kick the cuffed leg straight back as far as you can without arching your lower back.
+4. Return slowly until your feet are together. Do all your reps on one side, then switch.
 
 ## Pro tips
 

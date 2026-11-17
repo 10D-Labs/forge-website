@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted drop push up is an advanced plyometric chest exercise that involves explosive pushup with alternating hand positions, performed with added weight for increased resistance. This movement challenges strength, power, coordination, and control, making it suitable for experienced individuals. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
+An explosive pushup with a weight plate on your back, dropping your hands from two benches to the floor and pushing back up onto them. It works the chest, triceps and shoulders. Advanced chest exercise using weight plate. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Chest
 - **Secondary Muscles:** Triceps, Shoulders
 - **Difficulty:** Advanced
@@ -15,13 +15,11 @@ The weighted drop push up is an advanced plyometric chest exercise that involves
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.
-2. Lower your chest towards the ground, keeping your elbows close to your body.
-3. Once your chest is just above the ground, explosively push yourself up, lifting your hands off the ground.
-4. As you push up, quickly move your hands out to the sides and slightly forward, allowing your body to drop down towards the ground.
-5. Catch yourself with your hands in the wider position and immediately lower your chest towards the ground again.
-6. Repeat the pushup motion, dropping down and catching yourself with your hands in the narrower position.
-7. Continue alternating between the wider and narrower hand positions for the desired number of repetitions.
+1. Set two flat benches end to end with a gap a little wider than your shoulders.
+2. Get into a pushup position in the gap, one hand on the end of each bench and a weight plate on your upper back.
+3. Lift your hands off the benches and drop them to the floor in the gap, catching yourself with your elbows slightly bent.
+4. Lower your chest toward the floor, then push up hard enough for your hands to leave the floor.
+5. Land your hands back on the benches, lower your chest between them, and press up until your arms are straight.
 
 ## Pro tips
 
@@ -60,7 +58,7 @@ The Weighted Drop Push Up is an advanced exercise. Beginners should master funda
 ## Related exercises
 
 - [More Chest Exercises](https://forgetrainer.ai/exercises/chest)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Chest Exercises](https://forgetrainer.ai/exercises/muscle/chest)
 
 ---

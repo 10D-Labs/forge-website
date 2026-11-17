@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell seated overhead press is a compound strength exercise targeting the deltoid muscles of the shoulders. It also engages the tricep and upper back as secondary muscles. This movement is performed seated, which helps stabilize the lower body and focus the effort on the upper body. It requires proper technique and shoulder mobility to perform safely and effectively. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
+A barbell press from your shoulders to overhead, done sitting on a bench. It works the front of the shoulders, with help from the triceps and upper back. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell seated overhead press is a compound strength exercise targeting the 
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold the barbell with an overhand grip, slightly wider than shoulder-width apart.
-3. Lift the barbell off the rack and bring it to shoulder level, with your elbows bent and palms facing forward.
-4. Press the barbell overhead by extending your arms fully.
-5. Pause for a moment at the top, then slowly lower the barbell back to shoulder level.
-6. Repeat for the desired number of repetitions.
+1. Sit on a bench with your back straight and your feet flat on the floor.
+2. Grip the barbell with your palms facing forward, hands slightly wider than shoulder-width apart. Lift it off the rack to shoulder level, elbows bent.
+3. Press the bar overhead until your arms are straight.
+4. Lower the bar slowly back to shoulder level.
 
 ## Pro tips
 

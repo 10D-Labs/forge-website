@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The barbell skier is a dynamic shoulder exercise that involves lifting a barbell while performing a small jump, targeting the deltoids and engaging the tricep and core for stability. Intermediate shoulders exercise using barbell. Targets shoulders, also works triceps, core.
+A bent-over barbell move where straight arms swing back past your hips, like pushing off with ski poles. It works the shoulders and triceps. Intermediate back exercise using barbell. Targets lats, also works triceps, rear deltoids, core.
 
-- **Body Part:** Shoulders
+- **Body Part:** Back
 - **Equipment:** Barbell
-- **Target Muscle:** Shoulders
-- **Secondary Muscles:** Triceps, Core
+- **Target Muscle:** Lats
+- **Secondary Muscles:** Triceps, Rear Deltoids, Core
 - **Difficulty:** Intermediate
 - **Category:** Strength
 
@@ -15,11 +15,10 @@ The barbell skier is a dynamic shoulder exercise that involves lifting a barbell
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell in front of your thighs with an overhand grip.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight and chest up.
-3. Simultaneously lift the barbell up towards your shoulders while jumping slightly off the ground.
-4. As you reach the top of the movement, quickly reverse the motion and lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet hip-width apart, holding a barbell with your hands about shoulder-width apart, palms facing your legs.
+2. Bend your knees and lean forward from your hips, back flat, so your arms hang straight down in front of your knees.
+3. Keep your arms straight and swing the bar back past your hips as far as you can.
+4. Swing it back down slowly until your arms hang straight again.
 
 ## Pro tips
 
@@ -49,17 +48,17 @@ Early in your workout when you're fresh, typically as part of a power or athleti
 
 ### What muscles does the Barbell Skier work?
 
-The Barbell Skier primarily targets the shoulders, with secondary activation in the triceps, core. It's classified as a strength exercise for the shoulders.
+The Barbell Skier primarily targets the lats, with secondary activation in the triceps, rear deltoids, core. It's classified as a strength exercise for the back.
 
 ### Is the Barbell Skier good for beginners?
 
-The Barbell Skier is rated as intermediate. Beginners should build a base of shoulders strength with easier variations first.
+The Barbell Skier is rated as intermediate. Beginners should build a base of lats strength with easier variations first.
 
 ## Related exercises
 
-- [More Shoulders Exercises](https://forgetrainer.ai/exercises/shoulders)
+- [More Back Exercises](https://forgetrainer.ai/exercises/back)
 - [More Barbell Exercises](https://forgetrainer.ai/exercises/equipment/barbell)
-- [More Shoulders Exercises](https://forgetrainer.ai/exercises/muscle/shoulders)
+- [More Lats Exercises](https://forgetrainer.ai/exercises/muscle/lats)
 
 ---
 

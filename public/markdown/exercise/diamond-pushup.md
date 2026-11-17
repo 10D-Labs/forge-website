@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The diamond pushup is a bodyweight exercise that primarily targets the tricep, with secondary emphasis on the chest and shoulders. It is performed in a plank position with the hands close together, forming a diamond shape, and requires significant upper body strength and stability. Intermediate arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A pushup with your hands together under your chest, thumbs and index fingers touching in a diamond shape. It mainly works the triceps, with help from the chest and shoulders. Intermediate arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The diamond pushup is a bodyweight exercise that primarily targets the tricep, w
 
 ## How to perform
 
-1. Start in a high plank position with your hands close together, forming a diamond shape with your thumbs and index fingers.
-2. Keep your body in a straight line from head to toe, engaging your core and glutes.
-3. Lower your chest towards the diamond shape formed by your hands, keeping your elbows close to your body.
-4. Pause for a moment at the bottom, then push yourself back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Start at the top of a pushup with your hands close together under your chest, thumbs and index fingers touching to make a diamond shape.
+2. Keep your body in a straight line from head to heels.
+3. Lower your chest toward your hands, keeping your elbows close to your body.
+4. Push back up until your arms are straight.
 
 ## Pro tips
 

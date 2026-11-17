@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith incline reverse grip press is a chest exercise performed on a smith machine with an incline bench. It targets the pectoral muscles using a reverse (underhand) grip, which also engages the tricep and shoulders. The smith machine provides stability, but the reverse grip and incline angle require good coordination and some experience. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
+An incline press on a Smith machine with your palms facing toward you instead of away. It works the upper chest, with help from the triceps and shoulders. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith incline reverse grip press is a chest exercise performed on a smith ma
 
 ## How to perform
 
-1. Adjust the seat of the smith machine to a comfortable incline angle.
-2. Sit on the machine with your back against the pad and your feet flat on the ground.
-3. Grasp the bar with an overhand grip that is slightly wider than shoulder-width apart.
-4. Unrack the bar and lower it slowly towards your chest, keeping your elbows tucked in.
-5. Pause for a moment when the bar is just above your chest.
-6. Push the bar back up to the starting position, fully extending your arms.
-7. Repeat for the desired number of repetitions.
+1. Set an incline bench to about 45 degrees in a Smith machine, with the bar over your upper chest. Lie back, feet flat on the floor.
+2. Grip the bar about shoulder-width apart with your palms facing toward your face, then unhook it.
+3. Lower the bar to your upper chest, keeping your elbows close to your sides.
+4. Press it back up until your arms are straight.
 
 ## Pro tips
 

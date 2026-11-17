@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell lunge pass through is a dynamic lower body exercise that combines a traditional lunge with a kettlebell hand-off beneath the front thigh, challenging balance, coordination, and strength. Intermediate legs exercise using kettlebell. Targets glutes, also works quadriceps, hamstrings, calves.
+A forward lunge where you pass a kettlebell under your front thigh from one hand to the other, switching legs each rep. It works the glutes and quads and tests your balance. Intermediate legs exercise using kettlebell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Kettlebell
@@ -15,12 +15,11 @@ The kettlebell lunge pass through is a dynamic lower body exercise that combines
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in front of your chest with both hands.
-2. Take a step forward with your right foot, lowering your body into a lunge position.
-3. As you lunge forward, pass the kettlebell under your right thigh and transfer it to your left hand.
-4. Push off with your right foot to return to the starting position, while simultaneously passing the kettlebell back to your right hand.
-5. Repeat the lunge on the opposite side, passing the kettlebell under your left thigh.
-6. Continue alternating lunges and passing the kettlebell between hands for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand at your side.
+2. Step forward into a lunge, lowering your back knee toward the floor.
+3. Pass the kettlebell under your front thigh to your other hand.
+4. Push off your front foot to stand back up, holding the bell in the new hand.
+5. Lunge with the other leg and pass the bell back under that thigh. Keep alternating sides.
 
 ## Pro tips
 

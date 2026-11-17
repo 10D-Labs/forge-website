@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The walking lunge is a bodyweight exercise that targets the glutes while also engaging the quadriceps, hamstrings, and calves. It involves stepping forward into a lunge and alternating legs as you walk forward, requiring balance, coordination, and lower body strength. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+Lunges that travel forward, each step taking you into the next lunge on the other leg. It works the glutes, with help from the quads and hamstrings. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The walking lunge is a bodyweight exercise that targets the glutes while also en
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Take a step forward with your right leg, lowering your body into a lunge position.
-3. Keep your torso upright and your front knee aligned with your ankle.
-4. Push off with your right foot and bring your left foot forward, stepping into a lunge position with your left leg.
-5. Continue alternating legs and walking forward, maintaining a controlled and steady pace.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your hands on your hips.
+2. Step forward with your right leg and lower your body until your back knee is just above the floor.
+3. Keep your torso upright and your front knee over your ankle.
+4. Push off your right foot and bring your left foot forward into the next lunge.
+5. Keep alternating legs as you walk forward at a steady pace.
 
 ## Pro tips
 

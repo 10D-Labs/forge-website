@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell sumo high pull is a compound exercise that targets the traps and also works the shoulders, glutes, and hamstrings. It involves a wide-stance squat combined with an explosive pull of the kettlebell to chin height. Intermediate back exercise using kettlebell. Targets traps, also works shoulders, glutes, hamstrings.
+A wide-stance squat that ends with a fast pull of a kettlebell up to your chin. It works the traps, the muscles between your neck and shoulders, with the shoulders, glutes and hamstrings helping. Intermediate back exercise using kettlebell. Targets traps, also works shoulders, glutes, hamstrings.
 
 - **Body Part:** Back
 - **Equipment:** Kettlebell
@@ -15,12 +15,11 @@ The kettlebell sumo high pull is a compound exercise that targets the traps and 
 
 ## How to perform
 
-1. Stand with your feet wider than shoulder-width apart, toes pointing outwards.
-2. Hold a kettlebell with both hands in front of your body, arms extended downwards.
-3. Bend your knees and lower your hips into a squat position, keeping your back straight.
-4. Drive through your heels and explosively extend your hips and knees, pulling the kettlebell up towards your chin.
-5. As you pull the kettlebell up, keep your elbows high and wide, and squeeze your shoulder blades together.
-6. Lower the kettlebell back down to the starting position and repeat for the desired number of repetitions.
+1. Stand with your feet wider than shoulder-width apart and your toes turned out.
+2. Hold one kettlebell in both hands in front of you, arms hanging straight down.
+3. Bend your knees and lower your hips into a squat, keeping your back straight.
+4. Push through your heels to stand up fast, pulling the kettlebell up to your chin with your elbows high and wide.
+5. Lower the kettlebell back down in front of you.
 
 ## Pro tips
 

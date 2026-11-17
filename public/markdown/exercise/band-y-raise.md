@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band Y-raise is a shoulder exercise that targets the deltoids and also engages the traps and rhomboids. It is performed using a resistance band and involves raising the arms in a 'Y' shape to strengthen the upper back and shoulders. Beginner shoulders exercise using resistance band. Targets shoulders, also works traps, rhomboids.
+A raise where you lift straight arms up and out against a band until your body forms a Y. It works the shoulders, with help from the upper back. Beginner shoulders exercise using resistance band. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Resistance Band
@@ -15,11 +15,9 @@ The band Y-raise is a shoulder exercise that targets the deltoids and also engag
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the band in front of your thighs with your palms facing inwards.
-2. Keep your arms straight and lift them up and out to the sides, forming a 'Y' shape with your body.
-3. Squeeze your shoulder blades together at the top of the movement.
-4. Slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand on a resistance band with your feet shoulder-width apart. Hold an end in each hand in front of your thighs, palms facing in.
+2. Keep your arms straight and lift them up and out until they are overhead and your body makes a Y shape.
+3. Lower your arms slowly back to your thighs.
 
 ## Pro tips
 

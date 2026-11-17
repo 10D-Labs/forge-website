@@ -8,20 +8,20 @@
 
 ## All Adductors Exercises by Equipment
 
-### Body Weight (3 exercises)
+### Body Weight (4 exercises)
 
 - **Butterfly Yoga Pose** — Beginner | Body Part: Legs
 - **Side Plank Hip Adduction** — Advanced | Body Part: Legs
+- **Rocking Frog Stretch** — Beginner | Body Part: Legs
 - **Side Lying Hip Adduction** — Beginner | Body Part: Legs
 
 ### Cable (1 exercise)
 
 - **Cable Hip Adduction** — Beginner | Body Part: Legs
 
-### Machine (2 exercises)
+### Machine (1 exercise)
 
 - **Seated Hip Adduction** — Beginner | Body Part: Legs
-- **Side Lying Adductor Stretch** — Beginner | Body Part: Legs
 
 ---
 
@@ -29,7 +29,7 @@
 
 Get a personalized workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

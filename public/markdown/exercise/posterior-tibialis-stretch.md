@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-A stretch targeting the calves using a rope to assist in flexing the foot and lengthening the posterior tibialis and calf muscles. Beginner legs exercise using resistance band. Targets calves, also works hamstrings, quadriceps.
+A seated stretch where you loop a band around your foot and pull your toes back. It stretches the calf, including a deep muscle behind the shin. Beginner legs exercise using resistance band. Targets calves, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ A stretch targeting the calves using a rope to assist in flexing the foot and le
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you.
-2. Loop the rope around the ball of your foot and hold the ends of the rope with your hands.
-3. Gently pull the rope towards you, flexing your foot and stretching your calf muscles.
-4. Hold the stretch for 20-30 seconds.
-5. Release the tension on the rope and relax your foot.
-6. Repeat the stretch on the other leg.
+1. Sit on the floor with one knee bent and that foot on the floor.
+2. Loop the band around the ball of one foot and hold a handle in each hand.
+3. Straighten that leg and gently pull the band toward you, drawing your toes back until you feel a stretch in your calf.
+4. Hold for the set time, then relax and switch legs.
 
 ## Pro tips
 

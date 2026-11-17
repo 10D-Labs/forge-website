@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The sissy squat is a challenging bodyweight exercise that targets the quadriceps by requiring a deep knee bend and significant balance, often performed with minimal support. It emphasizes quad strength and control, while also engaging the calves and glutes. Advanced legs exercise using body weight. Targets quads, also works calves, glutes.
+A bodyweight squat where you rise onto your toes and lean back as your knees move forward. It works the quads, with help from the calves and glutes. Advanced legs exercise using body weight. Targets quads, also works calves, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The sissy squat is a challenging bodyweight exercise that targets the quadriceps
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your toes pointing slightly outward.
-2. Hold onto a stable object for balance if needed.
-3. Slowly lower your body by bending your knees and leaning back, keeping your torso upright.
-4. Continue lowering until your thighs are parallel to the ground or as far as you can comfortably go.
-5. Pause for a moment, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand next to an incline bench and hold the top of its backrest with one hand. Set your feet shoulder-width apart, toes turned slightly out.
+2. Rise onto your toes and push your knees forward as you lean back, keeping a straight line from your knees to your shoulders.
+3. Lower until your thighs are about level with the floor, or as far as you can comfortably go.
+4. Push through the balls of your feet and straighten your knees to come back up.
 
 ## Pro tips
 

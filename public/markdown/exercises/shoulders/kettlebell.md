@@ -2,15 +2,15 @@
 
 ## Quick Answer
 
-15 effective shoulder exercises you can do with kettlebell. Complete instructions and form tips included.
+13 effective shoulder exercises you can do with kettlebell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 0 Beginner | 12 Intermediate | 3 Advanced
+**Difficulty breakdown:** 0 Beginner | 10 Intermediate | 3 Advanced
 
 ---
 
 ## All Shoulder Kettlebell Exercises
 
-### Intermediate (12 exercises)
+### Intermediate (10 exercises)
 
 - **Kettlebell Arnold Press** — Target: Shoulders | Secondary: Triceps, Upper Back
 - **Kettlebell Two Arm Military Press** — Target: Shoulders | Secondary: Triceps, Upper Back
@@ -21,8 +21,6 @@
 - **Kettlebell Two Arm Clean** — Target: Shoulders | Secondary: Traps, Forearms
 - **Kettlebell Seated Two Arm Military Press** — Target: Shoulders | Secondary: Triceps, Upper Back
 - **Kettlebell Alternating Press** — Target: Shoulders | Secondary: Triceps, Core
-- **Kettlebell Single Arm Jerk** — Target: Shoulders | Secondary: Triceps, Core
-- **Kettlebell Single Arm Military Press to the Side** — Target: Shoulders | Secondary: Triceps, Core
 - **Kettlebell Single Arm Push Press** — Target: Shoulders | Secondary: Triceps, Core
 
 ### Advanced (3 exercises)
@@ -37,7 +35,7 @@
 
 Our AI trainers design personalized shoulder workout plans using kettlebell. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

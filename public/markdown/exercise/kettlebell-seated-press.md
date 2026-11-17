@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell seated press is a shoulder exercise performed while seated, pressing kettlebells overhead to target the deltoids, with secondary emphasis on the tricep and core. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
+A one-arm kettlebell press done sitting on the floor with your legs spread wide, so your legs can't help drive the weight. It works the front of the shoulders and the triceps. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,11 +15,10 @@ The kettlebell seated press is a shoulder exercise performed while seated, press
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a kettlebell in each hand at shoulder height, palms facing forward.
-3. Press the kettlebells overhead, fully extending your arms.
-4. Lower the kettlebells back to shoulder height.
-5. Repeat for the desired number of repetitions.
+1. Sit on the floor with your legs straight and wide apart. Hold a kettlebell at one shoulder, palm facing forward, bell resting outside your forearm.
+2. Reach your free arm out to the side for balance.
+3. Sit tall and press the kettlebell straight up until your arm is straight overhead.
+4. Lower it slowly back to your shoulder. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

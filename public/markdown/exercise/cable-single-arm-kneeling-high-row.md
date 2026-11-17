@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable one arm kneeling high row is an exercise that targets the upper back, performed using a cable machine. It also engages the bicep and shoulders, and is done in a kneeling position to help isolate the upper back muscles. Intermediate back exercise using cable. Targets upper back, also works biceps, shoulders.
+A one-arm cable pull done kneeling, bringing a handle down from a high pulley to the front of your shoulder. It works the upper back, with help from the biceps and shoulders. Intermediate back exercise using cable. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,14 +15,10 @@ The cable one arm kneeling high row is an exercise that targets the upper back, 
 
 ## How to perform
 
-1. Attach a handle to a cable machine at waist height.
-2. Kneel down facing the cable machine and grab the handle with one hand.
-3. Keep your back straight and your core engaged.
-4. Pull the handle towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top of the movement.
-6. Slowly release the handle back to the starting position.
-7. Repeat for the desired number of repetitions.
-8. Switch sides and repeat the exercise with the other arm.
+1. Attach a single handle to a high pulley. Kneel facing the machine and sit back on your heels.
+2. Grab the handle with one hand, palm facing you, with that arm stretched up toward the pulley.
+3. Keep your upper body tall and pull the handle down until your hand is in front of your shoulder and your elbow is at your side.
+4. Let your arm rise slowly back toward the pulley until it's straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The forward lunge is a bodyweight exercise targeting the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. It involves stepping forward into a lunge position and returning to standing, alternating legs. Beginner legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A lunge stepping forward from standing, then pushing back to where you started. It works the glutes, with help from the quads and hamstrings. Beginner legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The forward lunge is a bodyweight exercise targeting the glutes, with secondary 
 
 ## How to perform
 
-1. Stand with your feet hip-width apart and hands on your hips.
-2. Take a big step forward with your right foot, lowering your body into a lunge position.
-3. Bend your right knee to about 90 degrees, keeping your knee aligned with your ankle.
-4. Push off with your right foot and return to the starting position.
-5. Repeat with your left leg, alternating sides for the desired number of repetitions.
+1. Stand with your feet hip-width apart and your hands on your hips.
+2. Take a big step forward with your right foot and lower your body.
+3. Bend your right knee to about 90 degrees, keeping it over your ankle.
+4. Push off your right foot to step back to the start, then lunge with your left leg. Keep alternating sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying elbow press is an upper arm exercise targeting the tricep, performed while lying on a bench and pressing dumbbells by extending the elbows. Beginner arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
+A close-grip dumbbell press lying on a flat bench, palms facing each other and elbows tucked in. It works the triceps, with help from the chest. Beginner arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell lying elbow press is an upper arm exercise targeting the tricep, pe
 
 ## How to perform
 
-1. Lie flat on a bench with a dumbbell in each hand, palms facing each other and arms extended straight up over your chest.
-2. Lower the dumbbells towards your shoulders by bending your elbows, keeping your upper arms stationary.
-3. Pause for a moment at the bottom, then press the dumbbells back up to the starting position by extending your elbows.
-4. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench with a dumbbell in each hand, palms facing each other, arms straight up over your chest.
+2. Bend your elbows to lower the dumbbells to the sides of your chest, keeping your elbows close to your body.
+3. Press the dumbbells back up until your arms are straight.
 
 ## Pro tips
 

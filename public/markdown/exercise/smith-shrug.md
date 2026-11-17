@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith shrug is an exercise performed on a Smith machine to target the trapezius muscles. It involves lifting the shoulders towards the ears while holding a barbell, focusing on squeezing the traps at the top of the movement. Beginner back exercise using smith machine. Targets traps, also works shoulders.
+A shrug on a Smith machine, holding the bar in front of your thighs. It works the traps, the muscles that run from your neck to your shoulders. Beginner back exercise using smith machine. Targets traps, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Smith Machine
@@ -15,12 +15,11 @@ The smith shrug is an exercise performed on a Smith machine to target the trapez
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Keep your arms straight and your shoulders relaxed.
-4. Lift your shoulders up towards your ears, squeezing your traps at the top.
-5. Hold for a moment, then slowly lower your shoulders back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand at the Smith machine with your feet shoulder-width apart and knees slightly bent.
+2. Hold the bar in front of your thighs with your palms facing you, hands slightly wider than shoulder-width.
+3. Let your arms hang straight and your shoulders relax.
+4. Lift your shoulders up toward your ears.
+5. Lower your shoulders slowly back down.
 
 ## Pro tips
 

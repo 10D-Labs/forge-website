@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith reverse grip press is a chest exercise performed on a smith machine using a reverse (underhand) grip. This variation targets the upper chest and also engages the tricep and shoulders. The smith machine provides stability, making it suitable for those looking to focus on form and muscle activation. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
+A flat bench press on a Smith machine with your palms facing toward you instead of away. It works the upper chest, with help from the triceps and shoulders. Intermediate chest exercise using smith machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Smith Machine
@@ -15,14 +15,10 @@ The smith reverse grip press is a chest exercise performed on a smith machine us
 
 ## How to perform
 
-1. Adjust the height of the smith machine bar to chest level.
-2. Stand facing the bar with your feet shoulder-width apart.
-3. Grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart.
-4. Step back and position yourself with a slight bend in your knees.
-5. Keep your chest up and core engaged throughout the exercise.
-6. Lower the bar towards your chest, keeping your elbows tucked in.
-7. Pause for a moment at the bottom, then push the bar back up to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Set a flat bench in a Smith machine so the bar is over your lower chest. Lie back with your feet flat on the floor.
+2. Grip the bar about shoulder-width apart with your palms facing toward your face, then unhook it.
+3. Lower the bar to your lower chest, keeping your elbows close to your sides.
+4. Press it back up until your arms are straight.
 
 ## Pro tips
 

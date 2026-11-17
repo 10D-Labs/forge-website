@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hyght dumbbell fly is a chest exercise performed on a bench using dumbbells. It targets the pectoral muscles and also engages the shoulders. The movement involves lowering the dumbbells in a wide arc to stretch the chest and then bringing them back together above the chest. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
+A fly on an incline bench where the dumbbells sweep from beside your hips up to meet above your head. It works the chest and the front of the shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The hyght dumbbell fly is a chest exercise performed on a bench using dumbbells.
 
 ## How to perform
 
-1. Lie flat on a bench with a dumbbell in each hand, palms facing each other.
-2. Extend your arms straight up over your chest, with a slight bend in your elbows.
-3. Keeping a slight bend in your elbows, lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.
-4. Pause for a moment, then reverse the movement and bring the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench set to a steep incline, back against the pad and feet flat on the floor.
+2. Hold a dumbbell in each hand with your arms hanging down and out beside your hips, palms facing in, elbows slightly bent.
+3. Keeping that bend, raise the dumbbells out and up in a wide arc until they meet above your head, palms facing each other.
+4. Lower them slowly along the same arc back beside your hips.
 
 ## Pro tips
 

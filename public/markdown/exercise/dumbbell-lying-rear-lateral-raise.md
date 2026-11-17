@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying rear lateral raise is an isolation exercise targeting the rear deltoids, performed lying face down on a bench to minimize momentum and maximize shoulder engagement. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
+A rear raise done lying face down on a flat bench, which keeps you from swinging the weights. It works the backs of the shoulders. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -16,10 +16,9 @@ The dumbbell lying rear lateral raise is an isolation exercise targeting the rea
 ## How to perform
 
 1. Lie face down on a flat bench with a dumbbell in each hand, palms facing each other.
-2. Extend your arms straight down towards the floor, keeping a slight bend in your elbows.
-3. Engaging your shoulder muscles, lift your arms out to the sides until they are parallel to the floor.
-4. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+2. Let your arms hang straight down toward the floor, with a slight bend in your elbows.
+3. Raise your arms out to the sides until they are level with the floor.
+4. Lower them slowly back down.
 
 ## Pro tips
 

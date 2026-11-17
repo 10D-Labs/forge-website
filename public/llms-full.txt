@@ -173,7 +173,7 @@ A 2026 peer-reviewed study published in the Journal of Sports Science and Medici
 
 ## Exercise Library Overview
 
-Forge includes 909+ exercises organized by:
+Forge includes 870+ exercises organized by:
 
 ### Body Parts (8 categories)
 - Arms (biceps, triceps, forearms)

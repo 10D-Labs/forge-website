@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline hammer press is a chest exercise performed on an incline bench using dumbbells, with a neutral grip (palms facing each other). It targets the upper chest (pectorals) and also works the shoulders and tricep. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
+An incline dumbbell press done with your palms facing each other. It works the upper chest, with help from the shoulders and triceps. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell incline hammer press is a chest exercise performed on an incline be
 
 ## How to perform
 
-1. Set an incline bench to a 45 degree angle and sit on it with a dumbbell in each hand, resting on your thighs.
-2. Lie back on the bench and position the dumbbells at shoulder level with your palms facing each other.
-3. Press the dumbbells up and away from your body until your arms are fully extended.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Sit on it with a dumbbell in each hand, resting on your thighs.
+2. Lie back and bring the dumbbells to shoulder level, palms facing each other.
+3. Press the dumbbells up and away from your body until your arms are straight.
+4. Lower them slowly back to shoulder level.
 
 ## Pro tips
 

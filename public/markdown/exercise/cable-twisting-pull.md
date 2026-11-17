@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable twisting pull is an exercise that targets the latissimus dorsi (lats) and incorporates rotational movement, engaging the shoulders and bicep as secondary muscles. It requires a cable machine and involves pulling a handle while rotating the torso, emphasizing both strength and coordination. Intermediate back exercise using cable. Targets lats, also works shoulders, biceps.
+A one-arm cable row from a bent-forward split stance, with a twist of the torso as you pull. It works the lats, with help from the shoulders and biceps. Intermediate back exercise using cable. Targets lats, also works shoulders, biceps.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,14 +15,10 @@ The cable twisting pull is an exercise that targets the latissimus dorsi (lats) 
 
 ## How to perform
 
-1. Attach a cable handle to a low pulley and stand facing the machine.
-2. Grasp the handle with your left hand and step away from the machine, extending your arm fully.
-3. Position your feet shoulder-width apart, with your knees slightly bent.
-4. Keep your back straight and your core engaged throughout the exercise.
-5. Pull the handle towards your body, rotating your torso to the right as you do so.
-6. Squeeze your back muscles at the end of the movement.
-7. Slowly return to the starting position, keeping tension on the cable.
-8. Repeat for the desired number of repetitions, then switch sides and perform with your right hand.
+1. Attach a handle to a low pulley. Hold it in one hand and step back from the machine until your arm is straight.
+2. Take a wide split stance, one foot well behind the other, and bend forward at the hips with your back straight.
+3. Pull the handle toward your body, twisting your torso as you pull.
+4. Return slowly until your arm is straight. Do all your reps with one hand, then switch hands.
 
 ## Pro tips
 

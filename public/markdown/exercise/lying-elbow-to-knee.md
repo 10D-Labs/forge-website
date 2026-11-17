@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lying elbow to knee is a bodyweight abdominal exercise that targets the abs, with secondary emphasis on the hip flexors and lower back. It involves alternating elbow to knee movements while lying on your back, engaging the core and promoting coordination. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A crunch with one ankle crossed over the other knee, twisting your opposite elbow toward it. It works the abs and the obliques. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The lying elbow to knee is a bodyweight abdominal exercise that targets the abs,
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engage your abs and lift your upper body off the ground, bringing your right elbow towards your left knee.
-4. At the same time, extend your right leg straight out and lift it off the ground.
-5. Pause for a moment, then return to the starting position.
-6. Repeat the movement, this time bringing your left elbow towards your right knee and extending your left leg.
-7. Continue alternating sides for the desired number of repetitions.
+1. Lie on your back with your knees bent and feet flat. Cross one ankle over the other knee.
+2. Place your hands behind your head with your elbows pointing out.
+3. Curl your head and shoulders off the floor and twist to bring your opposite elbow toward the raised knee.
+4. Lower slowly back to the floor. Do all your reps on one side, then switch legs.
 
 ## Pro tips
 

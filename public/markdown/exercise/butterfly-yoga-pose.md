@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The butterfly yoga pose is a seated stretch that targets the adductors and inner thighs. It is commonly used to improve flexibility and mobility in the hips and groin area. Beginner legs exercise using body weight. Targets adductors, also works hamstrings, groin.
+A seated stretch with the soles of your feet together and your knees out to the sides. It stretches the inner thighs and loosens the hips. Beginner legs exercise using body weight. Targets adductors, also works hamstrings, groin.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,13 +15,11 @@ The butterfly yoga pose is a seated stretch that targets the adductors and inner
 
 ## How to perform
 
-1. Sit on the floor with your legs extended in front of you.
-2. Bend your knees and bring the soles of your feet together, allowing your knees to fall out to the sides.
-3. Hold onto your ankles or feet with your hands.
-4. Sit up tall and lengthen your spine.
-5. Gently press your knees down towards the floor, feeling a stretch in your inner thighs.
-6. Hold this position for a few breaths.
-7. To release, slowly bring your knees back up and extend your legs.
+1. Sit on the floor with your legs straight out in front of you.
+2. Bend your knees and bring the soles of your feet together, letting your knees drop out to the sides.
+3. Hold your ankles or feet with your hands.
+4. Lean forward over your feet and gently press your knees toward the floor until you feel a stretch in your inner thighs.
+5. Hold for the set time, then sit up, bring your knees back up and straighten your legs.
 
 ## Pro tips
 

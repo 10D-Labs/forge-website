@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith sumo squat is a lower body exercise performed on a smith machine, targeting the glutes with secondary emphasis on the quadriceps, hamstrings, and calves. The wide stance and guided bar path make it accessible for those developing squat technique and lower body strength. Beginner legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A wide-stance squat in a Smith machine, with your toes pointing out and the bar across your upper back. It works the glutes, with help from the quads and hamstrings. Beginner legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,13 +15,11 @@ The smith sumo squat is a lower body exercise performed on a smith machine, targ
 
 ## How to perform
 
-1. Set up the smith machine with the barbell at hip height.
-2. Stand with your feet wider than shoulder-width apart, toes pointing outwards.
-3. Position yourself under the barbell, resting it on your upper back and shoulders.
-4. Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees.
-5. Lower yourself until your thighs are parallel to the ground, or as low as you can comfortably go.
-6. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Step under the Smith machine bar and rest it across your upper back and shoulders.
+2. Set your feet wider than shoulder-width apart, toes pointing out.
+3. Keep your chest up, push your hips back and bend your knees to lower into a squat.
+4. Lower until your thighs are level with the floor, or as low as you comfortably can.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

@@ -2,13 +2,13 @@
 
 ## Quick Answer
 
-189 exercises targeting your arms. Build strength and muscle with exercises organized by equipment type.
+177 exercises targeting your arms. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
 ## All Arm Exercises by Equipment
 
-### Barbell (21 exercises)
+### Barbell (20 exercises)
 
 - **Barbell Curl** — Beginner | Target: Biceps
 - **Barbell Skull Crusher** — Intermediate | Target: Triceps
@@ -22,7 +22,6 @@
 - **Barbell Prone Incline Curl** — Intermediate | Target: Biceps
 - **Barbell Seated Close Grip Concentration Curl** — Intermediate | Target: Biceps
 - **Barbell Standing Back Wrist Curl** — Beginner | Target: Forearms
-- **Barbell Standing Reverse Grip Curl** — Beginner | Target: Biceps
 - **Barbell Wrist Curl** — Beginner | Target: Forearms
 - **Finger Curls** — Beginner | Target: Forearms
 - **Barbell Reverse Grip Skullcrusher** — Intermediate | Target: Triceps
@@ -32,40 +31,30 @@
 - **Barbell Standing Wide Grip Curl** — Beginner | Target: Biceps
 - **Barbell Incline Close Grip Bench Press** — Intermediate | Target: Triceps
 
-### Body Weight (30 exercises)
+### Body Weight (20 exercises)
 
-- **Bicep Narrow Pullup** — Advanced | Target: Biceps
-- **Bicep Pullup** — Advanced | Target: Biceps
 - **Handstand Pushup** — Advanced | Target: Triceps
-- **Ring Dips** — Advanced | Target: Triceps
 - **Side Pushup** — Intermediate | Target: Triceps
-- **Bench Tricep Dip** — Beginner | Target: Triceps
-- **Between Benches Tricep Dip** — Intermediate | Target: Triceps
 - **Tricep Dip** — Beginner | Target: Triceps
 - **Tricep Dips Floor** — Beginner | Target: Triceps
-- **Weighted Standing Curl** — Beginner | Target: Biceps
-- **Weighted Standing Hand Squeeze** — Beginner | Target: Forearms
-- **Bench Dip on Floor** — Beginner | Target: Triceps
+- **Bench Dip** — Beginner | Target: Triceps
 - **Pushup on Lower Arms** — Intermediate | Target: Triceps
-- **Weighted Tricep Dips** — Advanced | Target: Triceps
 - **Bicep Leg Concentration Curl** — Beginner | Target: Biceps
 - **Elbow Dips** — Beginner | Target: Triceps
 - **Impossible Dips** — Advanced | Target: Triceps
 - **Close Grip Pushup** — Intermediate | Target: Triceps
 - **Diamond Pushup** — Intermediate | Target: Triceps
-- **Decline Close Grip Pushup** — Beginner | Target: Triceps
+- **Hands Elevated Close Grip Pushup** — Beginner | Target: Triceps
 - **Single Arm Dip** — Advanced | Target: Triceps
 - **Overhead Tricep Stretch** — Beginner | Target: Triceps
 - **Side Wrist Pull Stretch** — Beginner | Target: Forearms
-- **Tricep Stretch** — Beginner | Target: Triceps
-- **Wrist Roller** — Intermediate | Target: Forearms
 - **Wrist Circles** — Beginner | Target: Forearms
 - **Bodyweight Kneeling Tricep Extension** — Intermediate | Target: Triceps
 - **Kneeling Close Grip Pushup** — Beginner | Target: Triceps
 - **Stalder Press** — Advanced | Target: Triceps
 - **Handstand** — Advanced | Target: Triceps
 
-### Cable (22 exercises)
+### Cable (21 exercises)
 
 - **Cable Preacher Curl** — Beginner | Target: Biceps
 - **Cable Tricep Pushdown** — Beginner | Target: Triceps
@@ -73,13 +62,13 @@
 - **Cable Reverse Wrist Curl** — Beginner | Target: Forearms
 - **Cable Standing Back Wrist Curl** — Beginner | Target: Forearms
 - **Cable Wrist Curl** — Beginner | Target: Forearms
-- **Cable Kickback** — Beginner | Target: Triceps
+- **Cable Bent Over Tricep Kickback** — Beginner | Target: Triceps
 - **Cable Curl** — Beginner | Target: Biceps
 - **Cable Concentration Curl** — Beginner | Target: Biceps
 - **Cable Lying Bicep Curl** — Intermediate | Target: Biceps
 - **Cable Seated Curl** — Beginner | Target: Biceps
 - **Cable Overhead Tricep Extension** — Intermediate | Target: Triceps
-- **Cable Alternate Tricep Extension** — Intermediate | Target: Triceps
+- **Cable Single Arm Tricep Extension** — Intermediate | Target: Triceps
 - **Cable Hammer Curl** — Beginner | Target: Biceps
 - **Cable Single Arm Curl** — Beginner | Target: Biceps
 - **Cable Rope Pushdown** — Beginner | Target: Triceps
@@ -87,10 +76,9 @@
 - **Cable Close Grip Curl** — Beginner | Target: Biceps
 - **Cable Drag Curl** — Intermediate | Target: Biceps
 - **Cable Single Arm Tricep Pushdown** — Beginner | Target: Triceps
-- **Cable Single Arm Reverse Grip Tricep Extension** — Intermediate | Target: Triceps
-- **Cable Standing Single Arm Tricep Extension** — Intermediate | Target: Triceps
+- **Cable Single Arm Reverse Grip Overhead Tricep Extension** — Intermediate | Target: Triceps
 
-### Dumbbell (80 exercises)
+### Dumbbell (77 exercises)
 
 - **Dumbbell Hammer Curl** — Beginner | Target: Biceps
 - **Dumbbell Bicep Curl** — Beginner | Target: Biceps
@@ -102,14 +90,12 @@
 - **Dumbbell Lying Tricep Extension** — Beginner | Target: Triceps
 - **Dumbbell Preacher Hammer Curl** — Beginner | Target: Biceps
 - **Dumbbell Preacher Curl** — Beginner | Target: Biceps
-- **Dumbbell Pronated Grip Tricep Extension** — Intermediate | Target: Triceps
+- **Dumbbell Lying Pronated Grip Tricep Extension** — Intermediate | Target: Triceps
 - **Dumbbell Reverse Preacher Curl** — Intermediate | Target: Biceps
 - **Dumbbell Reverse Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Seated Inner Bicep Curl** — Beginner | Target: Biceps
 - **Dumbbell Seated Preacher Curl** — Beginner | Target: Biceps
-- **Dumbbell Standing Bicep Curl** — Beginner | Target: Biceps
 - **Dumbbell Standing Reverse Curl** — Beginner | Target: Biceps
-- **Dumbbell Bicep Reverse Curl** — Beginner | Target: Biceps
 - **Dumbbell Seated Bicep Curl** — Beginner | Target: Biceps
 - **Dumbbell Seated Hammer Curl** — Beginner | Target: Biceps
 - **Dumbbell Incline Tricep Extension** — Beginner | Target: Triceps
@@ -122,21 +108,20 @@
 - **Dumbbell Lying Elbow Press** — Beginner | Target: Triceps
 - **Dumbbell Lying Pronation** — Beginner | Target: Forearms
 - **Dumbbell Lying Supination** — Beginner | Target: Forearms
-- **Dumbbell Neutral Grip Bench Press** — Beginner | Target: Triceps
+- **Dumbbell Lying Neutral Grip Tricep Extension** — Beginner | Target: Triceps
 - **Dumbbell Over Bench Reverse Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Over Bench Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Prone Incline Curl** — Intermediate | Target: Biceps
 - **Dumbbell Reverse Grip Bicep Curl** — Beginner | Target: Biceps
 - **Dumbbell Seated Curl** — Beginner | Target: Biceps
 - **Dumbbell Seated Kickback** — Beginner | Target: Triceps
-- **Dumbbell Seated Neutral Wrist Curl** — Beginner | Target: Biceps
+- **Dumbbell Seated Neutral Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Seated Reverse Grip Concentration Curl** — Beginner | Target: Biceps
 - **Dumbbell Standing Kickback** — Beginner | Target: Triceps
 - **Dumbbell Standing Single Arm Concentration Curl** — Beginner | Target: Biceps
 - **Dumbbell Tate Press** — Intermediate | Target: Triceps
 - **Dumbbell Single Arm Reverse Preacher Curl** — Intermediate | Target: Biceps
 - **Dumbbell Finger Curls** — Beginner | Target: Forearms
-- **Dumbbell Palms in Incline Bench Press** — Intermediate | Target: Triceps
 - **Dumbbell Alternate Hammer Preacher Curl** — Intermediate | Target: Biceps
 - **Dumbbell Alternate Preacher Curl** — Beginner | Target: Biceps
 - **Dumbbell Alternate Seated Hammer Curl** — Beginner | Target: Biceps
@@ -154,11 +139,11 @@
 - **Dumbbell Single Arm Reverse Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Single Arm Tricep Extension on Bench** — Beginner | Target: Triceps
 - **Dumbbell Single Arm Wrist Curl** — Beginner | Target: Forearms
-- **Dumbbell Over Bench Neutral Wrist Curl** — Beginner | Target: Biceps
+- **Dumbbell Over Bench Neutral Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Seated Single Arm Kickback** — Beginner | Target: Triceps
 - **Dumbbell Seated Single Arm Rotate** — Beginner | Target: Forearms
 - **Dumbbell Seated Palms Up Wrist Curl** — Beginner | Target: Forearms
-- **Dumbbell Standing Tricep Extension** — Beginner | Target: Triceps
+- **Dumbbell Standing Single Arm Tricep Extension** — Beginner | Target: Triceps
 - **Dumbbell Standing Single Arm Reverse Curl** — Beginner | Target: Biceps
 - **Dumbbell Over Bench Single Arm Reverse Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Decline Single Arm Hammer Press** — Intermediate | Target: Triceps
@@ -166,9 +151,9 @@
 - **Dumbbell Single Arm Seated Hammer Curl** — Beginner | Target: Biceps
 - **Dumbbell Single Arm Standing Curl** — Beginner | Target: Biceps
 - **Dumbbell Single Arm Standing Hammer Curl** — Beginner | Target: Biceps
-- **Dumbbell Incline Bench Curl** — Intermediate | Target: Biceps
-- **Dumbbell Standing Bent Over Tricep Extension** — Intermediate | Target: Triceps
-- **Dumbbell Over Bench Single Arm Neutral Wrist Curl** — Beginner | Target: Biceps
+- **Dumbbell Single Arm Preacher Curl on Incline Bench** — Intermediate | Target: Biceps
+- **Dumbbell Bent Over Single Arm Tricep Extension** — Intermediate | Target: Triceps
+- **Dumbbell Over Bench Single Arm Neutral Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Over Bench Single Arm Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Single Arm Seated Neutral Wrist Curl** — Beginner | Target: Forearms
 - **Dumbbell Seated Bent Over Alternate Kickback** — Beginner | Target: Triceps
@@ -186,15 +171,14 @@
 - **EZ Bar Lying Tricep Extension** — Intermediate | Target: Triceps
 - **EZ Bar Standing Wide Grip Bicep Curl** — Beginner | Target: Biceps
 
-### Kettlebell (3 exercises)
+### Kettlebell (2 exercises)
 
 - **Kettlebell Alternating Hang Clean** — Intermediate | Target: Forearms
 - **Kettlebell Bottoms Up Clean From the Hang Position** — Advanced | Target: Biceps
-- **Kettlebell Double Alternating Hang Clean** — Intermediate | Target: Biceps
 
 ### Machine (9 exercises)
 
-- **Bicep Curl** — Beginner | Target: Biceps
+- **Machine Bicep Curl** — Beginner | Target: Biceps
 - **Overhand Tricep Dip** — Beginner | Target: Triceps
 - **Preacher Curl** — Beginner | Target: Biceps
 - **Tricep Extension** — Beginner | Target: Triceps
@@ -220,6 +204,10 @@
 - **Band Wrist Curl** — Beginner | Target: Forearms
 - **Resistance Band Seated Bicep Curl** — Beginner | Target: Biceps
 
+### Rings (1 exercise)
+
+- **Ring Dips** — Advanced | Target: Triceps
+
 ### Smith Machine (4 exercises)
 
 - **Smith Machine Bicep Curl** — Beginner | Target: Biceps
@@ -227,13 +215,19 @@
 - **Smith Close Grip Bench Press** — Intermediate | Target: Triceps
 - **Smith Machine Decline Close Grip Bench Press** — Intermediate | Target: Triceps
 
+### Weight Plate (3 exercises)
+
+- **Weighted Standing Curl** — Beginner | Target: Biceps
+- **Plate Pinch Hold** — Beginner | Target: Forearms
+- **Weighted Tricep Dips** — Advanced | Target: Triceps
+
 ---
 
 ## Build Your Arms with Forge
 
 Get a personalized arm workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

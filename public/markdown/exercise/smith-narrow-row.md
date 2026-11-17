@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith narrow row is a machine-based rowing exercise targeting the upper back, performed with a narrow grip to emphasize the upper back muscles and rear deltoids. It is performed on a Smith machine, which provides guided movement for added stability. Beginner back exercise using smith machine. Targets upper back, also works biceps, rear deltoids.
+A bent-over row on a Smith machine with your hands close together. It works the upper back, with help from the biceps and the back of the shoulders. Beginner back exercise using smith machine. Targets upper back, also works biceps, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Smith Machine
@@ -15,11 +15,10 @@ The smith narrow row is a machine-based rowing exercise targeting the upper back
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your feet flat on the floor.
-2. Grasp the handles with an overhand grip, slightly narrower than shoulder-width apart.
-3. Keep your back straight and your chest up as you pull the handles towards your body, squeezing your shoulder blades together.
-4. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand facing a Smith machine bar, feet hip-width apart. Grip it with your hands a little closer than shoulder-width, palms facing your legs.
+2. Unhook the bar, bend your knees slightly and lean forward from your hips with a flat back, arms hanging straight.
+3. Pull the bar up to your stomach, driving your elbows back.
+4. Lower it slowly until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell seated two arm military press is a shoulder exercise performed while seated, pressing two kettlebells overhead to target the deltoids, with secondary emphasis on the tricep and upper back. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, upper back.
+A seated overhead press with a kettlebell in each hand, pressing both together. It works the shoulders, with help from the triceps and upper back. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,11 +15,10 @@ The kettlebell seated two arm military press is a shoulder exercise performed wh
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a kettlebell in each hand at shoulder level with your palms facing forward.
-3. Press the kettlebells overhead by extending your arms fully.
-4. Pause for a moment at the top, then slowly lower the kettlebells back to shoulder level.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench with your back straight and your feet flat on the floor.
+2. Hold a kettlebell in each hand at shoulder height, palms facing forward.
+3. Press both kettlebells straight up until your arms are straight overhead.
+4. Lower them slowly back to your shoulders.
 
 ## Pro tips
 

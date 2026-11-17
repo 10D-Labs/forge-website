@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The drop push up is a bodyweight exercise that targets the pectorals and also works the tricep and shoulders. It involves lowering the chest towards the ground in a plank position, dropping the knees to the ground at the bottom, and then pushing back up. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A pushup that switches between two benches and the floor, with a hard push to get back up onto the benches. It works the chest, with help from the triceps and shoulders. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The drop push up is a bodyweight exercise that targets the pectorals and also wo
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart.
-2. Lower your chest towards the ground, keeping your elbows close to your body.
-3. Once your chest is just above the ground, quickly drop your knees to the ground.
-4. Push yourself back up to the starting position by extending your arms.
-5. Repeat for the desired number of repetitions.
+1. Set two flat benches end to end, slightly more than shoulder-width apart. Get into a pushup, one hand on each bench, palms down.
+2. Lower your chest between the benches, then push back up until your arms are straight.
+3. Drop both hands off the benches to the floor in the gap and lower your chest toward the floor.
+4. Push up hard so your hands leave the floor, land them back on the benches, and bend your elbows as you land.
 
 ## Pro tips
 

@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-A stretch targeting the chest and front of the shoulders, performed by crossing the arms in front of the body and pressing the palms together to open up the pectorals and deltoids. Beginner chest exercise using body weight. Targets chest, also works shoulders.
+A standing stretch that lifts a band from your hips up and over to behind your head. It stretches the chest and the front of the shoulders. Beginner chest exercise using resistance band. Targets chest, also works shoulders.
 
 - **Body Part:** Chest
-- **Equipment:** Body Weight
+- **Equipment:** Resistance Band
 - **Target Muscle:** Chest
 - **Secondary Muscles:** Shoulders
 - **Difficulty:** Beginner
@@ -15,13 +15,10 @@ A stretch targeting the chest and front of the shoulders, performed by crossing 
 
 ## How to perform
 
-1. Stand tall with your feet shoulder-width apart.
-2. Extend your arms straight out in front of you at shoulder height.
-3. Cross your arms in front of your body, with your right arm on top of your left arm.
-4. Interlace your fingers and press your palms together.
-5. Gently squeeze your shoulder blades together and push your hands forward, feeling a stretch in your chest and front of your shoulders.
-6. Hold the stretch for 20-30 seconds, then release.
-7. Repeat for the desired number of repetitions.
+1. Stand with your feet hip-width apart. Hold a band in front of your hips with your hands wide apart, palms facing your thighs.
+2. Lift the band up and over your head, bending your elbows as it rises.
+3. Bring it down behind your head until your elbows point out to the sides and bend at about a right angle.
+4. Reverse the path slowly to bring the band back to your hips.
 
 ## Pro tips
 
@@ -60,7 +57,7 @@ Yes, the Chest and Front of Shoulder Stretch is rated as a beginner-level exerci
 ## Related exercises
 
 - [More Chest Exercises](https://forgetrainer.ai/exercises/chest)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Resistance Band Exercises](https://forgetrainer.ai/exercises/equipment/resistance-band)
 - [More Chest Exercises](https://forgetrainer.ai/exercises/muscle/chest)
 
 ---

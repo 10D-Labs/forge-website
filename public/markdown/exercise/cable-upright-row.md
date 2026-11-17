@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable upright row is a strength exercise targeting the deltoids, with secondary emphasis on the traps and bicep. It involves pulling a cable attachment upward towards the chin, leading with the elbows, to engage the shoulder muscles. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, biceps.
+An upright row with a bar on a low cable pulley, pulled from your thighs up to your chin. It works the sides of the shoulders, with help from the traps and biceps. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable upright row is a strength exercise targeting the deltoids, with second
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, knees slightly bent, and hold the cable attachment with an overhand grip.
-2. Keep your back straight and your core engaged throughout the exercise.
-3. Pull the cable attachment straight up towards your chin, leading with your elbows.
-4. Pause for a moment at the top, squeezing your shoulder blades together.
-5. Slowly lower the cable attachment back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand facing a low cable pulley with a bar attached, feet shoulder-width apart and knees slightly bent.
+2. Hold the bar in front of your thighs with your palms facing you.
+3. Keep your back straight and pull the bar straight up toward your chin, leading with your elbows.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

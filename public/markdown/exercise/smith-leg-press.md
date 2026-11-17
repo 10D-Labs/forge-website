@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith leg press is a lower body exercise performed on a smith machine, targeting the glutes with secondary emphasis on the quadriceps, hamstrings, and calves. It involves pressing a footplate away from the body while seated, using the legs to extend and flex at the knees and hips. Beginner legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A leg press done lying on the floor, pushing a Smith machine bar up with the soles of your feet. It works the glutes, quads and hamstrings. Beginner legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,13 +15,11 @@ The smith leg press is a lower body exercise performed on a smith machine, targe
 
 ## How to perform
 
-1. Adjust the seat and footplate of the smith machine to a comfortable position.
-2. Sit on the machine with your back against the backrest and your feet shoulder-width apart on the footplate.
-3. Grasp the handles or sides of the machine for stability.
-4. Push the footplate away from you by extending your legs, keeping your back against the backrest.
-5. Pause for a moment at the fully extended position.
-6. Slowly bend your knees and lower the footplate back towards you, returning to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set a Smith machine bar low enough to reach with your feet when you lie under it with your knees bent.
+2. Lie on your back, hips under the bar, arms flat on the floor. Put the soles of your feet on the bar, hip-width apart.
+3. Press the bar up until your legs are straight, then unhook it.
+4. Bend your knees and lower the bar slowly until your knees come in toward your chest.
+5. Press the bar back up until your legs are straight.
 
 ## Pro tips
 

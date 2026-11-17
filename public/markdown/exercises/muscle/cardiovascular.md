@@ -2,13 +2,13 @@
 
 ## Quick Answer
 
-36 exercises targeting your cardiovascular. Build strength and muscle with exercises organized by equipment type.
+34 exercises targeting your cardiovascular. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
 ## All Cardiovascular Exercises by Equipment
 
-### Body Weight (18 exercises)
+### Body Weight (16 exercises)
 
 - **Run (Time)** — Beginner | Body Part: Cardio
 - **Run (Distance)** — Beginner | Body Part: Cardio
@@ -19,13 +19,11 @@
 - **Mountain Climber (Time)** — Beginner | Body Part: Cardio
 - **Burpee (Time)** — Intermediate | Body Part: Cardio
 - **Scissor Jumps** — Intermediate | Body Part: Cardio
-- **Half Knee Bends** — Beginner | Body Part: Cardio
 - **Bear Crawl (Time)** — Intermediate | Body Part: Cardio
 - **Skater Hops** — Intermediate | Body Part: Cardio
 - **High Knee Against Wall** — Beginner | Body Part: Cardio
 - **Short Stride Run (Time)** — Beginner | Body Part: Cardio
 - **Ski Step** — Beginner | Body Part: Cardio
-- **Back and Forth Step** — Beginner | Body Part: Cardio
 - **Short Stride Run (Distance)** — Beginner | Body Part: Cardio
 - **Bear Crawl (Distance)** — Intermediate | Body Part: Cardio
 
@@ -65,7 +63,7 @@
 
 Get a personalized workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

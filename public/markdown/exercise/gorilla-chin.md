@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The gorilla chin is a challenging bodyweight exercise that targets the abs while also engaging the forearms and bicep. It involves a pullup motion with a strong core contraction to bring the chin above the bar. Advanced core exercise using body weight. Targets abs, also works forearms, biceps.
+A chinup where you tuck your knees up to your chest as you pull. It works the abs, along with the biceps and forearms. Advanced core exercise using body weight. Targets abs, also works forearms, biceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The gorilla chin is a challenging bodyweight exercise that targets the abs while
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Grasp a pullup bar with an overhand grip, slightly wider than shoulder-width apart.
-3. Hang from the bar with your arms fully extended and your palms facing away from you.
-4. Engage your core and pull your body up towards the bar, bringing your chin above the bar.
-5. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your arms straight, hands shoulder-width apart, palms facing you. Bend your knees so your feet are behind you.
+2. Pull yourself up and lift your knees toward your chest at the same time.
+3. Stop when your chin reaches the bar and your knees are tucked up to your chest.
+4. Lower yourself slowly until your arms are straight and your knees drop back down.
 
 ## Pro tips
 

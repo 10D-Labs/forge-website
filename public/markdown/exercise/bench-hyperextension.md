@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bench hyperextension is a bodyweight exercise that targets the spinal erectors and lower back, while also engaging the glutes and hamstrings. It is performed on a hyperextension bench, requiring you to lower and raise your upper body while keeping the back straight. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
+A back raise done face down on a flat bench, with your upper body hanging off the end. It works the lower back, with help from the glutes and hamstrings. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The bench hyperextension is a bodyweight exercise that targets the spinal erecto
 
 ## How to perform
 
-1. Adjust the hyperextension bench so that your hips are resting comfortably on the pad and your feet are secured.
-2. Cross your arms over your chest or place your hands behind your head.
-3. Slowly lower your upper body towards the ground while keeping your back straight.
-4. Pause for a moment at the bottom, then raise your upper body back up until it is in line with your legs.
-5. Repeat for the desired number of repetitions.
+1. Lie face down along a flat bench with your hips at one end and your upper body hanging down off it.
+2. Place your hands behind your head.
+3. Keeping your back straight, raise your upper body until it's level with your legs.
+4. Lower slowly until your upper body hangs down again.
 
 ## Pro tips
 

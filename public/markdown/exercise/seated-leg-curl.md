@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated leg curl is a machine-based exercise that targets the hamstrings. It involves curling your lower legs against resistance while seated, isolating the hamstrings and minimizing involvement from other muscle groups. Beginner legs exercise using machine. Targets hamstrings, also works calves.
+A machine curl done sitting down, bending your knees against a pad under your lower legs. It works the hamstrings on the back of the thigh. Beginner legs exercise using machine. Targets hamstrings, also works calves.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The seated leg curl is a machine-based exercise that targets the hamstrings. It 
 
 ## How to perform
 
-1. Adjust the machine to fit your body and sit on it with your back against the backrest.
-2. Place your lower legs under the padded lever, just above your ankles.
-3. Grasp the handles on the sides of the machine for support.
-4. Keeping your upper legs stationary, exhale and curl your legs up as far as possible.
-5. Hold the contracted position for a brief pause as you squeeze your hamstrings.
-6. Inhale and slowly lower The back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Sit in the machine with your back against the pad. Rest the backs of your lower legs on the lower pad, just above your heels, and lower the thigh pad onto your thighs.
+2. Hold the handles at your sides.
+3. Bend your knees to pull the pad down and back under the seat as far as you can.
+4. Let the pad rise slowly until your legs are straight again.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The straddle planche is an advanced bodyweight exercise that targets the abs while also engaging the shoulders, tricep, and chest. It requires significant core strength, balance, and coordination to hold the body parallel to the ground with only the hands supporting the weight. Advanced core exercise using body weight. Targets abs, also works shoulders, triceps, chest.
+A straight-arm hold on your hands with your body level with the floor and your legs spread wide. It works the abs, with the shoulders, triceps and chest holding you up. Advanced core exercise using body weight. Targets abs, also works shoulders, triceps, chest.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The straddle planche is an advanced bodyweight exercise that targets the abs whi
 
 ## How to perform
 
-1. Start in a pushup position with your hands shoulder-width apart and your feet spread wide apart.
-2. Engage your core and slowly shift your weight forward, bringing your shoulders over your hands.
-3. Bend your elbows and lower your body towards the ground, keeping your elbows close to your sides.
-4. Pause for a moment at the bottom, then push through your hands to straighten your arms and lift your body back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Crouch and place your hands flat on the floor about shoulder-width apart, arms straight.
+2. Lean your shoulders forward past your hands until your feet lift off the floor.
+3. Straighten your legs and spread them wide, raising your hips until your body is level with the floor. Keep your arms straight the whole time.
+4. Hold for a few seconds, then lower your feet slowly to the floor.
 
 ## Pro tips
 

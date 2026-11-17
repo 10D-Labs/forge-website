@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The suspended split squat is a lower body exercise that targets the quads, with secondary emphasis on the glutes, hamstrings, and calves. It is performed using body weight and a suspension trainer, requiring balance, strength, and coordination. Advanced legs exercise using body weight. Targets quads, also works glutes, hamstrings, calves.
+A split squat with your back foot resting in a suspension trainer strap or ring behind you. It works the quads, glutes and hamstrings of your front leg. Advanced legs exercise using rings. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
-- **Equipment:** Body Weight
+- **Equipment:** Rings
 - **Target Muscle:** Quads
 - **Secondary Muscles:** Glutes, Hamstrings, Calves
 - **Difficulty:** Advanced
@@ -15,11 +15,10 @@ The suspended split squat is a lower body exercise that targets the quads, with 
 
 ## How to perform
 
-1. Stand facing away from a suspension trainer with your feet shoulder-width apart.
-2. Extend one leg forward and place the top of your foot in the foot cradle of the suspension trainer.
-3. Bend your standing leg and lower your body down into a lunge position, keeping your chest up and your knee in line with your toes.
-4. Push through your heel to return to the starting position.
-5. Repeat for the desired number of repetitions, then switch legs.
+1. Stand facing away from a suspension trainer or ring, with the foot cradle hanging at about knee height behind you.
+2. Bend one knee and hook the top of that foot into the cradle. Stand tall on the other leg, arms at your sides.
+3. Bend your front knee and lower straight down until your front thigh is level with the floor.
+4. Push through your front foot to stand back up. Do all your reps on one side, then switch.
 
 ## Pro tips
 
@@ -58,7 +57,7 @@ The Suspended Split Squat is an advanced exercise. Beginners should master funda
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Rings Exercises](https://forgetrainer.ai/exercises/equipment/rings)
 - [More Quads Exercises](https://forgetrainer.ai/exercises/muscle/quads)
 
 ---

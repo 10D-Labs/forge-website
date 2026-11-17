@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one leg donkey calf raise is a bodyweight exercise targeting the calves, performed by raising the heel of one foot while the other leg is lifted, often using a wall or bar for balance. Intermediate legs exercise using body weight. Targets calves, also works hamstrings, glutes.
+A one-leg calf raise done bent forward with your hands on a bench for balance. It works the calves. Intermediate legs exercise using body weight. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The one leg donkey calf raise is a bodyweight exercise targeting the calves, per
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, toes pointing forward.
-2. Place your hands on a stable surface for support, such as a wall or a bar.
-3. Lift one leg off the ground, keeping your knee slightly bent.
-4. Raise your heel as high as possible, using your calf muscles.
-5. Pause for a moment at the top, then slowly lower your heel back down.
-6. Repeat for the desired number of repetitions, then switch legs.
+1. Stand a long step from the end of a flat bench. Bend forward and rest your hands on it, palms down, arms straight.
+2. Bend one knee and lift that foot behind you so all your weight is on the other foot.
+3. Rise up onto the ball of your standing foot, lifting your heel as high as you can.
+4. Lower your heel slowly back to the floor. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

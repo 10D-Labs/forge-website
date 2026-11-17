@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell Tate press is an upper arm exercise primarily targeting the tricep, with secondary involvement of the shoulders. It is performed with dumbbells while seated on a flat bench, involving a unique pressing motion that emphasizes tricep activation. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders.
+A lying triceps press where your elbows bend out to the sides and the dumbbells come down to your chest. It works the triceps, with help from the shoulders. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell Tate press is an upper arm exercise primarily targeting the tricep,
 
 ## How to perform
 
-1. Sit on a flat bench with a dumbbell in each hand, palms facing each other.
-2. Raise the dumbbells to shoulder height, then rotate your wrists so that your palms are facing away from you.
-3. Press the dumbbells up until your arms are fully extended, then lower them back down to shoulder height.
-4. Rotate your wrists back to the starting position and repeat for the desired number of repetitions.
+1. Lie face up on a flat bench, feet on the floor. Hold a dumbbell in each hand above your chest, arms straight, palms facing your feet.
+2. Bend your elbows out to the sides and lower the dumbbells until they touch the middle of your chest.
+3. Press them back up until your arms are straight.
 
 ## Pro tips
 

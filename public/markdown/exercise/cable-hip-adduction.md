@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable hip adduction targets the adductor muscles of the inner thigh using a cable machine. It involves moving the leg across the body against resistance, helping to strengthen and tone the adductors. Beginner legs exercise using cable. Targets adductors, also works glutes, quadriceps.
+A standing cable move where you sweep one leg across your body against a low cable strapped to your ankle. It works the inner thighs. Beginner legs exercise using cable. Targets adductors, also works glutes, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable hip adduction targets the adductor muscles of the inner thigh using a 
 
 ## How to perform
 
-1. Attach the ankle cuff to your ankle and stand facing the cable machine.
-2. Position yourself far enough away from the machine so that there is tension on the cable.
-3. Place your hands on the machine for support.
-4. Keeping your leg straight, slowly move your leg across your body towards the midline.
-5. Pause for a moment at the end of the movement, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Strap the ankle nearer the machine into a cuff on a low pulley. Stand side-on to the machine, a step or two away.
+2. Rest your near hand flat on the machine for balance and let the cable pull your cuffed leg out toward it.
+3. Keeping the leg straight, sweep it across in front of your standing leg as far as you can.
+4. Return slowly until the leg is back out to the side. Do all your reps on one side, then switch.
 
 ## Pro tips
 

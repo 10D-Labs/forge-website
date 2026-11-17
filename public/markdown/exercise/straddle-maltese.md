@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The straddle maltese is an advanced bodyweight exercise performed on rings, targeting the abs with significant involvement of the shoulders and chest. It requires exceptional core strength, shoulder stability, and body control, making it a challenging movement for experienced athletes. Advanced core exercise using body weight. Targets abs, also works shoulders, chest.
+An advanced floor hold on straight arms with your hands out wide, your body flat just above the floor and your legs spread apart. It works the abs, with the shoulders and chest holding you up. Advanced core exercise using body weight. Targets abs, also works shoulders, chest.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The straddle maltese is an advanced bodyweight exercise performed on rings, targ
 
 ## How to perform
 
-1. Start by hanging from a pair of rings with your arms fully extended and your body in a straight line.
-2. Spread your legs wide apart, forming a straddle position.
-3. Engage your core and slowly lower your body until your arms are parallel to the ground.
-4. Hold this position for a few seconds, then push yourself back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie face down and place your hands flat on the floor well wider than your shoulders, level with your waist.
+2. Straighten your arms and lean forward to lift your whole body just off the floor.
+3. Keep your legs straight and spread wide, and your body flat and close to the floor.
+4. Hold for a few seconds, then lower slowly back to the floor.
 
 ## Pro tips
 

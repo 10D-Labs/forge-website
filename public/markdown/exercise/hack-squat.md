@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hack squat is a lower body strength exercise performed on a leg press machine. It primarily targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. The movement involves squatting down with the support of the leg press machine, which helps guide the motion and provides stability. Intermediate legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat done on an angled machine with your back against a sliding pad that guides the movement. It works the glutes, with help from the quads, hamstrings and calves. Intermediate legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The hack squat is a lower body strength exercise performed on a leg press machin
 
 ## How to perform
 
-1. Adjust the leg press machine to a comfortable position for your height.
-2. Stand with your feet shoulder-width apart on the platform, toes slightly pointed outwards.
-3. Hold onto the handles or bars for stability.
-4. Lower your body by bending your knees and hips, keeping your back straight and chest up.
-5. Continue lowering until your thighs are parallel to the ground or slightly below.
-6. Pause for a moment, then push through your heels to raise your body back up to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set the hack squat machine for your height. Stand on the platform with your back against the pad and your shoulders under the shoulder pads.
+2. Place your feet shoulder-width apart, toes turned slightly out, and hold the handles by your shoulders.
+3. Bend your knees and hips to lower yourself until your thighs are level with the floor or a little lower. Keep your back flat against the pad.
+4. Push through your heels to straighten your legs and rise back up.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The standing calf stretch is a bodyweight exercise designed to stretch the calf muscles. It is performed by standing facing a wall, placing your hands on the wall, stepping one foot back, and leaning forward to stretch the calf of the back leg. Beginner legs exercise using body weight. Targets calves, also works hamstrings, glutes.
+A standing stretch with one heel up on a bench, holding your toes as you straighten that leg. It stretches the calf, and the hamstring once the leg is straight. Beginner legs exercise using body weight. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The standing calf stretch is a bodyweight exercise designed to stretch the calf 
 
 ## How to perform
 
-1. Stand facing a wall or sturdy object, about an arm's length away.
-2. Place your hands on the wall or object at shoulder height.
-3. Step back with one foot, keeping your heel flat on the ground.
-4. Bend your front knee slightly and lean forward, keeping your back leg straight.
-5. You should feel a stretch in your calf muscle.
-6. Hold the stretch for 20-30 seconds.
-7. Repeat on the other leg.
+1. Stand facing a flat bench and put one heel on it, toes pointing up. Keep your standing leg straight.
+2. Bend forward from your hips and hold the toes of your raised foot with both hands, letting that knee bend a little.
+3. Keep holding your toes and push your hips back to straighten the raised leg, until you feel a stretch in your calf.
+4. Hold for the set time, then bend the knee a little to ease off and switch legs.
 
 ## Pro tips
 

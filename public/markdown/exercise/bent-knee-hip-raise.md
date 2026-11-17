@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The hip raise is a bodyweight exercise that targets the abdominal muscles, with secondary emphasis on the glutes and hamstrings. It involves lifting the hips off the ground while lying on your back with knees bent, engaging the core and posterior chain. Beginner core exercise using body weight. Targets abs, also works glutes, hamstrings.
+A lying ab move where you pull your bent knees in and curl your hips up off the floor. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
 - **Target Muscle:** Abs
-- **Secondary Muscles:** Glutes, Hamstrings
+- **Secondary Muscles:** Hip Flexors
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,11 +15,10 @@ The hip raise is a bodyweight exercise that targets the abdominal muscles, with 
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands by your sides, palms facing down.
-3. Engage your core and glutes, then lift your hips off the ground until your body forms a straight line from your knees to your shoulders.
-4. Pause for a moment at the top, then slowly lower your hips back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent and feet flat on the floor. Rest your arms at your sides, palms down.
+2. Lift your feet and bring your knees in over your chest.
+3. Curl your hips off the floor, pushing your feet up toward the ceiling.
+4. Lower your hips, then your feet, slowly back to the floor.
 
 ## Pro tips
 
@@ -45,7 +44,7 @@ Yes. Place a dumbbell or barbell across your hips, using a pad for comfort. Addi
 
 ### What muscles does the Bent Knee Hip Raise work?
 
-The Bent Knee Hip Raise primarily targets the abs, with secondary activation in the glutes, hamstrings. It's classified as a strength exercise for the core.
+The Bent Knee Hip Raise primarily targets the abs, with secondary activation in the hip flexors. It's classified as a strength exercise for the core.
 
 ### Is the Bent Knee Hip Raise good for beginners?
 

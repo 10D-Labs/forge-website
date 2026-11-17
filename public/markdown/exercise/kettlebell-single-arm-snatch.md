@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell one arm snatch is a dynamic, full-body exercise that targets the shoulders (delts) and also engages the trapezius, forearms, and core. It requires explosive power, coordination, and proper technique to perform safely and effectively. Advanced shoulders exercise using kettlebell. Targets shoulders, also works trapezius, forearms, core.
+An explosive one-arm move that swings a kettlebell from between your legs to straight overhead in one motion. It works the shoulders, plus the upper back, forearms and abs. Advanced shoulders exercise using kettlebell. Targets shoulders, also works trapezius, forearms, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -16,10 +16,10 @@ The kettlebell one arm snatch is a dynamic, full-body exercise that targets the 
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand between your legs.
-2. Bend your knees slightly and hinge at the hips, lowering the kettlebell towards the ground.
-3. Explosively extend your hips and knees, using the momentum to swing the kettlebell up towards your shoulder.
-4. As the kettlebell reaches shoulder height, rotate your hand and punch it straight up overhead, fully extending your arm.
-5. Lower the kettlebell back down between your legs and repeat for the desired number of repetitions.
+2. Bend your knees slightly and push your hips back, lowering the kettlebell toward the floor.
+3. Straighten your hips and knees fast and use that drive to swing the kettlebell up toward your shoulder.
+4. Turn your hand as it reaches shoulder height and punch the kettlebell straight up until your arm is straight overhead.
+5. Bring the kettlebell back down between your legs to start the next rep.
 
 ## Pro tips
 

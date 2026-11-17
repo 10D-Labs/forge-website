@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The peroneals stretch is a flexibility exercise targeting the calf muscles, ankles, and feet. It uses a rope to assist in stretching the lower leg, improving mobility and reducing tightness. Beginner legs exercise using resistance band. Targets calves, also works ankles, feet.
+A seated stretch where you loop a band around your foot and pull your toes back. It stretches the calf, ankle and foot. Beginner legs exercise using resistance band. Targets calves, also works ankles, feet.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The peroneals stretch is a flexibility exercise targeting the calf muscles, ankl
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you.
-2. Loop the rope around the ball of your foot and hold the ends of the rope with your hands.
-3. Gently pull the rope towards you, flexing your foot and stretching your calf muscles.
-4. Hold the stretch for 15-30 seconds.
-5. Release the tension on the rope and repeat the stretch on the other leg.
-6. Repeat for the desired number of repetitions.
+1. Sit on the floor with one knee bent and that foot on the floor.
+2. Loop the band around the ball of one foot and hold a handle in each hand.
+3. Straighten that leg and gently pull the band toward you, drawing your toes back until you feel a stretch in your calf.
+4. Hold for the set time, then relax and switch legs.
 
 ## Pro tips
 

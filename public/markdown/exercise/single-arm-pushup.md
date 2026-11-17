@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The single arm pushup is a challenging bodyweight exercise that targets the pectorals while also engaging the tricep, shoulders, and core. It requires significant strength, balance, and coordination, making it suitable for advanced practitioners. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
+A pushup done on one arm, with your feet wide for balance and your free hand behind your back. It works the chest, triceps and shoulders, and your abs keep you from twisting. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The single arm pushup is a challenging bodyweight exercise that targets the pect
 
 ## How to perform
 
-1. Start in a pushup position with your hands shoulder-width apart and one hand placed slightly wider than the other.
-2. Engage your core and lower your body towards the ground by bending your elbows, keeping your back straight.
-3. As you lower yourself, shift your weight to one side and lift the opposite arm off the ground, extending it straight out to the side.
-4. Push through your chest and triceps to raise your body back up to the starting position, while simultaneously lowering your extended arm back to the ground.
-5. Repeat the movement, alternating the arm you extend with each repetition.
+1. Get into a pushup position with your feet wide apart. Put one hand on the floor under your chest and the other behind your back.
+2. Keep your body straight and your hips level.
+3. Bend your elbow to lower your chest until it's just above the floor.
+4. Push back up until your arm is straight. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

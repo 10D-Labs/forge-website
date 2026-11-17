@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell reverse wrist curl is an isolation exercise targeting the forearms, specifically the extensor muscles. It is performed seated, with the forearms resting on the thighs and the wrists curling the dumbbells upward using an overhand grip. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
+A wrist curl done with your palms facing down, lifting the backs of your hands. It works the muscles on the top of your forearms. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell reverse wrist curl is an isolation exercise targeting the forearms,
 
 ## How to perform
 
-1. Sit on a bench or chair with your feet flat on the ground.
-2. Hold a dumbbell in each hand with an overhand grip, palms facing down.
-3. Rest your forearms on your thighs, allowing your wrists to hang off the edge.
-4. Slowly curl your wrists upward, bringing the dumbbells towards your body.
-5. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit on a bench or chair with your feet flat on the floor and a dumbbell in each hand, palms facing down.
+2. Rest your forearms on your thighs so your wrists hang off past your knees.
+3. Curl your wrists up slowly, lifting the dumbbells toward your body.
+4. Lower the dumbbells slowly back down.
 
 ## Pro tips
 

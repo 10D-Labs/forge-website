@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The medicine ball supine chest throw is an explosive upper body exercise that targets the tricep, chest, and shoulders. It involves lying on your back and throwing a medicine ball upward, emphasizing power and speed. Intermediate arms exercise using medicine ball. Targets triceps, also works chest, shoulders.
+A power drill where you lie on the floor and throw a medicine ball straight up from your chest. It works the triceps, chest and shoulders. Intermediate arms exercise using medicine ball. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Medicine Ball
@@ -15,11 +15,11 @@ The medicine ball supine chest throw is an explosive upper body exercise that ta
 
 ## How to perform
 
-1. Lie flat on your back on a bench with your knees bent and feet flat on the ground.
-2. Hold the medicine ball with both hands, extending your arms straight up above your chest.
-3. Lower the medicine ball towards your chest, keeping your elbows close to your body.
-4. Explosively push the medicine ball upwards, extending your arms fully and throwing the ball as high as possible.
-5. Catch the medicine ball and repeat for the desired number of repetitions.
+1. Lie on your back on the floor with your knees bent and feet flat.
+2. Hold a medicine ball in both hands with your arms straight up over your chest.
+3. Lower the ball to your chest, keeping your elbows close to your body.
+4. Push the ball up hard, straightening your arms, and throw it as high as you can.
+5. Catch it and bring it back down to your chest for the next throw.
 
 ## Pro tips
 

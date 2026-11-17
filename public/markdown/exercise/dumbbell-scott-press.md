@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell Scott press is a shoulder exercise performed while seated, pressing dumbbells overhead to target the deltoid muscles. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
+A standing dumbbell press that starts with the weights in front of your face and your elbows forward. It works the front of the shoulders, with help from the triceps. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell Scott press is a shoulder exercise performed while seated, pressing
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in each hand, palms facing forward.
-2. Raise the dumbbells to shoulder height, with your elbows bent and palms facing forward.
-3. Press the dumbbells upward until your arms are fully extended.
-4. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall holding a dumbbell in each hand in front of your face, elbows bent and in front of your chest, palms facing each other.
+2. Press the dumbbells straight up, turning your palms to face forward, until your arms are straight overhead.
+3. Lower them slowly back to the front of your face, elbows forward, turning your palms to face each other again.
 
 ## Pro tips
 

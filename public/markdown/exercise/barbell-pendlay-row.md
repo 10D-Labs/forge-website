@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell Pendlay row is a strength exercise targeting the upper back, performed by pulling a barbell from the floor to the upper abdomen with strict form. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
+A bent-over barbell row where your torso stays nearly level with the floor and the bar goes back to the floor every rep. It works the upper back. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell Pendlay row is a strength exercise targeting the upper back, perform
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Bend forward at the hips, keeping your back straight and your chest up.
-3. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.
-4. Pull the barbell towards your upper abdomen, squeezing your shoulder blades together.
-5. Lower the barbell back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand at a barbell on the floor with your feet shoulder-width apart and knees slightly bent.
+2. Bend forward at the hips until your torso is nearly level with the floor, keeping your back straight and chest up.
+3. Grip the bar with your palms facing down, hands slightly wider than shoulder-width.
+4. Pull the bar from the floor up to your upper stomach, drawing your shoulder blades together.
+5. Lower the bar all the way back to the floor and let it stop before the next rep.
 
 ## Pro tips
 

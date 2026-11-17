@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated calf stretch is a flexibility exercise targeting the calf muscles. It is performed while seated, requiring no equipment other than a chair or bench, and focuses on stretching the calves and, to a lesser extent, the hamstrings. Beginner legs exercise using body weight. Targets calves, also works hamstrings.
+A seated stretch where you reach forward and pull your toes back toward you. It stretches the calves, and the hamstrings too. Beginner legs exercise using body weight. Targets calves, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The seated calf stretch is a flexibility exercise targeting the calf muscles. It
 
 ## How to perform
 
-1. Sit on the edge of a chair or bench with your feet flat on the ground.
-2. Extend one leg straight out in front of you, keeping your heel on the ground.
-3. Lean forward slightly, feeling a stretch in your calf muscle.
-4. Hold the stretch for 20-30 seconds.
-5. Switch legs and repeat the stretch.
+1. Sit on the floor with your legs straight in front of you, feet hip-width apart, hands on the floor beside your hips.
+2. Lean forward from your hips and grab your toes, one hand on each foot.
+3. Gently pull your toes back toward you until you feel a stretch in your calves.
+4. Hold for the set time, then let go and sit back up tall.
 
 ## Pro tips
 

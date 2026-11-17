@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell rack pull is a compound strength exercise that targets the glutes, hamstrings, and lower back. It involves lifting a barbell from a rack set at knee height, focusing on hip extension and posterior chain activation. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
+A partial deadlift that starts from a power rack, with the bar at about knee height. It works the glutes, hamstrings and lower back. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell rack pull is a compound strength exercise that targets the glutes, h
 
 ## How to perform
 
-1. Set up a barbell on a rack at knee height.
-2. Stand with your feet shoulder-width apart, toes pointing slightly outwards.
-3. Bend at the hips and knees to lower yourself down and grip the barbell with an overhand grip, hands shoulder-width apart.
-4. Engage your core and lift the barbell by extending your hips and knees, pulling your shoulders back and squeezing your glutes at the top.
-5. Lower the barbell back down to the starting position by bending at the hips and knees.
-6. Repeat for the desired number of repetitions.
+1. Set a barbell on the pins of a power rack at knee height. Stand at the bar with your feet shoulder-width apart, toes turned out slightly.
+2. Bend at your hips and knees to grip the bar with your palms facing you, hands shoulder-width apart.
+3. Straighten your hips and knees to stand up with the bar, pulling your shoulders back at the top.
+4. Bend your hips and knees to lower the bar back to the pins.
 
 ## Pro tips
 

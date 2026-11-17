@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band assisted pullup is a variation of the traditional pullup that uses a resistance band to provide assistance, making it easier to perform the movement. This exercise targets the latissimus dorsi (lats) and also works the bicep and forearms. It is commonly used to build strength and improve pullup technique, especially for those who are not yet able to perform unassisted pullup. Beginner back exercise using resistance band. Targets lats, also works biceps, forearms.
+A pullup with a resistance band under your knees to take off some of your weight, a way to build up to regular pullups. It works the lats, with help from the biceps and forearms. Beginner back exercise using resistance band. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,12 +15,11 @@ The band assisted pullup is a variation of the traditional pullup that uses a re
 
 ## How to perform
 
-1. Attach the band to a pullup bar or sturdy anchor point.
-2. Step onto the band with your feet or knees and grip the bar with your palms facing away from you, hands slightly wider than shoulder-width apart.
-3. Hang with your arms fully extended, keeping your core engaged and your shoulders down and back.
-4. Pull your body up towards the bar by squeezing your shoulder blades together and driving your elbows down towards your hips.
-5. Continue pulling until your chin is above the bar, then slowly lower yourself back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a resistance band to a pullup bar so it hangs down in a loop.
+2. Grab the bar with your palms facing away from you, hands slightly wider than your shoulders, and rest your knees in the loop.
+3. Hang with your arms straight and your shoulders pulled down and back.
+4. Drive your elbows down toward your hips to pull yourself up until your chin is above the bar.
+5. Lower yourself slowly until your arms are straight.
 
 ## Pro tips
 

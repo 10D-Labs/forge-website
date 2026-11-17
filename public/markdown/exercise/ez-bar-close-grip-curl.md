@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar close grip curl is a bicep-focused exercise performed with an EZ bar using a close, underhand grip. It targets the bicep and also engages the forearms as secondary muscles. The movement involves curling the barbell towards the shoulders while keeping the elbows close to the torso. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
+A standing EZ bar curl with your hands close together and palms facing forward. It works the biceps, with the forearms helping. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,11 +15,10 @@ The EZ bar close grip curl is a bicep-focused exercise performed with an EZ bar 
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold the ez barbell with an underhand grip, hands shoulder-width apart.
-2. Keep your elbows close to your torso and your upper arms stationary throughout the movement.
-3. Curl the barbell up towards your shoulders, contracting your biceps.
-4. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall with your feet shoulder-width apart, holding an EZ bar with your palms facing forward and your hands close together.
+2. Keep your elbows close to your sides and your upper arms still.
+3. Curl the bar up toward your shoulders.
+4. Lower it slowly until your arms are straight.
 
 ## Pro tips
 

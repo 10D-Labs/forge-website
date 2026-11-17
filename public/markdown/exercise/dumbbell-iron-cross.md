@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The dumbbell iron cross is a shoulder exercise that targets the deltoids by raising the arms out to the sides while holding dumbbells, forming a T shape with the body. It also engages the tricep and chest as secondary muscles. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
+A squat paired with an arm sweep: you stand up from a squat while moving straight arms from in front of you out to a T. It works the shoulders, plus the quads and glutes. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works quadriceps, glutes.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
 - **Target Muscle:** Shoulders
-- **Secondary Muscles:** Triceps, Chest
+- **Secondary Muscles:** Quadriceps, Glutes
 - **Difficulty:** Intermediate
 - **Category:** Strength
 
@@ -15,10 +15,10 @@ The dumbbell iron cross is a shoulder exercise that targets the deltoids by rais
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.
-2. Raise your arms out to the sides until they are parallel to the ground, forming a T shape with your body.
-3. Pause for a moment, then slowly lower your arms back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+2. Squat down until your thighs are about level with the floor, holding the dumbbells straight out in front at shoulder height, palms facing each other.
+3. Stand up, and as you rise, sweep your straight arms out to the sides until your body makes a T, palms facing forward.
+4. Squat back down while bringing your arms back together in front of you.
 
 ## Pro tips
 
@@ -48,7 +48,7 @@ Very similar. The iron cross emphasizes holding the arms at parallel (the T-shap
 
 ### What muscles does the Dumbbell Iron Cross work?
 
-The Dumbbell Iron Cross primarily targets the shoulders, with secondary activation in the triceps, chest. It's classified as a strength exercise for the shoulders.
+The Dumbbell Iron Cross primarily targets the shoulders, with secondary activation in the quadriceps, glutes. It's classified as a strength exercise for the shoulders.
 
 ### Is the Dumbbell Iron Cross good for beginners?
 

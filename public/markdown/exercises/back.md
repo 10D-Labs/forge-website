@@ -2,47 +2,44 @@
 
 ## Quick Answer
 
-132 exercises targeting your back. Build strength and muscle with exercises organized by equipment type.
+126 exercises targeting your back. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
 ## All Back Exercises by Equipment
 
-### Barbell (10 exercises)
+### Barbell (11 exercises)
 
 - **Barbell Bent Over Row** — Intermediate | Target: Upper Back
 - **Barbell Shrug** — Beginner | Target: Traps
 - **Barbell Incline Row** — Intermediate | Target: Upper Back
-- **Bent Over Row** — Intermediate | Target: Upper Back
+- **Landmine T-Bar Row** — Intermediate | Target: Upper Back
 - **Barbell Pullover** — Intermediate | Target: Lats
-- **Single Arm Bent Over Row** — Intermediate | Target: Upper Back
+- **Barbell Skier** — Intermediate | Target: Lats
+- **Single Arm Landmine Row** — Intermediate | Target: Upper Back
 - **Barbell Pendlay Row** — Intermediate | Target: Upper Back
 - **Barbell Single Arm Bent Over Row** — Intermediate | Target: Upper Back
 - **Barbell Reverse Grip Bent Over Row** — Intermediate | Target: Upper Back
 - **Barbell Reverse Grip Incline Bench Row** — Intermediate | Target: Upper Back
 
-### Body Weight (43 exercises)
+### Body Weight (37 exercises)
 
 - **Pullup** — Advanced | Target: Lats
 - **Chinup** — Intermediate | Target: Lats
+- **Narrow Reverse Grip Inverted Row** — Advanced | Target: Upper Back
 - **Inverted Row with Straps** — Intermediate | Target: Upper Back
 - **Inverted Row** — Beginner | Target: Upper Back
 - **Scapular Pullup** — Beginner | Target: Traps
-- **Weighted Pullup** — Advanced | Target: Lats
 - **Elbow Lift Reverse Pushup** — Beginner | Target: Upper Back
-- **Inverted Row on Bench** — Beginner | Target: Upper Back
+- **Inverted Row with Feet on Bench** — Beginner | Target: Upper Back
 - **Inverted Row Bent Knees** — Beginner | Target: Upper Back
-- **Weighted Close Grip Chinup on Dip Cage** — Advanced | Target: Lats
 - **Scapula Dips** — Beginner | Target: Traps
-- **Bench Pullup** — Beginner | Target: Lats
-- **Weighted One Hand Pull Up** — Advanced | Target: Lats
-- **Weighted Muscle Up** — Advanced | Target: Lats
+- **Bench Assisted Pullup** — Beginner | Target: Lats
 - **L-pullup** — Advanced | Target: Lats
 - **Bench Hyperextension** — Beginner | Target: Lower Back
 - **Hyperextension** — Beginner | Target: Lower Back
-- **Seated Lower Back Stretch** — Beginner | Target: Lats
+- **Seated Overhead Lat Stretch** — Beginner | Target: Lats
 - **Standing Lateral Stretch** — Beginner | Target: Lats
-- **Suspended Row** — Intermediate | Target: Upper Back
 - **Lower Back Curl** — Beginner | Target: Lower Back
 - **Side Lying Floor Stretch** — Beginner | Target: Lats
 - **Sphinx** — Beginner | Target: Lower Back
@@ -54,24 +51,21 @@
 - **Back Pec Stretch** — Beginner | Target: Lats
 - **Wide Grip Pullup** — Advanced | Target: Lats
 - **Bodyweight Standing Row** — Beginner | Target: Upper Back
-- **Two Toe Touch** — Beginner | Target: Lower Back
 - **Archer Pull Up** — Advanced | Target: Lats
 - **Back Lever** — Advanced | Target: Upper Back
-- **Skin the Cat** — Advanced | Target: Upper Back
 - **Standing Archer** — Beginner | Target: Upper Back
 - **Narrow Neutral Grip Chinup** — Intermediate | Target: Upper Back
 - **Single Arm Chinup** — Advanced | Target: Lats
 - **Close Grip Chinup** — Intermediate | Target: Lats
 - **Kneeling Lat Stretch** — Beginner | Target: Lats
-- **Single Arm Isometric Lat Pull** — Beginner | Target: Lats
+- **Single Arm Lat Stretch Against Wall** — Beginner | Target: Lats
 - **Bodyweight Standing Single Arm Row** — Beginner | Target: Upper Back
 - **Bodyweight Towel Standing Row** — Beginner | Target: Upper Back
 
-### Cable (23 exercises)
+### Cable (21 exercises)
 
 - **Cable Seated Row** — Beginner | Target: Upper Back
-- **Cable Crossover Lateral Pulldown** — Intermediate | Target: Lats
-- **Cable Incline Pushdown** — Intermediate | Target: Lats
+- **Cable Incline Bench Pullover** — Intermediate | Target: Lats
 - **Cable Low Seated Row** — Beginner | Target: Upper Back
 - **Cable Lat Pulldown** — Beginner | Target: Lats
 - **Cable Shrug** — Beginner | Target: Traps
@@ -80,8 +74,7 @@
 - **Cable Twisting Pull** — Intermediate | Target: Lats
 - **Cable Upper Row** — Beginner | Target: Upper Back
 - **Cable Kayak Row** — Intermediate | Target: Lats
-- **Alternate Lateral Pulldown** — Beginner | Target: Lats
-- **Cable Seated High Row** — Beginner | Target: Lats
+- **Single Arm Lat Pulldown** — Beginner | Target: Lats
 - **Cable Seated Wide Grip Row** — Beginner | Target: Upper Back
 - **Cable Standing Twist Row** — Intermediate | Target: Upper Back
 - **Cable Palm Rotational Row** — Intermediate | Target: Upper Back
@@ -97,14 +90,14 @@
 
 - **Dumbbell Shrug** — Beginner | Target: Traps
 - **Dumbbell Bent Over Row** — Intermediate | Target: Upper Back
-- **Dumbbell Decline Shrug** — Beginner | Target: Traps
+- **Dumbbell Chest Supported Shrug** — Beginner | Target: Traps
 - **Dumbbell Incline Row** — Intermediate | Target: Upper Back
 - **Dumbbell Incline Shrug** — Beginner | Target: Traps
 - **Dumbbell Lying Rear Delt Row** — Intermediate | Target: Upper Back
+- **Weighted One Hand Pull Up** — Advanced | Target: Lats
 - **Dumbbell Incline Y-raise** — Intermediate | Target: Upper Back
 - **Dumbbell Single Arm Bent Over Row** — Beginner | Target: Upper Back
 - **Dumbbell Palm Rotational Bent Over Row** — Intermediate | Target: Upper Back
-- **Dumbbell Reverse Grip Incline Bench Arm Row** — Intermediate | Target: Upper Back
 - **Dumbbell Side Plank with Rear Fly** — Advanced | Target: Upper Back
 
 ### Kettlebell (5 exercises)
@@ -115,7 +108,7 @@
 - **Kettlebell Alternating Row** — Intermediate | Target: Upper Back
 - **Kettlebell Single Arm Row** — Intermediate | Target: Upper Back
 
-### Machine (21 exercises)
+### Machine (18 exercises)
 
 - **Assisted Pullup** — Beginner | Target: Lats
 - **Assisted Chinup** — Beginner | Target: Lats
@@ -125,16 +118,13 @@
 - **T-Bar Row** — Beginner | Target: Upper Back
 - **Reverse T-Bar Row** — Beginner | Target: Upper Back
 - **Seated Row** — Beginner | Target: Upper Back
-- **Standing Pullup** — Beginner | Target: Lats
-- **Parallel Close Grip Pullup** — Beginner | Target: Lats
+- **Assisted Close Neutral Grip Pullup** — Beginner | Target: Lats
 - **Alternating Narrow Grip Seated Row** — Intermediate | Target: Upper Back
 - **Back Extension** — Beginner | Target: Lower Back
 - **High Row** — Beginner | Target: Upper Back
 - **Single Arm Lateral Wide Pulldown** — Intermediate | Target: Lats
 - **T-Bar Reverse Grip Row** — Intermediate | Target: Upper Back
-- **Standing Chinup** — Beginner | Target: Lats
 - **Reverse Grip Lat Pulldown** — Beginner | Target: Lats
-- **Bent Over Row with V Bar** — Intermediate | Target: Upper Back
 - **Unilateral Row** — Beginner | Target: Upper Back
 - **Single Arm Lateral High Row** — Intermediate | Target: Upper Back
 - **Pullover** — Beginner | Target: Lats
@@ -157,10 +147,11 @@
 - **Band Fixed Back Close Grip Pulldown** — Beginner | Target: Lats
 - **Resistance Band Seated Straight Back Row** — Beginner | Target: Upper Back
 
-### Rings (2 exercises)
+### Rings (3 exercises)
 
-- **Weighted Ring Muscle Up** — Advanced | Target: Lats
+- **Weighted Ring Pull Up** — Advanced | Target: Lats
 - **Ring Muscle Up** — Advanced | Target: Lats
+- **Suspended Row** — Intermediate | Target: Upper Back
 
 ### Smith Machine (5 exercises)
 
@@ -170,13 +161,19 @@
 - **Smith Narrow Row** — Beginner | Target: Upper Back
 - **Smith Reverse Grip Bent Over Row** — Intermediate | Target: Upper Back
 
+### Weight Plate (3 exercises)
+
+- **Weighted Pullup** — Advanced | Target: Lats
+- **Weighted Close Grip Chinup** — Advanced | Target: Lats
+- **Weighted Muscle Up** — Advanced | Target: Lats
+
 ---
 
 ## Build Your Back with Forge
 
 Get a personalized back workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

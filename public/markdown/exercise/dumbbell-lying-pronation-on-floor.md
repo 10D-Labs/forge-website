@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying pronation on floor targets the forearms by requiring you to rotate your palms downward while lifting dumbbells, emphasizing forearm strength and stability. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, triceps.
+A forearm twist done lying on your side, turning your thumb from up to down to swing a one-ended dumbbell up. It works the forearms. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, triceps.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,11 @@ The dumbbell lying pronation on floor targets the forearms by requiring you to r
 
 ## How to perform
 
-1. Lie flat on the floor with your face down and your arms extended straight out in front of you, holding a dumbbell in each hand.
-2. Rotate your palms so they are facing down towards the floor.
-3. Keeping your arms straight, lift the dumbbells off the floor by contracting your forearms.
-4. Continue lifting until your forearms are fully contracted and the dumbbells are at shoulder level.
-5. Hold for a moment, then slowly lower the dumbbells back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your side with your head resting on your bottom arm. Hold a dumbbell loaded on one end in your top hand.
+2. Rest your top upper arm along your side and bend that elbow so your forearm points out in front of your stomach.
+3. Start with your thumb pointing up, palm facing toward your head, and the weighted end hanging toward the floor.
+4. Turn your forearm to swing the weighted end up until it points at the ceiling and your thumb points at the floor.
+5. Turn slowly back to the start. Do all your reps on one side, then switch.
 
 ## Pro tips
 

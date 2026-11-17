@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The outside leg kick pushup is a dynamic bodyweight exercise that combines a traditional pushup with a lateral leg kick, targeting the glutes and engaging the quadriceps, hamstrings, and calves. This movement challenges upper body strength, core stability, coordination, and lower body mobility. Advanced legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A pushup that adds a twist at the top: one hand comes off the floor while the opposite leg kicks out in front. It works the chest, shoulders and arms, plus the glutes and core as you kick and turn. Advanced legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,11 @@ The outside leg kick pushup is a dynamic bodyweight exercise that combines a tra
 
 ## How to perform
 
-1. Start in a pushup position with your hands slightly wider than shoulder-width apart and your feet together.
-2. Lower your body towards the ground by bending your elbows, keeping your back straight and core engaged.
-3. As you push back up, kick one leg out to the side, extending it fully and engaging your glutes.
-4. Return your leg to the starting position and repeat the pushup, alternating legs with each repetition.
-5. Continue alternating leg kicks and pushup for the desired number of repetitions.
+1. Start in a pushup position, hands under your shoulders, body straight from head to heels.
+2. Bend your elbows to lower your chest toward the floor, then push back up.
+3. As you push up, lift your right hand off the floor and bring it to your hip, and kick your left leg out in front of you, turning your hips open.
+4. Bring your hand and leg back to the pushup position.
+5. On the next rep, lift your left hand and kick out your right leg. Keep alternating sides.
 
 ## Pro tips
 

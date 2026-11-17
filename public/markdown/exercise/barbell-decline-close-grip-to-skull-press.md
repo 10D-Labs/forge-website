@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell decline close grip to skull press is a compound exercise targeting the tricep, performed on a decline bench with a close grip on the barbell. It combines elements of a close grip press and a skull crusher, challenging both tricep strength and stability. Intermediate arms exercise using barbell. Targets triceps, also works chest, shoulders.
+A lying triceps extension on a decline bench, hands close together, lowering the bar from over your chest to your forehead. It works the triceps. Intermediate arms exercise using barbell. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,10 +15,10 @@ The barbell decline close grip to skull press is a compound exercise targeting t
 
 ## How to perform
 
-1. Lie on a decline bench with your head lower than your feet and hold a barbell with a close grip.
-2. Lower the barbell towards your forehead by bending your elbows, keeping your upper arms stationary.
-3. Pause for a moment, then extend your arms to press the barbell back up to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Lie on a decline bench with your head lower than your feet.
+2. Hold a barbell straight up over your chest with your hands close together.
+3. Bend your elbows to lower the bar toward your forehead, keeping your upper arms still.
+4. Straighten your arms to press the bar back up over your chest.
 
 ## Pro tips
 

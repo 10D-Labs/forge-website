@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell overhead squat is a compound exercise that targets the quads and requires holding a barbell overhead while performing a squat. It demands significant strength, balance, mobility, and coordination. Advanced legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves, core.
+A squat holding a barbell overhead with straight arms and a wide grip. It works the quads, and it takes balance and flexible shoulders to keep the bar steady. Advanced legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell overhead squat is a compound exercise that targets the quads and req
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and toes slightly turned out.
-2. Hold the barbell with a wide grip, positioning it overhead with your arms fully extended.
-3. Engage your core and lower your body down into a squat position, keeping your chest up and knees tracking over your toes.
-4. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes turned slightly out.
+2. Hold the barbell overhead with your hands wide apart and your arms straight.
+3. Squat all the way down, pushing your hips back. Keep your chest up and your knees in line with your toes.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

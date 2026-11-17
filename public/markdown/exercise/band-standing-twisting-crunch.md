@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band standing twisting crunch is an abdominal exercise that targets the abs and obliques using a resistance band. It involves twisting the torso while performing a crunch motion, engaging the core muscles. Beginner core exercise using resistance band. Targets abs, also works obliques.
+A standing crunch with a twist, pulling against a band anchored high behind you. It works the abs and the obliques along your sides. Beginner core exercise using resistance band. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,12 +15,11 @@ The band standing twisting crunch is an abdominal exercise that targets the abs 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place the band around your upper back, crossing it in front of your chest.
-2. Hold the ends of the band with your hands, keeping your elbows bent and close to your sides.
-3. Engage your abs and twist your torso to one side, bringing your elbow towards the opposite knee.
-4. Pause for a moment, then return to the starting position.
-5. Repeat on the other side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Anchor a band high behind you and stand tall facing away from it, feet hip-width apart.
+2. Hold a handle in each hand at the top of your chest, elbows down, palms facing you.
+3. Crunch your chest down toward your hips while turning your shoulders to one side.
+4. Keep your hips still and your hands at your chest.
+5. Rise slowly back to standing. Do all your reps on one side, then switch.
 
 ## Pro tips
 

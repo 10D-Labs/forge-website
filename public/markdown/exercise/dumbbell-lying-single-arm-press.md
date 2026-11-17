@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying one arm press is a unilateral chest exercise performed on a bench, focusing on the pectorals while also engaging the tricep and shoulders. It challenges stability and coordination due to the single arm movement. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
+A flat bench dumbbell press done one arm at a time. It works the chest, with the triceps and shoulders helping, and makes your body work to stay steady. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell lying one arm press is a unilateral chest exercise performed on a b
 
 ## How to perform
 
-1. Lie flat on a bench with a dumbbell in one hand and your feet flat on the ground.
-2. Hold the dumbbell at shoulder level with your palm facing forward.
-3. Press the dumbbell upward until your arm is fully extended.
-4. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Lie flat on a bench with your feet flat on the floor and a dumbbell in one hand.
+2. Hold the dumbbell next to your shoulder with your palm facing toward your feet.
+3. Press it straight up until your arm is straight.
+4. Lower it slowly back to your shoulder. Do all your reps on one side, then switch.
 
 ## Pro tips
 

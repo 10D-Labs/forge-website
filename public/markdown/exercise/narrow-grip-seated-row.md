@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The narrow grip seated row is a machine-based exercise targeting the upper back, with secondary emphasis on the bicep and forearms. It involves pulling handles towards the torso while seated, focusing on squeezing the shoulder blades together. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
+A seated machine row with your chest against a pad, pulling narrow handles with your palms facing each other. It works the upper back, with help from the biceps and forearms. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,14 +15,10 @@ The narrow grip seated row is a machine-based exercise targeting the upper back,
 
 ## How to perform
 
-1. Adjust the seat height and footrests to ensure proper form.
-2. Sit on the machine with your feet flat on the footrests and your knees slightly bent.
-3. Grasp the handles with a narrow grip, palms facing each other.
-4. Keep your back straight and lean slightly forward.
-5. Pull the handles towards your torso, squeezing your shoulder blades together.
-6. Pause for a moment at the peak of the movement.
-7. Slowly release the handles and return to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Adjust the seat height and footrests. Sit with your feet flat on the footrests and your knees slightly bent.
+2. Lean slightly forward with your chest against the pad and grab the narrow handles, palms facing each other.
+3. Keep your back straight and pull both handles toward your body.
+4. Let the handles go forward slowly until your arms are straight.
 
 ## Pro tips
 

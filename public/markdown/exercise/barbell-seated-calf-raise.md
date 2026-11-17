@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell seated calf raise is an exercise that targets the calf muscles by lifting a barbell placed on the thighs while seated. It primarily focuses on strengthening the calves and also engages the hamstrings and quadriceps as secondary muscles. Beginner legs exercise using barbell. Targets calves, also works hamstrings, quadriceps.
+A calf raise done sitting on a bench, with a barbell across your thighs for weight. It works the calves. Beginner legs exercise using barbell. Targets calves, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell seated calf raise is an exercise that targets the calf muscles by li
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the floor and a barbell resting on your thighs.
-2. Place the balls of your feet on a raised platform, such as a block or step.
-3. Position the barbell across your thighs and hold it securely with your hands.
-4. Keeping your back straight and your core engaged, lift your heels off the ground by extending your ankles.
-5. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit on a flat bench with your feet flat on the floor.
+2. Rest a barbell across your thighs, just above your knees, and hold it steady with both hands.
+3. Keep your back straight and lift your heels as high as you can, rising onto the balls of your feet.
+4. Lower your heels slowly back to the floor.
 
 ## Pro tips
 

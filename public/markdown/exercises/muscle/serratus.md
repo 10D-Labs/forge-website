@@ -14,7 +14,7 @@
 
 ### Body Weight (2 exercises)
 
-- **Decline Scapula Push Up** — Beginner | Body Part: Core
+- **Hands Elevated Scapula Pushup** — Beginner | Body Part: Core
 - **Scapula Pushup** — Beginner | Body Part: Core
 
 ### Dumbbell (1 exercise)
@@ -31,7 +31,7 @@
 
 Get a personalized workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

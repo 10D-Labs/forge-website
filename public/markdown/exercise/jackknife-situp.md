@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The jackknife situp is a bodyweight exercise targeting the abdominal muscles. It involves simultaneously lifting the legs and upper body to meet in the middle, engaging the core and hip flexors. Intermediate core exercise using body weight. Targets abs, also works hip flexors.
+A situp where your legs and upper body lift together and meet in the middle, folding you into a V. It works the abs and the front of the hips. Intermediate core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ The jackknife situp is a bodyweight exercise targeting the abdominal muscles. It
 
 ## How to perform
 
-1. Lie flat on your back with your legs extended and your arms overhead.
-2. Engage your core and lift your legs and upper body simultaneously, reaching your hands towards your toes.
-3. Pause for a moment at the top, then slowly lower your legs and upper body back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Lie flat on your back with your legs straight and your arms overhead.
+2. Lift your legs and upper body at the same time, reaching your hands toward your toes so your body folds into a V.
+3. Lower your legs and upper body slowly back to the floor.
 
 ## Pro tips
 

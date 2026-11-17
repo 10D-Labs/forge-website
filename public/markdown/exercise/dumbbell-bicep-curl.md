@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell bicep curl is a classic strength exercise that targets the bicep and also works the forearms. It involves curling dumbbells from a fully extended arm position to shoulder level, focusing on controlled movement and muscle contraction. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A standing curl with a dumbbell in each hand and your palms facing forward. It works the biceps, with help from the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,9 @@ The dumbbell bicep curl is a classic strength exercise that targets the bicep an
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing forward and arms fully extended.
-2. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-3. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly begin to lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand tall with a dumbbell in each hand, arms hanging straight and palms facing forward.
+2. Keep your upper arms still and curl both dumbbells up to shoulder level.
+3. Lower them slowly until your arms are straight.
 
 ## Pro tips
 

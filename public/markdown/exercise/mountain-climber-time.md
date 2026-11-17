@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Mountain climbers are a dynamic bodyweight exercise that targets the cardiovascular system while also engaging the core, shoulders, and triceps. The movement mimics a running motion in a plank position, making it effective for both cardio and muscular endurance. Beginner cardio exercise using body weight. Targets cardiovascular, also works core, shoulders, triceps.
+A running motion done from the top of a pushup, driving your knees toward your chest one at a time. It raises your heart rate and works the abs, shoulders and triceps. Beginner cardio exercise using body weight. Targets cardiovascular, also works core, shoulders, triceps.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Mountain climbers are a dynamic bodyweight exercise that targets the cardiovascu
 
 ## How to perform
 
-1. Start in a high plank position with your hands directly under your shoulders and your body in a straight line.
-2. Engage your core and bring your right knee towards your chest, then quickly switch and bring your left knee towards your chest.
-3. Continue alternating legs in a running motion, keeping your hips low and your core engaged.
-4. Maintain a steady pace and breathe evenly throughout the exercise.
-5. Continue for the target duration.
+1. Start at the top of a pushup, hands under your shoulders and body in a straight line.
+2. Bring your right knee toward your chest, then quickly switch and bring your left knee in.
+3. Keep switching legs in a running motion at a steady pace, keeping your hips low.
+4. Keep going for the set time.
 
 ## Pro tips
 

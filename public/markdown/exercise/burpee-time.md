@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The burpee is a full-body exercise that combines a squat, pushup, and jump to elevate heart rate and build strength and endurance. Performing burpees for time is an effective AMRAP (As Many Reps As Possible) workout. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves, shoulders, chest.
+A full-body move that links a squat, a plank and a jump, done for time. It gets your heart rate up and builds stamina. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves, shoulders, chest.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,14 +15,11 @@ The burpee is a full-body exercise that combines a squat, pushup, and jump to el
 
 ## How to perform
 
-1. Start in a standing position with your feet shoulder-width apart.
-2. Lower your body into a squat position by bending your knees and placing your hands on the floor in front of you.
-3. Kick your feet back into a pushup position.
-4. Perform a pushup, keeping your body in a straight line.
-5. Jump your feet back into the squat position.
-6. Jump up explosively, reaching your arms overhead.
-7. Land softly and immediately continue to the next repetition.
-8. Continue performing burpees for the target duration.
+1. Stand with your feet shoulder-width apart.
+2. Squat down and place your hands on the floor in front of your feet.
+3. Kick your feet back into a plank, with your body in a straight line from head to heels.
+4. Jump your feet back in toward your hands, then jump straight up, reaching your arms overhead.
+5. Land softly and go straight into the next rep. Keep going for the set time.
 
 ## Pro tips
 

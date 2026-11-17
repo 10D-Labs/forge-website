@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline bench press is a compound upper body exercise that targets the upper portion of the pectoral muscles, with additional emphasis on the shoulders and tricep. It is performed on an incline bench using dumbbells, requiring stability and control throughout the movement. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
+A dumbbell press on a bench set to a 45-degree incline. It works the upper chest, with help from the shoulders and triceps. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell incline bench press is a compound upper body exercise that targets 
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Sit on the bench with your feet flat on the ground and your back pressed firmly against the bench.
-3. Hold a dumbbell in each hand, palms facing forward, and lift them to shoulder height.
-4. Slowly lower the dumbbells to the sides of your chest, keeping your elbows at a 90 degree angle.
-5. Push the dumbbells back up to the starting position, fully extending your arms.
-6. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Sit with your back flat against it and your feet flat on the floor.
+2. Hold a dumbbell in each hand at shoulder height, palms facing forward, and press them up until your arms are straight.
+3. Lower the dumbbells slowly to the sides of your chest, until your elbows are bent to about 90 degrees.
+4. Press the dumbbells back up until your arms are straight.
 
 ## Pro tips
 

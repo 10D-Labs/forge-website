@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar reverse grip curl is an isolation exercise targeting the bicep, with additional activation of the forearms. It is performed using an EZ bar with an underhand grip, focusing on curling the barbell upwards while keeping the elbows close to the torso. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
+A curl done with your palms facing down instead of up. It works the biceps and the forearms. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,13 +15,9 @@ The EZ bar reverse grip curl is an isolation exercise targeting the bicep, with 
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold the ez barbell with an underhand grip.
-2. Keep your elbows close to your torso and your upper arms stationary throughout the exercise.
-3. Curl the barbell upwards by contracting your biceps, while exhaling.
-4. Continue to raise the barbell until your biceps are fully contracted and the barbell is at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Slowly begin to bring the barbell back to the starting position as you inhale.
-7. Repeat for the desired number of repetitions.
+1. Stand with your feet hip-width apart. Hold an EZ bar in front of your thighs, palms facing your legs, hands about shoulder-width apart.
+2. Keep your elbows at your sides and curl the bar up until it's in front of your shoulders.
+3. Lower it slowly until your arms are straight.
 
 ## Pro tips
 

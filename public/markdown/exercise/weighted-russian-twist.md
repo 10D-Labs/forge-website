@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted Russian twist is a core exercise that targets the abs and obliques, performed by twisting the torso while holding a weight or medicine ball. Intermediate core exercise using body weight. Targets abs, also works obliques, lower back.
+A seated twist holding a weight plate, leaning back slightly and turning side to side. It works the abs and the obliques along your sides. Intermediate core exercise using weight plate. Targets abs, also works obliques, lower back.
 
 - **Body Part:** Core
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Obliques, Lower Back
 - **Difficulty:** Intermediate
@@ -15,12 +15,10 @@ The weighted Russian twist is a core exercise that targets the abs and obliques,
 
 ## How to perform
 
-1. Sit on the ground with your knees bent and your feet flat on the floor.
-2. Hold a weight or medicine ball with both hands in front of your chest.
-3. Lean back slightly, keeping your back straight and your core engaged.
-4. Slowly twist your torso to the right, bringing the weight or medicine ball towards the floor on your right side.
-5. Pause for a moment, then twist your torso to the left, bringing the weight or medicine ball towards the floor on your left side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Sit on the floor with your knees bent and your feet hooked under a support.
+2. Hold a weight plate in front of your chest with both hands. Lean back slightly, keeping your back straight.
+3. Twist your upper body to the right, bringing the plate toward the floor on your right side.
+4. Twist to the left, bringing the plate toward the floor on your left side. Keep alternating sides.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Weighted Russian Twist is rated as intermediate. Beginners should build a ba
 ## Related exercises
 
 - [More Core Exercises](https://forgetrainer.ai/exercises/core)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---

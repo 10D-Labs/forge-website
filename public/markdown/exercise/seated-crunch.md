@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated crunch (chest pad) is an abdominal exercise performed on a machine. It primarily targets the abs and also engages the obliques. The movement involves controlled flexion and extension of the torso against resistance, making it suitable for building core strength. Beginner core exercise using machine. Targets abs, also works obliques.
+A machine crunch done sitting up, curling your chest down toward your thighs against a weighted pad. It works the abs, with some help from the obliques. Beginner core exercise using machine. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The seated crunch (chest pad) is an abdominal exercise performed on a machine. I
 
 ## How to perform
 
-1. Adjust the seat height and chest pad position according to your comfort.
-2. Sit on the machine with your back against the chest pad and your feet flat on the floor.
-3. Grasp the handles or side bars for stability.
-4. Engage your abs and slowly lean back, allowing the chest pad to move with you.
-5. Pause for a moment at the maximum contraction, feeling the tension in your abs.
-6. Slowly return to the starting position by contracting your abs and pulling yourself back up.
-7. Repeat for the desired number of repetitions.
+1. Sit on the ab crunch machine with the pad across your upper chest. Hook your feet behind the roller pads near the floor.
+2. Hold the handles at each end of the chest pad, palms facing you.
+3. Curl your upper body forward and down, pushing the pad toward your thighs.
+4. Return slowly until you are sitting upright.
 
 ## Pro tips
 

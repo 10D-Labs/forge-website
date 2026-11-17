@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The decline situp is an abdominal exercise performed on a decline bench, targeting the abs with added resistance from gravity. It also engages the hip flexors and lower back as secondary muscles. Intermediate core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A full situp on a decline bench, with your head starting lower than your feet. It works the abs, with help from the front of the hips. Intermediate core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The decline situp is an abdominal exercise performed on a decline bench, targeti
 
 ## How to perform
 
-1. Lie on a decline bench with your feet secured and your knees bent.
-2. Place your hands behind your head or across your chest.
-3. Engage your abs and lift your upper body off the bench, curling forward towards your knees.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie back on a decline bench with your feet hooked under the pads and your knees bent.
+2. Place your hands behind your head, or cross them over your chest.
+3. Tighten your abs and curl your upper body up off the bench toward your knees.
+4. Lower yourself slowly back down to the bench.
 
 ## Pro tips
 

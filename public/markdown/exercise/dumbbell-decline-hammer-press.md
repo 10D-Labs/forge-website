@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell decline hammer press is a chest exercise performed on a decline bench using dumbbells. It targets the lower pectorals and also engages the tricep and shoulders. The hammer grip (palms facing each other) emphasizes the inner chest and tricep while reducing shoulder strain. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
+A decline dumbbell press with your palms facing each other the whole way. It works the lower chest, with help from the triceps and shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -16,10 +16,9 @@ The dumbbell decline hammer press is a chest exercise performed on a decline ben
 ## How to perform
 
 1. Lie on a decline bench with your feet secured and your head lower than your hips.
-2. Hold a dumbbell in each hand with your palms facing each other and your arms extended above your chest.
-3. Lower the dumbbells to the sides of your chest, keeping your elbows slightly bent.
-4. Press the dumbbells back up to the starting position, fully extending your arms.
-5. Repeat for the desired number of repetitions.
+2. Hold a dumbbell in each hand above your chest, arms straight and palms facing each other.
+3. Lower the dumbbells to the sides of your chest, keeping your palms facing each other.
+4. Press them back up until your arms are straight.
 
 ## Pro tips
 

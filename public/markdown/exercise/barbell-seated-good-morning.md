@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell seated good morning is a strength exercise that targets the glutes, with secondary emphasis on the hamstrings and lower back. It involves sitting on a bench with a barbell on your upper back, hinging forward at the hips, and returning to the upright position. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
+A good morning done sitting on a bench: with a barbell on your upper back, lean forward from the hips, then sit back up. It works the glutes, plus the hamstrings and lower back. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,11 +15,9 @@ The barbell seated good morning is a strength exercise that targets the glutes, 
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and a barbell resting on your upper back.
-2. Keep your back straight and your chest up.
-3. Slowly hinge forward at the hips, lowering your torso towards the ground.
-4. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench with your feet flat on the floor and a barbell resting across your upper back.
+2. Lean forward from your hips, lowering your torso toward the floor. Keep your back straight and your chest up.
+3. Push through your heels to bring your torso back up until you're sitting tall.
 
 ## Pro tips
 

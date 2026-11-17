@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell hammer curl is a strength exercise targeting the bicep and forearms. It is performed by curling dumbbells with a neutral grip (palms facing each other), which emphasizes the brachialis and brachioradialis muscles. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A curl done with your palms facing each other, thumbs up, one arm at a time. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,14 +15,10 @@ The dumbbell hammer curl is a strength exercise targeting the bicep and forearms
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing your torso.
-2. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward.
-3. This will be your starting position.
-4. Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps.
-5. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-6. Hold the contracted position for a brief pause as you squeeze your biceps.
-7. Then, inhale and slowly begin to lower the dumbbells back to the starting position.
-8. Repeat for the recommended amount of repetitions.
+1. Stand tall with a dumbbell in each hand, arms hanging at your sides, palms facing your thighs.
+2. Keep your elbows at your sides and your palms facing in (thumbs up) the whole time.
+3. Curl one dumbbell up toward your shoulder.
+4. Lower it slowly until your arm is straight, then curl the other arm. Keep alternating sides.
 
 ## Pro tips
 

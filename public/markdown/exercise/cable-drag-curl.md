@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable drag curl is an isolation exercise targeting the bicep, performed using a cable machine. It emphasizes the bicep by keeping the elbows back and dragging the cable attachment up the body, minimizing shoulder involvement. Intermediate arms exercise using cable. Targets biceps, also works forearms.
+A cable curl where your elbows move back so the bar slides up your body instead of swinging out. It works the biceps and the forearms. Intermediate arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable drag curl is an isolation exercise targeting the bicep, performed usin
 
 ## How to perform
 
-1. Stand facing a cable machine with your feet shoulder-width apart.
-2. Grasp the cable attachment with an underhand grip, palms facing up, and arms fully extended.
-3. Keeping your upper arms stationary, exhale and curl the cable attachment towards your shoulders by contracting your biceps.
-4. Pause for a moment at the top of the movement, squeezing your biceps.
-5. Inhale and slowly lower the cable attachment back to the starting position, fully extending your arms.
-6. Repeat for the desired number of repetitions.
+1. Attach a straight bar to the low pulley and stand facing the machine. Hold the bar at your thighs, hands shoulder-width apart, palms facing forward.
+2. Pull your elbows back behind you as you curl, sliding the bar up the front of your body.
+3. Stop when the bar reaches your lower chest.
+4. Lower slowly along the same path until your arms are straight.
 
 ## Pro tips
 

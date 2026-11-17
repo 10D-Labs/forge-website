@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band one arm twisting chest press is a unilateral chest exercise using a resistance band. It targets the pectorals while also engaging the shoulders and tricep. The twisting motion adds a rotational component, increasing core activation and coordination demands. Intermediate chest exercise using resistance band. Targets chest, also works shoulders, triceps.
+A one-arm band press done sitting on the floor, turning your upper body as you push forward. It works the chest, with help from the shoulders and triceps. Intermediate chest exercise using resistance band. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Resistance Band
@@ -15,14 +15,10 @@ The band one arm twisting chest press is a unilateral chest exercise using a res
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point at chest height.
-2. Stand with your side facing the anchor point and grab the band with one hand.
-3. Step away from the anchor point to create tension in the band.
-4. Position your feet shoulder-width apart and slightly bend your knees.
-5. Bring your hand holding the band across your body, towards the opposite shoulder.
-6. While maintaining tension in the band, push your hand forward and away from your body, extending your arm.
-7. Slowly return to the starting position and repeat for the desired number of repetitions.
-8. Switch sides and repeat the exercise with the other hand.
+1. Anchor a band behind you at chest height. Sit on the floor with your legs out in front, knees slightly bent.
+2. Hold the handle in one hand beside your chest, palm facing in (thumb up), elbow pointing back. Rest your other hand on your hip.
+3. Press the handle straight forward until your arm is straight, letting that shoulder turn forward as you reach.
+4. Return slowly to the start. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

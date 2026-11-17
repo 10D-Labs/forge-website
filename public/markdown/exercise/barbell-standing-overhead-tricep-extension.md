@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing overhead tricep extension is a strength exercise targeting the tricep, performed by holding a barbell overhead and lowering it behind the head before extending the arms to the starting position. Intermediate arms exercise using barbell. Targets triceps, also works shoulders.
+A standing triceps exercise, lowering a barbell behind your head and straightening your arms to lift it back up. It works the triceps. Intermediate arms exercise using barbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,9 @@ The barbell standing overhead tricep extension is a strength exercise targeting 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell with an overhand grip.
-2. Raise the barbell overhead, fully extending your arms.
-3. Keeping your upper arms close to your head, slowly lower the barbell behind your head by bending your elbows.
-4. Pause for a moment, then raise the barbell back to the starting position by extending your arms.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart. Hold a barbell overhead with your arms straight and your palms facing forward.
+2. Keep your upper arms close to your head and bend your elbows to lower the bar slowly behind your head.
+3. Straighten your arms to raise the bar back overhead.
 
 ## Pro tips
 

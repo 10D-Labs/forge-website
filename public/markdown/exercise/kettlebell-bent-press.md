@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell bent press is a complex movement that targets the abs while also engaging the shoulders, tricep, and obliques. It requires strength, coordination, and mobility to perform safely and effectively. Advanced core exercise using kettlebell. Targets abs, also works shoulders, triceps, obliques.
+A one-arm kettlebell lift where you bend your body sideways under the bell, instead of pressing it up, until your arm is straight overhead. It works the abs, obliques and shoulders. Advanced core exercise using kettlebell. Targets abs, also works shoulders, triceps, obliques.
 
 - **Body Part:** Core
 - **Equipment:** Kettlebell
@@ -15,14 +15,11 @@ The kettlebell bent press is a complex movement that targets the abs while also 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in your right hand.
-2. Bend your knees slightly and press the kettlebell overhead with your right arm, keeping your elbow locked.
-3. Rotate your torso to the left, shifting your weight onto your left foot.
-4. Bend your left knee and lower your torso towards the ground, keeping your right arm extended overhead.
-5. As you lower, keep your eyes on the kettlebell and your chest lifted.
-6. Once your left hand touches the ground, push through your left foot and straighten your left leg, driving your hips forward.
-7. As you drive your hips forward, use your core and right arm to press the kettlebell back up to the starting position.
-8. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet wide. Hold a kettlebell at your right shoulder, palm facing forward, the bell resting outside your forearm.
+2. Push your hips to the right and bend your upper body down to the left, sliding your left hand toward your left knee.
+3. Keep the kettlebell still as your body drops under it, until your right arm is straight overhead.
+4. Keep your eyes on the kettlebell the whole time.
+5. Stand back up with your arm straight, then lower the kettlebell slowly to your shoulder. Do all your reps on one side, then switch.
 
 ## Pro tips
 

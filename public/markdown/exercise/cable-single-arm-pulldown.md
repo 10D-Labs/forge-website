@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable one arm pulldown is a unilateral exercise that targets the latissimus dorsi using a cable machine. It also engages the bicep and forearms as secondary muscles. The movement requires good form and control to isolate the lats and avoid compensatory movements. Intermediate back exercise using cable. Targets lats, also works biceps, forearms.
+A standing pulldown from a high cable, one arm at a time. It works the lats, the wide muscles of your back, with the biceps and forearms helping. Intermediate back exercise using cable. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,15 +15,10 @@ The cable one arm pulldown is a unilateral exercise that targets the latissimus 
 
 ## How to perform
 
-1. Attach a single handle to a high pulley cable machine.
-2. Stand facing the machine with your feet shoulder-width apart.
-3. Grasp the handle with an overhand grip and extend your arm fully.
-4. Keep your back straight and your core engaged.
-5. Pull the handle down towards your side while keeping your elbow close to your body.
-6. Pause for a moment at the bottom of the movement, squeezing your lat muscle.
-7. Slowly release the handle back to the starting position.
-8. Repeat for the desired number of repetitions.
-9. Switch sides and repeat the exercise with the other arm.
+1. Attach a single handle to a high cable pulley and stand facing the machine, feet shoulder-width apart.
+2. Grab the handle with one hand, palm facing away from you, arm fully straight.
+3. Keep your back straight and pull the handle down toward your side, keeping your elbow close to your body.
+4. Let the handle rise slowly until your arm is straight again. Do all your reps on one side, then switch.
 
 ## Pro tips
 

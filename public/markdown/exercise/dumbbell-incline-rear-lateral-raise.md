@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline rear lateral raise targets the rear deltoids with secondary emphasis on the traps and rhomboids. It is performed on an incline bench to isolate the rear shoulder muscles. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
+A rear raise done chest-down on an incline bench, lifting the dumbbells out to the sides. It works the back of the shoulders, with help from the upper back. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell incline rear lateral raise targets the rear deltoids with secondary
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Sit on the bench with your chest against the backrest and hold a dumbbell in each hand.
-3. Extend your arms straight down with your palms facing each other.
-4. Keeping a slight bend in your elbows, raise your arms out to the sides until they are parallel to the ground.
-5. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Lean your chest against the pad with your feet on the floor behind it.
+2. Hold a dumbbell in each hand, arms hanging straight down, palms facing each other.
+3. Raise your arms out to the sides, elbows slightly bent, until they're level with the floor.
+4. Lower them slowly back down.
 
 ## Pro tips
 

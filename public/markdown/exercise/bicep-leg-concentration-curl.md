@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bicep leg concentration curl is an isolation exercise targeting the bicep, performed while seated and using the leg for support. It emphasizes strict form and muscle contraction. Beginner arms exercise using body weight. Targets biceps, also works forearms.
+A seated curl that uses your own leg as the weight, with one hand hooked under the opposite knee. It works the biceps and forearms. Beginner arms exercise using body weight. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The bicep leg concentration curl is an isolation exercise targeting the bicep, p
 
 ## How to perform
 
-1. Sit on a bench with your legs spread apart and your feet flat on the ground.
-2. Hold a dumbbell in one hand and place your elbow on the inside of your thigh, just above the knee.
-3. With your palm facing up, curl the dumbbell towards your shoulder while keeping your upper arm stationary.
-4. Squeeze your biceps at the top of the movement, then slowly lower the dumbbell back to the starting position.
-5. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on a low stool with your feet flat on the floor and your knees wide apart.
+2. Reach your right hand down and hook it under your left knee, palm facing up.
+3. Curl your right hand up, lifting your left knee toward your chest. Let the leg hang loose so your arm does the work.
+4. Lower the leg slowly until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

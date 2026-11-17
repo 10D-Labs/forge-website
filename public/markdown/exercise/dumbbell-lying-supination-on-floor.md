@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying supination on floor is an isolation exercise targeting the forearms, with secondary engagement of the bicep and shoulders. It involves lying on your back and performing a supination curl motion with dumbbells. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
+A forearm twist done lying on your side, turning your thumb from down to up to swing a one-ended dumbbell up. It works the forearms. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,11 @@ The dumbbell lying supination on floor is an isolation exercise targeting the fo
 
 ## How to perform
 
-1. Lie flat on your back on the floor with your legs extended and your arms by your sides, holding a dumbbell in each hand.
-2. Rotate your palms to face up, keeping your elbows close to your sides.
-3. Slowly curl the dumbbells towards your shoulders, squeezing your forearms.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your side, propped on your bottom arm, hand flat on the floor. Hold a dumbbell loaded on one end in your top hand.
+2. Rest your top upper arm along your side and bend that elbow so your forearm points out in front of your stomach.
+3. Start with your thumb pointing at the floor, palm facing toward your feet, and the weighted end hanging toward the floor.
+4. Turn your forearm to swing the weighted end up until it points at the ceiling and your thumb points up.
+5. Turn slowly back to the start. Do all your reps on one side, then switch.
 
 ## Pro tips
 

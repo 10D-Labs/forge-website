@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated lateral raise is an isolation exercise targeting the deltoid muscles of the shoulders. It is performed while seated, which helps minimize momentum and focuses the effort on the shoulder muscles. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, upper back.
+A side raise done sitting on a bench, which cuts down on swinging. It works the sides of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell seated lateral raise is an isolation exercise targeting the deltoid
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and a dumbbell in each hand, resting on your thighs.
-2. Keep your back straight and core engaged.
-3. Raise the dumbbells to your sides with a slight bend in your elbows, until your arms are parallel to the ground.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the end of a bench with your feet flat on the floor and a dumbbell in each hand, resting on your thighs.
+2. Keep your back straight and raise the dumbbells out to your sides, elbows slightly bent, until your arms are level with the floor.
+3. Lower them slowly back down.
 
 ## Pro tips
 

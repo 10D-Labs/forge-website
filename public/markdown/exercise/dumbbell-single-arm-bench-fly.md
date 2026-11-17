@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm bench fly is a unilateral chest exercise that targets the pectoral muscles and also engages the shoulders. It requires balance and control to stabilize the weight with one arm while lying on a bench. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
+A flat-bench chest fly done one arm at a time, lowering the dumbbell out to the side in a wide arc. It works the chest and the front of the shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,13 +15,11 @@ The dumbbell one arm bench fly is a unilateral chest exercise that targets the p
 
 ## How to perform
 
-1. Sit on a flat bench with a dumbbell in one hand, resting it on top of your thigh.
-2. Lie back on the bench, keeping the dumbbell pressed against your thigh.
-3. Using your free hand, help lift the dumbbell up to the starting position.
-4. Hold the dumbbell directly above your shoulder with your arm extended and palm facing inward.
-5. Lower the dumbbell out to the side in a wide arc, keeping a slight bend in your elbow.
-6. Pause when your arm is parallel to the ground, then reverse the movement and bring the dumbbell back to the starting position.
-7. Repeat for the desired number of repetitions, then switch arms and repeat.
+1. Sit on a flat bench with a dumbbell in one hand, resting on your thigh. Lie back, keeping it pressed against your thigh.
+2. Use your free hand to help lift the dumbbell up over your shoulder, arm straight and palm facing the middle of your body.
+3. Lower the dumbbell out to the side in a wide arc, elbow slightly bent, until your arm is level with the floor.
+4. Bring it back up along the same arc until it's over your shoulder.
+5. Do all your reps on one side, then switch.
 
 ## Pro tips
 

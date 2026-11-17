@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pelvic tilt into bridge is a bodyweight exercise that targets the glutes, while also engaging the hamstrings and core. It involves tilting the pelvis and lifting the hips off the ground to form a bridge, then lowering back down. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, core.
+A bridge that starts by tilting your pelvis, then lifts your hips off the floor while you lie on your back. It works the glutes, plus the hamstrings and abs. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, core.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,13 +15,9 @@ The pelvic tilt into bridge is a bodyweight exercise that targets the glutes, wh
 
 ## How to perform
 
-1. Lie on your back with your knees bent and feet flat on the ground.
-2. Place your arms by your sides with your palms facing down.
-3. Engage your glutes and core muscles.
-4. Tilt your pelvis upward, lifting your hips off the ground.
-5. Hold the bridge position for a few seconds.
-6. Slowly lower your hips back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent, feet flat on the floor and arms at your sides, palms facing down.
+2. Tighten your glutes and abs, then tilt your pelvis up and lift your hips off the floor into a bridge.
+3. Hold for a few seconds, then lower your hips slowly back to the floor.
 
 ## Pro tips
 

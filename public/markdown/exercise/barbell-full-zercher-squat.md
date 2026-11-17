@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell full Zercher squat is a compound lower body exercise where the barbell is held in the crooks of the elbows. It targets the glutes and also works the quadriceps, hamstrings, calves, and core. This squat variation requires significant core strength and stability due to the bar position. Advanced legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A deep squat with the barbell held in the bends of your elbows instead of on your back. It works the glutes and quads, and your abs work hard to keep you upright. Advanced legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,13 +15,11 @@ The barbell full Zercher squat is a compound lower body exercise where the barbe
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and toes slightly turned out.
-2. Hold the barbell in the crooks of your elbows, with your hands gripping the barbell for stability.
-3. Engage your core and keep your chest lifted as you lower your hips back and down into a squat position.
-4. Keep your knees in line with your toes and your weight in your heels.
-5. Lower until your thighs are parallel to the ground, or as low as you can comfortably go.
-6. Drive through your heels to stand back up, squeezing your glutes at the top of the movement.
-7. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, toes turned out slightly.
+2. Hold a barbell in the bends of your elbows, with your hands gripping the bar to keep it steady.
+3. Keep your chest up and sit your hips back and down, keeping your knees in line with your toes.
+4. Lower until your thighs are level with the floor, or deeper if you can do it comfortably.
+5. Drive through your heels to stand back up.
 
 ## Pro tips
 

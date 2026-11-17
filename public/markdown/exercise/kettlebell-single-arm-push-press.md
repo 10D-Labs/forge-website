@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell one arm push press is a compound exercise that targets the deltoids while also engaging the tricep and core. It involves pressing a kettlebell overhead with one arm, using a slight leg drive to assist the movement. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
+A one-arm kettlebell overhead press that starts with a small knee dip, so your legs help drive the weight up. It works the shoulders, with help from the triceps and abs. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,11 +15,10 @@ The kettlebell one arm push press is a compound exercise that targets the deltoi
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand at shoulder level.
-2. Bend your knees slightly and engage your core.
-3. Press the kettlebell overhead by extending your arm and fully extending your legs.
-4. Lower the kettlebell back to the starting position by bending your knees and bringing the kettlebell back to your shoulder.
-5. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand at shoulder height.
+2. Bend your knees slightly and tighten your abs.
+3. Straighten your legs hard and use that push to press the kettlebell up until your arm is straight overhead.
+4. Lower the kettlebell back to your shoulder, bending your knees slightly as it comes down. Do all your reps on one side, then switch.
 
 ## Pro tips
 

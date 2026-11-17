@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm seated neutral wrist curl is an isolation exercise targeting the forearm muscles, particularly the wrist flexors. It is performed seated, with the forearm resting on the thigh and the wrist curling a dumbbell upward. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
+A seated wrist exercise with your forearm on your thigh, tilting a dumbbell up and down with your thumb on top. It works the forearms. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell one arm seated neutral wrist curl is an isolation exercise targetin
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand, palm facing up.
-2. Rest your forearm on your thigh, allowing your wrist to hang off the edge.
-3. Keeping your forearm stationary, curl your wrist upward as far as possible.
-4. Pause for a moment at the top, then slowly lower your wrist back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch to the other hand.
+1. Sit on the end of a flat bench, feet flat, and lean forward. Rest one forearm along your thigh with your hand just past your knee.
+2. Hold a dumbbell in that hand, palm facing in and thumb on top, with the dumbbell tipped forward and down.
+3. Keeping your forearm on your thigh, lift the top of the dumbbell up with your wrist until it stands upright.
+4. Lower it slowly back to the tipped position. Do all your reps on one side, then switch.
 
 ## Pro tips
 

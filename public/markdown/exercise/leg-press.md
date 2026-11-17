@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The leg press is a compound lower body exercise performed on a leg press machine. It primarily targets the glutes, with secondary emphasis on the quads, hamstrings, and adductors. This exercise is excellent for building lower body strength and muscle mass while providing back support. Beginner legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A machine press done sitting back, pushing a weighted footplate up and away from you on a 45-degree slant. It works the glutes, plus the quads, hamstrings and inner thighs. Beginner legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The leg press is a compound lower body exercise performed on a leg press machine
 
 ## How to perform
 
-1. Adjust the seat and footplate of the leg press machine to a comfortable position.
-2. Sit on the leg press machine with your back against the backrest and your feet shoulder-width apart on the footplate.
-3. Grip the handles on the sides of the seat for stability.
-4. Push the footplate away from your body by extending your legs, keeping your heels on the footplate.
-5. Continue pushing until your legs are almost fully extended, but without locking your knees.
-6. Pause for a moment at the top of the movement, then slowly lower the footplate back towards your body by bending your knees.
-7. Repeat for the desired number of repetitions.
+1. Adjust the seat and footplate of the 45-degree leg press to fit you.
+2. Sit with your back against the backrest and your feet shoulder-width apart on the footplate. Hold the handles at your sides.
+3. Push the footplate away by straightening your legs, keeping your heels on the plate. Stop just before your knees lock.
+4. Bend your knees to lower the footplate slowly back toward you.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band shrug is an exercise targeting the trapezius muscles using a resistance band. It is performed by standing on the band, holding the ends, and shrugging the shoulders upward to engage the traps. Beginner back exercise using resistance band. Targets traps, also works shoulders.
+A shrug against a resistance band under your feet, lifting your shoulders toward your ears. It works the traps, the muscles along the top of your shoulders. Beginner back exercise using resistance band. Targets traps, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band shrug is an exercise targeting the trapezius muscles using a resistance
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place the band under your feet, holding the ends with your hands.
-2. Keep your arms straight and relaxed, and let the band hang in front of your thighs.
-3. Engage your traps by shrugging your shoulders upward, lifting the band as high as possible.
-4. Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand on the middle of a resistance band with your feet shoulder-width apart, holding an end in each hand.
+2. Let your arms hang straight and relaxed at your sides.
+3. Shrug your shoulders straight up toward your ears as high as you can.
+4. Lower your shoulders slowly.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The farmer's walk is a functional strength exercise where you walk while holding a dumbbell in each hand, engaging the quads, calves, forearms, and core. It improves grip strength, core stability, and overall conditioning. Beginner legs exercise using dumbbell. Targets quads, also works calves, forearms, core.
+A carry where you walk holding a dumbbell in each hand at your sides. It works the quads, calves, forearms and grip, and your abs work to keep you upright. Beginner legs exercise using dumbbell. Targets quads, also works calves, forearms, core.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The farmer's walk is a functional strength exercise where you walk while holding
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing your sides.
+1. Stand tall with a dumbbell in each hand at your sides, palms facing in.
 2. Keep your back straight and your shoulders back.
-3. Take small, controlled steps forward, maintaining an upright posture.
-4. Continue walking until you reach your target distance.
-5. To finish, stop walking and carefully lower the dumbbells to your sides.
+3. Walk forward with small, controlled steps, staying upright.
+4. Keep going for the set distance.
 
 ## Pro tips
 

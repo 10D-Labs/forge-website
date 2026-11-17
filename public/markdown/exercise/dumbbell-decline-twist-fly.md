@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell decline twist fly is a chest exercise performed on a decline bench, targeting the pectoral muscles while also engaging the shoulders and tricep. The movement involves lowering dumbbells in a wide arc with a twisting motion, increasing the stretch and contraction of the chest. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
+A decline chest fly that turns the wrists as the dumbbells open out and come back. It works the lower chest, with help from the shoulders and triceps. Intermediate chest exercise using dumbbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,12 +15,11 @@ The dumbbell decline twist fly is a chest exercise performed on a decline bench,
 
 ## How to perform
 
-1. Lie down on a decline bench with your head lower than your hips.
-2. Hold a dumbbell in each hand with your palms facing each other and your arms extended straight up over your chest.
+1. Lie on a decline bench with your head lower than your hips.
+2. Hold a dumbbell in each hand with your arms straight up over your chest, palms facing your feet.
 3. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.
-4. As you lower the dumbbells, twist your wrists so that your palms face forward at the bottom of the movement.
-5. Reverse the motion and bring the dumbbells back up to the starting position, squeezing your chest muscles at the top.
-6. Repeat for the desired number of repetitions.
+4. Turn your wrists as you lower them, so your palms face up at the bottom.
+5. Reverse the motion, turning your palms back toward your feet as the dumbbells come up over your chest.
 
 ## Pro tips
 

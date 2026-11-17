@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline T-raise is an isolation exercise targeting the deltoids, performed on an incline bench to emphasize shoulder and upper back muscles. It requires good form and control to avoid swinging and to properly engage the target muscles. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
+A raise done lying face down on an incline bench, lifting straight arms out to the sides in a T shape. It works the backs of the shoulders and the upper back. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, rhomboids.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell incline T-raise is an isolation exercise targeting the deltoids, pe
 
 ## How to perform
 
-1. Set an incline bench to a 45 degree angle and sit on it with a dumbbell in each hand, palms facing inwards.
-2. Lean forward and let your arms hang straight down, perpendicular to the floor.
-3. Keeping your arms straight, raise them out to the sides until they are parallel to the floor, forming a 'T' shape with your body.
-4. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Lie face down on it with a dumbbell in each hand, palms facing each other.
+2. Let your arms hang straight down toward the floor.
+3. Raise your arms out to the sides, keeping them straight, until they're level with the floor and make a T with your body.
+4. Lower your arms slowly until they hang straight down again.
 
 ## Pro tips
 

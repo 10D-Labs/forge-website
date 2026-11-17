@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The crunch floor is a classic abdominal exercise performed lying on your back, focusing on strengthening the abs with minimal equipment. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A basic crunch done lying on your back with your knees bent, lifting your shoulders off the floor. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The crunch floor is a classic abdominal exercise performed lying on your back, f
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engage your abs and lift your shoulders off the ground, curling forward towards your knees.
-4. Pause for a moment at the top, then slowly lower your shoulders back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent and your feet flat on the floor.
+2. Put your hands behind your head with your elbows pointing out to the sides.
+3. Tighten your abs and lift your shoulders off the floor, curling forward toward your knees.
+4. Lower your shoulders slowly back to the floor.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The standing single leg curl is a bodyweight exercise targeting the hamstrings and glutes. It involves balancing on one leg while curling the opposite heel toward the glutes, emphasizing hamstring activation and single leg stability. Beginner legs exercise using body weight. Targets hamstrings, also works glutes.
+A standing bodyweight curl: balance on one leg and bend the other knee to bring your heel toward your glutes. It works the hamstrings and glutes and tests your balance. Beginner legs exercise using body weight. Targets hamstrings, also works glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -16,10 +16,10 @@ The standing single leg curl is a bodyweight exercise targeting the hamstrings a
 ## How to perform
 
 1. Stand with your feet hip-width apart and your hands on your hips.
-2. Shift your weight onto your left leg and lift your right foot off the ground, bending your knee.
-3. Slowly curl your right heel towards your glutes, squeezing your hamstring.
-4. Pause for a moment at the top, then slowly lower your right foot back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch legs.
+2. Shift your weight onto your left leg and lift your right foot off the floor, bending your knee.
+3. Curl your right heel slowly up toward your glutes.
+4. Lower your right foot slowly back down.
+5. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

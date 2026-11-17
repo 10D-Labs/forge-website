@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing back wrist curl is an isolation exercise targeting the forearms, specifically the wrist extensors. It involves curling the barbell upwards using only the wrists while standing. Beginner arms exercise using barbell. Targets forearms, also works biceps, shoulders.
+A wrist curl done standing with the barbell held behind your thighs, palms facing back. It works the forearms. Beginner arms exercise using barbell. Targets forearms, also works biceps, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell standing back wrist curl is an isolation exercise targeting the fore
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold a barbell with an overhand grip.
-2. Rest the barbell on the back of your hands with your palms facing down and your fingers pointing towards your body.
-3. Keeping your upper arms stationary, exhale and curl your wrists upwards as far as possible.
-4. Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall holding a barbell behind your thighs, hands shoulder-width apart, palms facing behind you.
+2. Let your arms hang straight and keep them still.
+3. Curl your wrists to lift the bar up and back, away from your legs.
+4. Lower the bar slowly back to the start.
 
 ## Pro tips
 

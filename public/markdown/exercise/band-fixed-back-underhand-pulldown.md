@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band fixed back underhand pulldown is a resistance band exercise targeting the latissimus dorsi (lats) and also working the bicep, rhomboids, and rear deltoids. It mimics the motion of a traditional lat pulldown but uses a resistance band anchored above the head. Beginner back exercise using resistance band. Targets lats, also works biceps, rhomboids, rear deltoids.
+A seated pulldown with a band anchored overhead, pulling with your palms facing you. It works the lats, with help from the biceps, upper back and rear shoulders. Beginner back exercise using resistance band. Targets lats, also works biceps, rhomboids, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,15 +15,10 @@ The band fixed back underhand pulldown is a resistance band exercise targeting t
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point above your head.
-2. Stand facing the anchor point with your feet shoulder-width apart.
-3. Grasp the band with an underhand grip, hands slightly wider than shoulder-width apart.
-4. Step back to create tension in the band, keeping your arms fully extended.
-5. Engage your core and squeeze your shoulder blades together.
-6. Pull the band down towards your chest, leading with your elbows.
-7. Pause for a moment at the bottom of the movement, feeling the contraction in your lats.
-8. Slowly release the tension in the band and return to the starting position.
-9. Repeat for the desired number of repetitions.
+1. Anchor a band with two handles high above you and sit on a box beneath it, feet flat on the floor.
+2. Reach up and hold a handle in each hand, palms facing you, arms straight.
+3. Pull the handles down in front of you, driving your elbows down to your sides, until your hands reach your chest.
+4. Let your arms rise slowly until they are straight overhead.
 
 ## Pro tips
 

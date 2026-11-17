@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable twist is an exercise targeting the abdominal muscles, particularly the obliques, using a cable machine. It involves twisting the torso against resistance, which helps build core strength and stability. Intermediate core exercise using cable. Targets abs, also works obliques.
+A standing twist against a chest-height cable, turning your torso with your arms held out in front. It works the abs, especially the obliques at your sides. Intermediate core exercise using cable. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable twist is an exercise targeting the abdominal muscles, particularly the
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, facing the cable machine.
-2. Hold the cable handle with both hands in front of your chest, keeping your arms slightly bent.
-3. Engage your core and twist your torso to the right, pulling the cable across your body.
-4. Pause for a moment at the end of the movement, feeling the contraction in your abs and obliques.
-5. Slowly return to the starting position, resisting the cable's pull.
-6. Repeat the movement to the left side.
-7. Continue alternating sides for the desired number of repetitions.
+1. Set a pulley at chest height and stand side-on to the machine, feet shoulder-width apart.
+2. Hold the handle with both hands, arms almost straight and pointing toward the machine at chest height.
+3. Twist your torso away from the machine, pulling the handle across your body.
+4. Turn slowly back toward the machine. Do all your reps on one side, then switch.
 
 ## Pro tips
 

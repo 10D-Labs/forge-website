@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The preacher curl is a strength training exercise performed on a machine, primarily targeting the bicep with secondary activation of the forearms. It involves curling the handles upward while keeping the upper arms supported on a pad, which isolates the bicep and minimizes cheating. Beginner arms exercise using machine. Targets biceps, also works forearms.
+A machine curl with your upper arms resting on a pad, which stops you from swinging. It works the biceps, with help from the forearms. Beginner arms exercise using machine. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The preacher curl is a strength training exercise performed on a machine, primar
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine.
-2. Place your upper arms on the pad and grip the handles with an underhand grip.
-3. Keep your back straight and your elbows positioned on the pad.
-4. Exhale and curl your forearms towards your upper arms, contracting your biceps.
-5. Pause for a moment at the top of the movement, squeezing your biceps.
-6. Inhale and slowly lower the handles back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Adjust the seat height and sit in the machine with your upper arms resting on the pad.
+2. Grip the handles with your palms facing up.
+3. Keep your back straight and your elbows on the pad as you curl the handles up toward your shoulders.
+4. Lower the handles slowly back down.
 
 ## Pro tips
 

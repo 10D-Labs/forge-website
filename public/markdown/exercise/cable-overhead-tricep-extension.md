@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable overhead tricep extension is an isolation exercise that targets the tricep using a cable machine. It requires the user to extend the arms overhead while keeping the elbows close to the head, focusing on tricep activation. Intermediate arms exercise using cable. Targets triceps, also works shoulders.
+A triceps extension with a rope from a high pulley, done standing with your back to the machine and leaning forward. It works the triceps. Intermediate arms exercise using cable. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable overhead tricep extension is an isolation exercise that targets the tr
 
 ## How to perform
 
-1. Attach a rope to a high pulley and stand facing away from the machine.
-2. Grasp the rope with both hands and extend your arms overhead.
-3. Keep your elbows close to your head and your upper arms stationary.
-4. Slowly lower the rope behind your head by bending your elbows.
-5. Pause for a moment, then extend your arms back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a rope to a high pulley. Stand facing away from the machine and lean forward.
+2. Hold the rope with both hands and straighten your arms overhead.
+3. Keep your upper arms still and your elbows close to your head, and bend your elbows to lower the rope behind your head.
+4. Straighten your arms to bring the rope back overhead.
 
 ## Pro tips
 

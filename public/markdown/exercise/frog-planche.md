@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The frog planche is an advanced bodyweight exercise that targets the abs while also engaging the shoulders, chest, and tricep. It requires significant core strength, balance, and upper body control. Advanced core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
+A balance on your hands with your knees resting on your bent elbows and your feet off the floor. It works the abs, with the shoulders, chest and triceps holding you up. Advanced core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -16,10 +16,10 @@ The frog planche is an advanced bodyweight exercise that targets the abs while a
 ## How to perform
 
 1. Start in a pushup position with your hands shoulder-width apart and your feet together.
-2. Bend your elbows and lower your body towards the ground, keeping your back straight.
-3. As you lower your body, lift your feet off the ground and bring your knees towards your chest.
-4. Hold this position for a few seconds, then extend your legs back out and push yourself back up to the starting position.
-5. Repeat for the desired number of repetitions.
+2. Bend your elbows and lower your body toward the floor, keeping your back straight.
+3. Lift your feet off the floor as you lower, and bring your knees in to rest on your elbows, head low.
+4. Hold for the set time, keeping your back straight.
+5. Put your feet down, extend your legs back out and push back up to the pushup position.
 
 ## Pro tips
 

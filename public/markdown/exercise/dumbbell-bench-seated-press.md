@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell bench seated press is a strength exercise targeting the deltoid muscles of the shoulders, with secondary emphasis on the tricep and chest. It is performed seated on a bench, pressing dumbbells overhead in a controlled manner. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
+An overhead dumbbell press done sitting upright on a flat bench with no back support. It works the front of the shoulders and the triceps. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell bench seated press is a strength exercise targeting the deltoid mus
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in each hand, resting on your thighs.
-2. Lean back and position the dumbbells to the sides of your chest, palms facing forward.
-3. Press the dumbbells upward until your arms are fully extended.
-4. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit upright on a flat bench with your feet flat on the floor.
+2. Hold a dumbbell in each hand at shoulder height, palms facing forward, elbows out to the sides.
+3. Press the dumbbells straight up until your arms are straight over your head. Keep your back upright.
+4. Lower them slowly back to shoulder height.
 
 ## Pro tips
 

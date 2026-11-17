@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The backward jump is a plyometric exercise that targets the quadriceps while also engaging the hamstrings, glutes, and calves. It involves jumping backward from a standing position, requiring coordination, balance, and explosive power. Intermediate legs exercise using body weight. Targets quads, also works hamstrings, glutes, calves.
+A jump backward off both feet, landing softly in a squat. It works the quads, with the hamstrings, glutes and calves helping, and trains balance and coordination. Intermediate legs exercise using body weight. Targets quads, also works hamstrings, glutes, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -16,9 +16,9 @@ The backward jump is a plyometric exercise that targets the quadriceps while als
 ## How to perform
 
 1. Stand with your feet shoulder-width apart.
-2. Bend your knees slightly and jump backwards, pushing off with both feet.
-3. Land softly on the balls of your feet, bending your knees to absorb the impact.
-4. Repeat for the desired number of repetitions.
+2. Bend your knees and lower into a squat.
+3. Push off both feet and jump backward.
+4. Land softly on the balls of your feet, bending your knees into a squat to soak up the landing.
 
 ## Pro tips
 

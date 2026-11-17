@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The front lever is a challenging bodyweight exercise that targets the abs and requires significant strength and control from the lats, shoulders, and forearms. It involves holding your body parallel to the ground while hanging from a pullup bar. Advanced core exercise using body weight. Targets abs, also works lats, shoulders, forearms.
+An advanced hold where you hang from a bar with straight arms and keep your whole body level with the floor, face up. It works the abs, plus the lats, shoulders and forearms. Advanced core exercise using body weight. Targets abs, also works lats, shoulders, forearms.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,11 @@ The front lever is a challenging bodyweight exercise that targets the abs and re
 
 ## How to perform
 
-1. Start by hanging from a pullup bar with an overhand grip, hands shoulder-width apart.
-2. Engage your core and pull your shoulder blades down and back.
-3. Bend your knees and tuck them towards your chest.
-4. Simultaneously, lift your legs up and extend them straight out in front of you, keeping your body parallel to the ground.
-5. Hold this position for as long as you can, aiming for a full front lever position.
-6. To release, slowly lower your legs back down and return to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your hands shoulder-width apart, palms facing away from you.
+2. Tighten your abs and pull your shoulders down and back, away from your ears.
+3. Tuck your knees to your chest, then straighten your legs out until your whole body is level with the floor, face up.
+4. Hold for the set time, keeping your body in a straight line.
+5. Lower your legs slowly back down to a hang.
 
 ## Pro tips
 

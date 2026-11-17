@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hyperextension is a bodyweight exercise that targets the spinal erectors and lower back, with secondary emphasis on the glutes and hamstrings. It is performed on a hyperextension bench and involves lowering and raising the upper body while keeping the back straight. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
+A back extension on a 45-degree bench: lower your upper body toward the floor, then raise it until it lines up with your legs. It works the lower back, plus the glutes and hamstrings. Beginner back exercise using body weight. Targets lower back, also works glutes, hamstrings.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The hyperextension is a bodyweight exercise that targets the spinal erectors and
 
 ## How to perform
 
-1. Adjust the hyperextension bench so that your upper thighs are resting on the pad and your feet are secured.
-2. Cross your arms over your chest or place your hands behind your head.
-3. Lower your upper body towards the ground while keeping your back straight.
-4. Pause for a moment at the bottom, then raise your upper body back up until it is in line with your legs.
-5. Repeat for the desired number of repetitions.
+1. Adjust a 45-degree hyperextension bench so your upper thighs rest on the pad, and hook your feet in place.
+2. Cross your arms over your chest or put your hands behind your head.
+3. Lower your upper body toward the floor, keeping your back straight.
+4. Raise it back up until your body is in a straight line with your legs.
 
 ## Pro tips
 

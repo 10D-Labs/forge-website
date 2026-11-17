@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated kickback is an isolation exercise targeting the tricep, performed while seated with dumbbells. It requires maintaining a stable posture and proper form to effectively engage the tricep. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+A triceps kickback done sitting on the end of a bench, leaning forward and straightening both arms back behind you. It works the triceps. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,11 @@ The dumbbell seated kickback is an isolation exercise targeting the tricep, perf
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand.
-2. Bend your knees slightly and lean forward from your hips, keeping your back straight.
-3. Bring your upper arms close to your sides and keep your elbows bent at a 90 degree angle.
-4. Extend your arms straight back, squeezing your triceps at the top of the movement.
-5. Pause for a moment, then slowly lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit on the end of a bench with your feet flat on the floor, knees slightly bent, and a dumbbell in each hand.
+2. Lean forward from your hips, keeping your back straight.
+3. Hold your upper arms close to your sides with your elbows bent at a right angle.
+4. Straighten both arms back behind you, keeping your upper arms still.
+5. Bend your elbows slowly back to a right angle.
 
 ## Pro tips
 

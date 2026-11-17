@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying wide curl is an isolation exercise targeting the bicep, performed while lying flat on a bench with dumbbells. It emphasizes the outer portion of the bicep and also engages the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A curl done lying on a flat bench with your arms held out wide to the sides. It works the biceps and forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell lying wide curl is an isolation exercise targeting the bicep, perfo
 
 ## How to perform
 
-1. Lie flat on a bench with a dumbbell in each hand, palms facing up and arms fully extended.
-2. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-3. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly begin to lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench with a dumbbell in each hand, palms facing up.
+2. Hold your arms straight out wide to your sides, about level with the bench.
+3. Keeping your upper arms still and out wide, curl the dumbbells up toward your shoulders.
+4. Lower them slowly until your arms are straight.
 
 ## Pro tips
 

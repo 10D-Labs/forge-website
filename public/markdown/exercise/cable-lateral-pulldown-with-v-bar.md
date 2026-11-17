@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable lateral pulldown with V bar is a strength exercise targeting the latissimus dorsi (lats) using a cable machine and V bar attachment. It also engages the bicep and forearms as secondary muscles. Beginner back exercise using cable. Targets lats, also works biceps, forearms.
+A pulldown with a V-shaped handle that keeps your palms facing each other, done sitting on a bench at a high pulley. It works the lats, with help from the biceps and forearms. Beginner back exercise using cable. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The cable lateral pulldown with V bar is a strength exercise targeting the latis
 
 ## How to perform
 
-1. Sit down on the cable pulldown machine and grab the V bar attachment with an overhand grip.
-2. Adjust the knee pad so that your thighs are secured under it.
-3. Keep your back straight and lean back slightly.
-4. Pull the V bar down towards your upper chest while keeping your elbows close to your body.
-5. Squeeze your back muscles at the bottom of the movement.
-6. Slowly return the V bar to the starting position and repeat for the desired number of repetitions.
+1. Attach a V-bar to a high pulley and sit on a bench facing the machine.
+2. Reach up and hold the V-bar with both hands, palms facing each other.
+3. Lean back slightly, keeping your back straight.
+4. Pull the bar down to your upper chest, keeping your elbows close to your body.
+5. Let the bar rise slowly until your arms are straight.
 
 ## Pro tips
 

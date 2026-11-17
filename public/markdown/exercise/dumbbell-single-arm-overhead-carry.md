@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell single arm overhead carry is a functional exercise that targets the deltoids while also engaging the traps and core. It challenges shoulder stability, core strength, and coordination as you walk while holding a dumbbell overhead. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, core.
+A walk with one dumbbell held straight overhead. It works the shoulders, while your upper back and abs keep you steady. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works traps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -16,10 +16,9 @@ The dumbbell single arm overhead carry is a functional exercise that targets the
 ## How to perform
 
 1. Stand tall with your feet shoulder-width apart, holding a dumbbell in one hand.
-2. Raise the dumbbell overhead, fully extending your arm.
-3. Engage your core and keep your back straight as you walk forward, maintaining the dumbbell overhead.
-4. Continue walking for the desired distance or time.
-5. Switch hands and repeat the exercise.
+2. Press the dumbbell straight up until your arm is straight overhead.
+3. Walk forward with the dumbbell held overhead, keeping your back straight.
+4. Keep walking for the set time, then switch hands.
 
 ## Pro tips
 

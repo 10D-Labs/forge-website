@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell two arm military press is a shoulder exercise that involves pressing two kettlebells overhead from shoulder level, targeting the deltoids and engaging the tricep and upper back. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, upper back.
+A standing overhead press with a kettlebell in each hand, pressed from your shoulders until your arms are straight. It works the front of the shoulders, plus the triceps and upper back. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,10 +15,9 @@ The kettlebell two arm military press is a shoulder exercise that involves press
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder level with your palms facing forward.
-2. Engage your core and press the kettlebells overhead, fully extending your arms.
-3. Pause for a moment at the top, then slowly lower the kettlebells back to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder level, palms facing forward.
+2. Press both kettlebells overhead until your arms are straight.
+3. Lower them slowly back to your shoulders.
 
 ## Pro tips
 

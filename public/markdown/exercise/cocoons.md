@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Cocoons are a bodyweight abdominal exercise that targets the abs, with secondary emphasis on the hip flexors and lower back. The movement involves curling the upper body off the ground to a 45 degree angle, engaging the core throughout. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A full-body crunch that goes from lying stretched out to curled in a ball, hugging your knees. It works the abs and the front of the hips. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Cocoons are a bodyweight abdominal exercise that targets the abs, with secondary
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back on the floor with your legs straight and your arms stretched out on the floor past your head.
+2. Lift your shoulders and legs off the floor at the same time, pulling your knees in toward your chest.
+3. Wrap your arms around your shins so you finish balanced on your butt, curled up in a ball.
+4. Uncurl slowly and stretch back out flat.
 
 ## Pro tips
 

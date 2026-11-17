@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band bent over kickback is an exercise targeting the glutes, performed by extending one leg back against resistance from a band while maintaining a bent over position. It also engages the hamstrings and lower back. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, lower back.
+A kickback done leaning on a wall, pushing one straight leg back against a band anchored low in front of you. It works the glutes, with help from the hamstrings and lower back. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,13 +15,10 @@ The band bent over kickback is an exercise targeting the glutes, performed by ex
 
 ## How to perform
 
-1. Attach the band to a sturdy anchor point at ankle height.
-2. Stand facing away from the anchor point with your feet shoulder-width apart.
-3. Step back to create tension in the band, keeping your knees slightly bent.
-4. Hinge at the hips and lean forward, maintaining a neutral spine.
-5. Extend your right leg straight back, squeezing your glutes at the top.
-6. Lower your right leg back down and repeat with the left leg.
-7. Continue alternating legs for the desired number of repetitions.
+1. Loop a band around one ankle and anchor the other end low, near the floor, in front of you.
+2. Face a wall, lean forward and press both hands flat on it with your arms straight. Stand on the other leg.
+3. Keeping the banded leg straight, push it back and up until it's almost level with the floor.
+4. Bring it slowly forward and down to just in front of your standing foot. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

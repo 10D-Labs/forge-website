@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band close grip pushup is a variation of the traditional pushup that uses a resistance band to increase tension and target the tricep more effectively. The close hand placement emphasizes the tricep, while the band adds extra resistance throughout the movement. Intermediate arms exercise using resistance band. Targets triceps, also works chest, shoulders.
+A pushup with your hands under your shoulders and a band across your upper back, pinned under each hand for extra resistance. It works the triceps, with the chest and shoulders helping. Intermediate arms exercise using resistance band. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band close grip pushup is a variation of the traditional pushup that uses a 
 
 ## How to perform
 
-1. Place a band around your upper arms, just above the elbows.
-2. Assume a pushup position with your hands directly under your shoulders and your body in a straight line from head to heels.
-3. Bend your elbows and lower your chest towards the ground, keeping your elbows close to your sides.
-4. Push through your palms to extend your arms and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lay a band across your upper back and hold one end flat on the floor under each hand.
+2. Get into a pushup position with your hands under your shoulders, palms flat, and your body straight from head to heels.
+3. Bend your elbows to lower your chest almost to the floor, keeping your elbows close to your sides.
+4. Push back up until your arms are straight.
 
 ## Pro tips
 

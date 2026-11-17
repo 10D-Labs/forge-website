@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The semi squat jump is a plyometric exercise that targets the cardiovascular system while also engaging the quadriceps, hamstrings, and calves. It involves performing a partial squat followed by an explosive jump, making it effective for improving cardiovascular fitness, lower body power, and coordination. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves.
+A jump from a shallow squat, landing back in the squat and going again right away. It raises your heart rate and works the quads, hamstrings and calves. Intermediate cardio exercise using body weight. Targets cardiovascular, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -16,10 +16,9 @@ The semi squat jump is a plyometric exercise that targets the cardiovascular sys
 ## How to perform
 
 1. Stand with your feet shoulder-width apart.
-2. Bend your knees and lower your body into a squat position.
-3. Jump explosively, extending your hips and knees while swinging your arms for momentum.
-4. Land softly on the balls of your feet and immediately go into the next repetition.
-5. Repeat for the desired number of repetitions.
+2. Bend your knees and lower into a shallow squat.
+3. Jump up hard, straightening your hips and knees and swinging your arms to help.
+4. Land softly on the balls of your feet, sinking back into the squat, and go straight into the next jump.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band push situp is an abdominal exercise that incorporates resistance from a band to increase the challenge on the core muscles. It also engages the shoulders and chest as stabilizers during the movement. Intermediate core exercise using resistance band. Targets abs, also works shoulders, chest.
+A full situp against a band anchored behind you, pushing your arms forward as you rise. It works the abs, while the shoulders and chest steady your arms. Intermediate core exercise using resistance band. Targets abs, also works shoulders, chest.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band push situp is an abdominal exercise that incorporates resistance from a
 
 ## How to perform
 
-1. Attach the band securely to a stable anchor point.
-2. Lie flat on your back with your knees bent and feet flat on the ground.
-3. Hold the band with both hands and extend your arms straight up towards the ceiling.
-4. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-5. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Anchor the band behind your head. Lie on your back with your legs straight.
+2. Hold the band with both hands, arms straight up above your chest.
+3. Tighten your abs and sit all the way up, pushing your hands forward until your arms point straight ahead.
+4. Lower yourself slowly until your back is on the floor and your arms point up again.
 
 ## Pro tips
 

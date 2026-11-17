@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-A bodyweight squat exercise primarily targeting the quadriceps, with secondary activation of the hamstrings and glutes. This movement is fundamental for lower body strength and can be performed without equipment. Beginner legs exercise using body weight. Targets quads, also works hamstrings, glutes.
+A squat with no weight, swinging your arms forward as you sit back to help you balance. It works the glutes and quads. Beginner legs exercise using body weight. Targets glutes, also works quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
-- **Target Muscle:** Quads
-- **Secondary Muscles:** Hamstrings, Glutes
+- **Target Muscle:** Glutes
+- **Secondary Muscles:** Quadriceps
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,52 +15,50 @@ A bodyweight squat exercise primarily targeting the quadriceps, with secondary a
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Lower your body by bending your knees and pushing your hips back as if sitting on a chair.
-3. Keep your chest up and your back straight.
-4. Lower yourself until your thighs are parallel to the ground.
-5. Push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand tall with your feet hip-width apart and your arms straight out to your sides at shoulder height, palms facing down.
+2. Push your hips back and bend your knees, swinging your arms forward until they point straight ahead.
+3. Lower until your thighs are about halfway to level with the floor, keeping your heels down.
+4. Push through your feet to stand up, opening your arms back out to your sides.
 
 ## Pro tips
 
-- Screw your feet into the ground by externally rotating your hips, which activates your glutes and stabilizes your knees.
-- Break at the hips and knees simultaneously rather than leading with one or the other.
-- Hold your arms out in front for counterbalance if you tend to fall backward at the bottom.
+- Stand with your feet about shoulder width apart and swing your arms forward as you sit back and down.
+- Keep your weight on your whole foot and your chest up.
+- Push your knees out in line with your toes as you lower and as you stand up.
 
 ## Common mistakes
 
-- Letting the knees cave inward (valgus collapse) during the descent, especially at the bottom.
-- Rising onto the toes because of limited ankle mobility, which shifts the center of gravity forward.
-- Cutting depth short of parallel because of tight hips or ankles rather than addressing the mobility limitation.
+- Letting the knees cave inward on the way down.
+- Rising onto the toes instead of keeping the heels planted.
+- Rounding the lower back at the bottom.
 
 ## FAQ
 
-### How deep should I squat?
+### Why swing the arms forward?
 
-At minimum to parallel (thighs parallel to the floor). If your mobility allows, going deeper (ass to grass) increases glute and hamstring activation.
+Reaching your arms forward balances you as your hips go back, which makes it easier to squat deep with your chest up.
 
-### Are Bodyweight Squats effective for building muscle?
+### Why can't I get deep into a squat?
 
-For beginners, absolutely. Once you can do 20+ reps easily, you'll need to add weight, slow the tempo, or progress to harder variations to keep building muscle.
+Stiff ankles, tight hips or weak glutes are the usual reasons. Practice the bottom position daily and work on ankle mobility.
 
-### Why do my heels come off the ground when I squat?
+### Is squatting deep bad for your knees?
 
-Limited ankle dorsiflexion. Work on ankle mobility stretches, or temporarily elevate your heels on small plates while you improve flexibility.
+No, deep squats are safe for healthy knees. If you have existing knee problems, check with a professional.
 
 ### What muscles does the Bodyweight Squat work?
 
-The Bodyweight Squat primarily targets the quads, with secondary activation in the hamstrings, glutes. It's classified as a strength exercise for the legs.
+The Bodyweight Squat primarily targets the glutes, with secondary activation in the quadriceps. It's classified as a strength exercise for the legs.
 
 ### Is the Bodyweight Squat good for beginners?
 
-Yes, the Bodyweight Squat is rated as a beginner-level exercise. It's a great starting point for building quads strength.
+Yes, the Bodyweight Squat is rated as a beginner-level exercise. It's a great starting point for building glutes strength.
 
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
 - [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
-- [More Quads Exercises](https://forgetrainer.ai/exercises/muscle/quads)
+- [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
 
 ---
 

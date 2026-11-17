@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable kneeling crunch is an abdominal exercise performed using a cable machine with a rope attachment. It targets the abs and also engages the obliques. The movement involves kneeling, holding the rope behind the head, and crunching the torso down towards the thighs. Intermediate core exercise using cable. Targets abs, also works obliques.
+A crunch done kneeling at a cable machine, pulling a rope down as you curl your chest toward your thighs. It works the abs, with help from the obliques. Intermediate core exercise using cable. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable kneeling crunch is an abdominal exercise performed using a cable machi
 
 ## How to perform
 
-1. Attach a rope handle to a high pulley and kneel down facing away from the machine.
-2. Hold the rope handle with both hands and place it behind your head, keeping your elbows out to the sides.
-3. Keeping your hips stationary, flex your waist and crunch your torso down towards your thighs.
-4. Pause for a moment at the bottom, then slowly return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Attach a rope to a high pulley and kneel facing the machine.
+2. Hold the rope with both hands and pull it down so your hands sit beside your head.
+3. Keeping your hips still, round your back and crunch your chest down toward your thighs.
+4. Rise slowly back to the start.
 
 ## Pro tips
 

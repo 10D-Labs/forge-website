@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell seated overhead tricep extension is an exercise that targets the tricep by extending the arms overhead while seated, using a barbell for resistance. It also engages the shoulders as secondary muscles. Intermediate arms exercise using barbell. Targets triceps, also works shoulders.
+A seated triceps exercise, lowering a barbell behind your head and straightening your elbows to lift it back up. It works the triceps, with some help from the shoulders. Intermediate arms exercise using barbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell seated overhead tricep extension is an exercise that targets the tri
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a barbell with an overhand grip, hands shoulder-width apart, and raise it overhead.
-3. Lower the barbell behind your head by bending your elbows, keeping your upper arms close to your head.
-4. Pause for a moment, then extend your arms to raise the barbell back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on a bench with your back straight and your feet flat on the floor.
+2. Hold a barbell with your palms facing forward, hands shoulder-width apart, and raise it overhead.
+3. Bend your elbows to lower the bar behind your head, keeping your upper arms close to your head.
+4. Straighten your arms to raise the bar back overhead.
 
 ## Pro tips
 

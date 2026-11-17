@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell upright row is a strength exercise targeting the deltoids, with secondary emphasis on the traps and bicep. It involves lifting dumbbells from thigh level to chin height, leading with the elbows. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, biceps.
+An upright row with two dumbbells, lifted from your thighs to your chin with your elbows leading. It works the sides of the shoulders, with help from the traps and biceps. Beginner shoulders exercise using dumbbell. Targets shoulders, also works traps, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell upright row is a strength exercise targeting the deltoids, with sec
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.
-2. Let the dumbbells hang in front of your thighs, with your arms fully extended.
-3. Keeping your back straight and your core engaged, exhale and lift the dumbbells straight up towards your chin, leading with your elbows.
-4. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand in front of your thighs, palms facing your thighs and arms straight.
+2. Keep your back straight and lift the dumbbells up toward your chin, leading with your elbows and keeping them high.
+3. Lower them slowly until your arms are straight.
 
 ## Pro tips
 

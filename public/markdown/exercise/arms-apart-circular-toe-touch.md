@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The arms apart circular toe touch is a bodyweight exercise that targets the glutes, hamstrings, quadriceps, and calves. It involves bending forward at the waist to touch your toes with one hand while lifting the opposite leg behind you, alternating sides to challenge balance and flexibility. Intermediate legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps, calves.
+A standing move that sweeps straight arms down to your toes and back up overhead in a wide arc. It works the glutes and stretches the hamstrings. Intermediate legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The arms apart circular toe touch is a bodyweight exercise that targets the glut
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and arms extended to the sides.
-2. Keeping your legs straight, bend forward at the waist and reach down towards your toes with your right hand.
-3. As you reach down, simultaneously lift your left leg straight up behind you, maintaining balance.
-4. Return to the starting position and repeat the movement with your left hand reaching towards your toes and your right leg lifting up behind you.
-5. Continue alternating sides for the desired number of repetitions.
+1. Stand tall with your feet hip-width apart and your arms straight overhead, hands shoulder-width apart, palms facing forward.
+2. Keep your arms straight and bend forward at the hips, sweeping your hands down toward your toes.
+3. Rise back up, reaching your straight arms out in front of you in a wide arc until they're overhead again.
+4. At the top, lean back a little with your arms overhead, then fold forward again for the next rep.
 
 ## Pro tips
 

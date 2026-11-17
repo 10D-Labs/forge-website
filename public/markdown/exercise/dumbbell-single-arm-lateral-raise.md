@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm lateral raise is an isolation exercise targeting the deltoid muscles, particularly the lateral (side) head. It also engages the trapezius and tricep as secondary muscles. This exercise helps build shoulder strength and definition, and is commonly used in strength training routines. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, triceps.
+A lateral raise done one arm at a time, lifting a dumbbell out to the side until your arm is level with the floor. It works the sides of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, triceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell one arm lateral raise is an isolation exercise targeting the deltoi
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body.
-2. Keep your back straight and your core engaged throughout the exercise.
-3. Raise the dumbbell to the side, keeping your arm straight and your palm facing down.
-4. Continue lifting until your arm is parallel to the ground.
-5. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-6. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Stand tall with your feet shoulder-width apart and a dumbbell in one hand at your side, palm facing your body.
+2. Raise the dumbbell out to the side with your arm straight until your arm is level with the floor, palm facing down.
+3. Lower it slowly back to your side.
+4. Do all your reps on one side, then switch.
 
 ## Pro tips
 

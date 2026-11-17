@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The curtsey squat is a lower body exercise that targets the glutes and also works the quadriceps, hamstrings, and calves. It involves stepping one leg diagonally behind and across the body, bending both knees to lower into a squat, and then returning to the starting position. This movement challenges balance and coordination in addition to strength. Beginner legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat where one leg steps back and across behind the other, like a curtsy. It works the glutes, with help from the quads and hamstrings. Beginner legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The curtsey squat is a lower body exercise that targets the glutes and also work
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart.
-2. Take a step diagonally behind and across your body with your right foot, crossing it behind your left leg.
-3. Bend both knees as if you were curtsying, lowering your body towards the ground.
-4. Keep your torso upright and your weight on your front foot.
-5. Push through your front foot to return to the starting position.
-6. Repeat on the other side, stepping diagonally behind and across your body with your left foot.
+1. Stand with your feet shoulder-width apart and your hands clasped together.
+2. Step your right foot back and across, behind your left leg.
+3. Bend both knees to lower your body, as if curtsying. Keep your torso upright and your weight on your front foot.
+4. Push through your front foot to return to the start, then step your left foot back behind your right leg.
 
 ## Pro tips
 

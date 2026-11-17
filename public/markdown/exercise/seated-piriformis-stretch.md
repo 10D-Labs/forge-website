@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated piriformis stretch targets the glutes and helps improve flexibility and relieve tension in the piriformis muscle. It is performed seated on the ground, crossing one leg over the other and gently twisting the torso to stretch the gluteal region. Beginner legs exercise using body weight. Targets glutes, also works hamstrings.
+A seated stretch with one ankle crossed over the other knee as you lean your chest forward. It stretches the glutes and outer hip of the crossed leg. Beginner legs exercise using body weight. Targets glutes, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,10 +15,10 @@ The seated piriformis stretch targets the glutes and helps improve flexibility a
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you.
-2. Bend your right knee and place your right foot on the outside of your left knee.
-3. Place your left elbow on the outside of your right knee and gently twist your torso to the right.
-4. Hold the stretch for 20-30 seconds, then switch sides and repeat.
+1. Sit on a stool with your feet flat. Cross one ankle over the other knee.
+2. Rest one hand on the crossed ankle and the other hand on your other knee.
+3. Lean your chest forward over your crossed leg until you feel a stretch in the hip of that leg.
+4. Hold for the set time, then sit back up slowly and switch sides.
 
 ## Pro tips
 

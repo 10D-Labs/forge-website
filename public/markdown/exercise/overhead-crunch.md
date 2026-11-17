@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-A crunch variation where the hands are extended overhead, increasing the challenge to the abdominal muscles and requiring greater core engagement. Intermediate core exercise using body weight. Targets abs, also works hip flexors.
+A crunch done with your arms stretched overhead, which makes it harder than a plain crunch. It works the abs. Intermediate core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ A crunch variation where the hands are extended overhead, increasing the challen
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Extend your arms straight above your head.
-3. Engaging your abs, lift your upper body off the ground, curling forward towards your knees.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent and your feet flat on the floor.
+2. Stretch your arms straight above your head.
+3. Tighten your abs and curl your upper body off the floor toward your knees, keeping your arms overhead.
+4. Lower your upper body slowly back to the floor.
 
 ## Pro tips
 

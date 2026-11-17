@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell stepup is a lower body exercise that targets the glutes, quadriceps, and hamstrings, while also engaging the calves. It involves stepping onto a raised platform while holding dumbbells, which increases resistance and challenges balance and coordination. Intermediate legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A step-up onto a bench or step while holding a dumbbell in each hand. It works the glutes, with help from the quads, hamstrings and calves. Intermediate legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,12 +15,11 @@ The dumbbell stepup is a lower body exercise that targets the glutes, quadriceps
 
 ## How to perform
 
-1. Stand in front of a bench or step with a dumbbell in each hand, palms facing your body.
-2. Place your right foot on the bench or step, ensuring your entire foot is in contact with the surface.
-3. Push through your right heel and lift your body up onto the bench or step, straightening your right leg.
-4. Bring your left foot up onto the bench or step, standing fully upright.
-5. Step back down with your left foot, followed by your right foot, returning to the starting position.
-6. Repeat for the desired number of repetitions, then switch legs.
+1. Stand facing a bench or step with a dumbbell in each hand, palms facing your body.
+2. Place your whole right foot on the bench or step.
+3. Push through your right heel to lift yourself up, straightening your right leg.
+4. Bring your left foot up so you stand tall on top.
+5. Step down with your left foot, then your right. Do all your reps leading with your right leg, then switch legs.
 
 ## Pro tips
 

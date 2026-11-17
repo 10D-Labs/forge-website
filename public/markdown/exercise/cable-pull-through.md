@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable pull through is a hip hinge exercise that targets the glutes, with secondary emphasis on the hamstrings and lower back. It is performed using a cable machine and a rope attachment, focusing on hip extension and posterior chain activation. Intermediate legs exercise using cable. Targets glutes, also works hamstrings, lower back.
+A cable exercise where you bend forward from the hips with a rope between your legs, then stand back up tall. It works the glutes, plus the hamstrings and lower back. Intermediate legs exercise using cable. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable pull through is a hip hinge exercise that targets the glutes, with sec
 
 ## How to perform
 
-1. Stand facing away from the cable machine with your feet shoulder-width apart.
-2. Grab the rope attachment with both hands and step forward, creating tension in the cable.
-3. Bend at the hips and lower your upper body until it is parallel to the ground, keeping your back straight.
-4. Engage your glutes and hamstrings to pull your body back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand facing away from a low pulley with a rope attachment, feet shoulder-width apart. Reach between your legs and hold the rope with both hands.
+2. Step forward until the cable is tight.
+3. Push your hips back and lower your upper body until it's level with the floor, keeping your back straight.
+4. Squeeze your glutes and hamstrings to pull yourself back up to standing.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing close grip curl is a strength exercise that targets the bicep and also works the forearms. It involves curling a barbell with a close grip, emphasizing the inner part of the bicep. Beginner arms exercise using barbell. Targets biceps, also works forearms.
+A standing barbell curl with your hands close together and palms facing forward. It works the biceps, with the forearms helping. Beginner arms exercise using barbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell standing close grip curl is a strength exercise that targets the bic
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, hands close together.
-2. Keep your elbows close to your torso and your upper arms stationary throughout the movement.
-3. Exhale as you curl the weights while contracting your biceps. Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale as you slowly begin to bring the barbell back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand tall with your feet shoulder-width apart, holding a barbell with your palms facing forward and your hands close together.
+2. Keep your elbows close to your sides and your upper arms still.
+3. Curl the bar up to your shoulders.
+4. Lower it slowly until your arms are straight.
 
 ## Pro tips
 

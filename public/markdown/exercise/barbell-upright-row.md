@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell upright row is a compound exercise that targets the deltoids and also works the traps and bicep. It involves lifting a barbell from the thighs to the upper chest, leading with the elbows. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, biceps.
+A standing lift, pulling a barbell straight up the front of your body to your chin, elbows leading. It works the sides of the shoulders, plus the traps and biceps. Intermediate shoulders exercise using barbell. Targets shoulders, also works traps, biceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,11 +15,9 @@ The barbell upright row is a compound exercise that targets the deltoids and als
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-2. Let the barbell hang in front of your thighs, arms fully extended.
-3. Keeping your back straight and core engaged, exhale and lift the barbell straight up towards your chin, leading with your elbows.
-4. Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart. Let a barbell hang in front of your thighs, palms facing you, hands slightly wider than your shoulders.
+2. Lift the bar straight up toward your chin, leading with your elbows. Keep your back straight.
+3. Lower the bar slowly back to your thighs.
 
 ## Pro tips
 

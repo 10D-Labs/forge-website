@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pullover is a machine-based exercise targeting the latissimus dorsi (lats) and also engaging the tricep and shoulders. It is performed by sitting on a machine, grasping the handles, and pulling them towards the chest in a controlled motion. Beginner back exercise using machine. Targets lats, also works triceps, shoulders.
+A seated machine pullover: you sweep your arms from overhead down to your belly. It works the lats, with help from the triceps and shoulders. Beginner back exercise using machine. Targets lats, also works triceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The pullover is a machine-based exercise targeting the latissimus dorsi (lats) a
 
 ## How to perform
 
-1. Adjust the seat and handles of the machine to a comfortable position.
-2. Sit on the machine with your back against the pad and grasp the handles with an overhand grip.
-3. Keep your arms slightly bent and your core engaged.
-4. Slowly pull the handles towards your chest, squeezing your lats.
-5. Pause for a moment at the peak contraction, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set the seat and handles to fit you. Sit with your back against the pad.
+2. Reach up and grip the handles above your head, palms facing forward, arms slightly bent.
+3. Pull the handles forward and down in a wide arc until they reach your belly.
+4. Let the handles rise slowly back above your head.
 
 ## Pro tips
 

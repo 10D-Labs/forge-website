@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell thruster is a compound exercise that combines a front squat with an overhead press, targeting the shoulders and engaging multiple muscle groups for strength and power. Intermediate shoulders exercise using barbell. Targets shoulders, also works quadriceps, glutes, hamstrings, core.
+A front squat that flows straight into an overhead press with a barbell. It works the front of the shoulders, with the legs helping drive the bar up. Intermediate shoulders exercise using barbell. Targets shoulders, also works quadriceps, glutes, hamstrings, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell thruster is a compound exercise that combines a front squat with an 
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart, holding a barbell at shoulder height with an overhand grip.
-2. Lower into a squat position by bending your knees and pushing your hips back.
-3. As you reach the bottom of the squat, explosively drive through your heels to stand up, simultaneously pressing the barbell overhead.
-4. Lower the barbell back to shoulder height as you lower back into the squat position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a barbell at shoulder height with your palms facing forward.
+2. Bend your knees and push your hips back to lower into a squat.
+3. Drive through your heels to stand up fast, pressing the bar overhead as you rise.
+4. Lower the bar back to your shoulders as you sink into the next squat.
 
 ## Pro tips
 

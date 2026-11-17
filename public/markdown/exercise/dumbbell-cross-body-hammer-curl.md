@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell cross body hammer curl is an isolation exercise targeting the bicep and forearms, performed by curling dumbbells across the body toward the opposite shoulder. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A hammer curl, thumbs up, that brings each dumbbell across your body toward the opposite shoulder. It works the biceps and forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,9 @@ The dumbbell cross body hammer curl is an isolation exercise targeting the bicep
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing your body.
-2. Keep your elbows close to your torso and your upper arms stationary.
-3. Exhale and curl the weights while contracting your biceps, bringing the dumbbells across your body towards your opposite shoulder.
-4. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly begin to lower the dumbbells back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Stand tall with a dumbbell in each hand, arms at your sides, palms facing your thighs.
+2. Keeping your elbows close to your sides, curl one dumbbell up and across your body toward the opposite shoulder, thumb up.
+3. Lower it slowly until your arm is straight, then curl the other arm. Keep alternating sides.
 
 ## Pro tips
 

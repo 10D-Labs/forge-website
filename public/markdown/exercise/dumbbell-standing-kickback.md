@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing kickback is an isolation exercise targeting the tricep, performed by hinging at the hips and extending the arms backward with dumbbells. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+A triceps kickback done standing and bent forward at the hips, straightening both arms back behind you. It works the triceps. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell standing kickback is an isolation exercise targeting the tricep, pe
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Extend your arms straight back, squeezing your triceps at the top of the movement.
-4. Pause for a moment, then slowly lower the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a dumbbell in each hand. Bend your knees slightly and lean forward from your hips, back straight.
+2. Hold your upper arms close to your sides with your elbows bent.
+3. Straighten both arms back behind you, keeping your upper arms still.
+4. Bend your elbows slowly to lower the dumbbells back down.
 
 ## Pro tips
 

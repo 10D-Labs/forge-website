@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The medicine ball catch and overhead throw is a dynamic exercise targeting the lats, shoulders, and core. It involves catching and explosively throwing a medicine ball overhead, combining elements of strength and power. Intermediate back exercise using medicine ball. Targets lats, also works shoulders, core.
+A power move: you swing a medicine ball from between your legs to behind your head, then throw it overhead. It works the lats, shoulders and core. Intermediate back exercise using medicine ball. Targets lats, also works shoulders, core.
 
 - **Body Part:** Back
 - **Equipment:** Medicine Ball
@@ -15,12 +15,11 @@ The medicine ball catch and overhead throw is a dynamic exercise targeting the l
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a medicine ball in both hands at chest level.
-2. Bend your knees slightly and engage your core.
-3. Lower your body into a squat position, keeping your back straight and chest up.
-4. Explosively extend your hips and legs, while simultaneously throwing the medicine ball overhead.
-5. Release the ball at the top of the movement and catch it on the way down.
-6. Lower your body back into the squat position and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a medicine ball in both hands.
+2. Bend your knees slightly and hinge forward at your hips, back straight, so the ball hangs low between your legs.
+3. Drive your hips forward to stand up, swinging the ball up to chest height with straight arms.
+4. Keep it moving overhead and bend your elbows to bring the ball behind your head, then throw it straight up.
+5. Catch it on the way down and swing it back between your legs into the hinge.
 
 ## Pro tips
 

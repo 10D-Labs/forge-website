@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-This exercise involves standing with feet shoulder-width apart, bending forward at the waist, clasping hands behind the legs, and performing a circular motion with the arms to touch the toes, targeting the glutes and stretching the lower body. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps, calves.
+A standing stretch with your hands clasped overhead: fold down to touch your toes, then circle your arms back up. It works the glutes and stretches the backs of the legs. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ This exercise involves standing with feet shoulder-width apart, bending forward 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your arms extended to the sides.
-2. Bend forward at the waist, keeping your back straight and your knees slightly bent.
-3. Reach down with your hands and clasp them together behind your legs.
-4. Slowly raise your hands up and over your head in a circular motion, keeping your legs straight.
-5. Continue the circular motion until your hands touch your toes.
-6. Reverse the motion and bring your hands back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Stand tall with your feet hip-width apart. Lace your fingers together, turn your palms up toward the ceiling, and straighten your arms overhead.
+2. Fold forward from your hips and reach your clasped hands down to your toes.
+3. Keep your hands clasped and sweep them around and up in a wide circle, reaching out in front of you as you rise.
+4. Come up to standing and lean back a little with your arms overhead, then fold forward again for the next rep.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar curl is a classic arm exercise that targets the bicep using an EZ curl bar. It is performed standing, with an underhand grip, and involves curling the bar up towards the shoulders while keeping the elbows close to the torso. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
+A standing curl with an EZ bar, the bar with bends in it, using a palms-up grip. It works the biceps. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,11 +15,9 @@ The EZ bar curl is a classic arm exercise that targets the bicep using an EZ cur
 
 ## How to perform
 
-1. Stand up straight with your feet shoulder-width apart and hold the ez barbell with an underhand grip, palms facing up.
-2. Keep your elbows close to your torso and your upper arms stationary throughout the movement.
-3. Exhale as you curl the barbell up towards your shoulders, contracting your biceps.
-4. Pause for a moment at the top, then inhale as you slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall with your feet shoulder-width apart, holding an EZ bar (the bar with bends in it) with your palms facing up.
+2. Curl the bar up toward your shoulders, keeping your elbows close to your sides and your upper arms still.
+3. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

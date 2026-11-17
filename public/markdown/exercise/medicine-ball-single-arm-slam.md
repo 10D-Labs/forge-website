@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one arm slam with a medicine ball is a dynamic exercise targeting the abs, shoulders, and back. It involves forcefully slamming a medicine ball to the ground with one arm, requiring core strength, power, and coordination. Intermediate core exercise using medicine ball. Targets abs, also works shoulders, back.
+A slam done with one arm: lift a medicine ball overhead, then throw it hard into the floor. It works the abs, with help from the shoulders and back. Intermediate core exercise using medicine ball. Targets abs, also works shoulders, back.
 
 - **Body Part:** Core
 - **Equipment:** Medicine Ball
@@ -15,11 +15,11 @@ The one arm slam with a medicine ball is a dynamic exercise targeting the abs, s
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding the medicine ball with one hand in front of your waist.
-2. Bend your knees slightly and engage your core.
-3. Raise the medicine ball above your head, fully extending your arm.
-4. Forcefully slam the medicine ball down to the ground, using your core and shoulders to generate power.
-5. Catch the medicine ball on the bounce and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a medicine ball in one hand in front of your waist.
+2. Bend your knees slightly and tighten your abs.
+3. Lift the ball above your head until your arm is straight.
+4. Slam the ball down onto the floor as hard as you can, driving with your abs and shoulder.
+5. Catch the ball on the bounce and lift it overhead again.
 
 ## Pro tips
 

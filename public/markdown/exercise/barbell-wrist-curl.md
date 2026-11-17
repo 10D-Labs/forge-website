@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell wrist curl is an isolation exercise targeting the forearm muscles, particularly the wrist flexors. It is performed seated, with the forearms resting on the thighs and the wrists curling a barbell upward. Beginner arms exercise using barbell. Targets forearms, also works biceps, brachialis.
+A barbell wrist curl with your forearms resting along a bench and palms facing up. It works the forearm muscles that bend your wrist. Beginner arms exercise using barbell. Targets forearms, also works biceps, brachialis.
 
 - **Body Part:** Arms
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell wrist curl is an isolation exercise targeting the forearm muscles, p
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and your forearms resting on your thighs, holding a barbell with an underhand grip.
-2. Allow the barbell to roll down to your fingertips, keeping your wrists straight.
-3. Slowly curl the barbell up towards your forearms by flexing your wrists.
-4. Pause for a moment at the top, then slowly lower the barbell back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Hold a barbell with your palms facing up and rest your forearms along a flat bench, wrists just past its end.
+2. Let the bar roll down toward your fingertips.
+3. Curl the bar back up by bending your wrists toward you as far as they go.
+4. Lower slowly back to the start.
 
 ## Pro tips
 

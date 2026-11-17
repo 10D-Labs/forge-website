@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated one leg calf raise is an isolation exercise targeting the calf muscles, performed while seated with a dumbbell placed on the working thigh. It helps build strength and muscle in the calves, with some engagement of the hamstrings and glutes for stabilization. Beginner legs exercise using dumbbell. Targets calves, also works hamstrings, glutes.
+A seated calf raise for one leg at a time, with a dumbbell on your thigh for extra weight. It works the calves. Beginner legs exercise using dumbbell. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell seated one leg calf raise is an isolation exercise targeting the ca
 
 ## How to perform
 
-1. Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your right thigh.
-2. Extend your left leg straight out in front of you, keeping your foot flexed.
-3. Place the ball of your right foot on an elevated surface, such as a step or weight plate.
-4. Using your calf muscles, raise your right heel as high as possible.
-5. Pause for a moment at the top, then slowly lower your heel back down to the starting position.
-6. Repeat for the desired number of repetitions, then switch legs.
+1. Sit on a bench with a step in front of you and put the ball of one foot on the edge of the step.
+2. Hold a dumbbell on top of that thigh, near your knee.
+3. Raise your heel as high as you can.
+4. Lower your heel slowly. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

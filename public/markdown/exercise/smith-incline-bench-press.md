@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith incline bench press is a chest exercise performed on a smith machine with the bench set at a 30-45 degree incline. It primarily targets the upper pectorals, with secondary emphasis on the shoulders and tricep. The smith machine provides stability, making it accessible for those with less experience, but still requires proper form and control. Beginner chest exercise using smith machine. Targets chest, also works shoulders, triceps.
+A Smith machine bench press on a bench set to a 30 to 45 degree incline. It works the upper chest, with help from the shoulders and triceps. Beginner chest exercise using smith machine. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Smith Machine
@@ -15,12 +15,11 @@ The smith incline bench press is a chest exercise performed on a smith machine w
 
 ## How to perform
 
-1. Adjust the bench to a 30-45 degree incline.
-2. Sit on the bench with your back flat against the pad and feet firmly on the ground.
-3. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.
-4. Unrack the barbell and lower it slowly towards your upper chest, keeping your elbows slightly tucked in.
-5. Pause for a moment at the bottom, then push the barbell back up to the starting position, fully extending your arms.
-6. Repeat for the desired number of repetitions.
+1. Set a bench under the Smith machine to a 30 to 45 degree incline.
+2. Sit with your back flat against the pad and your feet flat on the floor.
+3. Grip the bar with your palms facing toward your feet, hands slightly wider than shoulder-width.
+4. Unhook the bar and lower it slowly to your upper chest, keeping your elbows slightly tucked in.
+5. Press the bar back up until your arms are straight.
 
 ## Pro tips
 

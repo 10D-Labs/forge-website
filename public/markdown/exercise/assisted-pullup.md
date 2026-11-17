@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The assisted pullup is a machine-based exercise that helps users perform pullup with added support, making it easier to lift their body weight. It primarily targets the latissimus dorsi (lats) and also engages the bicep and forearms. Beginner back exercise using machine. Targets lats, also works biceps, forearms.
+A pullup on a machine that takes some of your body weight, so it's easier than a full pullup. It works the lats, plus the biceps and forearms. Beginner back exercise using machine. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,13 +15,11 @@ The assisted pullup is a machine-based exercise that helps users perform pullup 
 
 ## How to perform
 
-1. Adjust the machine to your desired weight and height settings.
-2. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-3. Hang with your arms fully extended and your feet off the ground.
-4. Engage your back muscles and pull your body up towards the handles, keeping your elbows close to your body.
-5. Continue pulling until your chin is above the handles.
-6. Pause for a moment at the top, then slowly lower your body back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set the weight and height on the assisted pullup machine.
+2. Grip the handles with your palms facing away from you, hands slightly wider than shoulder-width apart.
+3. Kneel on the pad so your feet are off the floor, and hang with your arms straight.
+4. Pull yourself up until your chin is above the handles, keeping your elbows close to your body.
+5. Lower yourself slowly until your arms are straight again.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The horizontal one leg press is a lower body strength exercise performed on a machine. It primarily targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. The exercise involves pressing a footplate away from the body using one leg at a time, which increases the demand for unilateral strength and stability. Intermediate legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A leg press done one leg at a time on a seated, horizontal machine. It works the glutes, with help from the quads, hamstrings and calves. Intermediate legs exercise using machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,12 +15,11 @@ The horizontal one leg press is a lower body strength exercise performed on a ma
 
 ## How to perform
 
-1. Adjust the seat of the machine so that your knees are at a 90 degree angle when your feet are on the footplate.
-2. Sit on the machine with your back against the backrest and your feet shoulder-width apart on the footplate.
-3. Place your hands on the handles or sides of the machine for stability.
-4. Push the footplate away from your body by extending your leg, keeping your back against the backrest.
-5. Pause for a moment at the fully extended position, then slowly bend your leg to return to the starting position.
-6. Repeat for the desired number of repetitions, then switch legs.
+1. Adjust the seat so your knee bends to about 90 degrees when your foot is on the footplate.
+2. Sit with your back against the backrest and hold the handles at your sides.
+3. Put one foot on the footplate and keep the other foot off it.
+4. Press through your foot to straighten your leg, keeping your back against the backrest.
+5. Bend your knee slowly to return to the start. Do all your reps with one leg, then switch.
 
 ## Pro tips
 

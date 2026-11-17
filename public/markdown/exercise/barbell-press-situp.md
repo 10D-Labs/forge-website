@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell press situp is an advanced abdominal exercise that combines a traditional situp with a barbell press, engaging the abs, shoulders, and chest. It requires significant core strength, coordination, and balance to safely press the barbell while performing the situp motion. Advanced core exercise using barbell. Targets abs, also works shoulders, chest.
+A situp on a decline bench where you press a barbell from your chest to straight overhead as you sit up. It works the abs, with the shoulders doing the press. Advanced core exercise using barbell. Targets abs, also works shoulders, chest.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell press situp is an advanced abdominal exercise that combines a tradit
 
 ## How to perform
 
-1. Lie flat on your back on a mat with your knees bent and feet flat on the ground.
-2. Hold the barbell with an overhand grip, resting it on your chest.
-3. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie back on a decline bench with your feet hooked under the pads at the high end.
+2. Hold a barbell on your chest, hands shoulder-width apart, palms facing your feet.
+3. Sit all the way up and press the bar overhead as you rise, until you're upright with your arms straight above your head.
+4. Lower slowly back down, bringing the bar back to your chest as you lie back.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith chair squat is a lower body exercise performed using a smith machine. It primarily targets the quadriceps, with secondary emphasis on the glutes, hamstrings, and calves. The guided bar path of the smith machine provides stability, making it suitable for those developing squat technique or seeking a safer alternative to free-weight squats. Beginner legs exercise using smith machine. Targets quads, also works glutes, hamstrings, calves.
+A squat on a Smith machine, with the bar across your upper back on fixed rails. It works the quads, with help from the glutes, hamstrings and calves. Beginner legs exercise using smith machine. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,13 +15,11 @@ The smith chair squat is a lower body exercise performed using a smith machine. 
 
 ## How to perform
 
-1. Adjust the height of the smith machine bar to a comfortable position.
-2. Stand with your feet shoulder-width apart, toes slightly turned out.
-3. Place the barbell across your upper back, resting it on your traps.
-4. Engage your core and keep your chest up as you slowly lower your body by bending your knees and hips.
-5. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.
-6. Pause for a moment, then push through your heels to return to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set the Smith machine bar at a comfortable height and step under it so it rests across your upper back.
+2. Stand with your feet shoulder-width apart, toes turned slightly out.
+3. Keep your chest up as you bend your knees and hips to lower yourself slowly.
+4. Go down until your thighs are level with the floor, or as low as you comfortably can.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

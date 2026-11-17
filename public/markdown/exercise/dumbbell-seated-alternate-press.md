@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated alternate press is a shoulder exercise performed while seated, pressing one dumbbell overhead at a time in an alternating fashion. This movement targets the deltoid muscles and also engages the tricep and chest as secondary muscles. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
+A seated overhead press, one dumbbell at a time. It works the front of the shoulders, with the triceps and chest helping. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, chest.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell seated alternate press is a shoulder exercise performed while seate
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in each hand, palms facing forward.
-2. Raise the dumbbells to shoulder height, with your elbows bent and palms facing forward.
-3. Press one dumbbell up overhead, fully extending your arm.
-4. Lower the dumbbell back down to shoulder height.
-5. Repeat with the other arm.
-6. Continue alternating arms for the desired number of repetitions.
+1. Sit on an upright bench with a dumbbell in each hand.
+2. Raise the dumbbells to shoulder height, elbows bent and palms facing forward.
+3. Press one dumbbell straight overhead until your arm is straight.
+4. Lower it back to your shoulder, then press the other one. Keep alternating sides.
 
 ## Pro tips
 

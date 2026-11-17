@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing alternate overhead press is a shoulder exercise that involves pressing dumbbells overhead one arm at a time while standing. This movement targets the deltoid muscles and also engages the tricep and core for stability. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, core.
+A standing dumbbell shoulder press done one arm at a time. It works the front of the shoulders, with the triceps and abs helping keep you steady. Beginner shoulders exercise using dumbbell. Targets shoulders, also works triceps, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,9 @@ The dumbbell standing alternate overhead press is a shoulder exercise that invol
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level with your palms facing forward.
-2. Press one dumbbell overhead, fully extending your arm.
-3. Lower the dumbbell back to shoulder level.
-4. Repeat with the other arm.
-5. Continue alternating arms for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level, palms facing forward.
+2. Press one dumbbell overhead until your arm is straight.
+3. Lower it back to shoulder level, then press the other arm. Keep alternating sides.
 
 ## Pro tips
 

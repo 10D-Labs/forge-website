@@ -2,22 +2,21 @@
 
 ## Quick Answer
 
-21 effective arm exercises you can do with barbell. Complete instructions and form tips included.
+20 effective arm exercises you can do with barbell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 10 Beginner | 11 Intermediate | 0 Advanced
+**Difficulty breakdown:** 9 Beginner | 11 Intermediate | 0 Advanced
 
 ---
 
 ## All Arm Barbell Exercises
 
-### Beginner (10 exercises)
+### Beginner (9 exercises)
 
 - **Barbell Curl** — Target: Biceps | Secondary: Forearms
 - **Barbell Preacher Curl** — Target: Biceps | Secondary: Forearms
 - **Barbell Reverse Curl** — Target: Biceps | Secondary: Forearms
 - **Barbell Reverse Wrist Curl** — Target: Forearms | Secondary: Biceps, Brachialis
 - **Barbell Standing Back Wrist Curl** — Target: Forearms | Secondary: Biceps, Shoulders
-- **Barbell Standing Reverse Grip Curl** — Target: Biceps | Secondary: Forearms
 - **Barbell Wrist Curl** — Target: Forearms | Secondary: Biceps, Brachialis
 - **Finger Curls** — Target: Forearms | Secondary: Wrist Flexors, Grip Muscles
 - **Barbell Standing Close Grip Curl** — Target: Biceps | Secondary: Forearms
@@ -43,7 +42,7 @@
 
 Our AI trainers design personalized arm workout plans using barbell. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

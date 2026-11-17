@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline Y-raise is an upper back exercise performed on an incline bench, targeting the upper back, shoulders, and rear deltoids. It involves raising the arms in a Y shape while lying face down on an incline bench, emphasizing scapular stability and shoulder health. Intermediate back exercise using dumbbell. Targets upper back, also works shoulders, rear deltoids.
+A raise done lying face down on an incline bench, lifting the dumbbells up past your head in a Y shape. It works the upper back and the backs of the shoulders. Intermediate back exercise using dumbbell. Targets upper back, also works shoulders, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell incline Y-raise is an upper back exercise performed on an incline b
 
 ## How to perform
 
-1. Set an incline bench to a 45 degree angle and sit on it with a dumbbell in each hand, palms facing inwards.
-2. Lean forward slightly and let your arms hang straight down, keeping a slight bend in your elbows.
-3. Raise your arms out to the sides and up in a Y shape until they are parallel to the ground.
-4. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees. Lie face down on it with a dumbbell in each hand, palms facing each other.
+2. Let your arms hang straight down, with a slight bend in your elbows.
+3. Raise your arms forward and up past your head in a Y shape, until they're in line with your body.
+4. Lower your arms slowly until they hang straight down again.
 
 ## Pro tips
 

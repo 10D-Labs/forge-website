@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The donkey calf raise is a bodyweight exercise that targets the calves. It involves standing with your toes on an elevated surface and raising your heels as high as possible to work the calf muscles. Beginner legs exercise using body weight. Targets calves, also works hamstrings, glutes.
+A calf raise done bent forward at the hips, hands on a bench and the balls of your feet on a step. It works the calves. Beginner legs exercise using body weight. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The donkey calf raise is a bodyweight exercise that targets the calves. It invol
 
 ## How to perform
 
-1. Stand with your toes on an elevated surface, such as a step or block.
-2. Place your hands on a stable support, such as a wall or railing, for balance.
-3. Raise your heels as high as possible, lifting your body weight onto the balls of your feet.
-4. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with the balls of your feet on a low step, heels off the edge. Hold the edge of a bench in front, palms facing down.
+2. Bend at the hips until your upper body is close to level with the floor, keeping your arms and legs straight.
+3. Raise your heels as high as you can.
+4. Lower your heels slowly until they dip below the step.
 
 ## Pro tips
 

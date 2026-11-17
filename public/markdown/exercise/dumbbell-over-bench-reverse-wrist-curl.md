@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell over bench reverse wrist curl is an isolation exercise targeting the forearms, specifically the wrist extensors. It is performed seated with the forearms resting on a bench and the wrists hanging off the edge, curling the dumbbells upward with the backs of the hands facing up. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
+A wrist curl with your palms facing down and forearms resting across a bench. It works the muscles on the top of the forearm. Beginner arms exercise using dumbbell. Targets forearms, also works biceps, brachialis.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell over bench reverse wrist curl is an isolation exercise targeting th
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand, palms facing down.
-2. Rest your forearms on the bench, allowing your wrists to hang off the edge.
-3. Slowly curl your wrists upward, bringing the dumbbells towards your body.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Kneel behind a flat bench with a dumbbell in each hand, palms facing down.
+2. Rest your forearms across the bench so your wrists hang off the far edge.
+3. Bend your wrists back to lift the dumbbells up toward you as far as they go.
+4. Lower slowly back to the start.
 
 ## Pro tips
 

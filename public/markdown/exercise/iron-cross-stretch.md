@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The iron cross stretch is a dynamic movement that targets the glutes and also stretches the hamstrings and quadriceps. It involves lying on your back, raising your legs, and rotating them side to side to touch the floor, promoting flexibility and mobility in the hips and lower back. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
+A lying twist where one bent leg crosses over your body while your arms stay out wide. It stretches the glutes, lower back and the sides of your waist. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The iron cross stretch is a dynamic movement that targets the glutes and also st
 
 ## How to perform
 
-1. Lie flat on your back with your arms extended out to the sides.
-2. Raise your legs up towards the ceiling, keeping them straight.
-3. Slowly lower your legs to one side, aiming to touch the floor with your feet.
-4. Hold the stretch for a few seconds, then return your legs to the starting position.
-5. Repeat the stretch on the other side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Lie on your back with your legs straight and your arms out to the sides at shoulder height, palms facing up.
+2. Bend one knee and bring it across your body toward the floor on the other side, letting your hips turn.
+3. Keep both shoulders on the floor and go until you feel a stretch in your hip and lower back.
+4. Bring the leg back and straighten it on the floor. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell front squat is a compound lower body exercise that targets the glutes, quadriceps, and hamstrings, while also engaging the core for stability. The barbell is held in front of the shoulders, requiring good mobility and core strength to maintain proper posture throughout the movement. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A squat with the barbell resting across the front of your shoulders instead of your back. It works the glutes, quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell front squat is a compound lower body exercise that targets the glute
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart, toes slightly turned out.
-2. Hold the barbell in front of your shoulders, resting it on your collarbone and shoulders.
-3. Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees.
-4. Lower until your thighs are parallel to the ground, or as low as you can comfortably go.
-5. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes turned slightly out.
+2. Hold the barbell across the front of your shoulders, against your collarbone, with your elbows raised in front so your upper arms are level with the floor.
+3. Push your hips back and bend your knees to squat down, keeping your chest up.
+4. Go down until your thighs are level with the floor, or as low as you comfortably can.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

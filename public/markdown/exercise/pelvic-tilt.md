@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pelvic tilt is a bodyweight exercise that targets the abdominal muscles and helps improve core stability and lower back health. It is often used in rehabilitation and as a foundational movement for beginners. Beginner core exercise using body weight. Targets abs, also works lower back.
+A small move done lying on your back, tilting your pelvis to press your lower back into the floor. It works the abs and is often used in rehab or as a first core exercise. Beginner core exercise using body weight. Targets abs, also works lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The pelvic tilt is a bodyweight exercise that targets the abdominal muscles and 
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands by your sides.
-3. Engage your abs and tilt your pelvis upward, pressing your lower back into the ground.
-4. Hold this position for a few seconds, focusing on contracting your abs.
-5. Release the tilt and return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent, your feet flat on the floor and your hands by your sides.
+2. Tighten your abs and tilt your pelvis up, pressing your lower back flat into the floor.
+3. Hold for a few seconds.
+4. Relax and let your pelvis tilt back down.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell one arm bent over row is a unilateral strength exercise targeting the upper back, requiring balance, coordination, and core stability. It is performed by bending at the hips, keeping the back straight, and rowing a barbell with one arm while maintaining a stable position. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
+A one-arm row where one end of the barbell stays on the floor and you row the loaded end up beside your body. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using barbell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell one arm bent over row is a unilateral strength exercise targeting th
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, knees slightly bent, and hold a barbell with one hand using an overhand grip.
-2. Bend forward at the hips, keeping your back straight and your head in a neutral position.
-3. Pull the barbell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.
-4. Lower the barbell back down to the starting position in a controlled manner.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Load one end of a barbell and leave the other end on the floor. Stand beside the bar, feet hip-width apart, with the loaded end just in front of you.
+2. Bend your knees slightly and lean forward from your hips with a flat back. Grab the bar just behind the plates with one hand, palm facing in toward your body.
+3. Pull the loaded end up toward your chest, driving your elbow up and back.
+4. Lower it slowly until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one arm lateral high row is a machine-based exercise targeting the upper back, with secondary emphasis on the bicep and shoulders. It involves pulling a handle toward the body with one arm, focusing on squeezing the back muscles at the top of the movement. Intermediate back exercise using machine. Targets upper back, also works biceps, shoulders.
+A one-arm row on a seated high row machine. It works the upper back, with help from the biceps and shoulders. Intermediate back exercise using machine. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The one arm lateral high row is a machine-based exercise targeting the upper bac
 
 ## How to perform
 
-1. Adjust the seat height and position yourself facing the machine.
-2. Grasp the handle with one hand and keep your back straight.
-3. Pull the handle towards your body, keeping your elbow close to your side.
-4. Squeeze your back muscles at the top of the movement.
-5. Slowly release the handle back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set the seat height on a high row machine and sit facing it.
+2. Hold one handle with one hand and keep your back straight.
+3. Pull the handle toward your body, keeping your elbow close to your side.
+4. Let the handle go back slowly until your arm is straight.
 
 ## Pro tips
 

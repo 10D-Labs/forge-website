@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell two arm clean is a dynamic movement that targets the deltoids while also engaging the traps and forearms. It requires coordination, explosive power, and proper technique to safely transition the kettlebell from the ground to the rack position. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works traps, forearms.
+A fast lift, driven by your hips, that brings two kettlebells from between your legs up to rest at your shoulders. It works the shoulders, with help from the upper back and forearms. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works traps, forearms.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,11 +15,11 @@ The kettlebell two arm clean is a dynamic movement that targets the deltoids whi
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in front of your thighs with both hands, palms facing towards you.
-2. Bend your knees slightly and hinge at the hips, lowering the kettlebell towards the ground.
-3. Explosively extend your hips and knees, using the momentum to pull the kettlebell up towards your shoulders.
-4. As the kettlebell reaches shoulder height, rotate your wrists and catch the kettlebell in the rack position, with your elbows tucked in and the kettlebell resting on the back of your forearm.
-5. Lower the kettlebell back down to the starting position and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand in front of your thighs, palms facing you.
+2. Bend your knees slightly and hinge at your hips, lowering the kettlebells between your legs toward the floor.
+3. Straighten your hips and knees hard, using that drive to pull the kettlebells up toward your shoulders.
+4. Turn your hands in as the bells reach your shoulders, catching them with elbows tucked and each bell resting on the back of your forearm.
+5. Lower the kettlebells back down between your legs.
 
 ## Pro tips
 

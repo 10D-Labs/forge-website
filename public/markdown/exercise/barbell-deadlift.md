@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell deadlift is a compound strength exercise that targets the glutes, hamstrings, and lower back. It involves lifting a loaded barbell from the ground to a standing position, emphasizing proper form and core engagement. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
+A barbell lift from the floor to standing, with your feet about shoulder-width apart. It works the glutes, hamstrings and lower back. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell deadlift is a compound strength exercise that targets the glutes, ha
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and the barbell on the ground in front of you.
-2. Bend your knees and hinge at the hips to lower your torso and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Keep your back straight and chest lifted as you drive through your heels to lift the barbell off the ground, extending your hips and knees.
-4. As you stand up straight, squeeze your glutes and keep your core engaged.
-5. Lower the barbell back down to the ground by bending at the hips and knees, keeping your back straight.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a barbell on the floor in front of you.
+2. Bend your knees and push your hips back to reach down. Grip the bar with your palms facing you, hands slightly wider than shoulder-width apart.
+3. Keep your back straight and your chest up as you push through your heels and stand up with the bar.
+4. Lower the bar back to the floor by bending your hips and knees.
 
 ## Pro tips
 

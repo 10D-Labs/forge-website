@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated bicep curl to shoulder press is a compound exercise that targets the bicep and shoulders. It combines a bicep curl with a shoulder press, making it effective for building upper arm and shoulder strength. Intermediate arms exercise using dumbbell. Targets biceps, also works shoulders.
+A seated dumbbell curl that flows into an overhead press. It works the biceps and the shoulders. Intermediate arms exercise using dumbbell. Targets biceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,11 @@ The dumbbell seated bicep curl to shoulder press is a compound exercise that tar
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a dumbbell in each hand with your palms facing forward and arms fully extended.
-3. Keeping your elbows close to your sides, curl the dumbbells up towards your shoulders.
-4. Once your forearms are vertical, rotate your wrists so that your palms are facing forward.
-5. Press the dumbbells overhead until your arms are fully extended.
-6. Lower the dumbbells back down to the starting position by reversing the movement.
-7. Repeat for the desired number of repetitions.
+1. Sit on a bench with your back straight and your feet flat on the floor.
+2. Hold a dumbbell in each hand with your arms straight down and your palms facing forward.
+3. Keep your elbows close to your sides and curl the dumbbells up to your shoulders.
+4. Turn your wrists so your palms face forward once your forearms are upright, then press the dumbbells overhead until your arms are straight.
+5. Reverse the movement: lower the dumbbells to your shoulders, turn your palms back toward you and lower your arms until they're straight.
 
 ## Pro tips
 

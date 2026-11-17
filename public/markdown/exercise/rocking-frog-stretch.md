@@ -2,11 +2,11 @@
 
 ## Quick answer
 
-The rocking frog stretch is a bodyweight exercise that targets the glutes and also stretches the hamstrings and quadriceps. It involves kneeling, leaning forward, and rocking the hips back to stretch the lower body muscles. Beginner legs exercise using body weight. Targets glutes, also works hamstrings, quadriceps.
+A kneeling stretch with your knees spread wide, rocking your hips back and forth while resting on your forearms. It stretches the inner thighs. Beginner legs exercise using body weight. Targets adductors, also works hamstrings, quadriceps.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
-- **Target Muscle:** Glutes
+- **Target Muscle:** Adductors
 - **Secondary Muscles:** Hamstrings, Quadriceps
 - **Difficulty:** Beginner
 - **Category:** Stretching
@@ -15,13 +15,10 @@ The rocking frog stretch is a bodyweight exercise that targets the glutes and al
 
 ## How to perform
 
-1. Start by kneeling on the ground with your knees hip-width apart.
-2. Place your hands on the ground in front of you for support.
-3. Slowly lean forward, shifting your weight onto your hands and extending your legs behind you.
-4. Keep your back straight and engage your glutes as you push your hips back and up towards the ceiling.
-5. Hold this position for a few seconds, feeling a stretch in your glutes.
-6. Slowly return to the starting position by bending your knees and lowering your hips back down.
-7. Repeat for the desired number of repetitions.
+1. Kneel on the floor with your knees spread wide and your lower legs on the floor behind you.
+2. Rest on your forearms with your elbows under your shoulders and your hips over your knees.
+3. Rock your hips back toward your heels until you feel a stretch in your inner thighs.
+4. Rock forward slowly until your hips are over your knees again.
 
 ## Pro tips
 
@@ -51,17 +48,17 @@ Rock gently for 30-60 seconds per set, or hold the deepest position for 20-30 se
 
 ### What muscles does the Rocking Frog Stretch work?
 
-The Rocking Frog Stretch primarily targets the glutes, with secondary activation in the hamstrings, quadriceps. It's classified as a stretching exercise for the legs.
+The Rocking Frog Stretch primarily targets the adductors, with secondary activation in the hamstrings, quadriceps. It's classified as a stretching exercise for the legs.
 
 ### Is the Rocking Frog Stretch good for beginners?
 
-Yes, the Rocking Frog Stretch is rated as a beginner-level exercise. It's a great starting point for building glutes strength.
+Yes, the Rocking Frog Stretch is rated as a beginner-level exercise. It's a great starting point for building adductors strength.
 
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
 - [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
-- [More Glutes Exercises](https://forgetrainer.ai/exercises/muscle/glutes)
+- [More Adductors Exercises](https://forgetrainer.ai/exercises/muscle/adductors)
 
 ---
 

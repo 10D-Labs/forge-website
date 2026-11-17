@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell standing calf raise is a strength exercise targeting the calves. It involves standing with a barbell across your upper back and raising your heels off the ground to work the calf muscles. Intermediate legs exercise using barbell. Targets calves, also works hamstrings, glutes.
+A standing calf raise with a barbell across your upper back and the balls of your feet on a weight plate. It works the calves. Intermediate legs exercise using barbell. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,10 +15,10 @@ The barbell standing calf raise is a strength exercise targeting the calves. It 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place a barbell across your upper back.
-2. Raise your heels off the ground as high as possible, using only your toes.
-3. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Rest a barbell across your upper back, holding it with both hands.
+2. Stand with your feet close together, the balls of your feet on a weight plate and your heels on the floor.
+3. Raise your heels as high as you can, rising onto your toes.
+4. Lower your heels slowly back down.
 
 ## Pro tips
 

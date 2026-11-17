@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable shrug is an isolation exercise targeting the trapezius muscles, performed using a cable machine. It involves shrugging the shoulders upward while keeping the arms straight, focusing on contracting the traps. Beginner back exercise using cable. Targets traps, also works shoulders.
+A shrug with a straight bar on a low cable, lifting your shoulders toward your ears. It works the traps, the muscles between your neck and shoulders. Beginner back exercise using cable. Targets traps, also works shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable shrug is an isolation exercise targeting the trapezius muscles, perfor
 
 ## How to perform
 
-1. Stand facing the cable machine with your feet shoulder-width apart.
-2. Grasp the cable handles with an overhand grip and let your arms hang down in front of you.
-3. Keeping your arms straight, shrug your shoulders up towards your ears.
-4. Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Attach a straight bar to a low pulley. Stand facing the machine with your feet shoulder-width apart.
+2. Hold the bar with your palms facing you, arms hanging straight in front of you.
+3. Keep your arms straight and shrug your shoulders up toward your ears.
+4. Lower your shoulders slowly back down.
 
 ## Pro tips
 

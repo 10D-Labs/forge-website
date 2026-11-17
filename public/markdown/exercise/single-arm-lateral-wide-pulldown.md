@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one arm lateral wide pulldown is a machine-based exercise targeting the latissimus dorsi, performed one arm at a time for unilateral strength and muscle development. Intermediate back exercise using machine. Targets lats, also works biceps, rhomboids, rear deltoids.
+A one-arm pulldown on a plate-loaded machine, pulling a high handle straight down beside your head. It works the lats, with help from the biceps and upper back. Intermediate back exercise using machine. Targets lats, also works biceps, rhomboids, rear deltoids.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,11 +15,9 @@ The one arm lateral wide pulldown is a machine-based exercise targeting the lati
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the floor.
-2. Grasp the handle with an overhand grip and fully extend your arm, keeping a slight bend in your elbow.
-3. Pull the handle down and across your body towards your opposite hip, squeezing your lat muscle at the bottom of the movement.
-4. Slowly return the handle to the starting position, fully extending your arm.
-5. Repeat for the desired number of repetitions, then switch sides.
+1. Sit facing a plate-loaded pulldown machine, thighs under the knee pad. Reach up with one hand and hold the handle, palm facing your head.
+2. Pull the handle straight down beside your head until your hand is next to your shoulder and your elbow is by your side.
+3. Let the handle rise slowly until your arm is straight overhead. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

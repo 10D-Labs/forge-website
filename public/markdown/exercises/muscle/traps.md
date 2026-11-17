@@ -24,7 +24,7 @@
 ### Dumbbell (3 exercises)
 
 - **Dumbbell Shrug** — Beginner | Body Part: Back
-- **Dumbbell Decline Shrug** — Beginner | Body Part: Back
+- **Dumbbell Chest Supported Shrug** — Beginner | Body Part: Back
 - **Dumbbell Incline Shrug** — Beginner | Body Part: Back
 
 ### Kettlebell (1 exercise)
@@ -50,7 +50,7 @@
 
 Get a personalized workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

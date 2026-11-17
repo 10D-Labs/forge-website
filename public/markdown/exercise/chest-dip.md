@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The chest dip is a bodyweight exercise performed on parallel bars that primarily targets the pectoral muscles, with secondary emphasis on the tricep and shoulders. It requires significant upper body strength, stability, and control. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A dip on parallel bars with your body leaning forward and your knees bent. It works the lower chest, with help from the triceps and shoulders. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ The chest dip is a bodyweight exercise performed on parallel bars that primarily
 
 ## How to perform
 
-1. Position yourself on parallel bars with your arms fully extended and your body straight.
-2. Lower your body by bending your elbows until your shoulders are below your elbows.
-3. Push yourself back up to the starting position by straightening your arms.
-4. Repeat for the desired number of repetitions.
+1. Grip a pair of parallel bars and push yourself up until your arms are straight.
+2. Bend your elbows to lower yourself, leaning your body forward and bending your knees as you go, until your shoulders drop below your elbows.
+3. Push back up until your arms are straight.
 
 ## Pro tips
 

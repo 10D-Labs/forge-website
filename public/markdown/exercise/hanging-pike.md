@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hanging pike is a challenging core exercise performed by hanging from a pullup bar and lifting the legs straight up to form a 'V' shape with the body, targeting the abdominal muscles and hip flexors. Advanced core exercise using body weight. Targets abs, also works hip flexors, shoulders.
+An advanced hanging move where you roll your hips up until you're upside down with your legs pointing straight up. It works the abs, with help from the front of the hips and the shoulders. Advanced core exercise using body weight. Targets abs, also works hip flexors, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The hanging pike is a challenging core exercise performed by hanging from a pull
 
 ## How to perform
 
-1. Hang from a pullup bar with your arms fully extended and your palms facing away from you.
-2. Engage your core and lift your legs up towards the bar, keeping them straight.
-3. Continue lifting until your body forms a 'V' shape, with your legs parallel to the ground.
-4. Hold the position for a moment, then slowly lower your legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your arms straight, hands shoulder-width apart, palms facing away from you. Bend your knees.
+2. Pull your knees up toward your chest, then keep rolling your hips up toward the bar.
+3. Straighten your legs so they point straight up past the bar, with your body upside down.
+4. Bend your knees and lower slowly back to the hang.
 
 ## Pro tips
 

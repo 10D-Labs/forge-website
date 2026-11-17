@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell twisting bench press is a variation of the standard dumbbell bench press that incorporates a wrist twist to further engage the tricep, chest, and shoulders. This exercise requires coordination and control to safely twist the wrists during the pressing motion. Intermediate arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
+A flat dumbbell bench press where you turn your wrists on the way down and back up. It works the triceps, with help from the chest and shoulders. Intermediate arms exercise using dumbbell. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,14 +15,10 @@ The dumbbell twisting bench press is a variation of the standard dumbbell bench 
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.
-2. Hold a dumbbell in each hand with an overhand grip, palms facing away from you.
-3. Extend your arms straight up over your chest, keeping a slight bend in your elbows.
-4. Lower the dumbbells down towards your chest, keeping your elbows close to your body.
-5. As you lower the dumbbells, twist your wrists so that your palms face towards you at the bottom of the movement.
-6. Pause for a moment at the bottom, then reverse the movement by pressing the dumbbells back up to the starting position.
-7. As you press the dumbbells up, twist your wrists back to the starting position with palms facing away from you.
-8. Repeat for the desired number of repetitions.
+1. Lie on a flat bench with your feet flat on the floor and your back against the bench.
+2. Hold a dumbbell in each hand straight up over your chest, palms facing your feet, with a slight bend in your elbows.
+3. Lower the dumbbells toward your chest, elbows close to your body, turning your wrists so your palms face toward you at the bottom.
+4. Press the dumbbells back up, turning your wrists until your palms face your feet again.
 
 ## Pro tips
 

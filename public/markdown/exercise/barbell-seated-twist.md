@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell seated twist is an exercise that targets the abdominal muscles, particularly the obliques and lower back, by rotating the torso while seated and holding a barbell. Intermediate core exercise using barbell. Targets abs, also works obliques, lower back.
+A seated twist with a barbell across the back of your shoulders. It works the abs, especially the obliques along your sides. Intermediate core exercise using barbell. Targets abs, also works obliques, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,12 +15,9 @@ The barbell seated twist is an exercise that targets the abdominal muscles, part
 
 ## How to perform
 
-1. Sit on a flat bench with your feet flat on the ground and your knees bent.
-2. Hold a barbell with both hands in front of your chest, keeping your elbows slightly bent.
-3. Engage your core and slowly twist your torso to one side, keeping your back straight.
-4. Pause for a moment at the end of the twist, then slowly rotate back to the starting position.
-5. Repeat the twist to the other side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Sit on a flat bench, feet flat on the floor. Rest a barbell across the back of your shoulders, hands wide, palms facing forward.
+2. Keeping your hips and knees facing forward, turn your upper body to one side as far as is comfortable.
+3. Turn back through the middle and on to the other side. Keep alternating sides.
 
 ## Pro tips
 

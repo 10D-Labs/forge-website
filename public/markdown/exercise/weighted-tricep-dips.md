@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-Weighted tricep dips are a challenging upper body exercise that primarily targets the tricep, with additional activation of the chest and shoulders. Adding weight increases the intensity and requires greater strength and stability compared to bodyweight dips. Advanced arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A dip on parallel bars with a weight plate hanging from a belt at your waist. It works the triceps, with help from the chest and shoulders. Advanced arms exercise using weight plate. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Triceps
 - **Secondary Muscles:** Chest, Shoulders
 - **Difficulty:** Advanced
@@ -15,12 +15,10 @@ Weighted tricep dips are a challenging upper body exercise that primarily target
 
 ## How to perform
 
-1. Sit on the edge of a bench or chair with your hands gripping the edge next to your hips.
-2. Slide your butt off the front of the bench with your legs extended in front of you.
-3. Keep your back close to the bench and your elbows slightly bent.
-4. Lower your body by bending your elbows until your upper arms are parallel to the floor.
-5. Push yourself back up to the starting position by straightening your arms.
-6. Repeat for the desired number of repetitions.
+1. Put on a dip belt with a plate hanging from the chain. Grip the parallel bars of a dip station, palms facing each other.
+2. Push up until your arms are straight, and bend your knees so your feet are off the floor.
+3. Lean slightly forward and bend your elbows to lower your body until your upper arms are about level with the floor.
+4. Push back up until your arms are straight.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Weighted Tricep Dips is an advanced exercise. Beginners should master fundam
 ## Related exercises
 
 - [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Triceps Exercises](https://forgetrainer.ai/exercises/muscle/triceps)
 
 ---

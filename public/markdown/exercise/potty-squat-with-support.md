@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The potty squat with support is a bodyweight exercise targeting the glutes, performed with the assistance of a stable support for balance. It is suitable for those developing lower body strength and proper squat mechanics. Beginner legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
+A deep bodyweight squat done holding onto a support for balance, which helps while you learn to squat. It works the glutes. Beginner legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,9 @@ The potty squat with support is a bodyweight exercise targeting the glutes, perf
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, toes pointing slightly outward.
-2. Hold onto a stable support, such as a chair or wall, for balance.
-3. Lower your body down into a squat position by bending your knees and pushing your hips back.
-4. Keep your chest up and your back straight throughout the movement.
-5. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, toes turned out slightly, holding the top of an incline bench or another steady support for balance.
+2. Push your hips back and bend your knees to lower into a deep squat, keeping your chest up and back straight.
+3. Push through your heels to stand back up.
 
 ## Pro tips
 

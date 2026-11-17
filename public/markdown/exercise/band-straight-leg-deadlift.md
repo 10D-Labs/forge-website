@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The band straight leg deadlift is a resistance exercise targeting the muscles of the lower back, hamstrings, and glutes. Using a resistance band, it mimics the movement of a traditional straight leg deadlift, focusing on hip hinging and posterior chain activation. Beginner legs exercise using resistance band. Targets lower back, also works hamstrings, glutes.
+A deadlift done standing on a band with your legs almost straight, bending forward at the hips until your hands reach your feet. It works the glutes and hamstrings, with help from the lower back. Beginner legs exercise using resistance band. Targets hamstrings, also works glutes, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
-- **Target Muscle:** Lower Back
-- **Secondary Muscles:** Hamstrings, Glutes
+- **Target Muscle:** Hamstrings
+- **Secondary Muscles:** Glutes, Lower Back
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,53 +15,49 @@ The band straight leg deadlift is a resistance exercise targeting the muscles of
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place the band around your feet.
-2. Hold the band with both hands, palms facing your body, and keep your arms straight.
-3. Engage your core and maintain a slight bend in your knees.
-4. Slowly hinge forward at your hips, keeping your back straight and chest lifted.
-5. Lower the band towards the ground while keeping your legs straight.
-6. Pause for a moment at the bottom, then squeeze your glutes and hamstrings to return to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Stand on the middle of a band with your feet hip-width apart. Hold a handle in each hand, arms straight, palms facing your legs.
+2. Keeping your knees only slightly bent, bend forward at the hips and reach the handles down toward your feet.
+3. Stand back up by pushing your hips forward until you're upright.
 
 ## Pro tips
 
-- Maintain a neutral spine throughout and hinge exclusively at the hips, not the lower back.
-- Keep the band close to your shins as you lower to minimize the forward moment arm on the spine.
-- Squeeze the glutes forcefully at the top to achieve full hip extension.
+- Stand on the band and hinge at the hips, pushing your glutes back while keeping your legs nearly straight.
+- Bend forward until your hands reach your feet or you feel a strong stretch in your hamstrings, then drive your hips forward to stand.
+- Keep your back flat and your chest up throughout the movement.
 
 ## Common mistakes
 
-- Rounding the upper and lower back, especially as fatigue sets in during later reps.
-- Looking up during the hinge, which hyperextends the cervical spine. Keep your neck neutral.
-- Locking the knees completely straight, which can hyperextend them. Maintain a micro-bend.
+- Rounding the lower back as you bend forward.
+- Bending the knees a lot, which turns it into a regular Deadlift.
+- Stopping short of a full hamstring stretch before standing back up.
 
 ## FAQ
 
-### Is the straight leg Deadlift the same as the stiff leg Deadlift?
+### What is the difference between a straight leg and a Romanian Deadlift?
 
-They are very similar. The straight leg version emphasizes keeping the legs completely straight, while the stiff leg version allows a very slight knee bend. The practical difference is minimal.
+Both keep the legs nearly straight. A straight leg deadlift usually goes deeper, to your feet, while a Romanian deadlift stops around mid-shin with the hips pushed further back.
 
-### Which muscles does this exercise target most?
+### Are Band Straight Leg Deadlifts effective for hamstrings?
 
-Primarily the hamstrings and glutes, with secondary work in the erector spinae of the lower back.
+Yes. The band gets harder as you stand up, which suits how the glutes and hamstrings are strongest near the top.
 
-### Can beginners do this exercise with a band?
+### How do I make it harder?
 
-Yes. The band version is actually ideal for beginners because it provides progressive resistance and is lighter at the bottom where the spine is most vulnerable.
+Use a thicker band, stand wider on the band to shorten it, or slow the lowering to 4 seconds.
 
 ### What muscles does the Band Straight Leg Deadlift work?
 
-The Band Straight Leg Deadlift primarily targets the lower back, with secondary activation in the hamstrings, glutes. It's classified as a strength exercise for the legs.
+The Band Straight Leg Deadlift primarily targets the hamstrings, with secondary activation in the glutes, lower back. It's classified as a strength exercise for the legs.
 
 ### Is the Band Straight Leg Deadlift good for beginners?
 
-Yes, the Band Straight Leg Deadlift is rated as a beginner-level exercise. It's a great starting point for building lower back strength.
+Yes, the Band Straight Leg Deadlift is rated as a beginner-level exercise. It's a great starting point for building hamstrings strength.
 
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
 - [More Resistance Band Exercises](https://forgetrainer.ai/exercises/equipment/resistance-band)
-- [More Lower Back Exercises](https://forgetrainer.ai/exercises/muscle/lower-back)
+- [More Hamstrings Exercises](https://forgetrainer.ai/exercises/muscle/hamstrings)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The full planche pushup is an advanced bodyweight exercise that targets the pectorals, shoulders, tricep, and core. It requires significant strength, balance, and coordination as you perform a pushup while balancing your entire body off the ground with only your hands. Advanced chest exercise using body weight. Targets chest, also works shoulders, triceps, core.
+An advanced pushup done balancing on your hands with your whole body, feet included, held off the floor. It works the chest, shoulders, triceps and abs. Advanced chest exercise using body weight. Targets chest, also works shoulders, triceps, core.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The full planche pushup is an advanced bodyweight exercise that targets the pect
 
 ## How to perform
 
-1. Start in a pushup position with your hands placed slightly wider than shoulder-width apart.
-2. Engage your core and lower your body down towards the ground, keeping your elbows close to your sides.
-3. As you lower yourself, lean your body forward and lift your feet off the ground, balancing on your hands.
-4. Continue to lower your body until your chest is just above the ground.
-5. Push through your hands and extend your arms to lift your body back up to the starting position.
-6. Maintain a straight line from your head to your heels throughout the movement.
-7. Repeat for the desired number of repetitions.
+1. Get into a pushup position with your hands slightly wider than shoulder-width apart.
+2. Lean forward over your hands and lift your feet off the floor, balancing on your hands with your body straight from head to heels.
+3. Bend your elbows, keeping them close to your sides, until your chest is just above the floor.
+4. Push through your hands to straighten your arms, keeping your feet off the floor.
 
 ## Pro tips
 

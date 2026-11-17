@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The incline chest press is a machine-based exercise targeting the upper chest (pectorals), with secondary emphasis on the shoulders and tricep. It is performed on a machine, providing guided movement for safety and stability. Beginner chest exercise using machine. Targets chest, also works shoulders, triceps.
+A seated machine press set at an incline, pushing the handles forward and away from your chest. It works the upper chest, with help from the shoulders and triceps. Beginner chest exercise using machine. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The incline chest press is a machine-based exercise targeting the upper chest (p
 
 ## How to perform
 
-1. Adjust the seat and backrest of the machine to a comfortable position.
-2. Sit on the machine with your back against the backrest and your feet flat on the floor.
-3. Grasp the handles with an overhand grip and position your hands slightly wider than shoulder-width apart.
-4. Push the handles forward and away from your body until your arms are fully extended.
-5. Pause for a moment, then slowly bend your elbows and lower the handles back towards your chest.
-6. Repeat for the desired number of repetitions.
+1. Set the seat and backrest to fit you, then sit with your back against the backrest and your feet flat on the floor.
+2. Hold the handles with your palms facing forward, hands a little wider than your shoulders.
+3. Press the handles forward and away from your body until your arms are straight.
+4. Bend your elbows slowly to bring the handles back toward your chest.
 
 ## Pro tips
 

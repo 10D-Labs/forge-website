@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The suspended abdominal fallout is a challenging core exercise performed with a suspension trainer. It targets the abs and also engages the obliques and hip flexors. The movement requires significant core strength, stability, and control to maintain proper form while leaning forward and returning to the starting position. Advanced core exercise using body weight. Targets abs, also works obliques, hip flexors.
+A standing ab exercise with suspension straps or rings: lean your straight body forward as your arms reach overhead, then pull back up. It works the abs, plus the obliques and the front of the hips. Advanced core exercise using rings. Targets abs, also works obliques, hip flexors.
 
 - **Body Part:** Core
-- **Equipment:** Body Weight
+- **Equipment:** Rings
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Obliques, Hip Flexors
 - **Difficulty:** Advanced
@@ -15,12 +15,10 @@ The suspended abdominal fallout is a challenging core exercise performed with a 
 
 ## How to perform
 
-1. Attach a suspension trainer to a high anchor point and adjust the straps to waist height.
-2. Stand facing away from the anchor point and hold the handles with your arms extended in front of you.
-3. Lean forward at the waist, keeping your body straight and your core engaged.
-4. Lower your body as far as you can while maintaining control and tension in your abs.
-5. Pause for a moment at the bottom, then slowly raise your body back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a suspension trainer or a pair of rings to a high anchor, with the handles at waist height.
+2. Stand with the straps hanging just in front of you, holding the handles in front of your hips with straight arms.
+3. Lean your whole body forward in a straight line, letting your arms rise overhead. Go as low as you can while keeping control.
+4. Pull your body back up to standing, bringing your arms back down in front of you.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Suspended Abdominal Fallout is an advanced exercise. Beginners should master
 ## Related exercises
 
 - [More Core Exercises](https://forgetrainer.ai/exercises/core)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Rings Exercises](https://forgetrainer.ai/exercises/equipment/rings)
 - [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---

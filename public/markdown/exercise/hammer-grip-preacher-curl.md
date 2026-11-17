@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hammer grip preacher curl is an isolation exercise performed on a machine, targeting the bicep with a neutral (hammer) grip. It also engages the forearms as secondary muscles. The preacher pad provides support and stability, making the movement controlled and focused on the bicep. Beginner arms exercise using machine. Targets biceps, also works forearms.
+A machine preacher curl with handles that keep your palms facing each other, thumbs up. It works the biceps and the forearms. Beginner arms exercise using machine. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The hammer grip preacher curl is an isolation exercise performed on a machine, t
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine.
-2. Place your upper arms on the preacher pad, ensuring your chest is pressed against it.
-3. Grasp the handles with a hammer grip (palms facing each other).
-4. Keeping your upper arms stationary, exhale and curl the handles towards your shoulders.
-5. Pause for a moment at the top, squeezing your biceps.
-6. Inhale and slowly lower the handles back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Adjust the seat height. Sit at the machine with your chest against the pad and your upper arms resting on it.
+2. Hold the handles with your palms facing each other (thumbs up).
+3. Keep your upper arms on the pad and curl the handles up toward your forehead.
+4. Lower the handles slowly back to the start.
 
 ## Pro tips
 

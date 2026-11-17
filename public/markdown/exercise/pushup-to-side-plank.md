@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pushup to side plank is a compound bodyweight exercise that combines a traditional pushup with a rotational movement into a side plank. This exercise targets the abs while also engaging the shoulders, chest, and tricep, and challenges core stability and balance. Intermediate core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
+A pushup followed by a turn into a side plank with your top arm reaching up. It works the abs, plus the chest, shoulders and triceps, and tests your balance. Intermediate core exercise using body weight. Targets abs, also works shoulders, chest, triceps.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,11 @@ The pushup to side plank is a compound bodyweight exercise that combines a tradi
 
 ## How to perform
 
-1. Start in a pushup position with your hands shoulder-width apart and your body in a straight line.
-2. Lower your body towards the ground by bending your elbows, keeping your core engaged.
-3. Push back up to the starting position.
-4. Shift your weight onto your left hand and rotate your body to the right, lifting your right arm towards the ceiling.
-5. Hold the side plank position for a few seconds, then return to the starting position.
-6. Repeat the pushup and side plank on the opposite side.
-7. Continue alternating sides for the desired number of repetitions.
+1. Start at the top of a pushup with your hands shoulder-width apart and your body in a straight line.
+2. Bend your elbows to lower your body toward the floor, then push back up.
+3. Shift your weight onto your left hand and turn your body to the right, reaching your right arm up to the ceiling.
+4. Hold the side plank for a few seconds, then come back to the pushup position.
+5. Do another pushup and turn to the other side. Keep alternating sides.
 
 ## Pro tips
 

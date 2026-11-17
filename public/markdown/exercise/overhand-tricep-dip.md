@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The overhand tricep dip is a machine-based exercise targeting the tricep, with secondary emphasis on the chest and shoulders. It involves lowering and raising the body using a machine, which provides stability and controlled resistance. Beginner arms exercise using machine. Targets triceps, also works chest, shoulders.
+A dip done on a seated machine, pushing handles down from chest level while your body stays in place. It works the triceps, with help from the chest and shoulders. Beginner arms exercise using machine. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The overhand tricep dip is a machine-based exercise targeting the tricep, with s
 
 ## How to perform
 
-1. Adjust the machine to the appropriate height and secure your body in position.
-2. Grasp the handles with an overhand grip and position your body so that your arms are fully extended.
-3. Lower your body by bending your elbows, keeping your upper arms close to your sides.
-4. Continue lowering until your upper arms are parallel to the floor.
-5. Pause for a moment, then push yourself back up to the starting position by extending your elbows.
-6. Repeat for the desired number of repetitions.
+1. Adjust the seat and thigh pad, and sit with the pad holding your legs in place.
+2. Grip the handles at your sides with your palms facing down. Start with the handles at chest level, elbows bent and pointing back.
+3. Push the handles down until your arms are straight, keeping your upper arms close to your sides.
+4. Let the handles rise slowly until your upper arms are about level with the floor.
 
 ## Pro tips
 

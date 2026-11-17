@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The calf raise on leg press is a machine-based exercise that targets the calves by pressing a weighted sled away using the balls of your feet. This variation allows you to use heavier weights safely while isolating the calf muscles. Beginner legs exercise using machine. Targets calves, also works hamstrings.
+A calf raise on a leg press machine, pushing the sled with the balls of your feet while your legs stay straight. It works the calves, and the machine lets you use heavy weight safely. Beginner legs exercise using machine. Targets calves, also works hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,11 @@ The calf raise on leg press is a machine-based exercise that targets the calves 
 
 ## How to perform
 
-1. Sit in the leg press machine and place your feet on the lower portion of the footplate, with only the balls of your feet on the platform and heels hanging off.
-2. Release the safety handles and extend your legs without locking your knees.
-3. Push through the balls of your feet, extending your ankles to raise the weight.
-4. Hold the contracted position briefly, feeling the squeeze in your calves.
-5. Slowly lower your heels back down, allowing your calves to stretch.
-6. Repeat for the desired number of repetitions.
-7. When finished, carefully re-engage the safety handles.
+1. Sit in a 45-degree leg press. Put just the balls of your feet on the bottom edge of the footplate, heels hanging off.
+2. Release the safety handles and straighten your legs without locking your knees.
+3. Push the sled up with the balls of your feet, pointing your toes.
+4. Lower your heels slowly, letting your calves stretch.
+5. Lock the safety handles back in place when you finish.
 
 ## Pro tips
 

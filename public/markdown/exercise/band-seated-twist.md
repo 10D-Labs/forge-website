@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band seated twist is an exercise that targets the abdominal muscles, particularly the obliques, by incorporating rotational movement with resistance from a band. It is performed seated on the ground with legs extended and involves twisting the torso side to side. Beginner core exercise using resistance band. Targets abs, also works obliques.
+A seated twist on the floor against a band anchored to your side, turning away from it as you straighten your arms. It works the abs and the obliques along your sides. Beginner core exercise using resistance band. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Resistance Band
@@ -15,12 +15,10 @@ The band seated twist is an exercise that targets the abdominal muscles, particu
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you and your back straight.
-2. Wrap the band around your waist and hold the ends with both hands.
-3. Engage your abs and slowly twist your torso to one side, keeping your back straight and your feet on the ground.
-4. Pause for a moment at the end of the twist, then slowly return to the starting position.
-5. Repeat the twist to the other side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Anchor a band to one side of you at chest height. Sit on the floor with your legs straight out in front.
+2. Hold the handle in both hands, one wrapped over the other, thumbs up. Turn toward the anchor with your hands near your chest.
+3. Turn your chest away from the anchor and push your arms straight out until they point over your feet.
+4. Return slowly to the start. Do all your reps on one side, then switch.
 
 ## Pro tips
 

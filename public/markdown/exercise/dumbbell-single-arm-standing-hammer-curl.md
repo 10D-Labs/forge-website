@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm standing hammer curl is an isolation exercise targeting the bicep and forearms. It is performed standing, with a dumbbell in one hand, curling the weight up while keeping the palm facing the torso throughout the movement. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A one-arm curl done standing, with your palm facing in and thumb up. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell one arm standing hammer curl is an isolation exercise targeting the
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing your torso.
-2. Keep your elbows close to your torso and your upper arms stationary.
-3. Exhale and curl the weights while contracting your biceps.
-4. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly begin to lower the dumbbells back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Stand tall with a dumbbell in one hand, arm hanging at your side, palm facing your thigh.
+2. Keep your elbow at your side and your palm facing in (thumb up) the whole time.
+3. Curl the dumbbell up until it reaches your shoulder.
+4. Lower it slowly until your arm is straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-87 exercises targeting your chest. Build strength and muscle with exercises organized by equipment type.
+85 exercises targeting your chest. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
@@ -19,28 +19,22 @@
 - **Barbell Reverse Grip Incline Bench Press** — Advanced | Target: Chest
 - **Barbell Wide Reverse Grip Bench Press** — Advanced | Target: Chest
 
-### Body Weight (31 exercises)
+### Body Weight (25 exercises)
 
 - **Pushup** — Beginner | Target: Chest
 - **Chest Dip** — Advanced | Target: Chest
-- **Incline Pushup** — Intermediate | Target: Chest
-- **Decline Pushup** — Beginner | Target: Chest
+- **Feet Elevated Pushup** — Intermediate | Target: Chest
+- **Hands Elevated Pushup** — Beginner | Target: Chest
 - **Wall Pushup** — Beginner | Target: Chest
 - **Shoulder Tap Pushup** — Intermediate | Target: Chest
 - **Superman Pushup** — Advanced | Target: Chest
-- **Suspended Pushup** — Advanced | Target: Chest
-- **Weighted Svend Press** — Intermediate | Target: Chest
-- **Weighted Drop Push Up** — Advanced | Target: Chest
 - **Wide Hand Push Up** — Intermediate | Target: Chest
-- **Chest Dip on Straight Bar** — Advanced | Target: Chest
 - **Pushup Plus** — Intermediate | Target: Chest
 - **Chest Tap Pushup** — Advanced | Target: Chest
 - **Korean Dips** — Advanced | Target: Chest
-- **Weighted Straight Bar Dip** — Advanced | Target: Chest
 - **Full Planche Pushup** — Advanced | Target: Chest
-- **Box Decline Pushup** — Beginner | Target: Chest
-- **Incline Push Up Depth Jump** — Advanced | Target: Chest
-- **Raise Single Arm Pushup** — Advanced | Target: Chest
+- **Hands Elevated Box Pushup** — Beginner | Target: Chest
+- **Pushup with Arm Raise** — Advanced | Target: Chest
 - **Single Arm Pushup** — Advanced | Target: Chest
 - **Dynamic Chest Stretch** — Beginner | Target: Chest
 - **Clap Push Up** — Advanced | Target: Chest
@@ -49,7 +43,7 @@
 - **Kneeling Pushup** — Beginner | Target: Chest
 - **Modified Hindu Pushup** — Intermediate | Target: Chest
 - **Archer Push Up** — Advanced | Target: Chest
-- **Chest and Front of Shoulder Stretch** — Beginner | Target: Chest
+- **Pike to Cobra Pushup** — Advanced | Target: Chest
 - **Isometric Wipers** — Advanced | Target: Chest
 - **Isometric Chest Squeeze** — Beginner | Target: Chest
 
@@ -59,7 +53,7 @@
 - **Cable Middle Fly** — Intermediate | Target: Chest
 - **Cable Standing Crossovers** — Intermediate | Target: Chest
 
-### Dumbbell (25 exercises)
+### Dumbbell (24 exercises)
 
 - **Dumbbell Bench Press** — Beginner | Target: Chest
 - **Dumbbell Fly** — Intermediate | Target: Chest
@@ -70,7 +64,7 @@
 - **Dumbbell Decline Twist Fly** — Intermediate | Target: Chest
 - **Dumbbell Incline Fly** — Intermediate | Target: Chest
 - **Dumbbell Incline Hammer Press** — Intermediate | Target: Chest
-- **Dumbbell Incline Palms in Press** — Intermediate | Target: Chest
+- **Dumbbell Incline Reverse Grip Press** — Intermediate | Target: Chest
 - **Dumbbell Incline Twisted Flyes** — Intermediate | Target: Chest
 - **Dumbbell Lying Hammer Press** — Beginner | Target: Chest
 - **Deep Push Up** — Intermediate | Target: Chest
@@ -81,7 +75,6 @@
 - **Dumbbell Incline Single Arm Press** — Intermediate | Target: Chest
 - **Dumbbell Single Arm Bench Fly** — Intermediate | Target: Chest
 - **Dumbbell Single Arm Decline Chest Press** — Intermediate | Target: Chest
-- **Dumbbell Single Arm Incline Chest Press** — Intermediate | Target: Chest
 - **Dumbbell Incline Alternate Press** — Intermediate | Target: Chest
 - **Dumbbell Lying Single Arm Press** — Intermediate | Target: Chest
 - **Dumbbell Decline Single Arm Fly** — Advanced | Target: Chest
@@ -102,11 +95,16 @@
 - **Kneeling Chest Dip** — Beginner | Target: Chest
 - **Kneeling Wide Grip Chest Dip** — Beginner | Target: Chest
 
-### Resistance Band (3 exercises)
+### Resistance Band (4 exercises)
 
 - **Band Single Arm Twisting Chest Press** — Intermediate | Target: Chest
 - **Band Bench Press** — Beginner | Target: Chest
+- **Chest and Front of Shoulder Stretch** — Beginner | Target: Chest
 - **Resistance Band Seated Chest Press** — Beginner | Target: Chest
+
+### Rings (1 exercise)
+
+- **Suspended Pushup** — Advanced | Target: Chest
 
 ### Smith Machine (8 exercises)
 
@@ -119,13 +117,19 @@
 - **Smith Wide Grip Bench Press** — Beginner | Target: Chest
 - **Smith Wide Grip Decline Bench Press** — Intermediate | Target: Chest
 
+### Weight Plate (3 exercises)
+
+- **Weighted Svend Press** — Intermediate | Target: Chest
+- **Weighted Drop Push Up** — Advanced | Target: Chest
+- **Weighted Straight Bar Dip** — Advanced | Target: Chest
+
 ---
 
 ## Build Your Chest with Forge
 
 Get a personalized chest workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The muscle up on a bar is a challenging bodyweight exercise that combines a pullup with a dip, requiring significant upper body strength, coordination, and technique. It primarily targets the lats, with secondary emphasis on the bicep, tricep, and forearms. Advanced back exercise using body weight. Targets lats, also works biceps, triceps, forearms.
+A pullup that keeps going over the bar until you're propped up on straight arms. It works the lats, biceps and triceps, and your forearms for grip. Advanced back exercise using body weight. Targets lats, also works biceps, triceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The muscle up on a bar is a challenging bodyweight exercise that combines a pull
 
 ## How to perform
 
-1. Start by hanging from a bar with your palms facing away from you and your arms fully extended.
-2. Engage your core and pull your body up towards the bar, leading with your chest.
-3. As you pull yourself up, lean back slightly and bring your elbows towards your sides.
-4. Continue pulling until your chest reaches the bar and your elbows are fully bent.
-5. Pause for a moment at the top, then slowly lower yourself back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Hang from a pullup bar with your hands shoulder-width apart, palms facing away from you, arms straight.
+2. Pull yourself up hard, bending your knees, until your chest reaches the bar.
+3. Lean your chest forward over the bar and push down until your arms are straight and you're propped above the bar.
+4. Bend your arms to lower back over the bar, then lower slowly until you're hanging with straight arms.
 
 ## Pro tips
 

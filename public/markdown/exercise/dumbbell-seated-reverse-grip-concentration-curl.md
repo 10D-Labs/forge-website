@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated reverse grip concentration curl is an isolation exercise targeting the bicep, performed while seated with a dumbbell and a reverse (underhand) grip. It emphasizes strict form and muscle contraction. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A seated concentration curl done with your palm turned down instead of up. It works the biceps and the top of the forearm. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell seated reverse grip concentration curl is an isolation exercise tar
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand, palm facing up.
-2. Rest your elbow on the inside of your thigh, just above the knee.
-3. Keeping your upper arm stationary, exhale and curl the dumbbell towards your shoulder.
-4. Pause for a moment at the top, squeezing your biceps.
-5. Inhale and slowly lower the dumbbell back to the starting position.
-6. Repeat for the desired number of repetitions, then switch arms.
+1. Sit on the end of a flat bench with your feet wide. Lean forward and rest your free hand on your knee.
+2. Hold a dumbbell in your other hand, the back of that arm against your inner thigh, arm straight, palm facing toward you.
+3. Keep your upper arm against your thigh and curl the dumbbell up toward your shoulder, the back of your hand leading.
+4. Lower it slowly until your arm is straight. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

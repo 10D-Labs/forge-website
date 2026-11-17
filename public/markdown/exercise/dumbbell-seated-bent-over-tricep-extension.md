@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated bent over tricep extension is an isolation exercise targeting the tricep, performed while seated and bent over, extending the arms backward with dumbbells. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders, back.
+A seated, bent-forward move where you straighten both arms behind you with dumbbells. It works the triceps. Intermediate arms exercise using dumbbell. Targets triceps, also works shoulders, back.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell seated bent over tricep extension is an isolation exercise targetin
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand.
-2. Bend forward at the waist, keeping your back straight and your head up.
-3. Extend your arms straight back, keeping your elbows close to your head.
-4. Pause for a moment, then slowly lower the dumbbells back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the end of a flat bench with your feet flat on the floor and a dumbbell in each hand.
+2. Lean forward from your hips with your back straight. Lift your elbows back so your upper arms run along your sides, elbows bent.
+3. Straighten both arms back, keeping your upper arms close to your sides.
+4. Bend your elbows to lower the dumbbells slowly back to the start.
 
 ## Pro tips
 

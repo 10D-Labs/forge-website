@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable lateral raise is an isolation exercise that targets the deltoid muscles, particularly the lateral (middle) head. It is performed using a cable machine, which provides constant tension throughout the movement. This exercise helps build shoulder width and strength. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, triceps.
+A lateral raise with two low cables, crossed so each hand holds the opposite one, lifting your arms out to shoulder height. It works the sides of the shoulders. Intermediate shoulders exercise using cable. Targets shoulders, also works traps, triceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,11 +15,10 @@ The cable lateral raise is an isolation exercise that targets the deltoid muscle
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and grasp the cable handles with an overhand grip.
-2. Keep your arms straight and your core engaged.
-3. Raise your arms out to the sides until they are parallel to the floor.
-4. Pause for a moment at the top, then slowly lower your arms back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set both pulleys of a cable machine at the bottom. Stand between them with your feet shoulder-width apart.
+2. Hold the left handle in your right hand and the right handle in your left so the cables cross, palms facing down.
+3. Keep your arms straight and raise them out to the sides until they're level with the floor.
+4. Lower your arms slowly back down.
 
 ## Pro tips
 

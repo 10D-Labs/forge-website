@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell squat is a lower body strength exercise that targets the glutes, quadriceps, and hamstrings, while also engaging the calves. It is performed by holding a dumbbell in each hand and squatting down and up with proper form. Beginner legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat holding a dumbbell in each hand at your sides. It works the glutes, with help from the quads, hamstrings and calves. Beginner legs exercise using dumbbell. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -16,10 +16,9 @@ The dumbbell squat is a lower body strength exercise that targets the glutes, qu
 ## How to perform
 
 1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.
-2. Keeping your chest up and core engaged, lower your body down by bending at the knees and hips, as if sitting back into a chair.
-3. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.
-4. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+2. Keep your chest up as you bend your knees and hips to lower your body, as if sitting back into a chair.
+3. Go down until your thighs are level with the floor, or as low as you comfortably can.
+4. Push through your heels to stand back up.
 
 ## Pro tips
 

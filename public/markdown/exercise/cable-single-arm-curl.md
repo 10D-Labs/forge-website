@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable one arm curl is an isolation exercise targeting the bicep using a cable machine. It allows for constant tension throughout the movement, making it effective for muscle growth and strength development in the bicep and forearms. Beginner arms exercise using cable. Targets biceps, also works forearms.
+A one-arm curl with a single handle on a low cable pulley, which keeps the muscle working through the whole lift. It works the biceps and forearms. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,11 +15,9 @@ The cable one arm curl is an isolation exercise targeting the bicep using a cabl
 
 ## How to perform
 
-1. Stand facing the cable machine with your feet shoulder-width apart.
-2. Grasp the cable handle with an underhand grip, palm facing up.
-3. Keep your elbow close to your side and slowly curl your forearm up towards your shoulder.
-4. Pause for a moment at the top, then slowly lower your forearm back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand facing a low cable pulley with your feet shoulder-width apart. Hold a single handle in one hand, palm facing forward.
+2. Keep your elbow at your side and curl the handle up toward your shoulder.
+3. Lower it slowly until your arm is straight.
 
 ## Pro tips
 

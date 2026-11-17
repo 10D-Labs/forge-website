@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell Romanian deadlift is a strength exercise targeting the glutes, with secondary emphasis on the hamstrings and lower back. It involves hinging at the hips while maintaining a straight back, lowering a barbell to feel a stretch in the hamstrings, and then returning to a standing position. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
+A barbell lift where you bend at the hips with your knees slightly bent, lowering the bar until the backs of your thighs stretch. It works the glutes, hamstrings and lower back. Intermediate legs exercise using barbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,14 +15,10 @@ The barbell Romanian deadlift is a strength exercise targeting the glutes, with 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your toes pointing forward.
-2. Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Bend at the hips, keeping your back straight and your knees slightly bent.
-4. Lower the barbell towards the ground, keeping it close to your body.
-5. Feel the stretch in your hamstrings as you lower the barbell.
-6. Once you feel a stretch in your hamstrings, push your hips forward and stand up straight.
-7. Squeeze your glutes at the top of the movement.
-8. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes pointing forward. Hold a barbell with your palms facing you, hands slightly wider than shoulder-width apart.
+2. Bend at the hips with your knees slightly bent, keeping your back straight.
+3. Lower the bar toward the floor, keeping it close to your legs, until you feel a stretch in the backs of your thighs.
+4. Push your hips forward to stand back up straight.
 
 ## Pro tips
 

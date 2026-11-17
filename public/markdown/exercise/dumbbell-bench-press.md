@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell bench press is a classic upper body strength exercise that targets the pectoral muscles, with secondary emphasis on the tricep and shoulders. It is performed lying on a bench, pressing dumbbells from chest level to full arm extension. Beginner chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
+A chest press lying on a flat bench with a dumbbell in each hand. It works the chest, with help from the triceps and shoulders. Beginner chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell bench press is a classic upper body strength exercise that targets 
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.
-2. Hold a dumbbell in each hand, with your palms facing forward and your arms extended above your chest.
-3. Lower the dumbbells slowly to the sides of your chest, keeping your elbows at a 90 degree angle.
-4. Pause for a moment, then push the dumbbells back up to the starting position, fully extending your arms.
-5. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with your back against it and your feet flat on the floor.
+2. Hold a dumbbell in each hand over your chest, arms straight and palms facing your feet.
+3. Lower the dumbbells slowly to the sides of your chest, bending your elbows to about 90 degrees.
+4. Push the dumbbells back up until your arms are straight.
 
 ## Pro tips
 

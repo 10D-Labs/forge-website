@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The Janda situp is an advanced abdominal exercise that emphasizes the abs while minimizing hip flexor involvement. It requires significant core strength and proper technique to perform safely and effectively. Advanced core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A slow situp with your arms crossed, done to work the abs while using the muscles at the front of your hips as little as possible. Advanced core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The Janda situp is an advanced abdominal exercise that emphasizes the abs while 
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent, feet flat on the floor and arms crossed over your chest.
+2. Curl your upper body up off the floor slowly until you're sitting almost upright.
+3. Lower yourself slowly back to the floor.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lying leg hip raise is an abdominal exercise performed on the floor using only body weight. It targets the abs and also works the hip flexors. The movement involves lifting the legs and hips off the ground while keeping the core engaged, then lowering them back down with control. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A lying knee tuck on a flat bench that ends with your hips curling up off the pad. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The lying leg hip raise is an abdominal exercise performed on the floor using on
 
 ## How to perform
 
-1. Lie flat on your back with your legs extended and your arms by your sides.
-2. Place your hands under your glutes for support.
-3. Engage your core and lift your legs off the ground, raising them towards the ceiling.
-4. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench, legs straight out past the end. Hold the bench beside your head with both hands.
+2. Bend your knees and pull them in toward your chest.
+3. Keep pulling until your hips curl up off the bench.
+4. Lower your hips and straighten your legs slowly until they're back out level with the bench.
 
 ## Pro tips
 

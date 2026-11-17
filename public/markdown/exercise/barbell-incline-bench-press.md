@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell incline bench press is a compound upper-body exercise that targets the upper portion of the pectoral muscles, with secondary emphasis on the shoulders and tricep. It is performed on an incline bench using a barbell, making it a staple in strength training routines for developing chest size and strength. Intermediate chest exercise using barbell. Targets chest, also works shoulders, triceps.
+A barbell press done lying back on a bench set to 45 degrees. It works the upper chest, with help from the shoulders and triceps. Intermediate chest exercise using barbell. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
 - **Equipment:** Barbell
@@ -15,12 +15,10 @@ The barbell incline bench press is a compound upper-body exercise that targets t
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Lie down on the bench with your feet flat on the ground.
-3. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.
-4. Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45 degree angle.
-5. Pause for a moment at the bottom, then push the barbell back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees and lie back on it with your feet flat on the floor.
+2. Grip the bar with your palms facing your feet, hands slightly wider than shoulder-width apart.
+3. Lift the bar off the rack, then lower it slowly toward your chest, keeping your elbows at about 45 degrees from your sides.
+4. Push the bar back up until your arms are straight.
 
 ## Pro tips
 

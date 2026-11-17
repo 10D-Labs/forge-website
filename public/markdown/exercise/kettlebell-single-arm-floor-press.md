@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell one arm floor press is a unilateral chest exercise performed lying on the floor, pressing a kettlebell with one arm at a time. It targets the pectorals while also engaging the tricep and shoulders, and requires stability and control. Intermediate chest exercise using kettlebell. Targets chest, also works triceps, shoulders.
+A one-arm press done lying on the floor, pushing a kettlebell straight up over your chest. It works the middle of the chest, plus the triceps and shoulders. Intermediate chest exercise using kettlebell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Kettlebell
@@ -15,11 +15,10 @@ The kettlebell one arm floor press is a unilateral chest exercise performed lyin
 
 ## How to perform
 
-1. Lie flat on your back on the floor with your knees bent and feet flat on the ground.
-2. Hold the kettlebell in one hand with your palm facing towards your feet and your arm extended straight up towards the ceiling.
-3. Slowly lower the kettlebell towards your chest by bending your elbow, keeping your upper arm close to your body.
-4. Pause for a moment when the kettlebell is just above your chest, then push it back up to the starting position by extending your elbow.
-5. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Lie on your back on the floor with your legs straight.
+2. Hold a kettlebell in one hand, arm straight up over your chest, palm facing toward your feet.
+3. Bend your elbow to lower the kettlebell until it's just above your chest, keeping your upper arm close to your body.
+4. Push it back up until your arm is straight. Do all your reps on one side, then switch.
 
 ## Pro tips
 

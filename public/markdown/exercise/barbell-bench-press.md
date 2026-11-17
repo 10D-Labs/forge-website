@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell bench press is a classic compound exercise that primarily targets the pectoral muscles, while also engaging the tricep and shoulders. It is performed by lying on a bench and pressing a barbell up and down in a controlled manner. Intermediate chest exercise using barbell. Targets chest, also works triceps, shoulders.
+A press done lying on a flat bench, lowering a barbell to your chest and pushing it back up. It works the chest, with help from the triceps and shoulders. Intermediate chest exercise using barbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Barbell
@@ -15,13 +15,11 @@ The barbell bench press is a classic compound exercise that primarily targets th
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.
-2. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.
-3. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.
-4. Lower the barbell slowly towards your chest, keeping your elbows tucked in.
-5. Pause for a moment when the barbell touches your chest.
-6. Push the barbell back up to the starting position by extending your arms.
-7. Repeat for the desired number of repetitions.
+1. Lie flat on a bench with your back against it and your feet flat on the floor.
+2. Grip the bar with your palms facing your feet, hands slightly wider than shoulder-width apart.
+3. Lift the bar off the rack and hold it over your chest with your arms straight.
+4. Lower the bar slowly until it touches your chest, keeping your elbows tucked in toward your sides.
+5. Push the bar back up until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The V-sit on floor is a core exercise that targets the abdominal muscles and also engages the hip flexors. It requires balance, core strength, and coordination as you hold your body in a V-shape, balancing on your tailbone. Advanced core exercise using body weight. Targets abs, also works hip flexors.
+A V-sit done on straight arms: with your hands on the floor beside your hips, you lift your hips and raise straight legs until they point up. It works the abs, with help from the front of the hips. Advanced core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The V-sit on floor is a core exercise that targets the abdominal muscles and als
 
 ## How to perform
 
-1. Sit on the floor with your legs extended in front of you.
-2. Lean back slightly and lift your legs off the ground, keeping them straight.
-3. Simultaneously, lift your upper body off the ground and reach your arms towards your legs.
-4. Hold this position for a few seconds, then slowly lower your upper body and legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on the floor with your legs straight in front of you. Place your hands flat on the floor beside your hips, arms straight.
+2. Press down through your hands to lift your hips just off the floor.
+3. At the same time, raise your straight legs until they point up at the ceiling, close to your chest.
+4. Lower your legs and hips slowly back to the floor.
 
 ## Pro tips
 

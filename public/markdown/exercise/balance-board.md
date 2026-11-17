@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The balance board exercise involves standing on a balance board with one foot, engaging the core and lower body muscles to maintain stability and balance. This exercise primarily targets the quads, while also engaging the calves, hamstrings, and glutes as secondary muscles. Intermediate legs exercise using body weight. Targets quads, also works calves, hamstrings, glutes.
+Balance work standing on a dome-shaped board with both feet, rocking it slowly from side to side. It works the quads, with the calves, hamstrings and glutes helping you stay steady. Intermediate legs exercise using body weight. Targets quads, also works calves, hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The balance board exercise involves standing on a balance board with one foot, e
 
 ## How to perform
 
-1. Place the balance board on a flat surface.
-2. Step onto the balance board with one foot, ensuring it is centered.
-3. Slowly shift your weight onto the foot on the balance board, keeping your core engaged.
-4. Maintain your balance and stability as you hold the position for a desired amount of time.
-5. Repeat the exercise with the other foot.
+1. Set a dome-shaped balance board on the floor, flat side up. Step on with both feet about hip-width apart.
+2. Bend your knees slightly and hold your arms a little out from your sides.
+3. Shift your weight onto one foot so that side of the board dips toward the floor.
+4. Shift onto the other foot until the other side dips. Keep rocking slowly from side to side.
 
 ## Pro tips
 

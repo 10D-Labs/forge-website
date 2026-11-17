@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The Nordic hamstring curl is an advanced bodyweight exercise that intensely targets the hamstrings through eccentric contraction. Kneeling with feet anchored, you lower your body forward under control, building exceptional hamstring strength and helping prevent hamstring injuries. Advanced legs exercise using body weight. Targets hamstrings, also works glutes, core.
+A kneeling move where you lower your body forward with your feet held down, then pull yourself back up. It works the hamstrings hard, especially on the way down. Advanced legs exercise using body weight. Targets hamstrings, also works glutes, core.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The Nordic hamstring curl is an advanced bodyweight exercise that intensely targ
 
 ## How to perform
 
-1. Kneel on a pad with your feet anchored under a stable surface or held by a partner.
-2. Keep your body straight from knees to head, arms ready in front of you.
-3. Slowly lower yourself forward by extending at the knees, controlling the descent with your hamstrings.
-4. Lower as far as you can while maintaining control, using your hands to catch yourself if needed.
-5. Push off the ground slightly if needed and use your hamstrings to pull yourself back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Kneel on a pad with your feet anchored under a strap or something sturdy, or held down by a partner.
+2. Keep your body straight from your knees to your head, with your hands ready in front of you.
+3. Lower your body forward slowly by straightening your knees, using your hamstrings to control how fast you go down.
+4. Go as far as you can under control, and catch yourself on your hands if needed.
+5. Push off the floor lightly if you need to, and use your hamstrings to pull yourself back up.
 
 ## Pro tips
 

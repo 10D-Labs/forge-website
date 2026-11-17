@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The suspended pushup is a challenging variation of the traditional pushup performed using a suspension trainer. This exercise increases instability, requiring greater core engagement and upper body strength. Advanced chest exercise using body weight. Targets chest, also works triceps, shoulders, core.
+A pushup with your hands in suspension trainer handles or rings just above the floor, so you have to keep the handles steady. It works the chest, triceps and shoulders. Advanced chest exercise using rings. Targets chest, also works triceps, shoulders, core.
 
 - **Body Part:** Chest
-- **Equipment:** Body Weight
+- **Equipment:** Rings
 - **Target Muscle:** Chest
 - **Secondary Muscles:** Triceps, Shoulders, Core
 - **Difficulty:** Advanced
@@ -15,12 +15,10 @@ The suspended pushup is a challenging variation of the traditional pushup perfor
 
 ## How to perform
 
-1. Find a suspension trainer and adjust it to an appropriate height.
-2. Stand facing away from the anchor point and hold the handles with an overhand grip.
-3. Walk your feet forward, leaning your body forward until your weight is supported by the suspension trainer.
-4. Keep your body straight from head to heels, engage your core, and lower your chest towards the handles.
-5. Push through your chest and arms to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set a suspension trainer or a pair of rings so the handles hang a few inches above the floor. Hold one in each hand, palms facing down.
+2. Walk your feet back into a pushup position, arms straight under your shoulders and body straight from head to heels.
+3. Bend your elbows and lower your chest between the handles until it's level with your hands. Don't let the handles drift apart.
+4. Push back up until your arms are straight.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Suspended Pushup is an advanced exercise. Beginners should master fundamenta
 ## Related exercises
 
 - [More Chest Exercises](https://forgetrainer.ai/exercises/chest)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Rings Exercises](https://forgetrainer.ai/exercises/equipment/rings)
 - [More Chest Exercises](https://forgetrainer.ai/exercises/muscle/chest)
 
 ---

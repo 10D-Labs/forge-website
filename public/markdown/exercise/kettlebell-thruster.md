@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell thruster is a compound exercise that combines a squat with an overhead press, targeting the shoulders while also engaging the quadriceps, glutes, and core. It requires coordination, strength, and some experience with kettlebell handling. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works quadriceps, glutes, core.
+A squat that flows straight into an overhead press, with a kettlebell at each shoulder. It works the shoulders, with the quads, glutes and abs helping drive the weight up. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works quadriceps, glutes, core.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,12 +15,10 @@ The kettlebell thruster is a compound exercise that combines a squat with an ove
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart, holding a kettlebell in front of your chest with both hands, palms facing each other.
-2. Lower into a squat position by bending your knees and pushing your hips back, keeping your chest up and your back straight.
-3. As you reach the bottom of the squat, explosively drive through your heels to stand up, simultaneously pressing the kettlebell overhead.
-4. Lock out your arms at the top of the movement, fully extending your elbows.
-5. Lower the kettlebell back to the starting position by reversing the movement, bending your elbows and lowering the weight back to your chest.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at your shoulders, palms facing each other.
+2. Bend your knees and push your hips back to squat down, keeping your chest up and your back straight.
+3. Drive up hard through your heels from the bottom, pressing both kettlebells straight overhead as you stand.
+4. Straighten your arms fully at the top, then bend your elbows to lower the kettlebells back to your shoulders.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable external shoulder rotation is an exercise that targets the deltoid muscles, particularly focusing on shoulder stability and external rotation. It also engages the rotator cuff and trapezius muscles, making it effective for improving shoulder health and function. Beginner shoulders exercise using cable. Targets shoulders, also works rotator cuff, trapezius.
+A standing cable move that swings the forearm outward while the elbow stays pinned to your side. It works the rear shoulders and the small muscles that steady the joint. Beginner shoulders exercise using cable. Targets shoulders, also works rotator cuff, trapezius.
 
 - **Body Part:** Shoulders
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The cable external shoulder rotation is an exercise that targets the deltoid mus
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Hold the cable handle with your arm extended in front of you, parallel to the ground.
-3. Keep your elbow slightly bent and your shoulder blades pulled back.
-4. Slowly rotate your arm outward, away from your body, while keeping your elbow in the same position.
-5. Pause for a moment at the end of the movement, then slowly return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set a cable pulley at elbow height, attach a single handle, and stand side-on to the machine.
+2. Hold the handle in the hand farther from the machine, palm facing your stomach, thumb up.
+3. Bend that elbow 90 degrees and tuck it against your side, forearm across your belly.
+4. Keep your elbow at your side and swing your forearm out, away from the machine, until your hand points out to the side.
+5. Let it come back slowly across your belly. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

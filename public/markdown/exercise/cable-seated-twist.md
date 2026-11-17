@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable seated twist is an exercise targeting the abdominal muscles, particularly the obliques, using a cable machine. It involves rotating the torso while seated, providing resistance throughout the movement. Intermediate core exercise using cable. Targets abs, also works obliques.
+A seated twist against a cable, turning your upper body with your arms straight out in front. It works the abs, especially the obliques at your sides. Intermediate core exercise using cable. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The cable seated twist is an exercise targeting the abdominal muscles, particula
 
 ## How to perform
 
-1. Sit on a cable machine with your feet flat on the ground and your knees slightly bent.
-2. Hold the cable handle with both hands and extend your arms straight in front of you.
-3. Keeping your core engaged, slowly rotate your torso to one side, pulling the cable across your body.
-4. Pause for a moment at the end of the range of motion, then slowly rotate back to the starting position.
-5. Repeat on the other side.
-6. Continue alternating sides for the desired number of repetitions.
+1. Set the pulley at shoulder height. Sit on a bench with the machine at your side and your feet flat on the floor.
+2. Turn toward the machine and hold the handle with both hands, arms straight.
+3. Turn your upper body slowly away from the machine, pulling the cable across your body.
+4. Turn back slowly toward the machine.
+5. Sit facing the other way to work the other side.
 
 ## Pro tips
 

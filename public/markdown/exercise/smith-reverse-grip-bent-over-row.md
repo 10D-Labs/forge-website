@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith reverse grip bent over row is a compound exercise targeting the upper back, performed using a smith machine. It involves pulling a bar with an underhand grip while bent over, focusing on the upper back, bicep, and forearms. Intermediate back exercise using smith machine. Targets upper back, also works biceps, forearms.
+A bent-over row on a Smith machine with your palms facing up. It works the upper back, with help from the biceps and forearms. Intermediate back exercise using smith machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Smith Machine
@@ -15,13 +15,10 @@ The smith reverse grip bent over row is a compound exercise targeting the upper 
 
 ## How to perform
 
-1. Set up the smith machine with the bar at hip height.
-2. Stand facing the bar with your feet shoulder-width apart.
-3. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-4. Grasp the bar with an underhand grip, hands shoulder-width apart.
-5. Pull the bar towards your lower chest, squeezing your shoulder blades together.
-6. Pause for a moment at the top, then slowly lower the bar back down to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set the Smith machine bar at hip height and stand facing it with your feet shoulder-width apart.
+2. Bend your knees slightly and lean forward from your hips with your back straight. Grip the bar with your palms facing up, hands shoulder-width apart.
+3. Pull the bar up toward your lower chest, drawing your shoulder blades together.
+4. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 

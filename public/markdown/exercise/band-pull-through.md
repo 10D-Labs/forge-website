@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band pull through is a hip hinge exercise that targets the glutes, hamstrings, and lower back using a resistance band. It is performed by hinging at the hips while facing away from an anchored band, then driving the hips forward to stand upright. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, lower back.
+A hip drive against a band anchored low behind you and held between your legs: push your hips back, then drive them forward to stand. It works the glutes and hamstrings, plus the lower back. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,13 +15,11 @@ The band pull through is a hip hinge exercise that targets the glutes, hamstring
 
 ## How to perform
 
-1. Attach a resistance band to a sturdy anchor point at ground level.
-2. Stand facing away from the anchor point with your feet shoulder-width apart.
-3. Step forward to create tension in the band, keeping your knees slightly bent.
-4. Hinge at the hips and push your glutes back, maintaining a slight bend in your knees.
-5. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings.
-6. Drive your hips forward and squeeze your glutes to return to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Attach a resistance band to a sturdy anchor at floor level.
+2. Stand facing away from the anchor with your feet shoulder-width apart, holding the band with both hands between your legs.
+3. Step forward until the band is tight, keeping your knees slightly bent.
+4. Push your hips back and lean forward until your upper body is level with the floor.
+5. Drive your hips forward to stand up straight.
 
 ## Pro tips
 

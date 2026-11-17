@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell alternating row is a compound exercise targeting the upper back, performed by alternating rowing movements with kettlebells while maintaining a bent over position. Intermediate back exercise using kettlebell. Targets upper back, also works biceps, forearms.
+A bent-over row with two kettlebells, pulling one up at a time and switching each rep. It works the upper back. Intermediate back exercise using kettlebell. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Kettlebell
@@ -15,11 +15,10 @@ The kettlebell alternating row is a compound exercise targeting the upper back, 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, knees slightly bent, and hold a kettlebell in each hand with your palms facing your body.
-2. Bend forward at the hips, keeping your back straight and your core engaged.
-3. Pull one kettlebell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.
-4. Lower the kettlebell back down to the starting position and repeat with the other arm.
-5. Continue alternating arms for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and knees slightly bent, holding a kettlebell in each hand, palms facing your body.
+2. Bend forward at your hips, keeping your back straight.
+3. Pull one kettlebell up toward your chest, keeping your elbow close to your body and drawing your shoulder blade back.
+4. Lower it until your arm is straight, then row the other one. Keep alternating sides.
 
 ## Pro tips
 

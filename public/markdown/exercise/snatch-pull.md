@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The snatch pull is a compound Olympic weightlifting movement that develops explosive power and strength in the lower body, particularly targeting the quads, hamstrings, and glutes. It requires coordination, balance, and proper technique to perform safely and effectively. Advanced legs exercise using barbell. Targets quads, also works hamstrings, glutes, calves.
+A barbell pull from the floor with a wide grip, finishing up on your toes with a shrug instead of catching the bar overhead. It works the quads, hamstrings and glutes. Advanced legs exercise using barbell. Targets quads, also works hamstrings, glutes, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,15 +15,10 @@ The snatch pull is a compound Olympic weightlifting movement that develops explo
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and the barbell on the ground in front of you.
-2. Bend your knees and hinge at the hips to lower into a squat position, gripping the barbell with an overhand grip.
-3. Keep your back straight and chest up as you drive through your heels to lift the barbell off the ground, extending your hips and knees.
-4. As the barbell reaches hip level, explosively pull it upwards, shrugging your shoulders and pulling your elbows high and to the sides.
-5. As the barbell reaches its highest point, quickly drop underneath it, pulling yourself into a deep squat position.
-6. Catch the barbell overhead with your arms fully extended and your knees bent.
-7. Stand up by extending your hips and knees, keeping the barbell overhead.
-8. Lower the barbell back down to the starting position by reversing the movement.
-9. Repeat for the desired number of repetitions.
+1. Stand with feet hip-width apart and the bar over your toes. Squat down and grip it much wider than your shoulders, palms facing you.
+2. Keep your back flat and your arms straight as you stand up, pushing through your feet and keeping the bar close to your legs.
+3. As the bar passes your thighs, push your hips forward, rise onto your toes and shrug your shoulders up.
+4. Lower the bar slowly back to the floor by bending your hips and knees.
 
 ## Pro tips
 

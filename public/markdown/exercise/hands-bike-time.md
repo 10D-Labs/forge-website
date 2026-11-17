@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The hands bike is a cardiovascular exercise that targets the pectorals, triceps, and shoulders by requiring the user to pedal with their hands, simulating a cycling motion for the upper body. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works triceps, shoulders.
+Cardio on an arm bike: you sit and turn the handles in circles with your hands instead of your feet. It works your heart and lungs, plus the chest, shoulders and triceps. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works triceps, shoulders.
 
 - **Body Part:** Cardio
 - **Equipment:** Cardio Machine
@@ -15,11 +15,10 @@ The hands bike is a cardiovascular exercise that targets the pectorals, triceps,
 
 ## How to perform
 
-1. Adjust the seat height and handlebar position to a comfortable level.
-2. Sit on the ergometer with your back straight and feet on the pedals.
-3. Grasp the handles with your hands and position your arms at a 90 degree angle.
-4. Start pedaling with your hands, pushing and pulling the handles in a controlled motion.
-5. Continue pedaling for your target duration.
+1. Set the seat height and handles so you can reach the handles comfortably.
+2. Sit tall with your feet on the footplate. Hold a handle in each hand with your elbows bent at about a right angle.
+3. Turn the handles in circles with your hands, pushing and pulling at a smooth, steady pace.
+4. Keep going for the set time.
 
 ## Pro tips
 

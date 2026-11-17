@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell Arnold press is a shoulder exercise that involves pressing kettlebells overhead while rotating the wrists, targeting the deltoids and engaging the tricep and upper back. It requires coordination and control due to the rotational movement and the instability of kettlebells. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, upper back.
+A one-arm overhead press with a kettlebell, turning your palm from facing you to facing forward as you press. It works the front of the shoulders, with help from the triceps and upper back. Intermediate shoulders exercise using kettlebell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Kettlebell
@@ -15,10 +15,9 @@ The kettlebell Arnold press is a shoulder exercise that involves pressing kettle
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in each hand at shoulder height with your palms facing towards you.
-2. Engage your core and press the kettlebells overhead, rotating your palms to face forward as you extend your arms.
-3. Pause at the top of the movement, then slowly lower the kettlebells back to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand at shoulder height, palm facing you.
+2. Press the kettlebell overhead, turning your palm to face forward as your arm straightens.
+3. Lower it slowly back to your shoulder, turning your palm to face you again.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The forward angled calf raise is a resistance exercise performed on a leg press machine, targeting the calf muscles. The movement involves raising and lowering the heels while the toes remain on the platform, using the leg press machine for added resistance. Beginner legs exercise using machine. Targets calves, also works hamstrings, glutes.
+A standing calf raise done in a hack squat machine while facing the back pad, with the weight on your shoulders. It works the calves. Beginner legs exercise using machine. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The forward angled calf raise is a resistance exercise performed on a leg press 
 
 ## How to perform
 
-1. Adjust the leg press machine to a comfortable weight and position yourself on the machine with your toes on the platform and your heels hanging off.
-2. Place your hands on the handles or the sides of the machine for support.
-3. Engage your calves and slowly raise your heels as high as possible, pushing against the resistance of the sled.
-4. Pause for a moment at the top of the movement, then slowly lower your heels back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Step into a hack squat machine facing the back pad, chest against it and shoulders under the shoulder pads. Hold the handles.
+2. Stand with your feet flat on the footplate, hip-width apart, and your legs nearly straight.
+3. Raise your heels as high as you can, pushing the pads up with your shoulders.
+4. Lower your heels slowly back down.
 
 ## Pro tips
 

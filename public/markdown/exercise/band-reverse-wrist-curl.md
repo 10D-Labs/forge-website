@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band reverse wrist curl is an isolation exercise targeting the forearms, specifically the wrist extensors, using a resistance band. It is performed seated, with the forearms resting on the thighs and the wrists curling upward against the resistance of the band. Beginner arms exercise using resistance band. Targets forearms, also works forearms.
+A wrist curl with your palms facing down, lifting the backs of your hands against a band under your feet. It works the muscles on top of your forearms. Beginner arms exercise using resistance band. Targets forearms, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,12 +15,11 @@ The band reverse wrist curl is an isolation exercise targeting the forearms, spe
 
 ## How to perform
 
-1. Sit on a bench or chair with your feet flat on the ground.
-2. Hold the band with an overhand grip, palms facing down, and wrap it around your fingers.
-3. Rest your forearms on your thighs, with your wrists hanging off the edge.
-4. Slowly curl your wrists upward, squeezing your forearms.
-5. Pause for a moment at the top, then slowly lower your wrists back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit on a box, bench or chair with your feet flat on the floor and the middle of a resistance band under your feet.
+2. Hold the band with your palms facing down, wrapping it around your fingers.
+3. Rest your forearms on your thighs so your wrists hang past your knees.
+4. Bend your wrists to lift the backs of your hands up.
+5. Lower your hands slowly.
 
 ## Pro tips
 

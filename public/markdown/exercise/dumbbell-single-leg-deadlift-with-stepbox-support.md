@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell single leg deadlift with stepbox support is a unilateral lower body exercise that targets the glutes, with secondary emphasis on the hamstrings and lower back. It challenges balance, stability, and strength, making it suitable for those with some experience in weight training. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
+A one-leg deadlift with a dumbbell, hinging forward on your front leg while your back foot rests on a step box. It works the glutes, with help from the hamstrings and lower back. Intermediate legs exercise using dumbbell. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell single leg deadlift with stepbox support is a unilateral lower body
 
 ## How to perform
 
-1. Stand with your feet hip-width apart, holding a dumbbell in your right hand.
-2. Place your left foot on a stepbox or elevated surface behind you.
-3. Keeping your back straight and core engaged, hinge forward at the hips, lowering the dumbbell towards the ground.
-4. As you lower the dumbbell, simultaneously lift your left leg behind you, maintaining a straight line from head to heel.
-5. Lower the dumbbell until you feel a stretch in your right hamstring, then return to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with a step box behind you, holding a dumbbell in your right hand. Rest your left foot on the box.
+2. Keep your back straight and hinge forward at your hips, lowering the dumbbell toward the floor. Your back foot stays on the box.
+3. Stop when you feel a stretch in the back of your right thigh.
+4. Push through your right foot to stand back up. Do all your reps on one side, then switch.
 
 ## Pro tips
 

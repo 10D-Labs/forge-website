@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band underhand pulldown is a resistance band exercise targeting the latissimus dorsi (lats) and also engaging the bicep and forearms. It mimics the movement of a lat pulldown machine but uses a resistance band anchored overhead. Beginner back exercise using resistance band. Targets lats, also works biceps, forearms.
+A seated pulldown on a band anchored overhead, holding the handles with your palms facing you. It works the lats along the sides of your back, with the biceps helping. Beginner back exercise using resistance band. Targets lats, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Resistance Band
@@ -15,13 +15,10 @@ The band underhand pulldown is a resistance band exercise targeting the latissim
 
 ## How to perform
 
-1. Attach the band to a high anchor point, such as a pullup bar or sturdy beam.
-2. Stand facing the anchor point with your feet shoulder-width apart.
-3. Grasp the band with an underhand grip, hands slightly wider than shoulder-width apart.
-4. Extend your arms fully overhead, keeping your elbows slightly bent.
-5. Engage your lats and pull the band down towards your chest, squeezing your shoulder blades together.
-6. Pause for a moment at the bottom of the movement, then slowly release the tension and return to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Anchor a band high above you, slightly in front, and sit on a box facing it with your feet flat on the floor.
+2. Reach up and hold the handles about shoulder-width apart, palms facing you.
+3. Pull your elbows down to your sides until your hands reach your upper chest, leaning back slightly.
+4. Let your arms rise slowly until they are straight again.
 
 ## Pro tips
 

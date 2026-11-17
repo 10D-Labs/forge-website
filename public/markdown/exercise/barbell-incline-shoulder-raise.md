@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell incline shoulder raise is performed on an incline bench and targets the serratus anterior, with secondary emphasis on the deltoids and trapezius. The movement involves raising a barbell overhead from shoulder height while seated on an incline bench. Intermediate core exercise using barbell. Targets serratus, also works shoulders, trapezius.
+A short straight-arm push on an incline bench where only your shoulders move the bar. It works the muscles along the sides of your ribs (serratus), plus the shoulders and upper back. Intermediate core exercise using barbell. Targets serratus, also works shoulders, trapezius.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,13 +15,10 @@ The barbell incline shoulder raise is performed on an incline bench and targets 
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Sit on the bench with your back against the pad and feet flat on the ground.
-3. Hold a barbell with an overhand grip, slightly wider than shoulder-width apart.
-4. Lift the barbell up to shoulder height, keeping your elbows slightly bent.
-5. Slowly raise the barbell overhead, extending your arms fully.
-6. Pause for a moment at the top, then slowly lower the barbell back to shoulder height.
-7. Repeat for the desired number of repetitions.
+1. Sit on an incline bench in a rack, set to about 45 degrees. Grip the bar with hands shoulder-width apart, palms facing your feet.
+2. Lift the bar off the rack and hold it straight above your shoulders, arms straight, shoulders resting back on the bench.
+3. Keeping your arms straight, reach your shoulders up toward the ceiling to push the bar a few inches higher.
+4. Lower slowly until your shoulders rest back on the bench.
 
 ## Pro tips
 

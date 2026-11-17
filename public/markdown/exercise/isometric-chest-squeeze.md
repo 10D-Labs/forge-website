@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The isometric chest squeeze is a bodyweight exercise that targets the pectoral muscles by requiring you to contract and hold tension in your chest while your arms are extended in front of you. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
+A standing chest squeeze where you press your palms together with straight arms and hold the tension. It works the chest with no equipment. Beginner chest exercise using body weight. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Body Weight
@@ -16,11 +16,9 @@ The isometric chest squeeze is a bodyweight exercise that targets the pectoral m
 ## How to perform
 
 1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Extend your arms straight out in front of you, parallel to the ground, with your palms facing each other.
-3. Squeeze your chest muscles together as hard as you can, while keeping your arms straight.
-4. Hold this position for a few seconds, focusing on contracting your chest muscles.
-5. Release the squeeze and relax your chest muscles.
-6. Repeat for the desired number of repetitions.
+2. Raise your arms straight out in front of you to chest height and press your palms together.
+3. Squeeze your chest as hard as you can, pressing your palms into each other with your arms straight.
+4. Hold for the set time, then relax your arms and chest.
 
 ## Pro tips
 

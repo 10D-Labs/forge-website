@@ -2,54 +2,50 @@
 
 ## Quick answer
 
-The smith squat is a lower body exercise performed using a smith machine. It primarily targets the glutes, with secondary emphasis on the quadriceps, hamstrings, and calves. The guided bar path of the smith machine provides stability, making it suitable for those learning proper squat form or looking to focus on muscle activation without balancing a free barbell. Beginner legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves.
+A back squat in a Smith machine, with the bar across your upper back. It works the glutes, with help from the quads and hamstrings. Intermediate legs exercise using smith machine. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
 - **Target Muscle:** Glutes
 - **Secondary Muscles:** Quadriceps, Hamstrings, Calves
-- **Difficulty:** Beginner
+- **Difficulty:** Intermediate
 - **Category:** Strength
 
 ---
 
 ## How to perform
 
-1. Set up the smith machine with the barbell at an appropriate height for your squat.
-2. Stand with your feet shoulder-width apart, toes slightly turned out.
-3. Position yourself under the barbell, resting it on your upper traps and shoulders.
-4. Grip the barbell with a wide grip, slightly wider than shoulder-width apart.
-5. Engage your core and unrack the barbell, stepping back to clear the rack.
-6. Keeping your chest up and back straight, initiate the squat by bending at the hips and knees.
-7. Lower your body until your thighs are parallel to the ground or slightly below.
-8. Pause for a moment at the bottom, then drive through your heels to return to the starting position.
-9. Repeat for the desired number of repetitions.
+1. Set the Smith machine bar at upper-back height. Stand under it with your feet shoulder-width apart, toes turned out slightly.
+2. Rest the bar across your upper back and hold it with your hands a little wider than your shoulders.
+3. Straighten your legs to lift the bar off the hooks, and step back.
+4. Push your hips back and bend your knees, keeping your chest up, until your thighs are level with the floor or a little below.
+5. Drive through your heels to stand back up.
 
 ## Pro tips
 
-- Position your feet slightly forward of the bar to reduce knee stress and increase glute involvement.
-- Keep your core braced and chest up throughout the descent and ascent.
-- Descend until your thighs are at least parallel to the floor for complete muscle recruitment.
+- Set the bar across your upper back and stand with your feet about shoulder width, slightly forward of the bar.
+- Sit down between your heels with your chest up until your thighs are about parallel to the floor.
+- Drive through your whole foot to stand and squeeze your glutes at the top.
 
 ## Common mistakes
 
-- Placing feet directly under the bar as you would with a free barbell squat, which doesn't account for the fixed path.
-- Relying on the machine for balance and using sloppy form that wouldn't translate to free weight squats.
-- Not going deep enough; partial squats on the Smith machine develop partial strength.
+- Putting your feet directly under the bar, which pushes the knees far forward and makes you lean.
+- Letting the heels lift at the bottom.
+- Cutting the depth short when the weight gets heavy.
 
 ## FAQ
 
-### Is the Smith machine squat a good exercise?
+### Is the Smith Squat as good as a barbell squat?
 
-It's effective for building quad and glute strength, especially for beginners. The fixed path is both a benefit (stability) and a limitation (reduced stabilizer activation). Use it alongside free weight squats for best results.
+It trains the same leg muscles with less balance demand. That makes it useful for beginners and for pushing hard safely, though it builds less of the stability a free barbell squat does.
 
-### Where should I position my feet for Smith Squats?
+### Where should my feet be in a Smith Squat?
 
-Place your feet 6-12 inches in front of the bar, shoulder-width apart. This forward position accommodates the fixed bar path and reduces knee shear compared to placing feet directly under the bar.
+Slightly in front of the bar. Feet further forward put more work on the glutes; closer under the bar puts more on the quads.
 
-### Can the Smith Squat replace barbell squats?
+### Is the Smith Squat good for building glutes?
 
-It can build leg muscle effectively but doesn't replicate the balance, core stability, and proprioceptive demands of a barbell squat. Use the Smith Squat as a supplement, not a full replacement.
+Yes. Squatting to at least parallel with your feet slightly forward works the glutes well, and the guided bar lets you train hard safely.
 
 ### What muscles does the Smith Squat work?
 
@@ -57,7 +53,7 @@ The Smith Squat primarily targets the glutes, with secondary activation in the q
 
 ### Is the Smith Squat good for beginners?
 
-Yes, the Smith Squat is rated as a beginner-level exercise. It's a great starting point for building glutes strength.
+The Smith Squat is rated as intermediate. Beginners should build a base of glutes strength with easier variations first.
 
 ## Related exercises
 

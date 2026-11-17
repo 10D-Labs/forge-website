@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Elbow dips are a bodyweight exercise targeting the tricep, performed using a bench or chair. The movement involves lowering and raising the body by bending and straightening the elbows while keeping the back close to the bench. Beginner arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A dip on parallel bars that goes all the way down onto your forearms before you press back up. It works the triceps, with help from the chest and shoulders. Beginner arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Elbow dips are a bodyweight exercise targeting the tricep, performed using a ben
 
 ## How to perform
 
-1. Sit on the edge of a bench or chair with your hands gripping the edge next to your hips.
-2. Slide your hips forward off the bench and straighten your legs, keeping your heels on the ground.
-3. Bend your elbows and lower your body towards the ground, keeping your back close to the bench.
-4. Pause for a moment at the bottom, then push through your hands to straighten your arms and lift your body back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Grip a pair of parallel bars, palms facing each other, and push up until your arms are straight and your legs hang below you.
+2. Lean forward and bend your elbows to lower your chest toward the bars.
+3. Lower your forearms onto the bars and bring your upper body upright, so you are propped up on your forearms.
+4. Press down through your hands to lift your elbows off the bars and straighten your arms back to the start.
 
 ## Pro tips
 

@@ -2,9 +2,9 @@
 
 ## Quick Answer
 
-10 effective back exercises you can do with barbell. Complete instructions and form tips included.
+11 effective back exercises you can do with barbell. Complete instructions and form tips included.
 
-**Difficulty breakdown:** 1 Beginner | 9 Intermediate | 0 Advanced
+**Difficulty breakdown:** 1 Beginner | 10 Intermediate | 0 Advanced
 
 ---
 
@@ -14,13 +14,14 @@
 
 - **Barbell Shrug** — Target: Traps | Secondary: Shoulders
 
-### Intermediate (9 exercises)
+### Intermediate (10 exercises)
 
 - **Barbell Bent Over Row** — Target: Upper Back | Secondary: Biceps, Forearms
 - **Barbell Incline Row** — Target: Upper Back | Secondary: Biceps, Forearms
-- **Bent Over Row** — Target: Upper Back | Secondary: Biceps, Forearms
+- **Landmine T-Bar Row** — Target: Upper Back | Secondary: Biceps, Forearms
 - **Barbell Pullover** — Target: Lats | Secondary: Chest, Triceps
-- **Single Arm Bent Over Row** — Target: Upper Back | Secondary: Biceps, Forearms
+- **Barbell Skier** — Target: Lats | Secondary: Triceps, Rear Deltoids, Core
+- **Single Arm Landmine Row** — Target: Upper Back | Secondary: Biceps, Forearms
 - **Barbell Pendlay Row** — Target: Upper Back | Secondary: Biceps, Forearms
 - **Barbell Single Arm Bent Over Row** — Target: Upper Back | Secondary: Biceps, Forearms
 - **Barbell Reverse Grip Bent Over Row** — Target: Upper Back | Secondary: Biceps, Forearms
@@ -32,7 +33,7 @@
 
 Our AI trainers design personalized back workout plans using barbell. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

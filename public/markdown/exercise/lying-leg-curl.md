@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The lying leg curl is an isolation exercise targeting the hamstrings, performed on a machine. It involves curling the legs upward against resistance while lying face down, emphasizing hamstring contraction and control. Beginner legs exercise using machine. Targets hamstrings, also works calves.
+A machine curl done lying face down, bending your knees to lift a pad behind your ankles. It works the hamstrings on the back of the thigh. Beginner legs exercise using machine. Targets hamstrings, also works calves.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The lying leg curl is an isolation exercise targeting the hamstrings, performed 
 
 ## How to perform
 
-1. Adjust the machine to fit your body and select the desired weight.
-2. Lie face down on the machine with your legs straight and your heels against the padded lever.
-3. Grasp the handles or the sides of the machine for stability.
-4. Keeping your upper body stationary, exhale and curl your legs up as far as possible without lifting your hips off the pad.
-5. Hold the contracted position for a brief pause as you squeeze your hamstrings.
-6. Inhale and slowly lower The back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Adjust the machine to fit your body. Lie face down with your legs straight and the pad against the backs of your ankles.
+2. Hold the handles or the sides of the machine.
+3. Keep your hips on the pad and curl your heels up toward your glutes as far as you can.
+4. Lower your legs slowly until they're straight again.
 
 ## Pro tips
 

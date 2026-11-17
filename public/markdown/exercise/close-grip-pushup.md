@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The close grip pushup is a bodyweight exercise that primarily targets the tricep, with secondary emphasis on the chest and shoulders. It is performed by placing the hands close together under the shoulders and performing a pushup while keeping the elbows close to the body. Intermediate arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A pushup with your hands close together and your elbows tucked in. It mainly works the triceps, with help from the chest and shoulders. Intermediate arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ The close grip pushup is a bodyweight exercise that primarily targets the tricep
 
 ## How to perform
 
-1. Start in a high plank position with your hands placed close together, directly under your shoulders.
-2. Engage your core and lower your body towards the ground, keeping your elbows close to your sides.
-3. Push through your palms to extend your arms and return to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Start at the top of a pushup, arms straight and body in a straight line, with your hands close together under your shoulders.
+2. Lower your chest toward the floor, keeping your elbows close to your sides.
+3. Push through your palms until your arms are straight again.
 
 ## Pro tips
 

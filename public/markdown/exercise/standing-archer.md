@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The standing archer is a bodyweight exercise that targets the upper back and involves rotational movement of the torso, mimicking the motion of drawing a bowstring. It also engages the shoulders, bicep, and forearms. Beginner back exercise using body weight. Targets upper back, also works shoulders, biceps, forearms.
+A no-weight standing move where you pull one arm back as if drawing a bow while turning your upper body. It works the upper back, with the shoulders and arms helping. Beginner back exercise using body weight. Targets upper back, also works shoulders, biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -16,12 +16,9 @@ The standing archer is a bodyweight exercise that targets the upper back and inv
 ## How to perform
 
 1. Stand with your feet shoulder-width apart and your knees slightly bent.
-2. Extend your arms straight out in front of you at shoulder height, parallel to the ground.
-3. Rotate your torso to the right, keeping your arms extended and your back straight.
-4. As you rotate, extend your right arm forward and your left arm back, mimicking the motion of drawing a bowstring.
-5. Hold the position for a moment, then return to the starting position.
-6. Repeat the motion, this time rotating your torso to the left and extending your left arm forward and your right arm back.
-7. Continue alternating sides for the desired number of repetitions.
+2. Keep your back straight and raise both arms straight out in front of you at shoulder height.
+3. Keep your left arm straight and pull your right arm back like drawing a bow, turning your upper body as you go.
+4. Lower your arms to your sides, then repeat, pulling your left arm back. Keep alternating sides.
 
 ## Pro tips
 

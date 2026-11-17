@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The stairmaster is a cardiovascular exercise performed on a machine that simulates stair climbing. It primarily targets the cardiovascular system while also engaging the lower body muscles. Distance is typically measured in floors or flights climbed. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
+Cardio on a stair-climbing machine, stepping up moving stairs while you hold the handrails, with distance usually counted in floors. It works your heart and lungs, plus your legs. Beginner cardio exercise using cardio machine. Targets cardiovascular, also works quadriceps, hamstrings, glutes, calves.
 
 - **Body Part:** Cardio
 - **Equipment:** Cardio Machine
@@ -15,13 +15,11 @@ The stairmaster is a cardiovascular exercise performed on a machine that simulat
 
 ## How to perform
 
-1. Adjust the machine to a comfortable level.
-2. Step onto the machine and place your hands on the handrails for support.
-3. Start walking by placing one foot on a step and then the other, alternating between legs.
-4. Maintain an upright posture and engage your core muscles.
-5. Continue climbing until you reach your target distance or number of floors.
-6. Gradually decrease the intensity to cool down.
-7. Remember to stretch after completing the exercise.
+1. Set the stair machine to a comfortable level.
+2. Step onto the stairs and rest your hands on the handrails for support.
+3. Climb one step at a time, stepping up with one foot and then the other.
+4. Stay upright and keep your abs tight.
+5. Keep going for the set distance.
 
 ## Pro tips
 

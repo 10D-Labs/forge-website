@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-The dumbbell over bench one arm neutral wrist curl is an isolation exercise targeting the bicep and forearms. It is performed seated, with the arm extended over a bench and the wrist in a neutral position, curling the dumbbell towards the shoulder. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A wrist exercise done kneeling at a bench with your forearm resting on it, tipping an upright dumbbell forward and back with your thumb on top. It works the forearms. Beginner arms exercise using dumbbell. Targets forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
-- **Target Muscle:** Biceps
-- **Secondary Muscles:** Forearms
+- **Target Muscle:** Forearms
+
 - **Difficulty:** Beginner
 - **Category:** Strength
 
@@ -15,10 +15,10 @@ The dumbbell over bench one arm neutral wrist curl is an isolation exercise targ
 
 ## How to perform
 
-1. Sit on a bench with a dumbbell in one hand and your arm extended over the bench, palm facing up.
-2. Keep your upper arm stationary and curl the dumbbell towards your shoulder, keeping your wrist in a neutral position.
-3. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-4. Repeat for the desired number of repetitions, then switch arms.
+1. Kneel behind a flat bench and rest one forearm on it, with your hand just past the far edge.
+2. Hold a dumbbell upright in that hand, palm facing in and thumb on top.
+3. Keep your forearm on the bench and bend your wrist to tip the top of the dumbbell forward and down.
+4. Lift it back up to upright using only your wrist. Do all your reps on one side, then switch.
 
 ## Pro tips
 
@@ -48,17 +48,17 @@ Strengthening the forearm muscles in a neutral wrist position can improve wrist 
 
 ### What muscles does the Dumbbell Over Bench Single Arm Neutral Wrist Curl work?
 
-The Dumbbell Over Bench Single Arm Neutral Wrist Curl primarily targets the biceps, with secondary activation in the forearms. It's classified as a strength exercise for the arms.
+The Dumbbell Over Bench Single Arm Neutral Wrist Curl primarily targets the forearms. It's classified as a strength exercise for the arms.
 
 ### Is the Dumbbell Over Bench Single Arm Neutral Wrist Curl good for beginners?
 
-Yes, the Dumbbell Over Bench Single Arm Neutral Wrist Curl is rated as a beginner-level exercise. It's a great starting point for building biceps strength.
+Yes, the Dumbbell Over Bench Single Arm Neutral Wrist Curl is rated as a beginner-level exercise. It's a great starting point for building forearms strength.
 
 ## Related exercises
 
 - [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
 - [More Dumbbell Exercises](https://forgetrainer.ai/exercises/equipment/dumbbell)
-- [More Biceps Exercises](https://forgetrainer.ai/exercises/muscle/biceps)
+- [More Forearms Exercises](https://forgetrainer.ai/exercises/muscle/forearms)
 
 ---
 

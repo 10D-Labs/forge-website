@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The alternate leg press is a machine-based exercise targeting the quadriceps, with secondary emphasis on the hamstrings and glutes. It involves pressing one leg at a time against a foot platform, providing a controlled environment for building lower body strength. Beginner legs exercise using machine. Targets quads, also works hamstrings, glutes.
+A machine leg press where each leg pushes its own footplate, one at a time. It works the quads, with the hamstrings and glutes helping. Beginner legs exercise using machine. Targets quads, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The alternate leg press is a machine-based exercise targeting the quadriceps, wi
 
 ## How to perform
 
-1. Adjust the seat and foot platform of the machine to your desired position.
-2. Sit on the machine with your back against the backrest and your feet on the foot platform.
-3. Place your hands on the handles or sides of the machine for stability.
-4. Push one foot against the foot platform, extending your leg until it is almost fully straight.
-5. Pause for a moment, then slowly bend your leg and return to the starting position.
-6. Repeat with the other leg.
-7. Continue alternating legs for the desired number of repetitions.
+1. Adjust the seat and footplates, then sit with your back against the backrest and your feet on the footplates.
+2. Hold the handles or the sides of the machine.
+3. Push one footplate away by straightening that leg until it's almost fully straight.
+4. Bend the leg slowly to bring the plate back, then press with the other leg. Keep alternating sides.
 
 ## Pro tips
 

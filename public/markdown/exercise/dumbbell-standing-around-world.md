@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell standing around world is a shoulder exercise that involves moving dumbbells in a circular motion around the body, targeting the deltoids and engaging the tricep and forearms. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, forearms.
+A raise that sweeps straight arms out to the sides and all the way overhead. It works the side shoulders. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, forearms.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell standing around world is a shoulder exercise that involves moving d
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand.
-2. Extend your arms straight out to the sides at shoulder height, palms facing down.
-3. Keeping your arms straight, slowly rotate your arms in a circular motion, bringing the dumbbells in front of your body and then overhead.
-4. Continue the circular motion, bringing the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand tall with a dumbbell in each hand, arms straight down in front of your thighs, palms facing forward.
+2. Keep your arms straight and your palms facing forward as you raise the dumbbells out to your sides.
+3. Keep going in a wide arc until the dumbbells meet above your head.
+4. Lower them slowly along the same arc back to your thighs.
 
 ## Pro tips
 

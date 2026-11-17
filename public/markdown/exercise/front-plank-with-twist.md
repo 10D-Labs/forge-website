@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The front plank with twist is a core exercise that targets the abs and obliques while also engaging the shoulders. It involves rotating the torso while maintaining a plank position, which challenges stability and coordination. Intermediate core exercise using body weight. Targets abs, also works obliques, shoulders.
+A forearm plank that turns into a side plank with your top arm reaching up, then back. It works the abs and obliques, with help from the shoulders. Intermediate core exercise using body weight. Targets abs, also works obliques, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The front plank with twist is a core exercise that targets the abs and obliques 
 
 ## How to perform
 
-1. Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe.
-2. Engage your core and glutes to maintain a stable position.
-3. Rotate your torso to the right, lifting your right arm and extending it towards the ceiling.
-4. Keep your hips and legs stable as you twist.
-5. Hold for a moment, then return to the starting position.
-6. Repeat the twist on the left side.
-7. Continue alternating sides for the desired number of repetitions.
+1. Start in a plank on your forearms, elbows under your shoulders and your body in a straight line from head to heels.
+2. Turn your body to the right onto your left forearm and reach your right arm up toward the ceiling, keeping your hips up.
+3. Lower your arm and turn back to the forearm plank.
+4. Twist to the left side next. Keep alternating sides.
 
 ## Pro tips
 

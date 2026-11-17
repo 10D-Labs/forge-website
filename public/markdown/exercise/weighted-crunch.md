@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted crunch is an abdominal exercise that increases resistance to strengthen the abs and obliques. It is performed lying on your back, holding a weight on your chest, and curling your upper body upward. Intermediate core exercise using body weight. Targets abs, also works obliques.
+A crunch with your legs raised, reaching a weight plate toward the ceiling with straight arms. It works the abs, with some help from the obliques. Intermediate core exercise using weight plate. Targets abs, also works obliques.
 
 - **Body Part:** Core
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Abs
 - **Secondary Muscles:** Obliques
 - **Difficulty:** Intermediate
@@ -15,11 +15,10 @@ The weighted crunch is an abdominal exercise that increases resistance to streng
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Hold a weight plate or dumbbell on your chest.
-3. Engage your abs and lift your upper body off the ground, curling forward until your shoulder blades are off the ground.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back and lift your legs so your thighs point up and your knees are bent, feet in the air.
+2. Hold a weight plate flat above your chest with straight arms, hands on opposite edges, palms facing each other.
+3. Curl your head and shoulders off the floor, pushing the plate straight up toward the ceiling.
+4. Lower your shoulders slowly back to the floor, keeping your arms straight and your legs still.
 
 ## Pro tips
 
@@ -58,7 +57,7 @@ The Weighted Crunch is rated as intermediate. Beginners should build a base of a
 ## Related exercises
 
 - [More Core Exercises](https://forgetrainer.ai/exercises/core)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Abs Exercises](https://forgetrainer.ai/exercises/muscle/abs)
 
 ---

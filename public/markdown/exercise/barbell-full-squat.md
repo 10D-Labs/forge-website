@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell full squat is a compound lower body exercise that targets the glutes and also works the quadriceps, hamstrings, calves, and core. It involves squatting down with a barbell placed across the upper back, requiring strength, balance, and proper technique. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A back squat with the barbell across your upper back, going down until your thighs are level with the floor or lower. It works the glutes, plus the quads, hamstrings and calves. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,14 +15,11 @@ The barbell full squat is a compound lower body exercise that targets the glutes
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, toes slightly turned out.
-2. Hold the barbell across your upper back, resting it on your traps or rear delts.
-3. Engage your core and keep your chest up as you begin to lower your body down.
-4. Bend at the knees and hips, pushing your hips back and down as if sitting into a chair.
-5. Lower yourself until your thighs are parallel to the ground or slightly below.
-6. Keep your knees in line with your toes and your weight in your heels.
-7. Drive through your heels to stand back up, extending your hips and knees.
-8. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and your toes turned slightly out.
+2. Rest the barbell across your upper back, just below your neck or a little lower.
+3. Bend your knees and push your hips back and down, as if sitting into a chair.
+4. Go down until your thighs are level with the floor or slightly below, keeping your knees in line with your toes.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

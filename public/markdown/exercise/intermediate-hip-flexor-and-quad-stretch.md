@@ -2,12 +2,12 @@
 
 ## Quick answer
 
-A stretch targeting the hip flexors and quadriceps using a rope for assistance, suitable for improving flexibility in the upper legs. Intermediate legs exercise using resistance band. Targets quads, also works hamstrings, glutes.
+A face-down stretch using a band over your shoulder to pull your heel toward your glutes. It stretches the quads on the front of the thigh. Intermediate legs exercise using resistance band. Targets quads, also works hip flexors.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
 - **Target Muscle:** Quads
-- **Secondary Muscles:** Hamstrings, Glutes
+- **Secondary Muscles:** Hip Flexors
 - **Difficulty:** Intermediate
 - **Category:** Stretching
 
@@ -15,12 +15,10 @@ A stretch targeting the hip flexors and quadriceps using a rope for assistance, 
 
 ## How to perform
 
-1. Stand upright with your feet shoulder-width apart.
-2. Hold onto a stable object for support.
-3. Bend your right knee and bring your right foot towards your glutes, grabbing the rope with your right hand.
-4. Slowly pull your right foot towards your glutes, feeling a stretch in your right quad.
-5. Hold the stretch for 20-30 seconds.
-6. Release the stretch and repeat on the left side.
+1. Lie face down with your legs straight and a band looped around one ankle.
+2. Bend that knee, run the band over your shoulder, and hold it with both hands in front of your head.
+3. Pull the band to draw your heel toward your glutes until the front of your thigh stretches. Keep your hips on the floor.
+4. Hold for the set time, then ease off slowly until your shin points straight up and switch legs.
 
 ## Pro tips
 
@@ -50,7 +48,7 @@ Yes, just grab your ankle with your hand. The band simply makes it easier for pe
 
 ### What muscles does the Intermediate Hip Flexor and Quad Stretch work?
 
-The Intermediate Hip Flexor and Quad Stretch primarily targets the quads, with secondary activation in the hamstrings, glutes. It's classified as a stretching exercise for the legs.
+The Intermediate Hip Flexor and Quad Stretch primarily targets the quads, with secondary activation in the hip flexors. It's classified as a stretching exercise for the legs.
 
 ### Is the Intermediate Hip Flexor and Quad Stretch good for beginners?
 

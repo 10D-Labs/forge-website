@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm shoulder press is a unilateral overhead pressing exercise that targets the deltoid muscles, with secondary emphasis on the tricep and upper back. It requires core stability and coordination to maintain balance while pressing with one arm. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, upper back.
+A standing overhead press with dumbbells, one arm at a time. It works the front of the shoulders, with help from the triceps, and your core has to keep you from leaning. Intermediate shoulders exercise using dumbbell. Targets shoulders, also works triceps, upper back.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The dumbbell one arm shoulder press is a unilateral overhead pressing exercise t
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in one hand at shoulder level, palm facing forward.
-2. Press the dumbbell upward until your arm is fully extended overhead.
-3. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.
-4. Repeat for the desired number of repetitions, then switch to the other arm.
+1. Stand with your feet shoulder-width apart, holding a dumbbell at each shoulder, palms facing forward.
+2. Press one dumbbell straight up until your arm is straight overhead, keeping the other at your shoulder.
+3. Lower it slowly back to your shoulder. Do all your reps on one side, then switch.
 
 ## Pro tips
 

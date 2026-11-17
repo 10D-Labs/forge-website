@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable hammer curl is an isolation exercise targeting the bicep and forearms, performed using a cable machine with a rope attachment. It emphasizes the brachialis and brachioradialis muscles, providing constant tension throughout the movement. Beginner arms exercise using cable. Targets biceps, also works forearms.
+A hammer curl on a low cable with a rope, palms facing each other throughout. It works the biceps and forearms, and the cable keeps tension on them the whole way. Beginner arms exercise using cable. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable hammer curl is an isolation exercise targeting the bicep and forearms,
 
 ## How to perform
 
-1. Stand upright with your feet shoulder-width apart and a slight bend in your knees.
-2. Hold the cable rope attachment with an underhand grip, palms facing each other, and your arms fully extended.
-3. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-4. Continue to raise the cable rope attachment until your biceps are fully contracted and the rope is at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly begin to lower the cable rope attachment back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Attach a rope to a low pulley. Stand facing it with your feet shoulder-width apart and knees slightly bent.
+2. Hold the rope ends with your palms facing each other (thumbs up), arms straight.
+3. Keeping your upper arms still, curl the rope up until your hands reach shoulder level.
+4. Lower slowly until your arms are straight.
 
 ## Pro tips
 

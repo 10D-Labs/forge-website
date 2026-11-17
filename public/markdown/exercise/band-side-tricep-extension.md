@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band side tricep extension is an exercise targeting the tricep using a resistance band. It also engages the shoulders as secondary muscles. The movement involves extending the arms out to the sides and bending the elbows to bring the hands toward the shoulders, then returning to the starting position. Beginner arms exercise using resistance band. Targets triceps, also works shoulders.
+A one-arm triceps extension against a band anchored to your side, straightening your arm out to the side from behind your head. It works the triceps. Beginner arms exercise using resistance band. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band side tricep extension is an exercise targeting the tricep using a resis
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the band with both hands, palms facing down.
-2. Extend your arms straight out to the sides, keeping them parallel to the ground.
-3. Slowly bend your elbows and bring your hands towards your shoulders, keeping your upper arms still.
-4. Pause for a moment, then slowly extend your arms back out to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Anchor a band at head height and stand side-on to it, feet hip-width apart, near hand on your hip.
+2. Hold the handle in your far hand, palm facing forward, with that upper arm out to the side and the hand behind your head.
+3. Keeping your upper arm still, straighten your elbow until your arm points straight out to the side.
+4. Bend your elbow slowly to bring your hand back behind your head. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The twisted leg raise is a bodyweight exercise targeting the abdominal muscles, with an emphasis on the obliques and hip flexors. It involves lifting the legs while twisting the hips to engage the core from different angles. Intermediate core exercise using body weight. Targets abs, also works obliques, hip flexors.
+A straight-leg raise on a captain's chair that brings your legs up toward one side. It works the abs, with the twist adding the obliques. Intermediate core exercise using body weight. Targets abs, also works obliques, hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The twisted leg raise is a bodyweight exercise targeting the abdominal muscles, 
 
 ## How to perform
 
-1. Lie flat on your back with your legs extended and your arms by your sides.
-2. Place your hands under your glutes for support.
-3. Engage your abs and lift both legs off the ground, keeping them straight.
-4. As you lift your legs, twist your hips to one side, bringing your legs towards your opposite shoulder.
-5. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-6. Repeat the movement, this time twisting your hips to the other side.
-7. Continue alternating sides for the desired number of repetitions.
+1. Step into a captain's chair, the upright station with forearm pads. Rest your forearms on the pads and grip the handles, legs hanging straight.
+2. Keep your legs straight and together, turn your hips to one side, and raise your legs up and out toward that side.
+3. Stop when your legs are level with your hips.
+4. Lower slowly until your legs hang straight. Do all your reps to one side, then switch.
 
 ## Pro tips
 

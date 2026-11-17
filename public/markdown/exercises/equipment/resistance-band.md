@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-61 resistance band exercises. Portable, effective training. Build muscle and improve mobility anywhere — perfect for travel or home workouts.
+60 resistance band exercises. Portable, effective training. Build muscle and improve mobility anywhere — perfect for travel or home workouts.
 
 ---
 
@@ -32,10 +32,11 @@
 - **Band Fixed Back Close Grip Pulldown** — Beginner | Target: Lats
 - **Resistance Band Seated Straight Back Row** — Beginner | Target: Upper Back
 
-### Chest (3 exercises)
+### Chest (4 exercises)
 
 - **Band Single Arm Twisting Chest Press** — Intermediate | Target: Chest
 - **Band Bench Press** — Beginner | Target: Chest
+- **Chest and Front of Shoulder Stretch** — Beginner | Target: Chest
 - **Resistance Band Seated Chest Press** — Beginner | Target: Chest
 
 ### Core (10 exercises)
@@ -51,28 +52,26 @@
 - **Band V-up** — Intermediate | Target: Abs
 - **Band Vertical Pallof Press** — Beginner | Target: Abs
 
-### Legs (22 exercises)
+### Legs (20 exercises)
 
 - **Band Bent Over Kickback** — Beginner | Target: Glutes
 - **Band Single Arm Single Leg Split Squat** — Intermediate | Target: Quads
 - **Band Pull Through** — Beginner | Target: Glutes
 - **Seated Internal Hip Rotation** — Beginner | Target: Glutes
 - **Band Single Leg Calf Raise** — Intermediate | Target: Calves
-- **Band Single Leg Reverse Calf Raise** — Intermediate | Target: Calves
 - **Band Single Leg Split Squat** — Intermediate | Target: Quads
 - **Band Squat Row** — Beginner | Target: Glutes
 - **Band Squat** — Beginner | Target: Glutes
 - **Band Stepup** — Beginner | Target: Glutes
-- **Band Stiff Leg Deadlift** — Beginner | Target: Glutes
-- **Band Straight Leg Deadlift** — Beginner | Target: Lower Back
+- **Band Straight Leg Deadlift** — Beginner | Target: Hamstrings
 - **Band Straight Back Stiff Leg Deadlift** — Beginner | Target: Glutes
-- **Calf Stretch with Rope** — Beginner | Target: Calves
+- **Lying Calf Stretch with Band** — Beginner | Target: Calves
 - **Peroneals Stretch** — Beginner | Target: Calves
 - **Posterior Tibialis Stretch** — Beginner | Target: Calves
 - **Band Hip Lift** — Beginner | Target: Glutes
 - **Intermediate Hip Flexor and Quad Stretch** — Intermediate | Target: Quads
-- **Reclining Big Toe Pose with Rope** — Beginner | Target: Hamstrings
-- **Standing Hamstring and Calf Stretch with Strap** — Beginner | Target: Hamstrings
+- **Reclining Big Toe Pose with Band** — Beginner | Target: Hamstrings
+- **Standing Hamstring and Calf Stretch with Band** — Beginner | Target: Hamstrings
 - **Resistance Band Seated Hip Abduction** — Beginner | Target: Abductors
 - **Resistance Band Leg Extension** — Beginner | Target: Quads
 
@@ -93,7 +92,7 @@
 
 Our AI trainers create personalized workout plans based on your available equipment. Tell us what you have, and we'll build the perfect program.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

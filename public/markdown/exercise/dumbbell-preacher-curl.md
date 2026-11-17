@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell preacher curl is an isolation exercise targeting the bicep, performed on a preacher bench to minimize shoulder involvement and maximize bicep engagement. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A one-arm curl on a preacher bench, with your upper arm braced on the pad so your shoulder can't help. It works the biceps. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell preacher curl is an isolation exercise targeting the bicep, perform
 
 ## How to perform
 
-1. Sit on a preacher curl bench with your upper arms resting on the pad and your chest against it.
-2. Hold a dumbbell in each hand with your palms facing up and your arms fully extended.
-3. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-4. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.
-5. Hold the contracted position for a brief pause as you squeeze your biceps.
-6. Inhale and slowly begin to lower the dumbbells back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Sit at a preacher bench with your chest against the pad.
+2. Hold a dumbbell in one hand, palm facing up, upper arm on the pad and arm straight. Rest your other hand on the pad.
+3. Keep your upper arm on the pad and curl the dumbbell up toward your shoulder.
+4. Lower it slowly until your arm is straight.
 
 ## Pro tips
 

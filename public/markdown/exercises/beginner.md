@@ -2,13 +2,13 @@
 
 ## Quick Answer
 
-448 beginner-level exercises. Perfect for those new to fitness or returning after a break. These exercises focus on fundamental movement patterns with lower complexity.
+418 beginner-level exercises. Perfect for those new to fitness or returning after a break. These exercises focus on fundamental movement patterns with lower complexity.
 
 ---
 
 ## All Beginner Exercises by Body Part
 
-### Arms (121 exercises)
+### Arms (116 exercises)
 
 - **Barbell Curl** — Barbell | Target: Biceps
 - **Dumbbell Hammer Curl** — Dumbbell | Target: Biceps
@@ -29,25 +29,22 @@
 - **Dumbbell Reverse Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Seated Inner Bicep Curl** — Dumbbell | Target: Biceps
 - **Dumbbell Seated Preacher Curl** — Dumbbell | Target: Biceps
-- **Dumbbell Standing Bicep Curl** — Dumbbell | Target: Biceps
 - **Dumbbell Standing Reverse Curl** — Dumbbell | Target: Biceps
-- **Bicep Curl** — Machine | Target: Biceps
+- **Machine Bicep Curl** — Machine | Target: Biceps
 - **Overhand Tricep Dip** — Machine | Target: Triceps
 - **Preacher Curl** — Machine | Target: Biceps
 - **Tricep Extension** — Machine | Target: Triceps
-- **Bench Tricep Dip** — Body Weight | Target: Triceps
 - **Tricep Dip** — Body Weight | Target: Triceps
 - **Tricep Dips Floor** — Body Weight | Target: Triceps
-- **Weighted Standing Curl** — Body Weight | Target: Biceps
-- **Weighted Standing Hand Squeeze** — Body Weight | Target: Forearms
-- **Cable Kickback** — Cable | Target: Triceps
+- **Weighted Standing Curl** — Weight Plate | Target: Biceps
+- **Plate Pinch Hold** — Weight Plate | Target: Forearms
+- **Cable Bent Over Tricep Kickback** — Cable | Target: Triceps
 - **Cable Curl** — Cable | Target: Biceps
-- **Bench Dip on Floor** — Body Weight | Target: Triceps
+- **Bench Dip** — Body Weight | Target: Triceps
 - **Seated Dip** — Machine | Target: Triceps
 - **Hammer Grip Preacher Curl** — Machine | Target: Biceps
 - **Cable Concentration Curl** — Cable | Target: Biceps
 - **Cable Seated Curl** — Cable | Target: Biceps
-- **Dumbbell Bicep Reverse Curl** — Dumbbell | Target: Biceps
 - **Dumbbell Seated Bicep Curl** — Dumbbell | Target: Biceps
 - **Dumbbell Seated Hammer Curl** — Dumbbell | Target: Biceps
 - **Smith Machine Bicep Curl** — Smith Machine | Target: Biceps
@@ -57,7 +54,6 @@
 - **Elbow Dips** — Body Weight | Target: Triceps
 - **Kneeling Tricep Dip** — Machine | Target: Triceps
 - **Barbell Standing Back Wrist Curl** — Barbell | Target: Forearms
-- **Barbell Standing Reverse Grip Curl** — Barbell | Target: Biceps
 - **Barbell Wrist Curl** — Barbell | Target: Forearms
 - **Cable Hammer Curl** — Cable | Target: Biceps
 - **Cable Single Arm Curl** — Cable | Target: Biceps
@@ -68,22 +64,21 @@
 - **Dumbbell Lying Elbow Press** — Dumbbell | Target: Triceps
 - **Dumbbell Lying Pronation** — Dumbbell | Target: Forearms
 - **Dumbbell Lying Supination** — Dumbbell | Target: Forearms
-- **Dumbbell Neutral Grip Bench Press** — Dumbbell | Target: Triceps
+- **Dumbbell Lying Neutral Grip Tricep Extension** — Dumbbell | Target: Triceps
 - **Dumbbell Over Bench Reverse Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Over Bench Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Reverse Grip Bicep Curl** — Dumbbell | Target: Biceps
 - **Dumbbell Seated Curl** — Dumbbell | Target: Biceps
 - **Dumbbell Seated Kickback** — Dumbbell | Target: Triceps
-- **Dumbbell Seated Neutral Wrist Curl** — Dumbbell | Target: Biceps
+- **Dumbbell Seated Neutral Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Seated Reverse Grip Concentration Curl** — Dumbbell | Target: Biceps
 - **Dumbbell Standing Kickback** — Dumbbell | Target: Triceps
 - **Dumbbell Standing Single Arm Concentration Curl** — Dumbbell | Target: Biceps
 - **EZ Bar Reverse Grip Curl** — EZ Bar | Target: Biceps
 - **Finger Curls** — Barbell | Target: Forearms
-- **Decline Close Grip Pushup** — Body Weight | Target: Triceps
+- **Hands Elevated Close Grip Pushup** — Body Weight | Target: Triceps
 - **Overhead Tricep Stretch** — Body Weight | Target: Triceps
 - **Side Wrist Pull Stretch** — Body Weight | Target: Forearms
-- **Tricep Stretch** — Body Weight | Target: Triceps
 - **Cable Reverse Single Arm Curl** — Cable | Target: Biceps
 - **Wrist Circles** — Body Weight | Target: Forearms
 - **Dumbbell Finger Curls** — Dumbbell | Target: Forearms
@@ -107,11 +102,11 @@
 - **Dumbbell Single Arm Reverse Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Single Arm Tricep Extension on Bench** — Dumbbell | Target: Triceps
 - **Dumbbell Single Arm Wrist Curl** — Dumbbell | Target: Forearms
-- **Dumbbell Over Bench Neutral Wrist Curl** — Dumbbell | Target: Biceps
+- **Dumbbell Over Bench Neutral Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Seated Single Arm Kickback** — Dumbbell | Target: Triceps
 - **Dumbbell Seated Single Arm Rotate** — Dumbbell | Target: Forearms
 - **Dumbbell Seated Palms Up Wrist Curl** — Dumbbell | Target: Forearms
-- **Dumbbell Standing Tricep Extension** — Dumbbell | Target: Triceps
+- **Dumbbell Standing Single Arm Tricep Extension** — Dumbbell | Target: Triceps
 - **Dumbbell Standing Single Arm Reverse Curl** — Dumbbell | Target: Biceps
 - **EZ Bar Close Grip Curl** — EZ Bar | Target: Biceps
 - **Band Alternating Bicep Curl** — Resistance Band | Target: Biceps
@@ -127,12 +122,12 @@
 - **Dumbbell Single Arm Standing Hammer Curl** — Dumbbell | Target: Biceps
 - **EZ Bar Standing Wide Grip Bicep Curl** — EZ Bar | Target: Biceps
 - **Resistance Band Seated Bicep Curl** — Resistance Band | Target: Biceps
-- **Dumbbell Over Bench Single Arm Neutral Wrist Curl** — Dumbbell | Target: Biceps
+- **Dumbbell Over Bench Single Arm Neutral Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Over Bench Single Arm Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Single Arm Seated Neutral Wrist Curl** — Dumbbell | Target: Forearms
 - **Dumbbell Seated Bent Over Alternate Kickback** — Dumbbell | Target: Triceps
 
-### Back (70 exercises)
+### Back (66 exercises)
 
 - **Assisted Pullup** — Machine | Target: Lats
 - **Barbell Shrug** — Barbell | Target: Traps
@@ -145,7 +140,7 @@
 - **Cable Shrug** — Cable | Target: Traps
 - **Cable Straight Arm Pulldown** — Cable | Target: Lats
 - **Cable Straight Back Seated Row** — Cable | Target: Upper Back
-- **Dumbbell Decline Shrug** — Dumbbell | Target: Traps
+- **Dumbbell Chest Supported Shrug** — Dumbbell | Target: Traps
 - **Dumbbell Incline Shrug** — Dumbbell | Target: Traps
 - **Inverted Row** — Body Weight | Target: Upper Back
 - **Front Pulldown** — Machine | Target: Lats
@@ -157,21 +152,19 @@
 - **Cable Upper Row** — Cable | Target: Upper Back
 - **Reverse T-Bar Row** — Machine | Target: Upper Back
 - **Seated Row** — Machine | Target: Upper Back
-- **Standing Pullup** — Machine | Target: Lats
 - **Elbow Lift Reverse Pushup** — Body Weight | Target: Upper Back
-- **Inverted Row on Bench** — Body Weight | Target: Upper Back
+- **Inverted Row with Feet on Bench** — Body Weight | Target: Upper Back
 - **Inverted Row Bent Knees** — Body Weight | Target: Upper Back
 - **Scapula Dips** — Body Weight | Target: Traps
-- **Bench Pullup** — Body Weight | Target: Lats
-- **Alternate Lateral Pulldown** — Cable | Target: Lats
-- **Parallel Close Grip Pullup** — Machine | Target: Lats
-- **Cable Seated High Row** — Cable | Target: Lats
+- **Bench Assisted Pullup** — Body Weight | Target: Lats
+- **Single Arm Lat Pulldown** — Cable | Target: Lats
+- **Assisted Close Neutral Grip Pullup** — Machine | Target: Lats
 - **Cable Seated Wide Grip Row** — Cable | Target: Upper Back
 - **Bench Hyperextension** — Body Weight | Target: Lower Back
 - **Hyperextension** — Body Weight | Target: Lower Back
 - **Back Extension** — Machine | Target: Lower Back
 - **High Row** — Machine | Target: Upper Back
-- **Seated Lower Back Stretch** — Body Weight | Target: Lats
+- **Seated Overhead Lat Stretch** — Body Weight | Target: Lats
 - **Smith Narrow Row** — Smith Machine | Target: Upper Back
 - **Standing Lateral Stretch** — Body Weight | Target: Lats
 - **Lower Back Curl** — Body Weight | Target: Lower Back
@@ -182,11 +175,9 @@
 - **Upper Back Stretch** — Body Weight | Target: Upper Back
 - **Upward Facing Dog** — Body Weight | Target: Lower Back
 - **Back Pec Stretch** — Body Weight | Target: Lats
-- **Standing Chinup** — Machine | Target: Lats
 - **Cable Lateral Pulldown with V Bar** — Cable | Target: Lats
 - **Reverse Grip Lat Pulldown** — Machine | Target: Lats
 - **Bodyweight Standing Row** — Body Weight | Target: Upper Back
-- **Two Toe Touch** — Body Weight | Target: Lower Back
 - **Standing Archer** — Body Weight | Target: Upper Back
 - **Dumbbell Single Arm Bent Over Row** — Dumbbell | Target: Upper Back
 - **Band Assisted Pullup** — Resistance Band | Target: Lats
@@ -197,7 +188,7 @@
 - **Band Shrug** — Resistance Band | Target: Traps
 - **Unilateral Row** — Machine | Target: Upper Back
 - **Kneeling Lat Stretch** — Body Weight | Target: Lats
-- **Single Arm Isometric Lat Pull** — Body Weight | Target: Lats
+- **Single Arm Lat Stretch Against Wall** — Body Weight | Target: Lats
 - **Pullover** — Machine | Target: Lats
 - **Band Fixed Back Underhand Pulldown** — Resistance Band | Target: Lats
 - **Band Fixed Back Close Grip Pulldown** — Resistance Band | Target: Lats
@@ -205,7 +196,7 @@
 - **Bodyweight Standing Single Arm Row** — Body Weight | Target: Upper Back
 - **Bodyweight Towel Standing Row** — Body Weight | Target: Upper Back
 
-### Cardio (27 exercises)
+### Cardio (25 exercises)
 
 - **Run (Time)** — Body Weight | Target: Cardiovascular
 - **Run (Distance)** — Body Weight | Target: Cardiovascular
@@ -220,11 +211,9 @@
 - **Jump Rope (Time)** — Jump Rope | Target: Cardiovascular
 - **Stationary Bike Walk** — Cardio Machine | Target: Cardiovascular
 - **Assault Bike** — Cardio Machine | Target: Cardiovascular
-- **Half Knee Bends** — Body Weight | Target: Cardiovascular
 - **High Knee Against Wall** — Body Weight | Target: Cardiovascular
 - **Short Stride Run (Time)** — Body Weight | Target: Cardiovascular
 - **Ski Step** — Body Weight | Target: Cardiovascular
-- **Back and Forth Step** — Body Weight | Target: Cardiovascular
 - **Short Stride Run (Distance)** — Body Weight | Target: Cardiovascular
 - **Hands Bike (Time)** — Cardio Machine | Target: Cardiovascular
 - **Elliptical (Time)** — Cardio Machine | Target: Cardiovascular
@@ -240,7 +229,7 @@
 - **Dumbbell Bench Press** — Dumbbell | Target: Chest
 - **Pushup** — Body Weight | Target: Chest
 - **Dumbbell Lying Hammer Press** — Dumbbell | Target: Chest
-- **Decline Pushup** — Body Weight | Target: Chest
+- **Hands Elevated Pushup** — Body Weight | Target: Chest
 - **Chest Press** — Machine | Target: Chest
 - **Seated Fly** — Machine | Target: Chest
 - **Wall Pushup** — Body Weight | Target: Chest
@@ -249,7 +238,7 @@
 - **Incline Chest Press** — Machine | Target: Chest
 - **Decline Chest Press** — Machine | Target: Chest
 - **Machine Inner Chest Press** — Machine | Target: Chest
-- **Box Decline Pushup** — Body Weight | Target: Chest
+- **Hands Elevated Box Pushup** — Body Weight | Target: Chest
 - **Kneeling Chest Dip** — Machine | Target: Chest
 - **Dynamic Chest Stretch** — Body Weight | Target: Chest
 - **Drop Push Up** — Body Weight | Target: Chest
@@ -257,26 +246,23 @@
 - **Kneeling Wide Grip Chest Dip** — Machine | Target: Chest
 - **Kneeling Pushup** — Body Weight | Target: Chest
 - **Band Bench Press** — Resistance Band | Target: Chest
-- **Chest and Front of Shoulder Stretch** — Body Weight | Target: Chest
+- **Chest and Front of Shoulder Stretch** — Resistance Band | Target: Chest
 - **Resistance Band Seated Chest Press** — Resistance Band | Target: Chest
 - **Isometric Chest Squeeze** — Body Weight | Target: Chest
 
-### Core (46 exercises)
+### Core (44 exercises)
 
 - **Crunch Floor** — Body Weight | Target: Abs
 - **Three Quarter Situp** — Body Weight | Target: Abs
 - **Seated Crunch** — Machine | Target: Abs
-- **Negative Crunch** — Body Weight | Target: Abs
+- **Decline Crunch** — Body Weight | Target: Abs
 - **Oblique Crunches Floor** — Body Weight | Target: Abs
 - **Wall Seated Side Crunch** — Body Weight | Target: Abs
 - **Reverse Crunch** — Body Weight | Target: Abs
-- **Situp** — Machine | Target: Abs
-- **Decline Scapula Push Up** — Body Weight | Target: Serratus
+- **Situp** — Body Weight | Target: Abs
+- **Hands Elevated Scapula Pushup** — Body Weight | Target: Serratus
 - **Scapula Pushup** — Body Weight | Target: Serratus
-- **Potty Squat** — Body Weight | Target: Abs
 - **Quarter Situp** — Body Weight | Target: Abs
-- **Half Situp** — Body Weight | Target: Abs
-- **Prisoner Half Situp** — Body Weight | Target: Abs
 - **Knee Touch Crunch** — Body Weight | Target: Abs
 - **Situp with Arms on Chest** — Body Weight | Target: Abs
 - **45 Degree Side Bend** — Body Weight | Target: Abs
@@ -290,7 +276,7 @@
 - **Groin Crunch** — Body Weight | Target: Abs
 - **Bent Knee Hip Raise** — Body Weight | Target: Abs
 - **Leg Pull in Flat Bench** — Body Weight | Target: Abs
-- **Seated Leg Raise** — Body Weight | Target: Abs
+- **Seated Knee Tuck** — Body Weight | Target: Abs
 - **Lying Leg Hip Raise** — Body Weight | Target: Abs
 - **Butt Up** — Body Weight | Target: Abs
 - **Tuck Crunch** — Body Weight | Target: Abs
@@ -302,6 +288,7 @@
 - **Pelvic Tilt** — Body Weight | Target: Abs
 - **Kneeling Plank Tap Shoulder** — Body Weight | Target: Abs
 - **Bodyweight Incline Side Plank** — Body Weight | Target: Abs
+- **Bent Knee Lying Twist** — Body Weight | Target: Abs
 - **Alternate Heel Touchers** — Body Weight | Target: Abs
 - **Cable Side Bend** — Cable | Target: Abs
 - **Band Horizontal Pallof Press** — Resistance Band | Target: Abs
@@ -310,7 +297,7 @@
 - **Band Seated Twist** — Resistance Band | Target: Abs
 - **Band Vertical Pallof Press** — Resistance Band | Target: Abs
 
-### Legs (115 exercises)
+### Legs (99 exercises)
 
 - **Leg Extension** — Machine | Target: Quads
 - **Lying Leg Curl** — Machine | Target: Hamstrings
@@ -325,16 +312,14 @@
 - **Dumbbell Squat** — Dumbbell | Target: Glutes
 - **Dumbbell Standing Calf Raise** — Dumbbell | Target: Calves
 - **Kettlebell Goblet Squat** — Kettlebell | Target: Glutes
-- **Deadlift** — Machine | Target: Glutes
+- **Machine Deadlift** — Machine | Target: Glutes
 - **Seated Calf Raise** — Machine | Target: Calves
-- **Rear Decline Bridge** — Body Weight | Target: Glutes
+- **Glute Bridge** — Body Weight | Target: Glutes
 - **Forward Angled Calf Raise** — Machine | Target: Calves
 - **Lying Squat** — Machine | Target: Glutes
 - **Smith Chair Squat** — Smith Machine | Target: Quads
 - **Smith Deadlift** — Smith Machine | Target: Glutes
 - **Smith Leg Press** — Smith Machine | Target: Glutes
-- **Smith Reverse Calf Raises** — Smith Machine | Target: Calves
-- **Smith Squat** — Smith Machine | Target: Glutes
 - **Smith Standing Leg Calf Raise** — Smith Machine | Target: Calves
 - **Machine Donkey Calf Raise** — Machine | Target: Calves
 - **Barbell Floor Calf Raise** — Barbell | Target: Calves
@@ -342,8 +327,7 @@
 - **Cable Standing Calf Raise** — Cable | Target: Calves
 - **Dumbbell Seated Calf Raise** — Dumbbell | Target: Calves
 - **Hack Calf Raise** — Machine | Target: Calves
-- **Seated Squat Calf Raise on Leg Press Machine** — Machine | Target: Calves
-- **Calf Press on Leg Press** — Machine | Target: Calves
+- **Seated Leg Press** — Machine | Target: Quads
 - **Reverse Hyper on Flat Bench** — Body Weight | Target: Glutes
 - **Staircase Calf Raise** — Body Weight | Target: Calves
 - **Squat to Overhead Reach** — Body Weight | Target: Quads
@@ -351,13 +335,11 @@
 - **Farmers Walk (Time)** — Dumbbell | Target: Quads
 - **Split Squats** — Body Weight | Target: Quads
 - **Dumbbell Supported Squat** — Dumbbell | Target: Quads
-- **Low Glute Bridge on Floor** — Body Weight | Target: Glutes
+- **Bodyweight Squat** — Body Weight | Target: Glutes
 - **Potty Squat with Support** — Body Weight | Target: Glutes
 - **Smith Sumo Squat** — Smith Machine | Target: Glutes
-- **Smith Full Squat** — Smith Machine | Target: Glutes
 - **Forward Lunge** — Body Weight | Target: Glutes
 - **Glute Bridge Two Legs on Bench** — Body Weight | Target: Glutes
-- **Bodyweight Squat** — Body Weight | Target: Quads
 - **Curtsey Squat** — Body Weight | Target: Glutes
 - **Farmers Walk (Distance)** — Dumbbell | Target: Quads
 - **Barbell Hip Thrust** — Barbell | Target: Glutes
@@ -365,13 +347,13 @@
 - **Circles Knee Stretch** — Body Weight | Target: Calves
 - **Dumbbell Lying Hamstring Curl** — Dumbbell | Target: Hamstrings
 - **Dumbbell Seated Single Leg Calf Raise** — Dumbbell | Target: Calves
-- **Flutter Kicks** — Body Weight | Target: Glutes
-- **Kick Out Sit** — Body Weight | Target: Hamstrings
+- **Prone Bench Flutter Kicks** — Body Weight | Target: Glutes
+- **Kick Out Sit** — Body Weight | Target: Quads
 - **Seated Hip Abduction** — Machine | Target: Abductors
 - **Seated Hip Adduction** — Machine | Target: Adductors
 - **Side Lying Quads Stretch** — Body Weight | Target: Quads
 - **Monster Walk** — Body Weight | Target: Glutes
-- **Side Hip Abduction** — Body Weight | Target: Abductors
+- **Side Lying Hip Abduction** — Body Weight | Target: Abductors
 - **Calf Raise on Leg Press** — Machine | Target: Calves
 - **Standing Single Leg Curl** — Body Weight | Target: Hamstrings
 - **Ankle Circles** — Body Weight | Target: Calves
@@ -382,49 +364,38 @@
 - **Iron Cross Stretch** — Body Weight | Target: Glutes
 - **Pelvic Tilt Into Bridge** — Body Weight | Target: Glutes
 - **Seated Glute Stretch** — Body Weight | Target: Glutes
-- **Straight Leg Outer Hip Abductor** — Body Weight | Target: Abductors
+- **Standing Cross Leg Outer Hip Stretch** — Body Weight | Target: Abductors
 - **Butterfly Yoga Pose** — Body Weight | Target: Adductors
-- **Hamstring Stretch** — Body Weight | Target: Hamstrings
 - **Quadriceps Stretch** — Body Weight | Target: Quads
-- **Chair Leg Extended Stretch** — Body Weight | Target: Quads
 - **Leg Up Hamstring Stretch** — Body Weight | Target: Hamstrings
 - **Runners Stretch** — Body Weight | Target: Hamstrings
 - **Seated Wide Angle Pose Sequence** — Body Weight | Target: Hamstrings
-- **Lying Calves Stretch** — Machine | Target: Calves
-- **Lying Glutes Stretch** — Machine | Target: Glutes
-- **Lying Gluteus and Piriformis Stretch** — Machine | Target: Glutes
-- **Side Lying Adductor Stretch** — Machine | Target: Adductors
 - **Alternate Leg Press** — Machine | Target: Quads
 - **Calf Press** — Machine | Target: Calves
 - **Seated Calf Press** — Machine | Target: Calves
 - **Seated Piriformis Stretch** — Body Weight | Target: Glutes
-- **Rocking Frog Stretch** — Body Weight | Target: Glutes
-- **Dumbbell Sumo Pull Through** — Dumbbell | Target: Glutes
+- **Rocking Frog Stretch** — Body Weight | Target: Adductors
 - **Basic Toe Touch** — Body Weight | Target: Glutes
 - **Hands Reversed Clasped Circular Toe Touch** — Body Weight | Target: Glutes
 - **Hands Clasped Circular Toe Touch** — Body Weight | Target: Glutes
-- **Bent Knee Lying Twist** — Body Weight | Target: Glutes
 - **Side Lying Hip Adduction** — Body Weight | Target: Adductors
-- **Prone Hamstring** — Machine | Target: Hamstrings
 - **Band Bent Over Kickback** — Resistance Band | Target: Glutes
 - **Band Pull Through** — Resistance Band | Target: Glutes
 - **Seated Internal Hip Rotation** — Resistance Band | Target: Glutes
 - **Band Squat Row** — Resistance Band | Target: Glutes
 - **Band Squat** — Resistance Band | Target: Glutes
 - **Band Stepup** — Resistance Band | Target: Glutes
-- **Band Stiff Leg Deadlift** — Resistance Band | Target: Glutes
-- **Band Straight Leg Deadlift** — Resistance Band | Target: Lower Back
+- **Band Straight Leg Deadlift** — Resistance Band | Target: Hamstrings
 - **Band Straight Back Stiff Leg Deadlift** — Resistance Band | Target: Glutes
 - **Calf Stretch with Hands Against Wall** — Body Weight | Target: Calves
-- **Calf Stretch with Rope** — Resistance Band | Target: Calves
+- **Lying Calf Stretch with Band** — Resistance Band | Target: Calves
 - **Peroneals Stretch** — Resistance Band | Target: Calves
 - **Posterior Tibialis Stretch** — Resistance Band | Target: Calves
 - **Calf Push Stretch with Hands Against Wall** — Body Weight | Target: Calves
 - **Band Hip Lift** — Resistance Band | Target: Glutes
-- **Reclining Big Toe Pose with Rope** — Resistance Band | Target: Hamstrings
-- **Standing Hamstring and Calf Stretch with Strap** — Resistance Band | Target: Hamstrings
+- **Reclining Big Toe Pose with Band** — Resistance Band | Target: Hamstrings
+- **Standing Hamstring and Calf Stretch with Band** — Resistance Band | Target: Hamstrings
 - **Squat to Overhead Reach with Twist** — Body Weight | Target: Quads
-- **Prone Lying Quads Stretch** — Machine | Target: Quads
 - **Resistance Band Seated Hip Abduction** — Resistance Band | Target: Abductors
 - **Resistance Band Leg Extension** — Resistance Band | Target: Quads
 
@@ -433,11 +404,11 @@
 - **Side Push Neck Stretch** — Body Weight | Target: Neck
 - **Neck Side Stretch** — Body Weight | Target: Neck
 
-### Shoulders (44 exercises)
+### Shoulders (43 exercises)
 
 - **Dumbbell Lateral Raise** — Dumbbell | Target: Shoulders
-- **Lateral Raise** — Machine | Target: Shoulders
-- **Military Press** — Machine | Target: Shoulders
+- **Machine Lateral Raise** — Machine | Target: Shoulders
+- **Machine Shoulder Press** — Machine | Target: Shoulders
 - **Barbell Front Raise** — Barbell | Target: Shoulders
 - **Cable Front Raise** — Cable | Target: Shoulders
 - **Dumbbell Front Raise** — Dumbbell | Target: Shoulders
@@ -449,8 +420,8 @@
 - **Rear Deltoid Stretch** — Body Weight | Target: Shoulders
 - **Smith Rear Delt Row** — Smith Machine | Target: Shoulders
 - **Smith Seated Shoulder Press** — Smith Machine | Target: Shoulders
-- **Smith Shoulder Press** — Smith Machine | Target: Shoulders
-- **Weighted Front Raise** — Body Weight | Target: Shoulders
+- **Smith Wide Grip Shoulder Press** — Smith Machine | Target: Shoulders
+- **Weighted Front Raise** — Weight Plate | Target: Shoulders
 - **Internal Shoulder Rotation** — Cable | Target: Shoulders
 - **Cable External Shoulder Rotation** — Cable | Target: Shoulders
 - **Dumbbell Bench Seated Press** — Dumbbell | Target: Shoulders
@@ -463,13 +434,12 @@
 - **Dumbbell Standing Palms in Press** — Dumbbell | Target: Shoulders
 - **Dumbbell W Press** — Dumbbell | Target: Shoulders
 - **Neutral Grip Seated Reverse Fly** — Machine | Target: Shoulders
-- **Dumbbell Seated Bent Arm Lateral Raise** — Dumbbell | Target: Shoulders
-- **Dumbbell Lying on Floor Rear Delt Raise** — Dumbbell | Target: Shoulders
+- **Dumbbell Side Lying Rear Delt Raise** — Dumbbell | Target: Shoulders
 - **Dumbbell Single Arm Lateral Raise with Support** — Dumbbell | Target: Shoulders
 - **Dumbbell Seated Alternate Press** — Dumbbell | Target: Shoulders
 - **Dumbbell Neutral Grip Seated Shoulder Press** — Dumbbell | Target: Shoulders
 - **Dumbbell Side Lying One Hand Raise** — Dumbbell | Target: Shoulders
-- **Dumbbell Standing Alternate Raise** — Dumbbell | Target: Shoulders
+- **Dumbbell Standing Alternate Front Raise** — Dumbbell | Target: Shoulders
 - **Dumbbell Lying External Shoulder Rotation** — Dumbbell | Target: Shoulders
 - **Band Front Lateral Raise** — Resistance Band | Target: Shoulders
 - **Band Front Raise** — Resistance Band | Target: Shoulders
@@ -486,7 +456,7 @@
 
 Our AI trainers create workout plans matched to your fitness level, progressing you safely as you get stronger.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band straight back stiff leg deadlift is a lower body exercise targeting the glutes, with secondary emphasis on the hamstrings and lower back. It uses a resistance band and requires maintaining a straight back while hinging at the hips, focusing on posterior chain strength. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, lower back.
+A deadlift standing on a band, bending forward from the hips with a flat back and nearly straight legs. It works the glutes, along with the hamstrings and lower back. Beginner legs exercise using resistance band. Targets glutes, also works hamstrings, lower back.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,12 +15,9 @@ The band straight back stiff leg deadlift is a lower body exercise targeting the
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and place the band around your upper legs.
-2. Hold the band with both hands in front of your thighs, palms facing your body.
-3. Keeping your back straight and your knees slightly bent, hinge at the hips and lower the band towards the ground.
-4. Feel the stretch in your hamstrings as you lower the band.
-5. Engage your glutes and hamstrings to lift your body back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand on the middle of a band, feet hip-width apart, holding a handle in each hand with your arms straight and palms facing your legs.
+2. With a slight bend in your knees, push your hips back and lean forward until the handles are just below your knees. Keep your back flat.
+3. Drive your hips forward to stand up tall, keeping your arms straight.
 
 ## Pro tips
 

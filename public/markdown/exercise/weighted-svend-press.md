@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted Svend press is a chest exercise performed by pressing a weight plate out in front of the body, emphasizing the pectoral muscles while also engaging the shoulders and tricep. Intermediate chest exercise using body weight. Targets chest, also works shoulders, triceps.
+A standing press that squeezes a weight plate between your palms and pushes it straight out from your chest. It works the chest, with help from the shoulders and triceps. Intermediate chest exercise using weight plate. Targets chest, also works shoulders, triceps.
 
 - **Body Part:** Chest
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Chest
 - **Secondary Muscles:** Shoulders, Triceps
 - **Difficulty:** Intermediate
@@ -15,11 +15,9 @@ The weighted Svend press is a chest exercise performed by pressing a weight plat
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a weight plate in front of your chest with both hands.
-2. Keep your elbows slightly bent and your palms facing each other.
-3. Press the weight plate straight out in front of you, fully extending your arms.
-4. Pause for a moment at the end of the movement, then slowly bring the weight plate back to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart. Hold a weight plate in front of your chest, squeezed between your palms.
+2. Keep squeezing and press the plate straight out in front of you until your arms are straight.
+3. Bring the plate slowly back to your chest.
 
 ## Pro tips
 
@@ -58,7 +56,7 @@ The Weighted Svend Press is rated as intermediate. Beginners should build a base
 ## Related exercises
 
 - [More Chest Exercises](https://forgetrainer.ai/exercises/chest)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Chest Exercises](https://forgetrainer.ai/exercises/muscle/chest)
 
 ---

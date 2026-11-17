@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell rollout is an advanced core exercise that targets the abdominal muscles and also engages the lower back. It requires significant core strength, stability, and control to perform safely and effectively. Advanced core exercise using barbell. Targets abs, also works lower back.
+A hard kneeling ab exercise that rolls a barbell forward until your body is stretched out long, then back again. It works the abs and also the lower back. Advanced core exercise using barbell. Targets abs, also works lower back.
 
 - **Body Part:** Core
 - **Equipment:** Barbell
@@ -15,11 +15,10 @@ The barbell rollout is an advanced core exercise that targets the abdominal musc
 
 ## How to perform
 
-1. Kneel on the floor and hold a barbell with both hands, shoulder-width apart.
-2. Roll the barbell forward, extending your arms and keeping your core engaged.
-3. Continue rolling forward until your body is fully extended and your arms are overhead.
-4. Pause for a moment, then slowly roll the barbell back towards your knees, maintaining control.
-5. Repeat for the desired number of repetitions.
+1. Kneel behind a barbell on the floor and hold it with both hands, shoulder-width apart.
+2. Roll the barbell forward, reaching your arms out in front of you and keeping your abs tight.
+3. Keep rolling until your body is fully stretched out and your arms are overhead.
+4. Roll the barbell slowly back toward your knees.
 
 ## Pro tips
 

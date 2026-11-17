@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell windmill is a compound exercise that targets the abs and obliques while also engaging the shoulders and improving overall core stability and mobility. It requires holding a kettlebell overhead and bending at the waist, demanding strength, balance, and coordination. Advanced core exercise using kettlebell. Targets abs, also works obliques, shoulders.
+A side bend with a kettlebell held straight overhead while your free hand slides down your leg toward the floor. It works the abs and obliques, and your shoulder works to hold the weight steady. Advanced core exercise using kettlebell. Targets abs, also works obliques, shoulders.
 
 - **Body Part:** Core
 - **Equipment:** Kettlebell
@@ -15,12 +15,11 @@ The kettlebell windmill is a compound exercise that targets the abs and obliques
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in your right hand overhead.
-2. Rotate your left foot outwards about 45 degrees and keep your right foot pointing forward.
-3. Bend your torso to the left side, keeping your right arm extended overhead and your eyes on the kettlebell.
-4. Lower your torso as far as you can while keeping your right arm straight and your left arm extended to the side.
-5. Pause for a moment, then return to the starting position by pushing through your right foot and engaging your obliques.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet wider than shoulder-width apart, holding a kettlebell straight overhead in your right hand.
+2. Turn your left foot out about 45 degrees and keep your right foot pointing forward.
+3. Keep your right arm straight and your eyes on the kettlebell as you bend your upper body to the left.
+4. Slide your left hand down your left leg toward the floor, going as low as you can.
+5. Push through your right foot to stand back up. Do all your reps on one side, then switch.
 
 ## Pro tips
 

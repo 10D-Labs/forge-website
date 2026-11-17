@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell seated tricep extension is an isolation exercise that targets the tricep, performed while seated and using a dumbbell held with both hands overhead. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+A seated triceps extension, lowering one dumbbell behind your head with both hands. It works the triceps. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell seated tricep extension is an isolation exercise that targets the t
 
 ## How to perform
 
-1. Sit on a bench with your back straight and feet flat on the ground.
-2. Hold a dumbbell with both hands and extend your arms straight up overhead.
-3. Bend your elbows and lower the dumbbell behind your head, keeping your upper arms close to your ears.
-4. Pause for a moment, then straighten your arms and return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Sit on an upright bench with your back straight and your feet flat on the floor.
+2. Hold one dumbbell with both hands and straighten your arms overhead.
+3. Keep your upper arms close to your ears and bend your elbows to lower the dumbbell behind your head.
+4. Straighten your arms to lift it back overhead.
 
 ## Pro tips
 

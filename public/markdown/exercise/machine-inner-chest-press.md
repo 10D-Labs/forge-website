@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The machine inner chest press is a chest-focused exercise performed on a machine. It targets the pectoral muscles and also works the tricep and shoulders. The machine provides stability and guided movement, making it accessible for most users. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
+A seated machine press with your palms facing each other, pushing the handles straight forward from your chest. It works the middle of the chest, with help from the triceps and shoulders. Beginner chest exercise using machine. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The machine inner chest press is a chest-focused exercise performed on a machine
 
 ## How to perform
 
-1. Adjust the seat height and position yourself on the machine with your back flat against the pad.
-2. Grasp the handles with an overhand grip and position your elbows at a 90 degree angle.
-3. Push the handles forward until your arms are fully extended, exhaling during the movement.
-4. Pause for a moment at the end of the movement, then slowly return to the starting position, inhaling as you do so.
-5. Repeat for the desired number of repetitions.
+1. Adjust the seat height and sit with your back flat against the pad.
+2. Hold the upright handles with your palms facing each other (thumbs up) and your elbows bent to 90 degrees.
+3. Press the handles forward until your arms are straight.
+4. Return slowly until your elbows are back at 90 degrees.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable reverse wrist curl is an isolation exercise targeting the forearms, specifically the wrist extensors. It is performed using a cable machine and focuses on strengthening the muscles responsible for wrist extension. Beginner arms exercise using cable. Targets forearms, also works forearms, wrists.
+A seated wrist exercise with a low cable, lifting the backs of your hands up with your palms facing down. It works the forearms. Beginner arms exercise using cable. Targets forearms, also works forearms, wrists.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable reverse wrist curl is an isolation exercise targeting the forearms, sp
 
 ## How to perform
 
-1. Attach a cable to a low pulley and sit on a bench facing the cable machine.
-2. Grasp the cable handle with an overhand grip, palms facing down.
-3. Rest your forearms on your thighs, with your wrists hanging off the edge.
-4. Keeping your forearms stationary, exhale and curl your wrists upward as far as possible.
-5. Pause for a moment at the top, then inhale and slowly lower your wrists back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Attach a bar to a low pulley and sit on a bench facing the machine.
+2. Grip the bar with your palms facing down. Rest your forearms on your thighs with your wrists hanging past your knees.
+3. Keep your forearms still and bend your wrists up as far as you can.
+4. Lower your hands slowly back down.
 
 ## Pro tips
 

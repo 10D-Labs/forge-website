@@ -15,7 +15,7 @@ Leg Extension targets the quads using machine (Beginner), while Barbell Full Squ
 | Equipment | Machine | Barbell |
 | Difficulty | Beginner | Intermediate |
 | Category | Strength | Strength |
-| Secondary | Hamstrings | Quadriceps, Hamstrings, Calves, Core |
+| Secondary | None | Quadriceps, Hamstrings, Calves, Core |
 
 ## FAQ
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The squat to overhead reach is a bodyweight exercise that combines a traditional squat with an overhead arm extension. It targets the quadriceps while also engaging the glutes, hamstrings, and core. This movement helps improve lower body strength, mobility, and coordination. Beginner legs exercise using body weight. Targets quads, also works glutes, hamstrings, core.
+A deep bodyweight squat that finishes on your toes with both arms reaching overhead. It works the quads, with help from the glutes and hamstrings. Beginner legs exercise using body weight. Targets quads, also works glutes, hamstrings, core.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The squat to overhead reach is a bodyweight exercise that combines a traditional
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and toes slightly turned out.
-2. Lower your body down into a squat position by bending your knees and pushing your hips back.
-3. As you come up from the squat, extend your arms overhead, reaching towards the ceiling.
-4. Return to the starting position by lowering your arms and bending your knees to squat down again.
-5. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, toes turned out slightly.
+2. Push your hips back and bend your knees to lower into a deep squat.
+3. Stand back up and rise onto your toes, reaching both arms overhead toward the ceiling.
+4. Lower your arms and heels as you squat down again.
 
 ## Pro tips
 

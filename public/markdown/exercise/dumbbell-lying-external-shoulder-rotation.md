@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell lying external shoulder rotation is an exercise that targets the deltoid muscles and the rotator cuff, helping to improve shoulder stability and strength. It is performed lying on your side, rotating the forearm upward while keeping the upper arm against the side. Beginner shoulders exercise using dumbbell. Targets shoulders, also works rotator cuff, triceps.
+A side-lying shoulder rotation, turning a dumbbell up from your belly while your bent elbow stays pinned to your side. It works the rear shoulder and the small muscles that rotate it. Beginner shoulders exercise using dumbbell. Targets shoulders, also works rotator cuff, triceps.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell lying external shoulder rotation is an exercise that targets the de
 
 ## How to perform
 
-1. Lie on your side on a flat bench with your upper arm against your side and your elbow bent 90 degrees.
-2. Hold a dumbbell in your hand with your palm facing down.
-3. Keeping your upper arm against your side, slowly rotate your forearm upward as far as possible.
-4. Pause for a moment at the top, then slowly lower your forearm back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch sides.
+1. Lie on your side on the floor with your head resting on your lower arm.
+2. Hold a dumbbell in your top hand, palm facing down, in front of your belly. Keep that elbow bent 90 degrees and against your side.
+3. Rotate your forearm up as far as you can, keeping your upper arm against your side.
+4. Lower the dumbbell slowly back to your belly. Do all your reps, then switch sides.
 
 ## Pro tips
 

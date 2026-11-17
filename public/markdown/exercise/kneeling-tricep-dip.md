@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The assisted kneeling tricep dip is performed on a machine, allowing users to target the tricep with support, making the exercise accessible for those who may not yet have the strength for unassisted dips. It also engages the chest and shoulders as secondary muscles. Beginner arms exercise using machine. Targets triceps, also works chest, shoulders.
+A dip on an assisted machine, kneeling on a pad that takes some of your weight. It works the triceps, with help from the chest and shoulders. Beginner arms exercise using machine. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Machine
@@ -15,11 +15,10 @@ The assisted kneeling tricep dip is performed on a machine, allowing users to ta
 
 ## How to perform
 
-1. Adjust the machine to your desired weight and height.
-2. Kneel down on the pad facing the machine, with your hands gripping the handles.
-3. Lower your body by bending your elbows, keeping your back straight and close to the machine.
-4. Pause for a moment at the bottom, then push yourself back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set the weight and height on the assisted dip machine.
+2. Kneel on the pad facing the machine and hold the handles.
+3. Bend your elbows to lower your body, keeping your back straight and upright, close to the machine.
+4. Push yourself back up until your arms are straight.
 
 ## Pro tips
 

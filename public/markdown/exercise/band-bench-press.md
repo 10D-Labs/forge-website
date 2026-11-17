@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band bench press is a resistance exercise targeting the pectoral muscles using a resistance band. It mimics the traditional bench press but uses bands instead of weights, making it accessible and effective for building chest strength with less equipment. Beginner chest exercise using resistance band. Targets chest, also works triceps, shoulders.
+A bench press with a resistance band wrapped under the bench instead of a barbell. It works the chest, with help from the shoulders and triceps. Beginner chest exercise using resistance band. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band bench press is a resistance exercise targeting the pectoral muscles usi
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.
-2. Grasp the band handles with an overhand grip, slightly wider than shoulder-width apart.
-3. Extend your arms fully, pushing the bands away from your chest.
-4. Slowly lower the bands back down to your chest, keeping your elbows at a 90 degree angle.
-5. Repeat for the desired number of repetitions.
+1. Wrap a resistance band under a flat bench and lie flat on your back on it, feet flat on the floor.
+2. Hold a handle in each hand at your chest, palms facing your feet, hands slightly wider than your shoulders.
+3. Press your hands straight up until your arms are straight.
+4. Lower your hands slowly back to your chest, until your elbows are bent to about 90 degrees.
 
 ## Pro tips
 

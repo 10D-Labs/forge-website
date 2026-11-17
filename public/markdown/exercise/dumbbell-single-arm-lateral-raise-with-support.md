@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm lateral raise with support is an isolation exercise targeting the deltoid muscles of the shoulder. By using a support, it allows for better form and focus on the shoulder muscles, reducing the risk of using momentum or improper technique. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, rotator cuff.
+A one-arm raise out to the side while you hold a bench with your other hand for balance. It works the sides of the shoulders. Beginner shoulders exercise using dumbbell. Targets shoulders, also works trapezius, rotator cuff.
 
 - **Body Part:** Shoulders
 - **Equipment:** Dumbbell
@@ -15,13 +15,10 @@ The dumbbell one arm lateral raise with support is an isolation exercise targeti
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold a dumbbell in one hand, with your palm facing your body.
-2. Place your other hand on a stable surface, such as a bench or wall, for support.
-3. Keep your back straight and engage your core.
-4. Raise the dumbbell out to the side, keeping your arm straight and your palm facing down.
-5. Continue lifting until your arm is parallel to the ground.
-6. Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.
-7. Repeat for the desired number of repetitions, then switch sides.
+1. Stand beside an incline bench with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body.
+2. Hold the bench with your other hand for support and keep your back straight.
+3. Raise the dumbbell out to the side with your arm straight and your palm facing down, until your arm is level with the floor.
+4. Lower it slowly back to your side. Do all your reps on one side, then switch.
 
 ## Pro tips
 

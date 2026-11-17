@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band alternating bicep curl is an exercise targeting the bicep using a resistance band. It involves curling one arm at a time while keeping the elbows close to the body, providing resistance throughout the movement. Beginner arms exercise using resistance band. Targets biceps, also works forearms.
+A standing band curl done one arm at a time, switching arms each rep. It works the biceps. Beginner arms exercise using resistance band. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Resistance Band
@@ -15,10 +15,10 @@ The band alternating bicep curl is an exercise targeting the bicep using a resis
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and hold the band with an underhand grip, palms facing up.
-2. Keep your elbows close to your sides and slowly curl one arm up towards your shoulder, squeezing your biceps at the top.
-3. Lower the arm back down to the starting position and repeat with the other arm.
-4. Continue alternating arms for the desired number of repetitions.
+1. Stand on a resistance band with your feet shoulder-width apart. Hold an end in each hand with your palms facing up.
+2. Keep your elbows close to your sides.
+3. Curl one hand up toward your shoulder.
+4. Lower it slowly until your arm is straight, then curl the other arm. Keep alternating sides.
 
 ## Pro tips
 

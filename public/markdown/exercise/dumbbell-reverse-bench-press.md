@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell reverse bench press is a chest exercise performed lying on a bench, pressing dumbbells upward with an overhand grip. It targets the pectorals and also works the tricep and shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
+A flat dumbbell press with your palms facing your head and your elbows tucked close to your sides. It works the upper chest, with help from the triceps and shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell reverse bench press is a chest exercise performed lying on a bench,
 
 ## How to perform
 
-1. Lie flat on a bench with your feet flat on the ground and your knees bent.
-2. Hold a dumbbell in each hand with an overhand grip, palms facing towards your feet.
-3. Extend your arms straight up towards the ceiling, keeping a slight bend in your elbows.
-4. Slowly lower the dumbbells towards your chest, allowing your elbows to flare out to the sides.
-5. Pause for a moment at the bottom, then push the dumbbells back up to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench, feet on the floor, holding a dumbbell in each hand with your palms facing toward your head.
+2. Start with the dumbbells just above your lower chest, handles in one line, elbows close to your sides.
+3. Press the dumbbells straight up until your arms are straight above your chest.
+4. Lower them slowly back to your lower chest, keeping your elbows tucked in.
 
 ## Pro tips
 

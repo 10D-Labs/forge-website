@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The spine twist is a bodyweight exercise that targets the abs, obliques, and lower back. It involves sitting on the ground, engaging the core, and twisting the torso side to side, which helps improve core strength and mobility. Beginner core exercise using body weight. Targets abs, also works obliques, lower back.
+A seated twist with straight legs and your arms held in front of your chest. It works the abs and the obliques. Beginner core exercise using body weight. Targets abs, also works obliques, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The spine twist is a bodyweight exercise that targets the abs, obliques, and low
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in front of you.
-2. Bend your knees and place your feet flat on the ground, hip-width apart.
-3. Place your hands behind your head with your elbows pointing outwards.
-4. Engage your abs and slowly twist your torso to the right, bringing your right elbow towards your left knee.
-5. Pause for a moment at the end of the twist, then slowly return to the starting position.
-6. Repeat the twist to the left side, bringing your left elbow towards your right knee.
-7. Continue alternating sides for the desired number of repetitions.
+1. Sit tall on the floor with your legs straight in front of you, toes pointing up.
+2. Fold your arms in front of your chest at shoulder height, elbows out.
+3. Keep your hips and legs still and twist your upper body to one side as far as you can.
+4. Turn back through the middle and twist to the other side. Keep alternating sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable one arm tricep pushdown is an isolation exercise targeting the tricep using a cable machine. It helps build tricep strength and definition, and also engages the forearms as secondary muscles. Beginner arms exercise using cable. Targets triceps, also works forearms.
+A one-arm triceps pushdown on a high cable with a single handle. It works the triceps, with some help from the forearms. Beginner arms exercise using cable. Targets triceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Cable
@@ -15,14 +15,10 @@ The cable one arm tricep pushdown is an isolation exercise targeting the tricep 
 
 ## How to perform
 
-1. Stand facing a cable machine with a straight bar attachment at chest height.
-2. Grasp the bar with an overhand grip and step back to create tension in the cable.
-3. Position your feet shoulder-width apart and slightly bend your knees.
-4. Keep your back straight and core engaged throughout the exercise.
-5. Start with your arm fully extended and perpendicular to the floor.
-6. Keeping your upper arm stationary, exhale and push the bar down until your arm is fully extended.
-7. Pause for a moment, then inhale and slowly return to the starting position.
-8. Repeat for the desired number of repetitions, then switch arms.
+1. Attach a single handle to a high pulley and stand facing the machine, feet shoulder-width apart and knees slightly bent.
+2. Hold the handle in one hand, palm facing down, with your elbow bent and tucked at your side.
+3. Keeping your upper arm still, push the handle down until your arm is straight.
+4. Let the handle rise slowly until your elbow is fully bent again. Do all your reps with one arm, then switch.
 
 ## Pro tips
 

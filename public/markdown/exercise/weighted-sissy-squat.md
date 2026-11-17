@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-The weighted sissy squat is a challenging lower body exercise that targets the quadriceps while also engaging the glutes, hamstrings, and calves. It requires balance, strength, and coordination, especially when performed with added weight. Advanced legs exercise using body weight. Targets quads, also works glutes, hamstrings, calves.
+A squat where you rise onto your toes, push your knees forward and lean back, holding a weight plate to your chest and a bench for balance. It works the quads. Advanced legs exercise using weight plate. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
-- **Equipment:** Body Weight
+- **Equipment:** Weight Plate
 - **Target Muscle:** Quads
 - **Secondary Muscles:** Glutes, Hamstrings, Calves
 - **Difficulty:** Advanced
@@ -15,12 +15,10 @@ The weighted sissy squat is a challenging lower body exercise that targets the q
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and your toes pointing slightly outward.
-2. Hold a weight in front of your chest with both hands, or place a barbell across your upper back.
-3. Keeping your chest up and your core engaged, slowly lower your body down by bending at the knees and hips.
-4. Continue lowering until your thighs are parallel to the ground or as low as you can comfortably go.
-5. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand beside an incline bench. Hold the top of the backrest with one hand and a weight plate to your chest with the other.
+2. Rise onto your toes and push your knees forward and down as you lean back, keeping a straight line from knees to head.
+3. Lower until your thighs are almost level with the floor.
+4. Push through the balls of your feet to bring your knees back and stand up tall.
 
 ## Pro tips
 
@@ -59,7 +57,7 @@ The Weighted Sissy Squat is an advanced exercise. Beginners should master fundam
 ## Related exercises
 
 - [More Legs Exercises](https://forgetrainer.ai/exercises/legs)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Weight Plate Exercises](https://forgetrainer.ai/exercises/equipment/weight-plate)
 - [More Quads Exercises](https://forgetrainer.ai/exercises/muscle/quads)
 
 ---

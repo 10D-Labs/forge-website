@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dead bug is a core stability exercise that targets the abdominal muscles while also engaging the hip flexors and lower back. It is performed lying on your back, alternating arm and leg movements while maintaining a stable core. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A lying ab exercise: lower one arm and the opposite leg toward the floor while your lower back stays pressed down. It works the abs, with help from the hips and lower back. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,13 +15,10 @@ The dead bug is a core stability exercise that targets the abdominal muscles whi
 
 ## How to perform
 
-1. Lie flat on your back with your arms extended towards the ceiling.
-2. Bend your knees and lift your legs off the ground, creating a 90 degree angle at your hips and knees.
-3. Engage your core and lower back to press your lower back into the ground.
-4. Slowly lower your right arm and left leg towards the ground, keeping them straight and hovering just above the floor.
-5. Pause for a moment, then return to the starting position.
-6. Repeat the movement with your left arm and right leg.
-7. Continue alternating sides for the desired number of repetitions.
+1. Lie on your back with your arms pointing straight up at the ceiling.
+2. Lift your legs off the floor with your hips and knees bent at right angles. Press your lower back into the floor.
+3. Slowly lower your right arm and left leg toward the floor, straightening them until they hover just above it.
+4. Bring them back up, then do the same with your left arm and right leg. Keep alternating sides.
 
 ## Pro tips
 

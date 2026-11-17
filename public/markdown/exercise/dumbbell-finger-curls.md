@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Dumbbell finger curls are an isolation exercise targeting the forearms, specifically the muscles responsible for finger flexion. This exercise helps improve grip strength and forearm development. Beginner arms exercise using dumbbell. Targets forearms, also works wrist flexors, wrist extensors.
+A grip move where you let dumbbells roll down to your fingertips and curl them back up. It works the forearms and grip. Beginner arms exercise using dumbbell. Targets forearms, also works wrist flexors, wrist extensors.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,10 +15,10 @@ Dumbbell finger curls are an isolation exercise targeting the forearms, specific
 
 ## How to perform
 
-1. Sit on a bench or chair with your feet flat on the ground and your back straight.
-2. Hold a dumbbell in one hand with an underhand grip, resting your forearm on your thigh, palm facing up.
-3. Allow the dumbbell to roll down to your fingertips, then curl it back up by flexing your fingers.
-4. Repeat for the desired number of repetitions, then switch to the other hand.
+1. Sit on a bench with your feet flat on the floor and your back straight.
+2. Hold a dumbbell in each hand, palms facing up, and rest your forearms on your thighs.
+3. Open your fingers to let the dumbbells roll down to your fingertips.
+4. Curl your fingers to roll the dumbbells back into your palms.
 
 ## Pro tips
 

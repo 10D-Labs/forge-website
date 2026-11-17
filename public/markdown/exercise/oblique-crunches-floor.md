@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Oblique crunches on the floor target the abdominal muscles, especially the obliques, by incorporating a twisting motion as you crunch up. This exercise is performed lying on your back, using only body weight, and is suitable for most fitness levels. Beginner core exercise using body weight. Targets abs, also works obliques.
+A floor crunch done with both knees dropped to one side, which puts more of the work on the side of your waist. It works the abs and the obliques. Beginner core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ Oblique crunches on the floor target the abdominal muscles, especially the obliq
 
 ## How to perform
 
-1. Lie on your back with your knees bent and feet flat on the floor.
-2. Place your hands behind your head or cross them over your chest.
-3. Engage your abs and lift your shoulder blades off the floor, rotating your torso to one side.
-4. Pause for a moment, then lower your shoulder blades back down to the floor.
-5. Repeat on the other side, alternating sides with each repetition.
+1. Lie on your back, bend your knees and let both legs drop to one side, stacked, so your knees rest on the floor.
+2. Place one hand behind your head and rest the other across your stomach.
+3. Curl your head and shoulders up off the floor, keeping your knees down.
+4. Lower slowly back down. Do all your reps on one side, then drop your knees to the other side.
 
 ## Pro tips
 

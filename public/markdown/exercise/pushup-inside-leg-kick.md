@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The pushup inside leg kick is a dynamic bodyweight exercise that combines a standard pushup with a lateral leg kick, targeting the glutes and engaging the core, quadriceps, hamstrings, and calves. It requires coordination, balance, and strength. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A pushup where you lift one leg off the floor, knee bent, at the bottom of each rep. It works the glutes and core, along with the chest and arms. Intermediate legs exercise using body weight. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,11 @@ The pushup inside leg kick is a dynamic bodyweight exercise that combines a stan
 
 ## How to perform
 
-1. Start in a pushup position with your hands slightly wider than shoulder-width apart and your feet together.
-2. Lower your body towards the ground by bending your elbows, keeping your back straight and your core engaged.
-3. As you push back up, lift one leg off the ground and kick it out to the side, keeping it straight.
-4. Lower your leg back down and repeat the pushup, then switch to the other leg.
-5. Continue alternating leg kicks with each pushup repetition.
+1. Start in a pushup position, hands slightly wider than shoulder-width apart and feet together.
+2. Bend your elbows to lower your chest toward the floor, keeping your back straight.
+3. At the bottom, lift one foot off the floor and bend that knee.
+4. Put the foot back down and push up until your arms are straight.
+5. Use the other leg on the next pushup. Keep alternating legs.
 
 ## Pro tips
 

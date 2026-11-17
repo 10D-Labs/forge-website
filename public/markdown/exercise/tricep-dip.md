@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The tricep dip is a bodyweight exercise that targets the tricep and also engages the chest and shoulders. It is performed using a bench or chair and involves lowering and raising the body using the arms. Beginner arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A dip on parallel bars, lowering and pushing up your whole body with your arms. It works the triceps, with help from the chest and shoulders. Beginner arms exercise using body weight. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The tricep dip is a bodyweight exercise that targets the tricep and also engages
 
 ## How to perform
 
-1. Sit on the edge of a bench or chair with your hands gripping the edge, fingers pointing forward.
-2. Slide your butt off the bench, supporting your weight with your hands.
-3. Bend your elbows and lower your body towards the ground, keeping your back close to the bench.
-4. Pause for a moment at the bottom, then push yourself back up to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Grip the parallel bars of a dip station, palms facing each other, and press up until your arms are straight.
+2. Bend your knees slightly so your feet stay off the floor, and keep your body upright.
+3. Bend your elbows and lower your body, leaning forward slightly, until your upper arms are about level with the floor.
+4. Push back up until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The reverse t-bar row is a machine-based exercise targeting the upper back. It involves pulling handles towards the chest while seated, emphasizing scapular retraction and upper back engagement. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
+A T-bar row done lying chest down on an angled pad, so your chest is supported. It works the upper back as you pull your shoulder blades together. Beginner back exercise using machine. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Machine
@@ -15,13 +15,10 @@ The reverse t-bar row is a machine-based exercise targeting the upper back. It i
 
 ## How to perform
 
-1. Adjust the seat height and footplate position on the machine.
-2. Sit on the machine with your chest against the pad and your feet flat on the footplate.
-3. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.
-4. Keep your back straight and engage your core.
-5. Pull the handles towards your chest, squeezing your shoulder blades together.
-6. Pause for a moment at the top of the movement, then slowly release and extend your arms back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Set the foot platforms for your height. Lie face down on the angled pad with your chest on it and your feet on the platforms.
+2. Grab the handles, hands slightly wider than shoulder-width apart, and let your arms hang straight.
+3. Pull the handles up toward your chest, pulling your shoulder blades together. Keep your back straight.
+4. Lower the handles slowly until your arms are straight again.
 
 ## Pro tips
 

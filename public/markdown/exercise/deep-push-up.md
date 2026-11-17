@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The deep push up is a variation of the traditional push up that increases the range of motion, targeting the pectorals more intensely and also engaging the tricep and shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
+A pushup with your hands raised on dumbbells, so you can lower further than on the floor. It works the chest through a bigger range, with help from the triceps and shoulders. Intermediate chest exercise using dumbbell. Targets chest, also works triceps, shoulders.
 
 - **Body Part:** Chest
 - **Equipment:** Dumbbell
@@ -15,10 +15,9 @@ The deep push up is a variation of the traditional push up that increases the ra
 
 ## How to perform
 
-1. Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line.
-2. Lower your chest towards the ground by bending your elbows, keeping them close to your body.
-3. Push through your palms to extend your arms and return to the starting position.
-4. Repeat for the desired number of repetitions.
+1. Set two dumbbells on the floor slightly wider than shoulder-width apart. Grip them, palms facing each other, and get into a pushup position with your body straight.
+2. Bend your elbows to lower your chest between the dumbbells. Keep your elbows close to your body.
+3. Push through your hands to straighten your arms and come back up.
 
 ## Pro tips
 

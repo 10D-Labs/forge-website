@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-A pushup variation performed with hands close together on a medicine ball, targeting the tricep and engaging the chest and shoulders. Advanced arms exercise using medicine ball. Targets triceps, also works chest, shoulders.
+A pushup with both hands together on a medicine ball. It works the triceps, with help from the chest and shoulders. Advanced arms exercise using medicine ball. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Medicine Ball
@@ -15,10 +15,9 @@ A pushup variation performed with hands close together on a medicine ball, targe
 
 ## How to perform
 
-1. Start in a high plank position with your hands on the medicine ball, shoulder-width apart.
-2. Lower your body towards the ground by bending your elbows, keeping them close to your sides.
-3. Push back up to the starting position, fully extending your arms.
-4. Repeat for the desired number of repetitions.
+1. Get into a pushup position with both hands together on a medicine ball. Keep your body straight from head to heels.
+2. Bend your elbows to lower your chest toward the ball, keeping your elbows close to your sides.
+3. Push back up until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band single leg split squat is a lower body exercise targeting the quads, with secondary emphasis on the glutes and hamstrings. It uses a resistance band for added tension and requires balance and coordination. Intermediate legs exercise using resistance band. Targets quads, also works glutes, hamstrings.
+A split squat with your back foot up on a box and a band under your front foot, held at your sides. It works the quads, with the glutes and hamstrings helping. Intermediate legs exercise using resistance band. Targets quads, also works glutes, hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band single leg split squat is a lower body exercise targeting the quads, wi
 
 ## How to perform
 
-1. Stand with your feet hip-width apart and place a resistance band around your ankles.
-2. Take a big step forward with your right foot and a smaller step back with your left foot.
-3. Bend your knees and lower your body until your right thigh is parallel to the ground, keeping your left knee slightly above the ground.
-4. Push through your right heel to return to the starting position.
-5. Repeat on the other side.
+1. Stand a big step in front of a box and rest the top of your back foot on it.
+2. Stand on the middle of a band with your front foot and hold a handle in each hand at your sides, palms facing in.
+3. Bend your front knee and lower straight down until your front thigh is about level with the floor.
+4. Push through your front foot to stand back up. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

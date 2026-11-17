@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The back lever is a challenging bodyweight exercise performed on a pullup bar, requiring significant strength, balance, and body control. It targets the upper back and also engages the bicep, forearms, and core. Advanced back exercise using body weight. Targets upper back, also works biceps, forearms, core.
+An advanced hold on gymnastics rings: you hang face down with your body straight and level with the floor, arms straight behind you. It works the upper back, with the biceps, forearms and core helping. Advanced back exercise using body weight. Targets upper back, also works biceps, forearms, core.
 
 - **Body Part:** Back
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The back lever is a challenging bodyweight exercise performed on a pullup bar, r
 
 ## How to perform
 
-1. Start by hanging from a pullup bar with an overhand grip, hands slightly wider than shoulder-width apart.
-2. Engage your core and pull your shoulder blades down and back.
-3. Bend your knees and tuck them towards your chest.
-4. Slowly lift your legs up, keeping them straight, until your body is parallel to the ground.
-5. Hold this position for a few seconds, then slowly lower your legs back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Hang from a pair of gymnastics rings with your arms straight and palms facing each other.
+2. Tuck your knees to your chest and roll backward so your hips pass up between your arms and you're upside down.
+3. Straighten your body and lower it behind you until it's level with the floor, face down, arms straight. Keep your body in one straight line.
+4. Hold for a few seconds, then tuck your knees and roll back the way you came to a hang.
 
 ## Pro tips
 

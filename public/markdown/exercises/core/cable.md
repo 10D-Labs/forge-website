@@ -21,7 +21,7 @@
 - **Cable Side Crunch** — Target: Abs | Secondary: Obliques
 - **Cable Standing Lift** — Target: Abs | Secondary: Obliques, Lower Back
 - **Cable Twist** — Target: Abs | Secondary: Obliques
-- **Cable Up Down Twist** — Target: Abs | Secondary: Obliques, Lower Back
+- **Cable High to Low Woodchop** — Target: Abs | Secondary: Obliques, Lower Back
 - **Cable Reverse Crunch** — Target: Abs | Secondary: Hip Flexors
 - **Cable Seated Twist** — Target: Abs | Secondary: Obliques
 - **Cable Kneeling Crunch** — Target: Abs | Secondary: Obliques
@@ -33,7 +33,7 @@
 
 Our AI trainers design personalized core workout plans using cable. Built for your specific goals.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

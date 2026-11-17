@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cross body crunch is a bodyweight abdominal exercise that targets the abs and obliques. It involves twisting the torso to bring an elbow towards the opposite knee, engaging the core muscles. Beginner core exercise using body weight. Targets abs, also works obliques.
+A crunch with a twist, bringing one elbow toward the opposite knee. It works the abs and the obliques along your sides. Beginner core exercise using body weight. Targets abs, also works obliques.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,12 +15,10 @@ The cross body crunch is a bodyweight abdominal exercise that targets the abs an
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, lift your upper body off the ground and twist to bring your right elbow towards your left knee.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat on the other side, bringing your left elbow towards your right knee.
-6. Repeat for the desired number of repetitions.
+1. Lie on your back with your knees bent, feet flat on the floor, and hands behind your head, elbows pointing out.
+2. Lift your upper body and twist to bring your right elbow toward your left knee, lifting that knee to meet it.
+3. Lower slowly back to the floor.
+4. Bring your left elbow toward your right knee on the next rep. Keep alternating sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The band squat is a lower body exercise that targets the glutes using a resistance band placed above the knees. It also engages the quadriceps, hamstrings, and calves. This exercise helps build strength and stability in the lower body. Beginner legs exercise using resistance band. Targets glutes, also works quadriceps, hamstrings, calves.
+A squat done standing on a long band, holding its handles at your shoulders so the band gets tighter as you stand up. It works the glutes and quads, with help from the hamstrings and calves. Beginner legs exercise using resistance band. Targets glutes, also works quadriceps, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Resistance Band
@@ -15,11 +15,10 @@ The band squat is a lower body exercise that targets the glutes using a resistan
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, with the band placed just above your knees.
-2. Keeping your chest up and core engaged, push your hips back and bend your knees to lower into a squat position.
-3. Make sure your knees are tracking over your toes and your weight is in your heels.
-4. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Stand on the middle of a long band with your feet shoulder-width apart. Hold a handle in each hand at your shoulders, palms facing forward.
+2. Push your hips back and bend your knees to squat down until your thighs are about level with the floor.
+3. Don't let your knees cave in.
+4. Push through your feet to stand back up.
 
 ## Pro tips
 

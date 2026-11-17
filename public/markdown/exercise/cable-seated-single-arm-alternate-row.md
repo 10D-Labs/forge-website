@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable seated one arm alternate row is a strength exercise targeting the upper back, performed on a cable machine. It involves pulling a handle towards the body with one arm at a time, focusing on scapular retraction and controlled movement. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
+A seated one-arm cable row from chest height, switching arms each rep. It works the upper back, especially the muscles that pull your shoulder blades together. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,13 +15,10 @@ The cable seated one arm alternate row is a strength exercise targeting the uppe
 
 ## How to perform
 
-1. Sit on a bench facing a cable machine with your feet flat on the ground and knees slightly bent.
-2. Grasp the handle with one hand and keep your arm fully extended in front of you.
-3. Pull the handle towards your body, retracting your shoulder blade and keeping your elbow close to your side.
-4. Pause for a moment at the top of the movement, squeezing your back muscles.
-5. Slowly release the handle back to the starting position.
-6. Repeat with the other arm.
-7. Alternate between arms for the desired number of repetitions.
+1. Set a cable at chest height and sit on a flat bench facing it, feet flat and knees slightly bent.
+2. Grab the handle with one hand, arm straight out in front of you.
+3. Pull the handle toward your body, keeping your elbow close to your side and drawing your shoulder blade back.
+4. Straighten your arm slowly, then row with the other arm. Keep alternating sides.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The seated wide angle pose sequence is a flexibility exercise targeting the hamstrings, performed by sitting with legs extended wide, flexing the feet, and leaning forward from the hips to stretch the hamstrings. Beginner legs exercise using body weight. Targets hamstrings, also works quadriceps, calves.
+A seated wide-legged stretch where you fold forward over one leg, reaching for that foot. It stretches the hamstrings. Beginner legs exercise using body weight. Targets hamstrings, also works quadriceps, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,14 +15,10 @@ The seated wide angle pose sequence is a flexibility exercise targeting the hams
 
 ## How to perform
 
-1. Sit on the ground with your legs extended in a wide angle.
-2. Flex your feet and engage your quadriceps.
-3. Place your hands on the ground behind you for support.
-4. Keeping your back straight, lean forward from your hips.
-5. Continue leaning forward until you feel a stretch in your hamstrings.
-6. Hold this position for a few breaths.
-7. Slowly release the stretch and return to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Sit on the floor with your legs straight and spread wide, hands resting on your thighs.
+2. Pull your toes back toward you and tighten the fronts of your thighs.
+3. Lean forward from your hips over one leg, sliding both hands down toward that foot, until you feel a stretch in your hamstrings.
+4. Hold for the set time, then rise slowly back to sitting upright and switch sides.
 
 ## Pro tips
 

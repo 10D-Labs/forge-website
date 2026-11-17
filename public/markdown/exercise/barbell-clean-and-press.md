@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell clean and press is a compound exercise that targets the quads and involves lifting a barbell from the floor to the shoulders (clean) and then pressing it overhead (press). It requires strength, coordination, and explosive power. Advanced legs exercise using barbell. Targets quads, also works hamstrings, glutes, shoulders, triceps.
+A barbell lift from the floor to your shoulders, then a press overhead. It works the quads and trains strength, power and coordination across your whole body. Advanced legs exercise using barbell. Targets quads, also works hamstrings, glutes, shoulders, triceps.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,13 +15,12 @@ The barbell clean and press is a compound exercise that targets the quads and in
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart and the barbell on the floor in front of you.
-2. Bend your knees and hinge at the hips to lower down and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-3. Drive through your heels and extend your hips and knees to lift the barbell off the floor, keeping it close to your body.
-4. As the barbell reaches your thighs, explosively extend your hips, shrug your shoulders, and pull the barbell up towards your chest.
-5. As the barbell reaches chest height, quickly drop under it and catch it at shoulder level, with your elbows pointing forward and your palms facing up.
-6. From the catch position, press the barbell overhead by extending your arms and pushing the barbell straight up.
-7. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart and a barbell on the floor in front of you.
+2. Bend your knees and hips to grip the bar with your palms facing you, hands a little wider than your shoulders.
+3. Push through your heels and straighten your hips and knees to lift the bar off the floor, keeping it close to your body.
+4. As the bar passes your thighs, drive your hips forward hard, shrug your shoulders and pull the bar up toward your chest.
+5. Drop under the bar and catch it at your shoulders, elbows pointing forward and palms facing up.
+6. Press the bar overhead until your arms are straight, then lower it back to the floor.
 
 ## Pro tips
 

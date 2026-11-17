@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The smith single leg split squat is a lower body exercise performed using a smith machine. It targets the quadriceps while also engaging the glutes and hamstrings. The exercise requires balance and unilateral strength, as one leg is elevated behind you on a bench or step. Intermediate legs exercise using smith machine. Targets quads, also works glutes, hamstrings.
+A split squat on a Smith machine with your back foot up on a bench. It works the quads of your front leg, with help from the glutes and hamstrings. Intermediate legs exercise using smith machine. Targets quads, also works glutes, hamstrings.
 
 - **Body Part:** Legs
 - **Equipment:** Smith Machine
@@ -15,12 +15,11 @@ The smith single leg split squat is a lower body exercise performed using a smit
 
 ## How to perform
 
-1. Stand in front of the smith machine with your feet shoulder-width apart.
-2. Place one foot behind you on a bench or step, with your toes pointing forward.
-3. Hold onto the smith machine bar for stability.
-4. Bend your front knee and lower your body down into a lunge position, keeping your back straight.
-5. Pause for a moment at the bottom, then push through your front heel to return to the starting position.
-6. Repeat for the desired number of repetitions, then switch legs.
+1. Set a Smith machine bar at shoulder height with a flat bench behind it. Step under the bar so it rests across your upper back.
+2. Hold the bar with your hands wider than your shoulders, palms facing forward, and unhook it.
+3. Rest the top of one foot on the bench behind you, front foot flat on the floor.
+4. Bend your front knee and lower until your front thigh is level with the floor.
+5. Push through your front foot to rise back up. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

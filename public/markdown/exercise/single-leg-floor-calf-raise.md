@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The one leg floor calf raise is a bodyweight exercise targeting the calves, performed by standing on one leg and raising the heel to engage the calf muscles. It also involves the ankles and feet as secondary muscles. Beginner legs exercise using body weight. Targets calves, also works ankles, feet.
+A calf raise done on one leg on flat floor, with your hands on a wall for balance. It works the calves. Beginner legs exercise using body weight. Targets calves, also works ankles, feet.
 
 - **Body Part:** Legs
 - **Equipment:** Body Weight
@@ -15,11 +15,11 @@ The one leg floor calf raise is a bodyweight exercise targeting the calves, perf
 
 ## How to perform
 
-1. Stand with your feet hip-width apart and place your hands on a wall or sturdy object for balance.
-2. Lift one foot off the ground and balance on the other foot.
-3. Slowly raise your heel off the ground, lifting your body up onto the ball of your foot.
-4. Pause for a moment at the top, then slowly lower your heel back down to the starting position.
-5. Repeat for the desired number of repetitions, then switch legs and repeat.
+1. Stand with your feet hip-width apart and your hands on a wall or something sturdy for balance.
+2. Lift one foot off the floor and balance on the other.
+3. Rise slowly onto the ball of your foot, lifting your heel off the floor.
+4. Lower your heel slowly back down.
+5. Do all your reps on one leg, then switch.
 
 ## Pro tips
 

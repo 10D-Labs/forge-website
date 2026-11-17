@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The leg pull in flat bench is an abdominal exercise performed on a flat bench using only body weight. It targets the abs and also works the hip flexors and lower back. The movement involves pulling the knees toward the chest while sitting on a bench, requiring core strength and stability. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
+A lying ab move on a bench where you pull your knees in to your chest, then push your legs straight out. It works the abs, with help from the front of the hips. Beginner core exercise using body weight. Targets abs, also works hip flexors, lower back.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,10 @@ The leg pull in flat bench is an abdominal exercise performed on a flat bench us
 
 ## How to perform
 
-1. Sit on a flat bench with your legs extended straight out in front of you.
-2. Place your hands on the bench beside your hips for support.
-3. Engage your abs and lift your legs off the ground, bringing your knees towards your chest.
-4. Pause for a moment at the top, then slowly lower your legs back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back on a flat bench, hips near one end, and hold the sides of the bench by your hips.
+2. Lift your legs and bend your knees in toward your chest.
+3. Straighten your legs out in front of you until they're just above the level of the bench.
+4. Bend your knees and pull them back in toward your chest.
 
 ## Pro tips
 

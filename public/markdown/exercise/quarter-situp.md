@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The quarter situp is an abdominal exercise that involves lifting your upper body off the ground to about a 45 degree angle, focusing on engaging the abs with minimal hip flexor involvement. Beginner core exercise using body weight. Targets abs, also works hip flexors.
+A small situp with straight legs, lifting only your head and shoulders a few inches off the floor. It works the abs. Beginner core exercise using body weight. Targets abs, also works hip flexors.
 
 - **Body Part:** Core
 - **Equipment:** Body Weight
@@ -15,11 +15,9 @@ The quarter situp is an abdominal exercise that involves lifting your upper body
 
 ## How to perform
 
-1. Lie flat on your back with your knees bent and feet flat on the ground.
-2. Place your hands behind your head with your elbows pointing outwards.
-3. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45 degree angle.
-4. Pause for a moment at the top, then slowly lower your upper body back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Lie on your back on the floor with your legs straight and together, arms straight along your sides, palms facing down.
+2. Curl your head and shoulders a few inches off the floor, keeping your lower back down.
+3. Lower slowly back to the floor.
 
 ## Pro tips
 

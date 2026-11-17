@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell reverse grip bicep curl is an exercise targeting the bicep and forearms, performed by curling dumbbells with an overhand grip. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
+A curl done with your palms facing down instead of up, both arms at once. It works the biceps and the forearms. Beginner arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,9 @@ The dumbbell reverse grip bicep curl is an exercise targeting the bicep and fore
 
 ## How to perform
 
-1. Stand up straight with a dumbbell in each hand, palms facing down and arms fully extended.
-2. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.
-3. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.
-4. Hold the contracted position for a brief pause as you squeeze your biceps.
-5. Inhale and slowly begin to lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Stand tall with a dumbbell in each hand, arms hanging straight, palms facing behind you.
+2. Keep your upper arms still and curl both dumbbells up to shoulder level, palms facing down.
+3. Lower them slowly until your arms are straight.
 
 ## Pro tips
 

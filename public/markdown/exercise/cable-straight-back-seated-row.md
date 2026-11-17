@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable straight back seated row is a strength exercise targeting the upper back, performed on a cable row machine. It involves pulling the cable handles towards the body while keeping the back straight, engaging the upper back, bicep, forearms, and shoulders. Beginner back exercise using cable. Targets upper back, also works biceps, forearms, shoulders.
+A seated cable row with a V-shaped handle, pulling it toward your body with your back kept straight. It works the upper back, plus the biceps, forearms and shoulders. Beginner back exercise using cable. Targets upper back, also works biceps, forearms, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,12 +15,10 @@ The cable straight back seated row is a strength exercise targeting the upper ba
 
 ## How to perform
 
-1. Sit on the cable row machine with your feet flat on the footrests and your knees slightly bent.
-2. Grasp the cable handles with an overhand grip, palms facing down.
-3. Keep your back straight and lean slightly forward from the hips.
-4. Pull the cable handles towards your body, squeezing your shoulder blades together.
-5. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Sit at the cable row machine with your feet flat on the footrests and your knees slightly bent.
+2. Hold the V-shaped handle with your palms facing each other. Keep your back straight and lean slightly forward from your hips.
+3. Pull the handle toward your body, squeezing your shoulder blades together.
+4. Let the handle go back slowly until your arms are straight.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick Answer
 
-126 exercises targeting your core. Build strength and muscle with exercises organized by equipment type.
+123 exercises targeting your core. Build strength and muscle with exercises organized by equipment type.
 
 ---
 
@@ -24,35 +24,27 @@
 - **Barbell Standing Twist** — Beginner | Target: Abs
 - **Landmine 180** — Intermediate | Target: Abs
 
-### Body Weight (82 exercises)
+### Body Weight (74 exercises)
 
 - **Crunch Floor** — Beginner | Target: Abs
 - **Three Quarter Situp** — Beginner | Target: Abs
 - **Overhead Crunch** — Intermediate | Target: Abs
-- **Decline Crunch** — Intermediate | Target: Abs
 - **Decline Situp** — Intermediate | Target: Abs
-- **Hanging Leg Raise** — Advanced | Target: Abs
-- **Incline Twisting Situp** — Intermediate | Target: Abs
+- **Hanging Knee Raise** — Advanced | Target: Abs
+- **Decline Twisting Situp** — Intermediate | Target: Abs
 - **Janda Situp** — Advanced | Target: Abs
-- **Negative Crunch** — Beginner | Target: Abs
+- **Decline Crunch** — Beginner | Target: Abs
 - **Oblique Crunches Floor** — Beginner | Target: Abs
 - **Russian Twist** — Intermediate | Target: Abs
 - **Wall Seated Side Crunch** — Beginner | Target: Abs
-- **Weighted Crunch** — Intermediate | Target: Abs
-- **Legs Up Weighted Russian Twist** — Intermediate | Target: Abs
-- **Weighted Russian Twist** — Intermediate | Target: Abs
-- **Weighted Hanging Leg Hip Raise** — Advanced | Target: Abs
 - **Reverse Crunch** — Beginner | Target: Abs
-- **Decline Scapula Push Up** — Beginner | Target: Serratus
+- **Situp** — Beginner | Target: Abs
+- **Hands Elevated Scapula Pushup** — Beginner | Target: Serratus
 - **Scapula Pushup** — Beginner | Target: Serratus
-- **Potty Squat** — Beginner | Target: Abs
 - **Quarter Situp** — Beginner | Target: Abs
-- **Half Situp** — Beginner | Target: Abs
-- **Prisoner Half Situp** — Beginner | Target: Abs
 - **Arms Overhead Full Situp** — Intermediate | Target: Abs
 - **Knee Touch Crunch** — Beginner | Target: Abs
-- **Power Point Plank** — Intermediate | Target: Abs
-- **Weighted Decline Situp** — Intermediate | Target: Abs
+- **Plank with Opposite Arm and Leg Raise** — Intermediate | Target: Abs
 - **Situp with Arms on Chest** — Beginner | Target: Abs
 - **45 Degree Side Bend** — Beginner | Target: Abs
 - **Bicycle Crunch** — Beginner | Target: Abs
@@ -72,9 +64,8 @@
 - **Leg Pull in Flat Bench** — Beginner | Target: Abs
 - **Lying Leg Raise Flat Bench** — Intermediate | Target: Abs
 - **Pushup to Side Plank** — Intermediate | Target: Abs
-- **Seated Leg Raise** — Beginner | Target: Abs
-- **Parallel Bars Oblique Swing** — Advanced | Target: Abs
-- **Suspended Abdominal Fallout** — Advanced | Target: Abs
+- **Seated Knee Tuck** — Beginner | Target: Abs
+- **Captain's Chair Oblique Knee Raise** — Advanced | Target: Abs
 - **Lying Leg Hip Raise** — Beginner | Target: Abs
 - **Butt Up** — Beginner | Target: Abs
 - **Tuck Crunch** — Beginner | Target: Abs
@@ -103,11 +94,12 @@
 - **L-sit on Floor** — Advanced | Target: Abs
 - **V-sit on Floor** — Advanced | Target: Abs
 - **Bodyweight Incline Side Plank** — Beginner | Target: Abs
-- **Reverse Plank with Leg Lift** — Advanced | Target: Abs
+- **Bent Knee Lying Twist** — Beginner | Target: Abs
+- **Reverse Tabletop Leg Lift** — Advanced | Target: Abs
 - **Shoulder Tap** — Intermediate | Target: Abs
 - **Alternate Heel Touchers** — Beginner | Target: Abs
 - **Windshield Wiper** — Advanced | Target: Abs
-- **Parallel Bars Vertical Knee Raise** — Advanced | Target: Abs
+- **Captain's Chair Knee Raise** — Advanced | Target: Abs
 
 ### Cable (11 exercises)
 
@@ -116,16 +108,17 @@
 - **Cable Side Crunch** — Intermediate | Target: Abs
 - **Cable Standing Lift** — Intermediate | Target: Abs
 - **Cable Twist** — Intermediate | Target: Abs
-- **Cable Up Down Twist** — Intermediate | Target: Abs
+- **Cable High to Low Woodchop** — Intermediate | Target: Abs
 - **Cable Reverse Crunch** — Intermediate | Target: Abs
 - **Cable Seated Twist** — Intermediate | Target: Abs
 - **Cable Kneeling Crunch** — Intermediate | Target: Abs
 - **Cable Side Bend** — Beginner | Target: Abs
 - **Cable Standing Crunch** — Intermediate | Target: Abs
 
-### Dumbbell (2 exercises)
+### Dumbbell (3 exercises)
 
 - **Dumbbell Incline Shoulder Raise** — Intermediate | Target: Serratus
+- **Weighted Hanging Leg Hip Raise** — Advanced | Target: Abs
 - **Dumbbell Side Bend** — Beginner | Target: Abs
 
 ### Kettlebell (5 exercises)
@@ -136,10 +129,9 @@
 - **Kettlebell Figure 8** — Intermediate | Target: Abs
 - **Kettlebell Windmill** — Advanced | Target: Abs
 
-### Machine (3 exercises)
+### Machine (2 exercises)
 
 - **Seated Crunch** — Beginner | Target: Abs
-- **Situp** — Beginner | Target: Abs
 - **Kneeling Twist** — Intermediate | Target: Abs
 
 ### Medicine Ball (1 exercise)
@@ -159,13 +151,21 @@
 - **Band V-up** — Intermediate | Target: Abs
 - **Band Vertical Pallof Press** — Beginner | Target: Abs
 
+### Rings (1 exercise)
+
+- **Suspended Abdominal Fallout** — Advanced | Target: Abs
+
 ### Smith Machine (1 exercise)
 
 - **Smith Incline Shoulder Raises** — Intermediate | Target: Serratus
 
-### Weight Plate (1 exercise)
+### Weight Plate (5 exercises)
 
+- **Weighted Crunch** — Intermediate | Target: Abs
+- **Legs Up Weighted Russian Twist** — Intermediate | Target: Abs
+- **Weighted Russian Twist** — Intermediate | Target: Abs
 - **Weighted Front Plank** — Intermediate | Target: Abs
+- **Weighted Decline Situp** — Intermediate | Target: Abs
 
 ---
 
@@ -173,7 +173,7 @@
 
 Get a personalized core workout plan from our AI trainers, tailored to your goals and available equipment.
 
-**[Get Forge on Google Play](https://play.google.com/store/apps/details?id=com.tendylabs.forge)** | **[Get Forge on the App Store](https://apps.apple.com/us/app/forge-ai-personal-trainer/id6758403402)**
+**[Join the Waitlist](https://forgetrainer.ai/?scrollTo=waitlist)**
 
 ---
 

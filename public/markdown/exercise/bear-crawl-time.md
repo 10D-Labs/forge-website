@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The bear crawl is a full-body movement that targets the cardiovascular system while also engaging the core, shoulders, and triceps. It involves crawling on all fours with knees off the ground, requiring coordination and endurance. Intermediate cardio exercise using body weight. Targets cardiovascular, also works core, shoulders, triceps.
+Crawling forward on your hands and feet with your knees just off the floor. It raises your heart rate and works the abs, shoulders and triceps. Intermediate cardio exercise using body weight. Targets cardiovascular, also works core, shoulders, triceps.
 
 - **Body Part:** Cardio
 - **Equipment:** Body Weight
@@ -15,12 +15,11 @@ The bear crawl is a full-body movement that targets the cardiovascular system wh
 
 ## How to perform
 
-1. Start on all fours with your hands directly under your shoulders and your knees directly under your hips.
-2. Lift your knees slightly off the ground, keeping your back flat and your core engaged.
-3. Move your right hand and left foot forward simultaneously, followed by your left hand and right foot.
-4. Continue crawling forward, alternating your hand and foot movements.
-5. Maintain a steady pace and keep your core tight throughout the exercise.
-6. Continue for your target duration.
+1. Get on your hands and knees with your hands under your shoulders and your knees under your hips.
+2. Lift your knees slightly off the floor, keeping your back flat.
+3. Move your right hand and left foot forward together, then your left hand and right foot.
+4. Keep crawling forward at a steady pace, alternating sides.
+5. Keep going for the set time.
 
 ## Pro tips
 

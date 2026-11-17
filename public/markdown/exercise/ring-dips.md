@@ -2,10 +2,10 @@
 
 ## Quick answer
 
-Ring dips are a challenging bodyweight exercise performed on gymnastic rings, primarily targeting the tricep, with significant engagement of the chest and shoulders. The instability of the rings requires considerable strength, balance, and coordination. Advanced arms exercise using body weight. Targets triceps, also works chest, shoulders.
+A dip done on gymnastic rings, which move freely, so you need extra strength and balance to stay steady. It works the triceps, with help from the chest and shoulders. Advanced arms exercise using rings. Targets triceps, also works chest, shoulders.
 
 - **Body Part:** Arms
-- **Equipment:** Body Weight
+- **Equipment:** Rings
 - **Target Muscle:** Triceps
 - **Secondary Muscles:** Chest, Shoulders
 - **Difficulty:** Advanced
@@ -15,10 +15,9 @@ Ring dips are a challenging bodyweight exercise performed on gymnastic rings, pr
 
 ## How to perform
 
-1. Start by hanging from the rings with your arms fully extended and your body straight.
-2. Lower your body by bending your elbows until your shoulders are below your elbows.
-3. Push yourself back up to the starting position by straightening your arms.
-4. Repeat for the desired number of repetitions.
+1. Grip the rings and hold yourself up above them with your arms straight and your body straight.
+2. Bend your elbows to lower your body until your shoulders drop below your elbows.
+3. Push back up until your arms are straight.
 
 ## Pro tips
 
@@ -57,7 +56,7 @@ The Ring Dips is an advanced exercise. Beginners should master fundamental arms 
 ## Related exercises
 
 - [More Arms Exercises](https://forgetrainer.ai/exercises/arms)
-- [More Body Weight Exercises](https://forgetrainer.ai/exercises/equipment/bodyweight)
+- [More Rings Exercises](https://forgetrainer.ai/exercises/equipment/rings)
 - [More Triceps Exercises](https://forgetrainer.ai/exercises/muscle/triceps)
 
 ---

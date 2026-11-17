@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The kettlebell double windmill is a dynamic exercise that targets the abs while also engaging the shoulders and hamstrings. It requires holding a kettlebell overhead and bending at the waist, demanding core strength, shoulder stability, and hamstring flexibility. Advanced core exercise using kettlebell. Targets abs, also works shoulders, hamstrings.
+A windmill with two kettlebells: one held straight overhead while you bend sideways and lower the other toward your foot. It works the abs and obliques, with help from the shoulders and hamstrings. Advanced core exercise using kettlebell. Targets abs, also works shoulders, hamstrings.
 
 - **Body Part:** Core
 - **Equipment:** Kettlebell
@@ -15,13 +15,11 @@ The kettlebell double windmill is a dynamic exercise that targets the abs while 
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, holding a kettlebell in your right hand.
-2. Extend your right arm overhead, keeping your eyes on the kettlebell.
-3. Rotate your left foot 45 degrees to the left and your right foot 90 degrees to the right.
-4. Bend at the waist to the left, keeping your right arm extended overhead.
-5. Lower the kettlebell towards the ground, reaching towards your left foot.
-6. Pause for a moment, then engage your core and push through your right foot to return to the starting position.
-7. Repeat for the desired number of repetitions, then switch sides.
+1. Stand with your feet shoulder-width apart, a kettlebell in each hand. Press the right one straight overhead and let the left hang at your side.
+2. Turn your left foot out about 45 degrees to the left.
+3. Bend sideways at the waist to the left, keeping your right arm straight overhead.
+4. Lower the left kettlebell down toward your left foot.
+5. Push through your right foot to stand back up. Do all your reps, then switch sides.
 
 ## Pro tips
 

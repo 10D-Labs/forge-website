@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline row is a strength exercise targeting the upper back, performed on an incline bench with dumbbells. It emphasizes scapular retraction and upper back development while also engaging the bicep and shoulders. Intermediate back exercise using dumbbell. Targets upper back, also works biceps, shoulders.
+A two-dumbbell row done lying face down on an incline bench, so your chest is supported. It works the upper back, with help from the biceps and shoulders. Intermediate back exercise using dumbbell. Targets upper back, also works biceps, shoulders.
 
 - **Body Part:** Back
 - **Equipment:** Dumbbell
@@ -15,12 +15,11 @@ The dumbbell incline row is a strength exercise targeting the upper back, perfor
 
 ## How to perform
 
-1. Set up an incline bench at a 45 degree angle.
-2. Grab a dumbbell in each hand and sit on the bench with your chest against the incline.
-3. Extend your arms fully, allowing the dumbbells to hang straight down from your shoulders.
-4. Pull the dumbbells up towards your chest, squeezing your shoulder blades together.
-5. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set an incline bench to 45 degrees.
+2. Lie face down on it with a dumbbell in each hand, your chest against the pad and your feet on the floor.
+3. Let your arms hang straight down from your shoulders.
+4. Pull the dumbbells up toward your chest.
+5. Lower them slowly until your arms hang straight again.
 
 ## Pro tips
 

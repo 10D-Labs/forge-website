@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell one arm hammer preacher curl is an isolation exercise targeting the bicep and forearms, performed on a preacher bench to minimize cheating and maximize muscle engagement. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
+A one-arm preacher curl done with your palm facing in, thumb up. It works the biceps and the forearms. Intermediate arms exercise using dumbbell. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,12 +15,10 @@ The dumbbell one arm hammer preacher curl is an isolation exercise targeting the
 
 ## How to perform
 
-1. Sit on a preacher bench with a dumbbell in one hand and your upper arm resting on the pad.
-2. Hold the dumbbell with a neutral grip (palms facing your body).
-3. Keeping your upper arm stationary, exhale and curl the dumbbell up towards your shoulder.
-4. Pause for a moment at the top, squeezing your biceps.
-5. Inhale and slowly lower the dumbbell back to the starting position.
-6. Repeat for the desired number of repetitions, then switch arms.
+1. Sit at a preacher bench with the back of one upper arm on the pad. Hold a dumbbell in that hand, palm facing in (thumb up).
+2. Start with that arm nearly straight.
+3. Keep your upper arm on the pad and curl the dumbbell up toward your face, thumb still pointing up.
+4. Lower slowly until your arm is nearly straight. Do all your reps on one arm, then switch.
 
 ## Pro tips
 

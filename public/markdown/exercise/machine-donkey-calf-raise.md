@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The machine donkey calf raise is an exercise targeting the calf muscles using a dedicated machine. The bent-over position allows for a greater stretch and contraction of the calves compared to standing calf raises, making it highly effective for calf development. Beginner legs exercise using machine. Targets calves, also works hamstrings, glutes.
+A calf raise on a machine, bent forward at the hips with a weighted pad on your lower back. It works the calves, and bending over lets them stretch further than in a standing raise. Beginner legs exercise using machine. Targets calves, also works hamstrings, glutes.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,12 +15,10 @@ The machine donkey calf raise is an exercise targeting the calf muscles using a 
 
 ## How to perform
 
-1. Adjust the machine to the appropriate height for your body.
-2. Position yourself facing the machine, with your toes on the foot platform and your heels hanging off the edge.
-3. Place your hands on the handles or the support bars for stability.
-4. Engage your calves and lift your heels as high as possible, using the balls of your feet.
-5. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-6. Repeat for the desired number of repetitions.
+1. Set the machine for your height. Stand with the balls of your feet on the foot platform and your heels hanging off the edge.
+2. Bend forward at the hips so the pad rests on your lower back, and rest your forearms on the front pad, holding the handles.
+3. Rise onto the balls of your feet, lifting your heels as high as you can.
+4. Lower your heels slowly back down.
 
 ## Pro tips
 

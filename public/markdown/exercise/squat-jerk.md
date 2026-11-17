@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The squat jerk is an advanced Olympic weightlifting movement that combines a squat and a jerk, requiring explosive power, coordination, and balance. It targets the quads primarily, with significant involvement from the glutes, hamstrings, calves, and core. Advanced legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves, core.
+A fast overhead lift where you drive the bar up from your shoulders and catch it in a deep squat with straight arms. It works the quads, glutes and shoulders and takes speed and balance. Advanced legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,13 +15,11 @@ The squat jerk is an advanced Olympic weightlifting movement that combines a squ
 
 ## How to perform
 
-1. Start with the barbell resting on your shoulders, with your feet shoulder-width apart.
-2. Lower your body into a squat position, keeping your chest up and your knees tracking over your toes.
-3. As you reach the bottom of the squat, explosively drive through your legs and push the barbell overhead.
-4. As the barbell reaches its peak, quickly drop into a split position, with one foot forward and one foot back.
-5. Catch the barbell overhead with your arms fully extended and your back knee slightly touching the ground.
-6. Stand up from the split position, bringing your feet back together.
-7. Lower the barbell back to your shoulders and repeat for the desired number of repetitions.
+1. Stand with your feet hip-width apart and a barbell resting on the front of your shoulders. Hold it just outside your shoulders, palms facing forward.
+2. Dip by bending your knees a few inches, keeping your chest up and your upper body upright.
+3. Drive up hard through your legs and push the bar straight overhead.
+4. As the bar rises, drop into a deep squat and catch it overhead with your arms locked straight.
+5. Stand up with the bar overhead, then lower it back to your shoulders.
 
 ## Pro tips
 

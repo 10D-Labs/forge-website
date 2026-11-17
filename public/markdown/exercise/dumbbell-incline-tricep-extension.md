@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The dumbbell incline tricep extension is an upper arm exercise targeting the tricep, performed on an incline bench with dumbbells. It also engages the shoulders as secondary muscles. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
+An overhead tricep extension done sitting back on an incline bench, holding one dumbbell with both hands. It works the triceps. Beginner arms exercise using dumbbell. Targets triceps, also works shoulders.
 
 - **Body Part:** Arms
 - **Equipment:** Dumbbell
@@ -15,11 +15,10 @@ The dumbbell incline tricep extension is an upper arm exercise targeting the tri
 
 ## How to perform
 
-1. Sit on an incline bench with a dumbbell in each hand, resting on your thighs.
-2. Slowly lie back on the bench, keeping the dumbbells close to your chest.
-3. Once you are fully lying down, extend your arms straight up towards the ceiling, keeping your elbows slightly bent.
-4. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Set a bench to a steep incline and sit with your back against it, feet flat on the floor.
+2. Hold one dumbbell upright with both palms cupped under its top end, and press it straight up above your head.
+3. Keep your elbows pointing up, close to your head, and bend them to lower the dumbbell behind your head.
+4. Straighten your arms to raise it back above your head.
 
 ## Pro tips
 

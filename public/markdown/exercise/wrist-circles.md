@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-Wrist circles are a bodyweight exercise focused on improving mobility and flexibility in the wrists and forearms. This movement is commonly used as a warm-up or rehabilitation exercise to increase blood flow and prepare the wrists for more strenuous activities. Beginner arms exercise using body weight. Targets forearms, also works hands, wrists.
+A warm-up where you circle your wrists. It loosens the wrists and forearms before harder work. Beginner arms exercise using body weight. Targets forearms, also works hands, wrists.
 
 - **Body Part:** Arms
 - **Equipment:** Body Weight
@@ -15,10 +15,9 @@ Wrist circles are a bodyweight exercise focused on improving mobility and flexib
 
 ## How to perform
 
-1. Extend your arms straight out in front of you.
-2. Make a fist with both hands.
-3. Rotate your wrists in a circular motion, keeping your arms still.
-4. Continue the wrist circles for the desired number of repetitions.
+1. Stand with your elbows bent at your sides and your forearms pointing forward.
+2. Relax your hands, keeping them open.
+3. Circle both hands at the wrists, keeping your forearms still.
 
 ## Pro tips
 

@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell high bar squat is a compound lower body exercise that primarily targets the glutes, with significant involvement from the quadriceps, hamstrings, calves, and core. It requires placing a barbell on the upper back (traps) and performing a squat movement. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
+A back squat with the barbell resting high on your upper back, just below your neck. It works the glutes, with help from the quads and hamstrings. Intermediate legs exercise using barbell. Targets glutes, also works quadriceps, hamstrings, calves, core.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,12 +15,11 @@ The barbell high bar squat is a compound lower body exercise that primarily targ
 
 ## How to perform
 
-1. Stand with your feet shoulder-width apart, toes slightly turned out.
-2. Place the barbell on your upper back, resting it on your traps.
-3. Engage your core and keep your chest up as you begin to squat down, pushing your hips back and bending your knees.
-4. Lower yourself until your thighs are parallel to the ground, or as low as you can comfortably go.
-5. Drive through your heels to stand back up, extending your hips and knees.
-6. Repeat for the desired number of repetitions.
+1. Stand with your feet shoulder-width apart, toes turned out slightly.
+2. Rest a barbell high on your upper back, on the muscles just below your neck.
+3. Keep your chest up, push your hips back and bend your knees.
+4. Lower until your thighs are level with the floor, or as low as you comfortably can.
+5. Drive through your heels to stand back up.
 
 ## Pro tips
 

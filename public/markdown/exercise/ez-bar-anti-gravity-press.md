@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar anti gravity press is a shoulder exercise performed with an EZ bar. It targets the deltoids and also works the tricep and chest. The movement involves pressing the barbell overhead from shoulder height while standing. Intermediate shoulders exercise using ez bar. Targets shoulders, also works triceps, chest.
+A shoulder press done lying face down on an incline bench, pushing an EZ bar straight out in front of you instead of overhead. It works the front of the shoulders, with help from the triceps. Intermediate shoulders exercise using ez bar. Targets shoulders, also works triceps, chest.
 
 - **Body Part:** Shoulders
 - **Equipment:** EZ Bar
@@ -15,10 +15,10 @@ The EZ bar anti gravity press is a shoulder exercise performed with an EZ bar. I
 
 ## How to perform
 
-1. Start by standing with your feet shoulder-width apart and holding the ez barbell with an overhand grip.
-2. Raise the barbell to shoulder height, keeping your elbows slightly bent and your palms facing forward.
-3. Press the barbell overhead, extending your arms fully.
-4. Lower the barbell back to shoulder height and repeat for the desired number of repetitions.
+1. Lie face down on an incline bench set to about 45 degrees, chest at the top of the pad, toes on the floor behind you.
+2. Hold an EZ bar in front of your shoulders with your elbows bent, hands shoulder-width apart, palms facing down.
+3. Push the bar forward until your arms are straight out in front of your head.
+4. Bend your elbows to bring the bar slowly back in front of your shoulders.
 
 ## Pro tips
 

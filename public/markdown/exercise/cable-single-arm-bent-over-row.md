@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The cable one arm bent over row is a unilateral pulling exercise that targets the upper back, requiring core stability and coordination. It is performed using a cable machine and emphasizes controlled movement and proper form. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
+A one-arm cable row from a low pulley, leaning forward with one foot in front of the other. It works the upper back. Intermediate back exercise using cable. Targets upper back, also works biceps, forearms.
 
 - **Body Part:** Back
 - **Equipment:** Cable
@@ -15,12 +15,11 @@ The cable one arm bent over row is a unilateral pulling exercise that targets th
 
 ## How to perform
 
-1. Stand facing a cable machine with your feet shoulder-width apart.
-2. Bend your knees slightly and hinge forward at the hips, keeping your back straight.
-3. Grasp the cable handle with one hand, palm facing inward, and extend your arm fully.
-4. Pull the cable handle towards your body, keeping your elbow close to your side, until your hand reaches your lower chest.
-5. Pause for a moment, then slowly extend your arm back to the starting position.
-6. Repeat for the desired number of repetitions, then switch sides.
+1. Attach a handle to a low cable pulley and stand facing it with one foot in front of the other.
+2. Bend your knees slightly and lean forward from your hips, keeping your back straight.
+3. Grab the handle with one hand, palm facing in toward your body, arm straight.
+4. Pull the handle toward your hip, keeping your elbow close to your side.
+5. Straighten your arm slowly. Do all your reps on one side, then switch.
 
 ## Pro tips
 

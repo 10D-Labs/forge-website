@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The barbell bench squat is a compound lower body exercise that primarily targets the quadriceps, while also engaging the glutes, hamstrings, and calves. It involves squatting with a barbell, requiring good technique and strength. Intermediate legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves.
+A back squat where you lower until you touch a bench behind you, so each rep reaches the same depth. It works the quads, with help from the glutes and hamstrings. Intermediate legs exercise using barbell. Targets quads, also works glutes, hamstrings, calves.
 
 - **Body Part:** Legs
 - **Equipment:** Barbell
@@ -15,14 +15,11 @@ The barbell bench squat is a compound lower body exercise that primarily targets
 
 ## How to perform
 
-1. Set up a barbell on a squat rack at chest height.
-2. Stand facing away from the rack, with your feet shoulder-width apart.
-3. Bend your knees and lower your body down into a squat position, keeping your back straight and chest up.
-4. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.
-5. Lift the barbell off the rack and step back, ensuring your feet are still shoulder-width apart.
-6. Lower your body down into a squat, keeping your knees in line with your toes.
-7. Pause for a moment at the bottom, then push through your heels to return to the starting position.
-8. Repeat for the desired number of repetitions.
+1. Set a barbell in a squat rack at chest height, and place a flat bench behind where you'll stand.
+2. Get under the bar so it rests across your upper back. Grip it with your palms facing forward, hands slightly wider than shoulder-width.
+3. Lift the bar off the rack and step back until the bench is just behind you, feet shoulder-width apart.
+4. Bend your knees and hips to squat down until you touch the bench. Keep your knees in line with your toes.
+5. Push through your heels to stand back up.
 
 ## Pro tips
 

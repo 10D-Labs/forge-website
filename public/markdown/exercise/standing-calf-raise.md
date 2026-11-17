@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The standing calf raise is a strength exercise performed on a machine, targeting the calves. It involves raising and lowering the heels while standing, using resistance provided by the machine. Beginner legs exercise using machine. Targets calves, also works soleus, ankle stabilizers.
+A calf raise on a standing machine, with pads on your shoulders adding weight as you lift your heels. It works the calves. Beginner legs exercise using machine. Targets calves, also works soleus, ankle stabilizers.
 
 - **Body Part:** Legs
 - **Equipment:** Machine
@@ -15,11 +15,9 @@ The standing calf raise is a strength exercise performed on a machine, targeting
 
 ## How to perform
 
-1. Adjust the machine to your height and stand with your feet shoulder-width apart.
-2. Place your shoulders under the pads and hold onto the handles for stability.
-3. Raise your heels as high as possible by extending your ankles.
-4. Pause for a moment at the top, then slowly lower your heels back down to the starting position.
-5. Repeat for the desired number of repetitions.
+1. Adjust the machine to your height. Stand with your shoulders under the pads and your feet shoulder-width apart, and hold the handles.
+2. Raise your heels as high as you can, pushing up onto the balls of your feet.
+3. Lower your heels slowly back down.
 
 ## Pro tips
 

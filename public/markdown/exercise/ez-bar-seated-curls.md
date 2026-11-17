@@ -2,7 +2,7 @@
 
 ## Quick answer
 
-The EZ bar seated curl is an isolation exercise targeting the bicep, performed while seated to minimize body movement and focus on the arms. It uses an EZ bar, which is easier on the wrists than a straight bar. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
+A biceps curl with an EZ bar, done sitting upright on a bench. It works the biceps, with help from the forearms. Beginner arms exercise using ez bar. Targets biceps, also works forearms.
 
 - **Body Part:** Arms
 - **Equipment:** EZ Bar
@@ -15,13 +15,9 @@ The EZ bar seated curl is an isolation exercise targeting the bicep, performed w
 
 ## How to perform
 
-1. Sit on a bench with your feet flat on the ground and your back straight.
-2. Hold the ez barbell with an underhand grip, palms facing up, and your hands shoulder-width apart.
-3. Rest your upper arms on your thighs, allowing the ez barbell to hang down in front of you.
-4. Keeping your upper arms stationary, exhale and curl the ez barbell upwards towards your shoulders.
-5. Pause for a moment at the top, squeezing your biceps.
-6. Inhale and slowly lower the ez barbell back to the starting position.
-7. Repeat for the desired number of repetitions.
+1. Sit upright on a flat bench, feet flat. Hold an EZ bar on its angled grips, hands shoulder-width apart, palms facing up, arms straight.
+2. Keep your elbows at your sides and curl the bar up toward your shoulders.
+3. Lower the bar slowly until your arms are straight.
 
 ## Pro tips
 
