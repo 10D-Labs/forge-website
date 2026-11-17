@@ -1,5 +1,5 @@
 # PRIVACY POLICY
-Last updated November 15, 2026
+Last updated November 17, 2026
 
 This Privacy Notice for 10D Labs LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice
@@ -19,6 +19,8 @@ This summary provides key points from our Privacy Notice, but you can find out m
 **Do we use artificial intelligence?** Yes. Our Services are powered by AI that generates personalized workout plans, provides coaching responses, analyzes your progress, and builds a coaching profile to improve your experience over time. Your data is processed by third-party AI service providers to deliver these features. Learn more about how we use AI to process your information.
 
 **Do we use your location or calendar?** Only if you allow it. If you tap "Find gyms near me," the App sends your device's location to Google to find gyms near you, and we do not store it. If you record an outdoor run, the App tracks your location from the start of the run to the end and saves your route to your account. If you allow calendar access, the App adds your planned workouts to your device's calendar. It does not read your other events. Learn more about device location and calendar.
+
+**Do we use Apple Health?** Only on iPhone, and only if you turn it on. If you do, the App can save your finished workouts and the body weights you log to Apple Health, and read your body weight and workout heart rate from it. Only body weight is stored in your account. We never use Apple Health data for advertising or marketing. Learn more about Apple Health.
 
 **Do we receive any information from third parties?** We may receive limited information from third-party services you use to interact with us. For example, if you sign in using a third-party authentication provider (such as Google Sign-In), we receive your name, email address, and profile picture from that provider. We may also receive subscription status information from payment and subscription management services to verify your access to premium features.
 
@@ -107,12 +109,31 @@ This information is generated automatically by our AI systems based on your use 
 
 **Calendar.** If you allow it, the App adds your planned workouts to your device's calendar with an alert before each one, and updates or removes the events it created when your plan changes. On iOS this needs full calendar access, because the App has to find its own events again to update them. The App does not read, upload, or store your other calendar events. Events the App has added stay in your calendar until you delete them, including after your trial or subscription ends. You can turn off calendar access at any time in your device settings.
 
+### Apple Health (iPhone)
+
+*In Short: If you turn it on, the App saves your workouts and logged body weight to Apple Health and reads your body weight and workout heart rate. Only body weight leaves your phone. We never use Apple Health data for advertising.*
+
+**Turning it on.** If you use the App on an iPhone, you can turn on Apple Health in the App's settings. iOS then asks which data the App may use, and you can allow or deny each type. Nothing moves between the App and Apple Health until you turn it on.
+
+**What the App saves to Apple Health.** With your permission, the App saves each workout you finish (as strength training, with its start and end time) and the body weights you log in the App. It does not save calories or other workout details.
+
+**What the App reads from Apple Health.** With your permission, the App reads:
+- **Body weight,** for example from a smart scale or another app. We add these readings to the weight log in your account, the same as a weight you enter yourself. Your AI trainer uses your weight log, so these readings are processed by our AI service providers like your other weights.
+- **Heart rate during a workout,** to show your average heart rate when you finish. It stays on your phone: we do not store it or send it to our servers or anyone else.
+
+The App does not read any other Apple Health data, such as steps, sleep, calories, workouts from other apps, or medical records.
+
+**How we use and protect it.** We do not use Apple Health data for advertising, marketing, or data mining, and we do not sell it or send it to our analytics or advertising providers. Our analytics record only whether you allowed the App to save workouts and weight, that a workout was saved, and how many weights were imported, never the values.
+
+**Turning it off.** You can turn off Apple Health in the App's settings or change the App's permissions in the Health app at any time. This stops new data moving between the App and Apple Health. Workouts and weights the App already saved to Apple Health stay there until you delete them in the Health app. Weights already imported stay in your weight log until you delete them in the App or delete your account.
+
 ### Information received from third parties
 
 *In Short: We may receive limited information from third-party services you use to interact with us.*
 
 We may receive personal information about you from third parties, including:
 - **Authentication providers:** If you create an account or sign in using a third-party service (such as Google Sign-In), we receive your name, email address, and profile picture from that provider.
+- **Apple Health:** If you turn it on, body weight readings from Apple Health, as described in "Apple Health (iPhone)" above.
 - **Subscription management services:** We receive information about your subscription status, billing period, and entitlement from subscription management providers to verify your access to premium features.
 
 ### Information automatically collected
@@ -145,6 +166,7 @@ We process your personal information for a variety of reasons, depending on how 
 - **To analyze your progress and provide insights.** We process your workout logs, performance data, and historical trends to detect patterns, identify plateaus, track achievements, and generate progress reports.
 - **To maintain AI coaching context.** We process your conversations, preferences, and training history to build and maintain a coaching profile so your AI trainer can remember your context and provide consistent, personalized guidance across sessions.
 - **To help you find a gym and plan your workouts.** If you choose, we use your device's location or a ZIP code to find gyms near you, save the gym you pick, open directions to it in a maps app on your phone, and add your planned workouts to your device's calendar.
+- **To connect with Apple Health.** If you turn it on, we add body weights from Apple Health to your weight log and use them in your coaching like weights you enter, and the App saves your finished workouts and logged weights to Apple Health.
 - **To track your outdoor runs.** If you record a run, we use your device's location during the run to measure distance and pace, draw your route, and save the run to your workout history.
 - **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
 - **To manage subscriptions and AI usage.** We process information about your subscription status and track your AI feature usage to manage access to Services features and enforce usage limits.
@@ -180,7 +202,7 @@ We run scheduled automated processes to maintain and improve the quality of your
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
 - **Performance of a Contract.** We process your personal information to provide the AI fitness coaching Services you have subscribed to, including generating workout plans, providing coaching responses, maintaining your coaching profile, and tracking your progress. This processing is necessary to deliver the Services under our agreement with you.
-- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. In particular, we rely on your explicit consent to process health-related and sensitive fitness data, and on the permissions you grant on your device to use your location for gym search and run tracking and to add workouts to your calendar. You can withdraw your consent at any time. Learn more about withdrawing your consent.
+- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. In particular, we rely on your explicit consent to process health-related and sensitive fitness data, and on the permissions you grant on your device to use your location for gym search and run tracking, to add workouts to your calendar, and to connect with Apple Health. You can withdraw your consent at any time. Learn more about withdrawing your consent.
 - **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
   - Send users information about special offers and discounts on our products and services
   - Understand how our users use our products and services so we can improve user experience
@@ -230,6 +252,8 @@ We may need to share your personal information in the following situations:
 - **Advertising and attribution providers** that help us measure the effectiveness of our advertising campaigns. We use the Meta (Facebook) SDK, which collects your device's advertising identifier, app install and launch events, in-app purchase events, device information, and approximate location (the city or region derived from your IP address). This data is shared with Meta to attribute app installs to ad campaigns, measure ad performance, and create targeted audiences. Meta may use this data in accordance with its own data policy. You can limit ad tracking through your device settings (such as "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
 
 These service providers have access to your personal information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose, except for advertising and attribution providers which may use data as described in their own privacy policies. We do not sell your personal information to any third party.
+
+**Apple Health Data.** We do not share Apple Health data with advertising or analytics providers or use it for advertising, marketing, or data mining. Body weights imported from Apple Health are processed only by the providers that store your account and deliver your coaching (cloud infrastructure, database, and AI service providers), like weights you enter yourself.
 
 **AI Service Provider Data Practices.** When your data is processed by third-party AI service providers to deliver our coaching features, it is subject to those providers' data handling practices. We select providers whose terms prohibit the use of customer data for training their AI models. We do not train our own AI models on your personal data, and we do not intentionally provide your data to any third party for the purpose of training general-purpose AI models.
 
@@ -339,7 +363,7 @@ The table below shows the categories of personal information we have collected i
 | I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
 | J. Education Information | Student records and directory information | NO |
 | K. Inferences drawn from collected personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences, characteristics, fitness patterns, and coaching needs. This includes AI-generated coaching profiles, progress analysis, and behavioral insights. | YES |
-| L. Sensitive personal Information | Health-related information including injuries, physical limitations, body measurements, fitness data, and biological sex; precise geolocation from outdoor runs you record | YES |
+| L. Sensitive personal Information | Health-related information including injuries, physical limitations, body measurements, fitness data, and biological sex, including body weight imported from Apple Health if you turn it on; precise geolocation from outdoor runs you record | YES |
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 - Receiving help through our customer support channels;
@@ -432,6 +456,8 @@ Based on the applicable laws of your country or state of residence in the US, yo
 **Reviewing and exporting your data:** The App provides a data export feature that allows you to download a copy of your personal information. You may also request a copy by emailing us at support@forgetrainer.ai.
 
 **Updating your data:** You can update your profile information, body measurements, training preferences, and other account details at any time through the App settings.
+
+**Apple Health:** Body weights imported from Apple Health are part of your weight log. You can delete them in the App, and they are deleted with your account. Workouts and weights the App saved to Apple Health are kept by Apple Health, not by us; you can delete them in the Health app.
 
 **Deleting your data:** You can delete your account and associated data at any time through the App settings, or by emailing us at support@forgetrainer.ai. For full details on how to delete your account and what data is affected, please visit https://forgetrainer.ai/delete-account.
 
