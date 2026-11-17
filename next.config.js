@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs";
 
-// Old exercise and comparison URLs from the exercise catalog cleanup (renamed or retired exercises).
+// Old exercise and comparison URLs from the exercise catalog cleanup. "kind" groups them:
+// renamed, retired-duplicate (to the exercise kept), retired-no-replacement (to /exercises), compare.
 const exerciseRedirects = JSON.parse(readFileSync(new URL("./src/data/exercise-redirects.json", import.meta.url), "utf8"));
 
 /** @type {import('next').NextConfig} */
@@ -24,7 +25,7 @@ const nextConfig = {
   async redirects() {
     return [
       { source: "/markdown/about.md", destination: "/markdown/home.md", permanent: true },
-      ...exerciseRedirects.map((r) => ({ ...r, permanent: true })),
+      ...exerciseRedirects.map(({ source, destination }) => ({ source, destination, permanent: true })),
     ];
   },
 };
