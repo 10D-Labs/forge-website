@@ -115,7 +115,7 @@ This information is generated automatically by our AI systems based on your use 
 
 **Turning it on.** If you use the App on an iPhone, you can turn on Apple Health in the App's settings. iOS then asks which data the App may use, and you can allow or deny each type. Nothing moves between the App and Apple Health until you turn it on.
 
-**What the App saves to Apple Health.** With your permission, the App saves each workout you finish (as strength training, with its start and end time) and the body weights you log in the App. It does not save calories or other workout details.
+**What the App saves to Apple Health.** With your permission, the App saves each workout you finish (its workout type and start and end time) and the body weights you log in the App. It does not save calories or other workout details.
 
 **What the App reads from Apple Health.** With your permission, the App reads:
 - **Body weight,** for example from a smart scale or another app. We add these readings to the weight log in your account, the same as a weight you enter yourself. Your AI trainer uses your weight log, so these readings are processed by our AI service providers like your other weights.
@@ -123,9 +123,9 @@ This information is generated automatically by our AI systems based on your use 
 
 The App does not read any other Apple Health data, such as steps, sleep, calories, workouts from other apps, or medical records.
 
-**How we use and protect it.** We do not use Apple Health data for advertising, marketing, or data mining, and we do not sell it or send it to our analytics or advertising providers. Our analytics record only whether you allowed the App to save workouts and weight, that a workout was saved, and how many weights were imported, never the values.
+**How we use and protect it.** We do not use Apple Health data for advertising, marketing, or data mining, and we do not sell it or send it to our analytics or advertising providers. No Apple Health data, such as your weights, heart rate, or workouts, goes to analytics. Our analytics record only that you turned the feature on or off, which permissions you allowed, that a workout was saved, and how many weights were imported.
 
-**Turning it off.** You can turn off Apple Health in the App's settings or change the App's permissions in the Health app at any time. This stops new data moving between the App and Apple Health. Workouts and weights the App already saved to Apple Health stay there until you delete them in the Health app. Weights already imported stay in your weight log until you delete them in the App or delete your account.
+**Turning it off.** You can turn off Apple Health in the App's settings or change the App's permissions in the Health app at any time. This stops new data moving between the App and Apple Health. Workouts and weights the App already saved to Apple Health stay there until you delete them in the Health app. Weights already imported stay in your weight log, where you can delete them in the App.
 
 ### Information received from third parties
 
@@ -457,7 +457,7 @@ Based on the applicable laws of your country or state of residence in the US, yo
 
 **Updating your data:** You can update your profile information, body measurements, training preferences, and other account details at any time through the App settings.
 
-**Apple Health:** Body weights imported from Apple Health are part of your weight log. You can delete them in the App, and they are deleted with your account. Workouts and weights the App saved to Apple Health are kept by Apple Health, not by us; you can delete them in the Health app.
+**Apple Health:** Body weights imported from Apple Health are part of your weight log, and you can delete them in the App. Workouts and weights the App saved to Apple Health are kept by Apple Health, not by us; you can delete them in the Health app.
 
 **Deleting your data:** You can delete your account and associated data at any time through the App settings, or by emailing us at support@forgetrainer.ai. For full details on how to delete your account and what data is affected, please visit https://forgetrainer.ai/delete-account.
 
