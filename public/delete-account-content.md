@@ -48,7 +48,6 @@ When you delete your account, the following data is permanently removed:
 - Workout plans and training programs
 - AI conversation history and chat messages
 - AI coaching profiles, memories, and knowledge graph data
-- Personal records
 - Profile picture and any submitted feedback screenshots
 - Training preferences and goals
 - Saved gyms and other training locations
@@ -60,7 +59,7 @@ When you delete your account, the following data is permanently removed:
 
 Some data is retained for legal, compliance, or technical reasons:
 
-- **Anonymized workout and usage data**: Workout session records and AI usage logs are anonymized (your user identifier is removed) and may be retained for product analytics and service improvement. This data cannot be linked back to you.
+- **Anonymized workout and usage data**: Workout session records, personal records, and AI usage logs are anonymized (your user identifier is removed) and may be retained for product analytics and service improvement. This data cannot be linked back to you.
 - **Third-party service records**: Some data already transmitted to third-party service providers (such as subscription management and analytics providers) may persist in those systems according to their own retention policies. We make reasonable efforts to propagate deletion requests where technically feasible.
 - **Purchase records**: Apple and Google retain transaction history for tax and refund purposes. We cannot delete this data — contact [Apple](https://support.apple.com) or [Google Play](https://support.google.com/googleplay) directly.
 

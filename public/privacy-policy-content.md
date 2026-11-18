@@ -14,19 +14,19 @@ This summary provides key points from our Privacy Notice, but you can find out m
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
 
-**Do we process any sensitive personal information?** We collect health and fitness-related information (such as injuries, physical limitations, and body measurements) to provide personalized fitness training. Our AI systems also generate profiles and insights about your fitness patterns based on your interactions. Some of this information may be considered "special" or "sensitive" in certain jurisdictions. We process this information only to deliver our fitness training Services and treat it with additional care.
+**Do we process any sensitive personal information?** We collect health and fitness-related information (such as injuries, physical limitations, and body measurements, and, if you connect Apple Health, sleep and heart rate) to provide personalized fitness training. Our AI systems also generate profiles and insights about your fitness patterns based on your interactions. Some of this information may be considered "special" or "sensitive" in certain jurisdictions. We process this information only to deliver our fitness training Services and treat it with additional care.
 
 **Do we use artificial intelligence?** Yes. Our Services are powered by AI that generates personalized workout plans, provides coaching responses, analyzes your progress, and builds a coaching profile to improve your experience over time. Your data is processed by third-party AI service providers to deliver these features. Learn more about how we use AI to process your information.
 
 **Do we use your location or calendar?** Only if you allow it. If you tap "Find gyms near me," the App sends your device's location to Google to find gyms near you, and we do not store it. If you record an outdoor run, the App tracks your location from the start of the run to the end and saves your route to your account. If you allow calendar access, the App adds your planned workouts to your device's calendar. It does not read your other events. Learn more about device location and calendar.
 
-**Do we use Apple Health?** Only on iPhone, and only if you turn it on. If you do, the App can save your finished workouts and the body weights you log to Apple Health, and read your body measurements, daily steps, sleep, heart rate, and workouts from other apps from it and store them in your account. We never use Apple Health data for advertising or marketing. Learn more about Apple Health.
+**Do we use Apple Health?** Only on iPhone, and only if you turn it on. If you do, the App can save your finished workouts and the body weights you log to Apple Health, and read your body measurements, daily steps, sleep, heart rate, and workouts saved by other apps, which we store in your account. We never use Apple Health data for advertising or marketing. Learn more about Apple Health.
 
 **Do we receive any information from third parties?** We may receive limited information from third-party services you use to interact with us. For example, if you sign in using a third-party authentication provider (such as Google Sign-In), we receive your name, email address, and profile picture from that provider. We may also receive subscription status information from payment and subscription management services to verify your access to premium features.
 
 **How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific categories of third parties, including AI service providers, analytics providers, advertising and attribution providers (such as Meta), mapping providers (Google Maps Platform), and infrastructure providers. Learn more about when and with whom we share your personal information.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific categories of third parties, including AI service providers, analytics providers, advertising and attribution providers (such as Meta), mapping providers (Google Maps Platform and Mapbox), and infrastructure providers. Learn more about when and with whom we share your personal information.
 
 **How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
 
@@ -111,7 +111,7 @@ This information is generated automatically by our AI systems based on your use 
 
 ### Apple Health (iPhone)
 
-*In Short: If you turn it on, the App saves your workouts and logged body weight to Apple Health and reads your body measurements, daily steps, sleep, heart rate, and workouts from other apps, and stores them in your account. We never use Apple Health data for advertising.*
+*In Short: If you turn it on, the App saves your workouts and logged body weight to Apple Health and reads your body measurements, daily steps, sleep, heart rate, and workouts saved by other apps, which we store in your account. We never use Apple Health data for advertising.*
 
 **Turning it on.** If you use the App on an iPhone, you can turn on Apple Health in the App's settings. iOS then asks which data the App may use, and you can allow or deny each type. Nothing moves between the App and Apple Health until you turn it on.
 
@@ -137,7 +137,7 @@ The App does not read any other Apple Health data, such as calories, workout rou
 
 We may receive personal information about you from third parties, including:
 - **Authentication providers:** If you create an account or sign in using a third-party service (such as Google Sign-In), we receive your name, email address, and profile picture from that provider.
-- **Apple Health:** If you turn it on, body weight, body fat percentage, lean body mass, daily step counts, sleep, resting heart rate, workout heart rate, and workouts from other apps from Apple Health, as described in "Apple Health (iPhone)" above.
+- **Apple Health:** If you turn it on, the health and fitness data described in "Apple Health (iPhone)" above.
 - **Subscription management services:** We receive information about your subscription status, billing period, and entitlement from subscription management providers to verify your access to premium features.
 
 ### Information automatically collected
@@ -170,7 +170,7 @@ We process your personal information for a variety of reasons, depending on how 
 - **To analyze your progress and provide insights.** We process your workout logs, performance data, and historical trends to detect patterns, identify plateaus, track achievements, and generate progress reports.
 - **To maintain AI coaching context.** We process your conversations, preferences, and training history to build and maintain a coaching profile so your AI trainer can remember your context and provide consistent, personalized guidance across sessions.
 - **To help you find a gym and plan your workouts.** If you choose, we use your device's location or a ZIP code to find gyms near you, save the gym you pick, open directions to it in a maps app on your phone, and add your planned workouts to your device's calendar.
-- **To connect with Apple Health.** If you turn it on, we add body weight, body fat percentage, lean body mass, daily step counts, sleep, resting heart rate, workout heart rate, and workouts from other apps from Apple Health to your account and use them in your coaching, and the App saves your finished workouts and logged weights to Apple Health.
+- **To connect with Apple Health.** If you turn it on, we add the Apple Health data described in "Apple Health (iPhone)" to your account and use it in your coaching, and the App saves your finished workouts and logged weights to Apple Health.
 - **To track your outdoor runs.** If you record a run, we use your device's location during the run to measure distance and pace, draw your route, and save the run to your workout history.
 - **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
 - **To manage subscriptions and AI usage.** We process information about your subscription status and track your AI feature usage to manage access to Services features and enforce usage limits.
@@ -471,14 +471,13 @@ Based on the applicable laws of your country or state of residence in the US, yo
 - Workout plans and training programs
 - AI conversation history and chat messages
 - AI coaching profiles, memories, and knowledge graph data
-- Personal records
 - Profile picture and any submitted feedback screenshots
 - Training preferences and goals
 - Saved gyms and other training locations
 - Run routes and run data
 
 **What may be retained after account deletion:**
-- **Anonymized workout and usage data:** Workout session records and AI usage logs are anonymized (your user identifier is removed) and may be retained for product analytics and service improvement. This data cannot be linked back to you.
+- **Anonymized workout and usage data:** Workout session records, personal records, and AI usage logs are anonymized (your user identifier is removed) and may be retained for product analytics and service improvement. This data cannot be linked back to you.
 - **Third-party service records:** Some data that has already been transmitted to third-party service providers (such as subscription management services and analytics providers) may persist in those systems according to their own retention policies. We make reasonable efforts to propagate deletion requests to our service providers where technically feasible.
 - **Purchase records:** Apple and Google retain transaction history for tax and refund purposes. We cannot delete this data. Contact Apple or Google directly regarding their records.
 
