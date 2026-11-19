@@ -1,5 +1,5 @@
 # PRIVACY POLICY
-Last updated November 17, 2026
+Last updated November 19, 2026
 
 This Privacy Notice for 10D Labs LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 - Visit our website at https://forgetrainer.ai or any website of ours that links to this Privacy Notice
@@ -18,7 +18,7 @@ This summary provides key points from our Privacy Notice, but you can find out m
 
 **Do we use artificial intelligence?** Yes. Our Services are powered by AI that generates personalized workout plans, provides coaching responses, analyzes your progress, and builds a coaching profile to improve your experience over time. Your data is processed by third-party AI service providers to deliver these features. Learn more about how we use AI to process your information.
 
-**Do we use your location or calendar?** Only if you allow it. If you tap "Find gyms near me," the App sends your device's location to Google to find gyms near you, and we do not store it. If you record an outdoor run, the App tracks your location from the start of the run to the end and saves your route to your account. If you allow calendar access, the App adds your planned workouts to your device's calendar. It does not read your other events. Learn more about device location and calendar.
+**Do we use your location or calendar?** Only if you allow it. If you tap "Find gyms near me," the App sends your device's location through our servers to Google to find gyms near you, and we do not store it. If you record an outdoor run, the App tracks your location from the start of the run to the end and saves your route to your account. If you allow calendar access, the App adds your planned workouts to your device's calendar. It does not read your other events. Learn more about device location and calendar.
 
 **Do we use Apple Health?** Only on iPhone, and only if you turn it on. If you do, the App can save your finished workouts and the body weights you log to Apple Health, and read your body measurements, daily steps, sleep, heart rate, and workouts saved by other apps, which we store in your account. We never use Apple Health data for advertising or marketing. Learn more about Apple Health.
 
@@ -101,7 +101,7 @@ This information is generated automatically by our AI systems based on your use 
 
 *In Short: The App uses your location only when you ask it to find gyms near you or while you record a run, and adds your workouts to your calendar only if you allow it. We store the routes of runs you record, but not the location used for gym search. We do not read your other calendar events.*
 
-**Location for gym search.** If you tap "Find gyms near me," the App asks for permission to use your device's location while you are using the App. The App sends your location (approximate or precise, depending on what you allow) to Google Maps Platform to find gyms near you, and shows the results on a Google map in the App. We do not store your location, and we do not send it to our analytics providers. If you decline, you can type a ZIP code instead. The App sends the ZIP code to Google for the same search, and we do not store it. You can turn off location access at any time in your device settings.
+**Location for gym search.** If you tap "Find gyms near me," the App asks for permission to use your device's location while you are using the App. The App sends your location (approximate or precise, depending on what you allow) through our servers to Google Maps Platform to find gyms near you, and shows the results on a Google map in the App. Our servers pass your location to Google and do not store or log it, and we do not send it to our analytics providers. If you decline, you can type a ZIP code instead, and the App sends it the same way. When you search for a gym by name, the name goes the same way. To keep one person from using up gym search for everyone, our servers count how many searches each account and each network make, using a scrambled code in place of your IP address, and delete those counts after two days. You can turn off location access at any time in your device settings.
 
 **Your saved gym.** When you pick a gym, we save it to your account as a training location: Google's identifier for the place (its "place ID") and a name for the gym, which you can change. We do not save the gym's address or your location. When you tap the map pin for directions, the App shows the maps apps on your phone. Google Maps opens with the gym's name and place ID. Apple Maps and Waze open a search for the gym's name, and you pick the right result. The maps app you choose handles your directions, including your own location, under its own permissions and privacy policy.
 
@@ -249,7 +249,7 @@ We may need to share your personal information in the following situations:
 - **Paywall and feature management providers** that manage access to premium features based on your subscription status
 - **Cloud infrastructure and database providers** that host, store, and process your data securely, including your account information, workout data, AI coaching profiles, and conversation history
 - **Authentication providers** that facilitate account creation and login, including third-party sign-in services
-- **Mapping and place search providers.** We use Google Maps Platform to find gyms near you and show them on a map. Google receives your device's location or the ZIP code you enter and any gym name you search for, along with standard technical information such as your IP address. Your use of Google Maps features in the App is subject to the [Google Privacy Policy](https://policies.google.com/privacy).
+- **Mapping and place search providers.** We use Google Maps Platform to find gyms near you and show them on a map. Gym searches go from the App through our servers to Google, so Google receives your device's location or the ZIP code you enter and any gym name you search for. The map in the App connects to Google directly and sends standard technical information such as your IP address. Your use of Google Maps features in the App is subject to the [Google Privacy Policy](https://policies.google.com/privacy).
 - **Map display providers.** We use Mapbox to show maps while you record a run. Mapbox receives requests for the map area on screen, which shows your approximate location during the run, and your IP address. We turn off Mapbox's telemetry, and we never send your saved routes to Mapbox. Mapbox processes this data under the [Mapbox Privacy Policy](https://www.mapbox.com/legal/privacy).
 - **Push notification services** that deliver workout reminders and other notifications to your device
 - **App update and distribution services** that deliver software updates to the App on your device
@@ -275,7 +275,7 @@ We will only keep your personal information for as long as it is necessary for t
 
 **AI-derived data retention:** Coaching memories and profile information generated by our AI systems are maintained while your account is active. Certain low-relevance AI observations may be archived (excluded from active use but not deleted) after approximately 90 days. Outdated injury and health context records may be periodically removed as part of routine maintenance.
 
-**Location and ZIP codes:** We do not store the location or ZIP code used to search for gyms. Google handles them under its own privacy policy.
+**Location and ZIP codes:** We do not store the location, ZIP code, or gym name used to search for gyms; our servers pass them to Google without storing or logging them. Google handles them under its own privacy policy. The count of gym searches each account and network makes, kept to limit searches, is deleted after two days.
 
 **Saved gyms:** A saved gym stays in your account until you remove that training location or delete your account.
 
