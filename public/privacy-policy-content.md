@@ -138,6 +138,7 @@ The App does not read any other Apple Health data, such as calories, workout rou
 We may receive personal information about you from third parties, including:
 - **Authentication providers:** If you create an account or sign in using a third-party service (such as Google Sign-In), we receive your name, email address, and profile picture from that provider.
 - **Apple Health:** If you turn it on, the health and fitness data described in "Apple Health (iPhone)" above.
+- **App stores (age range):** Where the law requires app stores to share it (for example, California and Brazil), your age range from Apple or Google Play, as described in "Do We Collect Information from Minors?" below.
 - **Subscription management services:** We receive information about your subscription status, billing period, and entitlement from subscription management providers to verify your access to premium features.
 
 ### Information automatically collected
@@ -304,7 +305,11 @@ However, despite our safeguards and efforts to secure your information, no elect
 
 *In Short: We do not knowingly collect data from or market to anyone under 18 years of age.*
 
-The Services are intended for users who are at least 18 years of age. We do not knowingly collect, solicit data from, or market to anyone under 18, nor do we knowingly sell such personal information. The App verifies your date of birth during account setup and will not permit users under 18 to create an account. If we learn that personal information from anyone under the age of 18 has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from anyone under age 18, please contact us at support@forgetrainer.ai.
+The Services are intended for users who are at least 18 years of age. We do not knowingly collect, solicit data from, or market to anyone under 18, nor do we knowingly sell such personal information. The App verifies your date of birth during account setup and will not permit users under 18 to create an account.
+
+Where the law requires app stores to share a user's age range (for example, California and Brazil), the App also asks Apple or Google Play for your age range after you sign in. If the app store reports that you are under 18, the App signs you out and will not let anyone use Forge on that installation. The age range stays on your device: we do not send it to our servers, and we do not share it with analytics, advertising or any other third party. The App keeps only the result of the check (adult, under 18, or unknown) on your device, so it does not ask again.
+
+If we learn that personal information from anyone under the age of 18 has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from anyone under age 18, please contact us at support@forgetrainer.ai.
 
 ## 8. WHAT ARE YOUR PRIVACY RIGHTS?
 
